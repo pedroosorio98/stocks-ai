@@ -1,0 +1,1 @@
+{ "label": "Presentations and Spreadsheets", "original_url": "https://ri.btgpactual.com/en/main-information/presentations-and-spreadsheets/", "final_url": "https://ri.btgpactual.com/en/main-information/presentations-and-spreadsheets/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

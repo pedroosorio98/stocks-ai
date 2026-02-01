@@ -1,0 +1,1 @@
+{ "label": "Watch", "original_url": "https://events-delivery.apple.com/2409nbcxymeynatwojbbrjuhryomtudb/m3u8/vod_index-oXZvssLWyjfQDEQuVuCBHPWDywaNEipk.m3u8", "final_url": "https://events-delivery.apple.com/2409nbcxymeynatwojbbrjuhryomtudb/m3u8/vod_index-oXZvssLWyjfQDEQuVuCBHPWDywaNEipk.m3u8", "content_type": "application/vnd.apple.mpegurl", "blocked_detected": false }

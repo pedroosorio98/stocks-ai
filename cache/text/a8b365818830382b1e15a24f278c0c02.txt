@@ -1,0 +1,1 @@
+{ "label": "DOWNLOAD NOW", "original_url": "https://www.microsoft.com/investor/reports/ar15/download-center/", "final_url": "https://www.microsoft.com/investor/reports/ar15/download-center/", "content_type": "text/html", "blocked_detected": false }

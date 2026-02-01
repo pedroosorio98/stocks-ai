@@ -1,0 +1,1 @@
+{ "label": "SEC Santander", "original_url": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=bsbr&owner=exclude&action=getcompany&Find=Search", "final_url": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=bsbr&owner=exclude&action=getcompany&Find=Search", "content_type": "text/html", "blocked_detected": false }

@@ -1,0 +1,1 @@
+{ "label": "mziqcalendar.pastevents.js", "original_url": "https://cdn-sites-assets.mziq.com/wp-content/themes/mziq_ambev_ri/js/mziqcalendar.pastevents.js", "final_url": "https://cdn-sites-assets.mziq.com/wp-content/themes/mziq_ambev_ri/js/mziqcalendar.pastevents.js", "content_type": "application/javascript", "blocked_detected": false }

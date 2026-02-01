@@ -1,0 +1,1 @@
+{ "label": "Segment Performance", "original_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/productivity-and-business-processes-performance", "final_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/productivity-and-business-processes-performance", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

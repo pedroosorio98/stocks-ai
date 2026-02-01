@@ -1,0 +1,1 @@
+{ "label": "HTML (opens in new window)", "original_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000062/goog-20250630.htm", "final_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000062/goog-20250630.htm", "content_type": "text/html", "blocked_detected": false }

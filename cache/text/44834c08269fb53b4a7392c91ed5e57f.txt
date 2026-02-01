@@ -1,0 +1,1 @@
+{ "label": "Search the Next-Generation EDGAR System", "original_url": "https://www.sec.gov/edgar/searchedgar/webusers.htm", "final_url": "https://www.sec.gov/search-filings", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

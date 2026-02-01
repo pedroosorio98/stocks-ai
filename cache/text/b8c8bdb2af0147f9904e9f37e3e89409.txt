@@ -1,0 +1,1 @@
+{ "label": "Financial Information", "original_url": "https://ri.btgpactual.com/en/main-information/financial-information/", "final_url": "https://ri.btgpactual.com/en/main-information/financial-information/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

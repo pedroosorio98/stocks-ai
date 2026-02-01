@@ -1,0 +1,1 @@
+{ "label": "Outros Documentos CVM", "original_url": "https://ri.weg.net/publicacoes-e-comunicados/outros-documentos-cvm/", "final_url": "https://ri.weg.net/publicacoes-e-comunicados/outros-documentos-cvm/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

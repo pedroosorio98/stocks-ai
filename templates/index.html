@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Project Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.9.0/plotly.min.js"></script>
+</head>
+<body>
+    <header class="top-header">
+        <div class="header-content">
+
+            <div class="brand">
+                <img src="static/logo/stocks_ai_logo.png" alt="Osorio logo" class="brand-logo">
+                <h1>Osorio Stocks Research</h1>                 
+            </div>
+
+            <nav class="top-nav">
+                <button class="nav-btn active" onclick="showSection('aiPrompt')" id="btn-aiPrompt">
+                    <span class="icon"></span> Companies Prompt
+                </button>
+                <button class="nav-btn" onclick="showSection('aiReportGenerator')" id="btn-aiReportGenerator">
+                    <span class="icon"></span> Reports Generator
+                </button>
+                <button class="nav-btn" onclick="showSection('aiCharting')" id="btn-aiCharting">
+                    <span class="icon"></span> Charting Tool
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <!-- AI Prompt Section -->
+        <section id="aiPrompt" class="section active">
+            <div class="section-header">
+                <h2>Companies Prompt</h2>
+                <p class="subtitle">Ask questions about companies. RAG-powered AI combining internal data (SEC, Investor Relations, Alpha Vantage, Yahoo) + web data (Exa, OpenAI).</p>
+            </div>
+            
+            <div class="prompt-container">
+                <div class="input-group">
+                    <textarea 
+                        id="promptInput" 
+                        placeholder="Ask me anything about companies...&#10;Examples:&#10;• What is NVIDIA's business model?&#10;• Compare AAPL and GOOGL gross margins&#10;• Quanto recebem os executivos da Petrobras?"
+                        rows="5"
+                    ></textarea>
+                    
+                    <div class="controls">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="useWebSearch" checked>
+                            <span>Include web search</span>
+                        </label>
+                        <button class="primary-btn" onclick="submitPrompt()">
+                            <span class="btn-icon"></span> Submit Query
+                        </button>
+                    </div>
+                </div>
+                
+                <div id="promptResponse" class="response-container"></div>
+            </div>
+        </section>
+
+        <!-- AI Report Generator Section -->
+        <section id="aiReportGenerator" class="section">
+            <div class="section-header">
+                <h2>Reports Generator</h2>
+                <p class="subtitle">Generate comprehensive analysis reports for any company. Powered by internal data (SEC, Investor Relations, Alpha Vantage, Yahoo) + web data (Exa, OpenAI)</p>
+            </div>
+            
+            <div class="report-container">
+                <div class="input-group">
+                    <label for="companySelect">Select a Company:</label>
+                    <select id="companySelect" class="company-select" size="10">
+                        <optgroup label="US Companies">
+                            <option value="NVIDIA">NVIDIA (NVDA)</option>
+                            <option value="Microsoft">Microsoft (MSFT)</option>
+                            <option value="Apple">Apple (AAPL)</option>
+                            <option value="Alphabet">Alphabet (GOOGL)</option>
+                            <option value="Amazon">Amazon (AMZN)</option>
+                            <option value="Meta Platforms">Meta Platforms (META)</option>
+                            <option value="Broadcom">Broadcom (AVGO)</option>
+                            <option value="Tesla">Tesla (TSLA)</option>
+                            <option value="Berkshire Hathaway">Berkshire Hathaway (BRK.B)</option>
+                            <option value="JPMorgan Chase">JPMorgan Chase (JPM)</option>
+                        <optgroup label="Brazilian Companies">
+                            <option value="Nu Holdings">Nu Holdings (Nubank)</option>
+                            <option value="Petrobras">Petrobras</option>
+                            <option value="Itaú Unibanco">Itaú Unibanco</option>
+                            <option value="Vale">Vale</option>
+                            <option value="BTG Pactual">BTG Pactual</option>
+                            <option value="Banco Santander Brasil">Banco Santander Brasil</option>
+                            <option value="Ambev">Ambev</option>
+                            <option value="Banco Bradesco">Banco Bradesco</option>
+                            <option value="WEG">WEG S.A.</option>
+                            <option value="Klabin">Klabin</option>
+                        </optgroup>
+                    </select>
+                    
+                    <button class="primary-btn" onclick="generateReport()">
+                        <span class="btn-icon"></span> Generate Report
+                    </button>
+                </div>
+                
+                <a id="downloadLink" class="download-link" style="display: none;">
+                    <span class="btn-icon"></span> Download Report
+                </a>
+            </div>
+        </section>
+
+        <!-- AI Charting Section -->
+        <section id="aiCharting" class="section">
+            <div class="section-header">
+                <h2>Charting Tool</h2>
+                <p class="subtitle">Create interactive charts from our data</p>
+            </div>
+            
+            <div class="chart-container">
+                <div class="input-group">
+                    <textarea 
+                        id="chartPrompt" 
+                        placeholder="Enter chart data or prompt...&#10;Example: Plot revenue growth for NVDA over last 4 quarters"
+                        rows="4"
+                    ></textarea>
+                    <button class="primary-btn" onclick="createChart()">
+                        <span class="btn-icon"></span> Create Chart
+                    </button>
+                </div>
+                
+                <div id="chart" class="chart-display"></div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; Osorio Stocks Research. 2026. All rights reserved.</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

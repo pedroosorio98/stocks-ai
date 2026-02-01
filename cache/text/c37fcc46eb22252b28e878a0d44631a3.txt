@@ -1,0 +1,1 @@
+{ "label": "7", "original_url": "https://www.apple.com/apple-events/#footnote-7", "final_url": "https://www.apple.com/apple-events/#footnote-7", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

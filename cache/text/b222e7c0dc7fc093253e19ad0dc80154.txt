@@ -1,0 +1,1 @@
+[CSV file: GLOBAL_QUOTE__quote.csv] 01. symbol: MSFT | 02. open: 465.305 | 03. high: 474.25 | 04. low: 462.0 | 05. price: 470.28 | 06. volume: 28630980 | 07. latest trading day: 2026-01-26 | 08. previous close: 465.95 | 09. change: 4.33 | 10. change percent: 0.9293%

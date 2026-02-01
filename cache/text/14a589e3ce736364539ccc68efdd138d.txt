@@ -1,0 +1,1 @@
+{ "label": "Corporate Governance", "original_url": "https://www.bradescori.com.br/en/market-information/reports-and-spreadsheets/cvm/", "final_url": "https://www.bradescori.com.br/en/market-information/reports-and-spreadsheets/cvm/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

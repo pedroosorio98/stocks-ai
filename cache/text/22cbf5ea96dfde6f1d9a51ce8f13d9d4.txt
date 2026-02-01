@@ -1,0 +1,1 @@
+{ "label": "Divulga\u00e7\u00e3o de Resultados", "original_url": "https://www.santander.com.br/ri/resultados-e-relatorios/divulgacao-de-resultados/", "final_url": "https://www.santander.com.br/ri/resultados-e-relatorios/divulgacao-de-resultados/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

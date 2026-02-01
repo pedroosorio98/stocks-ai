@@ -1,0 +1,1 @@
+{ "label": "Industry recognition", "original_url": "https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader", "final_url": "https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

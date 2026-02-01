@@ -1,0 +1,1 @@
+[Errno 2] No such file or directory: 'C:\\Users\\Pedro\\Stocks AI\\Data\\NU\\sec\\SCHEDULE_13G_A\\2025-04-30_0001088875-25-000041\\xslSCHEDULE_13G_X01\\primary_doc.xml'

@@ -1,0 +1,1 @@
+{ "ticker": "NU", "cik": 1691493, "form": "CORRESP", "filing_date": "2021-12-03", "accession": "0001193125-21-347506", "primary_document": "filename1.htm" }

@@ -1,0 +1,1 @@
+{ "label": "Governan\u00e7a Corporativa", "original_url": "https://www.bradescori.com.br/o-bradesco/governanca-corporativa/assembleias/editais-de-convocacao/", "final_url": "https://www.bradescori.com.br/o-bradesco/governanca-corporativa/assembleias/editais-de-convocacao/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

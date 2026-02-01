@@ -1,0 +1,1 @@
+{ "label": "Terms of Use", "original_url": "https://www.apple.com/legal/internet-services/terms/site.html", "final_url": "https://www.apple.com/legal/internet-services/terms/site.html", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

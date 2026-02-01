@@ -1,0 +1,1 @@
+{ "label": "Conditions of Use", "original_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508088", "final_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508088", "content_type": "text/html;charset=utf-8", "blocked_detected": false }

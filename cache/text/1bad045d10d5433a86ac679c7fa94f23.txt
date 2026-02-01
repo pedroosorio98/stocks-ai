@@ -1,0 +1,1 @@
+{ "label": "DOWNLOAD NOW", "original_url": "https://www.microsoft.com/investor/reports/ar02/downloads/default.htm", "final_url": "https://www.microsoft.com/investor/reports/ar02/downloads/default.htm", "content_type": "text/html", "blocked_detected": false }

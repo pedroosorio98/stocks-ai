@@ -1,0 +1,1 @@
+{ "label": "IR Releases", "original_url": "https://www.investidorpetrobras.com.br/en/investor-services/ir-releases/", "final_url": "https://www.investidorpetrobras.com.br/en/investor-services/ir-releases/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

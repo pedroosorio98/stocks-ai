@@ -1,0 +1,1 @@
+[CSV file: GLOBAL_QUOTE__quote.csv] 01. symbol: NVDA | 02. open: 187.16 | 03. high: 189.12 | 04. low: 185.99 | 05. price: 186.47 | 06. volume: 123897958 | 07. latest trading day: 2026-01-26 | 08. previous close: 187.67 | 09. change: -1.2 | 10. change percent: -0.6394%

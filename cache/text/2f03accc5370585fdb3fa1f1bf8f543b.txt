@@ -1,0 +1,1 @@
+{ "label": "Central de Resultados", "original_url": "https://www.bradescori.com.br/informacoes-ao-mercado/central-de-resultados/", "final_url": "https://www.bradescori.com.br/informacoes-ao-mercado/central-de-resultados/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

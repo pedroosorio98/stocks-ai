@@ -1,0 +1,1 @@
+{ "label": "Jazz Security", "original_url": "https://jazz.security/", "final_url": "https://jazz.security/", "content_type": "text/html", "blocked_detected": false }

@@ -1,0 +1,1 @@
+{ "label": "apple.com/investor/earnings-call", "original_url": "https://apple.com/investor/earnings-call/", "final_url": "https://www.apple.com/investor/earnings-call/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

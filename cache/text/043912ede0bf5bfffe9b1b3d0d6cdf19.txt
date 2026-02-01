@@ -1,0 +1,1 @@
+{ "label": "Documents", "original_url": "https://www.investidores.nu/en/governance/governance-documents/", "final_url": "https://www.investidores.nu/en/governance/governance-documents/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

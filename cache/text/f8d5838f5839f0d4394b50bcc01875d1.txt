@@ -1,0 +1,1 @@
+{ "label": "Fortyx Security", "original_url": "https://fortyx.co/", "final_url": "https://fortyx.co/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

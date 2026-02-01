@@ -1,0 +1,1 @@
+{ "label": "Press Release", "original_url": "https://news.microsoft.com/source/?p=22941", "final_url": "https://news.microsoft.com/source/2025/12/02/microsoft-announces-quarterly-dividend-27/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

@@ -1,0 +1,1 @@
+[CSV file: GLOBAL_QUOTE__quote.csv] 01. symbol: JPM | 02. open: 297.81 | 03. high: 301.775 | 04. low: 297.45 | 05. price: 301.04 | 06. volume: 11609801 | 07. latest trading day: 2026-01-26 | 08. previous close: 297.72 | 09. change: 3.32 | 10. change percent: 1.1151%

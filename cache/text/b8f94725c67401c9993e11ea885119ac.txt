@@ -1,0 +1,1 @@
+[CSV file: GLOBAL_QUOTE__quote.csv] 01. symbol: AVGO | 02. open: 319.8 | 03. high: 328.68 | 04. low: 317.6 | 05. price: 324.85 | 06. volume: 24788338 | 07. latest trading day: 2026-01-26 | 08. previous close: 320.05 | 09. change: 4.8 | 10. change percent: 1.4998%

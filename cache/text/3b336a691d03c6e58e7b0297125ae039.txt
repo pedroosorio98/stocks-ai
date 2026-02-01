@@ -1,0 +1,1 @@
+{ "label": "Vivid Security", "original_url": "https://vividsecurity.ai/", "final_url": "https://www.vivid.security/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

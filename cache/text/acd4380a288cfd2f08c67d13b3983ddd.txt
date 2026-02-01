@@ -1,0 +1,1 @@
+{ "label": "support.apple.com/121115", "original_url": "https://support.apple.com/121115?cid=mc-ols-general-b3d8fc66-apple-events", "final_url": "https://support.apple.com/en-us/121115?cid=mc-ols-general-b3d8fc66-apple-events", "content_type": "text/html;charset=utf-8", "blocked_detected": false }

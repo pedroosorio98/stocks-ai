@@ -1,0 +1,1 @@
+{ "label": "gtm.js", "original_url": "https://www.googletagmanager.com/gtm.js?id=GTM-MP8332T", "final_url": "https://www.googletagmanager.com/gtm.js?id=GTM-MP8332T", "content_type": "application/javascript; charset=utf-8", "blocked_detected": false }

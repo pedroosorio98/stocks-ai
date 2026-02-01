@@ -1,0 +1,1 @@
+{ "label": "Documentos entregues \u00e0 CVM", "original_url": "https://ri.klabin.com.br/informacoes-financeiras/documentos-entregues-a-cvm/", "final_url": "https://ri.klabin.com.br/informacoes-financeiras/documentos-entregues-a-cvm/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

@@ -1,0 +1,45 @@
+# Data folders - MUST EXCLUDE
+Data/
+old/
+
+# Environment and credentials
+.env
+*.env
+.aws/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+env/
+
+# Spyder
+.spyproject/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.pdf
+*.faiss
+*.pkl
+*.pickle
+index/
+index/internal.faiss
+Drafts/

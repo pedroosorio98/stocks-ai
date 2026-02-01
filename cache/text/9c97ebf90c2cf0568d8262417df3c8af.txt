@@ -1,0 +1,1 @@
+{ "ticker": "AAPL", "cik": 320193, "form": "8-K", "filing_date": "2020-05-11", "accession": "0001193125-20-139112", "primary_document": "d926511d8k.htm" }

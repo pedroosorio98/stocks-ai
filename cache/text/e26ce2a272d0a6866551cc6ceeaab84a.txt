@@ -1,0 +1,1 @@
+{ "label": "Fabrix", "original_url": "https://fabrix.security/", "final_url": "https://fabrix.security/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

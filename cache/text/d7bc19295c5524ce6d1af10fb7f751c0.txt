@@ -1,0 +1,1 @@
+{ "label": "Download Center", "original_url": "https://ri.weg.net/en/investor-services/download-center/", "final_url": "https://ri.weg.net/en/investor-services/download-center/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

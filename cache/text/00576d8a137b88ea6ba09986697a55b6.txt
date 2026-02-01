@@ -1,0 +1,1 @@
+{ "label": "View the latest investor reports", "original_url": "https://www.microsoft.com/en-us/Investor/investor-information.aspx", "final_url": "https://www.microsoft.com/en-us/investor/investor-information", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

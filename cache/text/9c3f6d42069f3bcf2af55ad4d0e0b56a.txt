@@ -1,0 +1,1 @@
+{ "label": "Shareholder Structure Breakdown", "original_url": "https://ri.btgpactual.com/en/corporate-governance/composicao-societaria/", "final_url": "https://ri.btgpactual.com/en/corporate-governance/composicao-societaria/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

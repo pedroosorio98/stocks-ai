@@ -1,0 +1,1 @@
+{ "ticker": "META", "cik": 1326801, "form": "DEF 14A", "filing_date": "2024-04-19", "accession": "0001326801-24-000034", "primary_document": "meta-20240418.htm" }

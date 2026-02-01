@@ -1,0 +1,1 @@
+{ "label": "Registration and Reference Form", "original_url": "https://ri.weg.net/en/financial-information/registration-and-reference-form/", "final_url": "https://ri.weg.net/en/financial-information/registration-and-reference-form/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

@@ -1,0 +1,1 @@
+{ "label": "Teasers", "original_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/teasers/", "final_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/teasers/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

@@ -1,0 +1,1 @@
+{ "label": "Notice to Shareholders and Debenture Holders", "original_url": "https://www.investidorpetrobras.com.br/en/notice-to-shareholders-and-debenture-holders/", "final_url": "https://www.investidorpetrobras.com.br/en/notice-to-shareholders-and-debenture-holders/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

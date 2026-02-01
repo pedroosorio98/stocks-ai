@@ -1,0 +1,1 @@
+{ "ticker": "MSFT", "cik": 789019, "form": "10-Q", "filing_date": "2025-04-30", "accession": "0000950170-25-061046", "primary_document": "msft-20250331.htm" }

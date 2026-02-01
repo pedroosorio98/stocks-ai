@@ -1,0 +1,1 @@
+{ "label": "ES", "original_url": "https://ri.btgpactual.com/es/servicio-a-los-inversionistas/calendario-de-eventos/", "final_url": "https://ri.btgpactual.com/es/servicio-a-los-inversionistas/calendario-de-eventos/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

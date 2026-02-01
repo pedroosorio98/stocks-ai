@@ -1,0 +1,1 @@
+{ "label": "Spreadsheets", "original_url": "https://ri.weg.net/en/financial-information/spreadsheets/", "final_url": "https://ri.weg.net/en/financial-information/spreadsheets/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

@@ -1,0 +1,1 @@
+{ "label": "Balance Sheets", "original_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/balance-sheets", "final_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/balance-sheets", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

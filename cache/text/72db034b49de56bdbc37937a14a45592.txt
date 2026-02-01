@@ -1,0 +1,1 @@
+{ "label": "Apresenta\u00e7\u00f5es e Documentos", "original_url": "https://ri.weg.net/publicacoes-e-comunicados/apresentacoes-e-documentos/", "final_url": "https://ri.weg.net/publicacoes-e-comunicados/apresentacoes-e-documentos/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

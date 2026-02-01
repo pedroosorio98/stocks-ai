@@ -1,0 +1,1 @@
+{ "label": "Servi\u00e7os aos Investidores", "original_url": "https://ri.btgpactual.com/servicos-aos-investidores/calendario-de-eventos/", "final_url": "https://ri.btgpactual.com/servicos-aos-investidores/calendario-de-eventos/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

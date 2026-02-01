@@ -1,0 +1,1 @@
+{ "ticker": "NU", "cik": 1691493, "form": "CERT", "filing_date": "2021-12-07", "accession": "0000876661-21-001709", "primary_document": "NU120721.pdf" }

@@ -1,0 +1,1 @@
+{ "label": "Sustainability Reports", "original_url": "https://rs2024.klabin.com.br/en/home", "final_url": "https://rs2024.klabin.com.br/en/home", "content_type": "text/html;charset=utf-8", "blocked_detected": false }

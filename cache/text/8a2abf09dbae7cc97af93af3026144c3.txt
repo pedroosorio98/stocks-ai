@@ -1,0 +1,1 @@
+{ "original_symbol": "BRK.B", "variants": [ "BRK.B", "BRK-B", "BRKB" ], "note": "This script picks the best variant per endpoint and caches it." }

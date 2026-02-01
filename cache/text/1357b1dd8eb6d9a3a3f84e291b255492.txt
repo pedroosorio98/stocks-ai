@@ -1,0 +1,1 @@
+{ "error": "HTTPSConnectionPool(host='www.alphavantage.co', port=443): Read timed out. (read timeout=60)", "params": { "function": "EARNINGS", "apikey": "1W86SMG399FCFAIM", "symbol": "AAPL" } }

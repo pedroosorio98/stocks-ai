@@ -1,0 +1,1 @@
+{ "label": "Manage cookies", "original_url": "https://www.microsoft.com/en-us/investor/sec-filings", "final_url": "https://www.microsoft.com/en-us/investor/sec-filings", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

@@ -1,0 +1,1 @@
+{ "label": "Mailing", "original_url": "https://ri.ambev.com.br/perguntas-frequentes/mailing/", "final_url": "https://ri.ambev.com.br/perguntas-frequentes/mailing/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

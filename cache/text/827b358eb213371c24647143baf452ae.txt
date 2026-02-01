@@ -1,0 +1,1 @@
+{ "label": "Browser Test opens in new window.", "original_url": "https://event.webcasts.com/viewer/faq.jsp?mType=a&closebtn=no&useHtml5Slide=true&ishtml5player=true", "final_url": "https://event.webcasts.com/viewer/faq.jsp?mType=a&closebtn=no&useHtml5Slide=true&ishtml5player=true", "content_type": "text/html;charset=utf-8", "blocked_detected": false }

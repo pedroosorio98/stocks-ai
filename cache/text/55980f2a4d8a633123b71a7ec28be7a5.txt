@@ -1,0 +1,1 @@
+{ "label": "js", "original_url": "https://www.googletagmanager.com/gtag/js?id=G-E98FLPZQG1", "final_url": "https://www.googletagmanager.com/gtag/js?id=G-E98FLPZQG1", "content_type": "application/javascript; charset=utf-8", "blocked_detected": false }

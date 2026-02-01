@@ -1,0 +1,1 @@
+{ "ticker": "NU", "cik": 1691493, "form": "SCHEDULE 13G/A", "filing_date": "2025-04-30", "accession": "0001088875-25-000041", "primary_document": "xslSCHEDULE_13G_X01/primary_doc.xml" }

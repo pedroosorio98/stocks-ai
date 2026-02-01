@@ -1,0 +1,1 @@
+{ "label": "Documents", "original_url": "https://www.sec.gov/Archives/edgar/data/1471055/000129281425003647/0001292814-25-003647-index.htm", "final_url": "https://www.sec.gov/Archives/edgar/data/1471055/000129281425003647/0001292814-25-003647-index.htm", "content_type": "text/html", "blocked_detected": false }

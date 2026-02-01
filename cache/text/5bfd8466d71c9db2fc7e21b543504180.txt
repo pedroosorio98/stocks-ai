@@ -1,0 +1,1 @@
+{ "response": { "symbol": "JPM", "data": [ { "effective_date": "2000-06-12", "split_factor": "1.5000" } ] }, "request": { "function": "SPLITS", "apikey": "1W86SMG399FCFAIM", "symbol": "JPM" }, "info": { "status_code": 200, "content_type": "application/json", "url": "https://www.alphavantage.co/query?function=SPLITS&apikey=1W86SMG399FCFAIM&symbol=JPM" } }

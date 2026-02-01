@@ -1,0 +1,1 @@
+{ "label": "Webcast", "original_url": "https://www.microsoft.com/en-us/investor/events/fy-2026/2025-annual-shareholder-meeting", "final_url": "https://www.microsoft.com/en-us/investor/events/fy-2026/2025-annual-shareholder-meeting", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

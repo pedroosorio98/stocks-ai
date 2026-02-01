@@ -1,0 +1,1 @@
+[CSV file: major_holders.csv] Unnamed: 0: insidersPercentHeld | Value: 1.0000001e-05 Unnamed: 0: institutionsPercentHeld | Value: 0.23895 Unnamed: 0: institutionsFloatPercentHeld | Value: 0.23895 Unnamed: 0: institutionsCount | Value: 438.0

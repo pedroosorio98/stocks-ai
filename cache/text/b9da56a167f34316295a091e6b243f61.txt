@@ -1,0 +1,1 @@
+{ "ticker": "MSFT", "cik": 789019, "form": "8-K", "filing_date": "2022-07-26", "accession": "0001193125-22-202034", "primary_document": "d372382d8k.htm" }

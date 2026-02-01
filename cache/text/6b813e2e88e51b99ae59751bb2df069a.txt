@@ -1,0 +1,1 @@
+{ "ticker": "AMZN", "cik": 1018724, "form": "8-K", "filing_date": "2025-05-22", "accession": "0001104659-25-052014", "primary_document": "tm2515134d1_8k.htm" }

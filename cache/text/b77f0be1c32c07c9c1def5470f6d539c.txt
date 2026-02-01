@@ -1,0 +1,1 @@
+{ "label": "Microsoft Security Events", "original_url": "https://www.microsoft.com/en-us/events/search-catalog?filters=topic%3Asecurity&scenario=events", "final_url": "https://www.microsoft.com/en-us/events/search-catalog?filters=topic%3Asecurity&scenario=events", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

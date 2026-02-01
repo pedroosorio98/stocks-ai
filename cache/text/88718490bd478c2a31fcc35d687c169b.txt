@@ -1,0 +1,1 @@
+{ "label": "Ir para o rodap\u00e9.", "original_url": "https://www.investidorpetrobras.com.br/apresentacoes-relatorios-e-eventos/apresentacoes/#rodape", "final_url": "https://www.investidorpetrobras.com.br/apresentacoes-relatorios-e-eventos/apresentacoes/#rodape", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

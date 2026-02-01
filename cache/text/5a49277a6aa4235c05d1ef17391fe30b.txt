@@ -1,0 +1,1 @@
+{ "ticker": "GOOGL", "cik": 1652044, "form": "10-Q", "filing_date": "2023-04-26", "accession": "0001652044-23-000045", "primary_document": "goog-20230331.htm" }

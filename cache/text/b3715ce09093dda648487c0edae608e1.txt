@@ -1,0 +1,1 @@
+[CSV file: GLOBAL_QUOTE__quote.csv] 01. symbol: BRK.B | 02. open: 478.47 | 03. high: 484.8948 | 04. low: 477.0759 | 05. price: 483.47 | 06. volume: 4998498 | 07. latest trading day: 2026-01-26 | 08. previous close: 478.97 | 09. change: 4.5 | 10. change percent: 0.9395%

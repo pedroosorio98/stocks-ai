@@ -1,0 +1,1 @@
+{ "label": "Rating", "original_url": "https://ri.klabin.com.br/en/financial-information/rating/", "final_url": "https://ri.klabin.com.br/en/financial-information/rating/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

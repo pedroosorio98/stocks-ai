@@ -1,0 +1,1 @@
+{ "label": "Relat\u00f3rios Anuais", "original_url": "https://ri.weg.net/informacoes-financeiras/relatorios-anuais/", "final_url": "https://ri.weg.net/informacoes-financeiras/relatorios-anuais/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

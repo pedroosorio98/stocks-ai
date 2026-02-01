@@ -1,0 +1,1 @@
+{ "label": "Investor Relations", "original_url": "https://www.bradescori.com.br/en/", "final_url": "https://www.bradescori.com.br/en/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

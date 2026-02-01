@@ -1,0 +1,1 @@
+{ "label": "recaptcha__pt_br.js", "original_url": "https://www.gstatic.com/recaptcha/releases/N67nZn4AqZkNcbeMu4prBgzg/recaptcha__pt_br.js", "final_url": "https://www.gstatic.com/recaptcha/releases/N67nZn4AqZkNcbeMu4prBgzg/recaptcha__pt_br.js", "content_type": "text/javascript", "blocked_detected": false }

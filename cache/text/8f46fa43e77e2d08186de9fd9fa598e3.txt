@@ -1,0 +1,1 @@
+{ "ticker": "AAPL", "cik": 320193, "form": "10-Q", "filing_date": "2023-05-05", "accession": "0000320193-23-000064", "primary_document": "aapl-20230401.htm" }

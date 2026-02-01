@@ -1,0 +1,1 @@
+{ "label": "Segment Results", "original_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/segment-revenues", "final_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/segment-revenues", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

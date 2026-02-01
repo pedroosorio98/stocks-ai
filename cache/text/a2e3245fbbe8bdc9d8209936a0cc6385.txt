@@ -1,0 +1,1 @@
+[CSV file: GLOBAL_QUOTE__quote.csv] 01. symbol: AMZN | 02. open: 239.98 | 03. high: 240.95 | 04. low: 237.54 | 05. price: 238.42 | 06. volume: 32296556 | 07. latest trading day: 2026-01-26 | 08. previous close: 239.16 | 09. change: -0.74 | 10. change percent: -0.3094%

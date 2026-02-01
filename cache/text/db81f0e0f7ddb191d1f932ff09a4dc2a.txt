@@ -1,0 +1,1 @@
+{ "ticker": "AVGO", "cik": 1730168, "form": "8-K", "filing_date": "2019-04-01", "accession": "0001193125-19-094751", "primary_document": "d730791d8k.htm" }

@@ -1,0 +1,1 @@
+{ "label": "Perguntas Frequentes", "original_url": "https://www.santander.com.br/ri/suporte-ao-investidor/perguntas-frequentes/", "final_url": "https://www.santander.com.br/ri/suporte-ao-investidor/perguntas-frequentes/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

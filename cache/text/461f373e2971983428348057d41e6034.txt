@@ -1,0 +1,1 @@
+{ "label": "Shareholder Remuneration", "original_url": "https://www.bradescori.com.br/en/market-information/shareholder-remuneration/", "final_url": "https://www.bradescori.com.br/en/market-information/shareholder-remuneration/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

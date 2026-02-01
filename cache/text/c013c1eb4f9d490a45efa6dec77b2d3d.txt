@@ -1,0 +1,1 @@
+{ "label": "CVM Santander", "original_url": "https://www.rad.cvm.gov.br/ENET/frmConsultaExternaCVM.aspx?tipoconsulta=CVM&codigoCVM=20532", "final_url": "https://www.rad.cvm.gov.br/ENET/frmConsultaExternaCVM.aspx?tipoconsulta=CVM&codigoCVM=20532", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

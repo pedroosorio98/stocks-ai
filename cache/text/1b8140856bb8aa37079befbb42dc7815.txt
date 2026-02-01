@@ -1,0 +1,1 @@
+{ "label": "Presentations", "original_url": "https://ri.klabin.com.br/en/disclosures-and-results/presentations/", "final_url": "https://ri.klabin.com.br/en/disclosures-and-results/presentations/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

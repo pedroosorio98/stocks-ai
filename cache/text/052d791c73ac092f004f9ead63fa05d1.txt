@@ -1,0 +1,1 @@
+{ "label": "Other CVM Filings", "original_url": "https://ri.weg.net/en/publications-and-documents/other-cvm-filings/", "final_url": "https://ri.weg.net/en/publications-and-documents/other-cvm-filings/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

@@ -1,0 +1,1 @@
+{ "label": "Reports and Spreadsheets", "original_url": "https://www.bradescori.com.br/en/market-information/reports-and-spreadsheets/", "final_url": "https://www.bradescori.com.br/en/market-information/reports-and-spreadsheets/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

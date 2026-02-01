@@ -1,0 +1,1 @@
+[CSV file: GLOBAL_QUOTE__quote.csv] 01. symbol: META | 02. open: 665.125 | 03. high: 675.28 | 04. low: 661.2855 | 05. price: 672.36 | 06. volume: 16082650 | 07. latest trading day: 2026-01-26 | 08. previous close: 658.76 | 09. change: 13.6 | 10. change percent: 2.0645%

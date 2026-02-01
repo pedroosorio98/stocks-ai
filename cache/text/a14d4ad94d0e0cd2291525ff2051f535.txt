@@ -1,0 +1,1 @@
+{ "ticker": "TSLA", "cik": 1318605, "form": "10-Q", "filing_date": "2019-04-29", "accession": "0001564590-19-013462", "primary_document": "tsla-10q_20190331.htm" }

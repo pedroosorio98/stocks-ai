@@ -1,0 +1,1 @@
+[CSV file: GLOBAL_QUOTE__quote.csv] 01. symbol: TSLA | 02. open: 445.0 | 03. high: 445.04 | 04. low: 434.28 | 05. price: 435.2 | 06. volume: 48908350 | 07. latest trading day: 2026-01-26 | 08. previous close: 449.06 | 09. change: -13.86 | 10. change percent: -3.0864%

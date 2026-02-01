@@ -1,0 +1,1 @@
+{ "response": { "symbol": "BRK.B", "data": [] }, "request": { "function": "DIVIDENDS", "apikey": "1W86SMG399FCFAIM", "symbol": "BRK.B" }, "info": { "status_code": 200, "content_type": "application/json", "url": "https://www.alphavantage.co/query?function=DIVIDENDS&apikey=1W86SMG399FCFAIM&symbol=BRK.B" } }

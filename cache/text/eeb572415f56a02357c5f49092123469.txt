@@ -1,0 +1,1 @@
+{ "label": "Metrics", "original_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/metrics", "final_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/metrics", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

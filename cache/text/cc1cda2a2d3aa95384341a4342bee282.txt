@@ -1,0 +1,1 @@
+{ "ticker": "NU", "cik": 1691493, "form": "D", "filing_date": "2021-06-21", "accession": "0000950103-21-009091", "primary_document": "xslFormDX01/primary_doc.xml" }

@@ -1,0 +1,1 @@
+{ "ticker": "AAPL", "cik": 320193, "form": "DEF 14A", "filing_date": "2017-01-06", "accession": "0001193125-17-003753", "primary_document": "d257185ddef14a.htm" }

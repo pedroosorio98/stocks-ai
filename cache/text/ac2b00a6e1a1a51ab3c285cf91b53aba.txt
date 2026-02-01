@@ -1,0 +1,1 @@
+{ "label": "apple-reports-third-quarter-results", "original_url": "https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/", "final_url": "https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/", "content_type": "text/html;charset=utf-8", "blocked_detected": false }

@@ -1,0 +1,1 @@
+{ "ticker": "NU", "cik": 1691493, "form": "SC 13G/A", "filing_date": "2023-02-14", "accession": "0000919574-23-001501", "primary_document": "d9934309_13g-a.htm" }

@@ -1,0 +1,1 @@
+{ "label": "Meetings", "original_url": "https://ri.klabin.com.br/en/corporate-governance/meetings/", "final_url": "https://ri.klabin.com.br/en/corporate-governance/meetings/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

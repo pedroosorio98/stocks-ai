@@ -1,0 +1,1 @@
+{ "error": "('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))", "params": { "function": "TIME_SERIES_INTRADAY", "apikey": "1W86SMG399FCFAIM", "symbol": "GOOGL", "interval": "60min", "outputsize": "compact", "datatype": "csv" } }

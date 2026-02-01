@@ -1,0 +1,1 @@
+{ "label": "Press Release", "original_url": "https://www.apple.com/newsroom/2024/10/apple-reports-fourth-quarter-results/", "final_url": "https://www.apple.com/newsroom/2024/10/apple-reports-fourth-quarter-results/", "content_type": "text/html;charset=utf-8", "blocked_detected": false }

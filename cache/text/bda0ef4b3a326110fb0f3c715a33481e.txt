@@ -1,0 +1,1 @@
+{ "response": { "data": [] }, "request": { "function": "INSIDER_TRANSACTIONS", "apikey": "1W86SMG399FCFAIM", "symbol": "NU" }, "info": { "status_code": 200, "content_type": "application/json", "url": "https://www.alphavantage.co/query?function=INSIDER_TRANSACTIONS&apikey=1W86SMG399FCFAIM&symbol=NU" } }

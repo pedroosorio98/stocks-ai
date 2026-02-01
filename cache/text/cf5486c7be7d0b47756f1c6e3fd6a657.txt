@@ -1,0 +1,1 @@
+{ "label": "Relat\u00f3rios e Planilhas", "original_url": "https://www.bradescori.com.br/informacoes-ao-mercado/relatorios-e-planilhas/relatorios/", "final_url": "https://www.bradescori.com.br/informacoes-ao-mercado/relatorios-e-planilhas/relatorios/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

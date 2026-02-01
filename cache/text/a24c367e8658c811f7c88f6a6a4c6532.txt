@@ -1,0 +1,1 @@
+{ "label": "investor.apple.com", "original_url": "http://investor.apple.com/", "final_url": "https://investor.apple.com/investor-relations/default.aspx", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

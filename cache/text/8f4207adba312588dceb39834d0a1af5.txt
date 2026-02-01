@@ -1,0 +1,1 @@
+{ "label": "Assembleias e Reuni\u00f5es", "original_url": "https://ri.klabin.com.br/governanca-corporativa/assembleias-e-reunioes/", "final_url": "https://ri.klabin.com.br/governanca-corporativa/assembleias-e-reunioes/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

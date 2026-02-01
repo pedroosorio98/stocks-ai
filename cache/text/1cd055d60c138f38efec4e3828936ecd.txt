@@ -1,0 +1,1 @@
+{ "ticker": "NU", "cik": 1691493, "form": "6-K", "filing_date": "2025-08-14", "accession": "0001292814-25-003069", "primary_document": "nupr2q25_6k.htm" }

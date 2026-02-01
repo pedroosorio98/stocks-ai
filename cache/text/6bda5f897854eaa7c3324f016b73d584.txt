@@ -1,0 +1,1 @@
+{ "label": "VIEW DETAILS >", "original_url": "https://aka.ms/2025ProxyStatement", "final_url": "https://view.officeapps.live.com/op/view.aspx?src=https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/2025_ProxyStatement.docx", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

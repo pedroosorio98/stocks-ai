@@ -1,0 +1,1 @@
+[CSV file: splits.csv] Date: 2021-07-01 00:00:00-03:00 | Stock Splits: 4.0

@@ -1,0 +1,1 @@
+{ "label": "Voting Results", "original_url": "https://www.microsoft.com/en-us/investor/corporate-governance/votingresults", "final_url": "https://www.microsoft.com/en-us/investor/corporate-governance/votingresults", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

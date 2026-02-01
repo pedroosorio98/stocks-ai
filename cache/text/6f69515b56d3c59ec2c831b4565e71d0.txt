@@ -1,0 +1,1 @@
+{ "label": "Notices to Shareholders", "original_url": "https://ri.btgpactual.com/en/main-information/notices-to-shareholders/", "final_url": "https://ri.btgpactual.com/en/main-information/notices-to-shareholders/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

@@ -1,0 +1,1 @@
+{ "input_ticker": "BPAC11", "yahoo_ticker_used": "BPAC11.SA", "folder": "C:\\Users\\Pedro\\Stocks AI\\Data\\BPAC11\\yahoo_finance", "notes": "Some modules are not available for all Brazil tickers; see errors/ folder for failures." }

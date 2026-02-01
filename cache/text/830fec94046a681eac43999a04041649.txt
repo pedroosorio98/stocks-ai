@@ -1,0 +1,1 @@
+{ "label": "Securities Trading Policy of", "original_url": "https://ri.btgpactual.com/en/corporate-governance/securities-trading-policy-of/", "final_url": "https://ri.btgpactual.com/en/corporate-governance/securities-trading-policy-of/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

@@ -1,0 +1,1 @@
+{ "label": "VIEW ONLINE", "original_url": "https://www.microsoft.com/investor/reports/ar04/nonflash/default.html", "final_url": "https://www.microsoft.com/investor/reports/ar04/nonflash/default.html", "content_type": "text/html", "blocked_detected": false }

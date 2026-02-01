@@ -1,0 +1,1 @@
+{ "label": "Presentations and Documents", "original_url": "https://ri.weg.net/en/publications-and-documents/presentations-and-documents/", "final_url": "https://ri.weg.net/en/publications-and-documents/presentations-and-documents/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

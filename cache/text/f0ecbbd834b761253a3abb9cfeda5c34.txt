@@ -1,0 +1,1 @@
+{ "label": "Perguntas frequentes", "original_url": "https://ri.klabin.com.br/para-o-investidor/perguntas-frequentes/", "final_url": "https://ri.klabin.com.br/para-o-investidor/perguntas-frequentes/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

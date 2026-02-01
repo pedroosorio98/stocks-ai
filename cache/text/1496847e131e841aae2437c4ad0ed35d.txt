@@ -1,0 +1,1 @@
+{ "ticker": "BRK.B", "cik": 1067983, "form": "10-Q", "filing_date": "2016-08-05", "accession": "0001193125-16-673492", "primary_document": "d210900d10q.htm" }

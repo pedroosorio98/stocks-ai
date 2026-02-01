@@ -1,0 +1,1 @@
+{ "label": "General Shareholder", "original_url": "https://www.investidorpetrobras.com.br/en/general-shareholder/", "final_url": "https://www.investidorpetrobras.com.br/en/general-shareholder/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

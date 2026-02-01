@@ -1,0 +1,1 @@
+[Errno 2] No such file or directory: 'C:\\Users\\Pedro\\Stocks AI\\Data\\NU\\sec\\144\\2025-06-27_0001968582-25-000554\\xsl144X01\\primary_doc.xml'

@@ -1,0 +1,1 @@
+{ "label": "Webcast", "original_url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2", "final_url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

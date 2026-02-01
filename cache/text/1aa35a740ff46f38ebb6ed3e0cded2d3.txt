@@ -1,0 +1,1 @@
+{ "label": "apple-reports-second-quarter-results", "original_url": "https://www.apple.com/newsroom/2022/04/apple-reports-second-quarter-results/", "final_url": "https://www.apple.com/newsroom/2022/04/apple-reports-second-quarter-results/", "content_type": "text/html;charset=utf-8", "blocked_detected": false }

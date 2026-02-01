@@ -1,0 +1,1 @@
+{ "label": "Investors", "original_url": "https://www.microsoft.com/investor/default.aspx", "final_url": "https://www.microsoft.com/en-us/investor/default", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

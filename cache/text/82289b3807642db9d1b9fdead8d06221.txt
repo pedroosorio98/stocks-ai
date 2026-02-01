@@ -1,0 +1,1 @@
+{ "ticker": "JPM", "cik": 19617, "form": "8-K", "filing_date": "2026-01-13", "accession": "0001628280-26-001915", "primary_document": "jpm-20260113.htm" }

@@ -1,0 +1,1 @@
+[CSV file: DIVIDENDS__data.csv] ex_dividend_date: 2022-12-27 | amount: 0.0

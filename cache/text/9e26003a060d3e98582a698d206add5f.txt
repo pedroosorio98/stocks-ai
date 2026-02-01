@@ -1,0 +1,1 @@
+{ "label": "FAQs (Frequently Asked Questions)", "original_url": "https://www.investidores.nu/en/why-invest/faqs/", "final_url": "https://www.investidores.nu/en/why-invest/faqs/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

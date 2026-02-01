@@ -1,0 +1,1 @@
+{ "label": "Press Release & Webcast", "original_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast", "final_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

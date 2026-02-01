@@ -1,0 +1,1 @@
+{ "label": "Public Offer Documents", "original_url": "https://www.investidores.nu/en/governance/documentos-da-oferta-publica/", "final_url": "https://www.investidores.nu/en/governance/documentos-da-oferta-publica/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

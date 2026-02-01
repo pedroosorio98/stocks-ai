@@ -1,0 +1,1 @@
+{ "label": "Information for Investors", "original_url": "https://www.microsoft.com/en-us/investor/investor-information", "final_url": "https://www.microsoft.com/en-us/investor/investor-information", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

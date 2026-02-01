@@ -1,0 +1,1 @@
+{ "ticker": "NVDA", "cik": 1045810, "form": "10-Q", "filing_date": "2022-08-31", "accession": "0001045810-22-000147", "primary_document": "nvda-20220731.htm" }

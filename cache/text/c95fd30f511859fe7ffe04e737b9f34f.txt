@@ -1,0 +1,1 @@
+{ "label": "Notices and Material Facts", "original_url": "https://ri.klabin.com.br/en/disclosures-and-results/notices-and-material-facts/", "final_url": "https://ri.klabin.com.br/en/disclosures-and-results/notices-and-material-facts/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

@@ -1,0 +1,1 @@
+{ "label": "CVM Filings", "original_url": "https://ri.klabin.com.br/en/financial-information/cvm-fillings/", "final_url": "https://ri.klabin.com.br/en/financial-information/cvm-fillings/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }

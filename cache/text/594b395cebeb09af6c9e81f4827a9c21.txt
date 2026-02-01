@@ -1,0 +1,1 @@
+{ "label": "WEG Day", "original_url": "https://ri.weg.net/publicacoes-e-comunicados/apresentacoes-e-documentos/#apresentacoes_e_documentos_weg_day", "final_url": "https://ri.weg.net/publicacoes-e-comunicados/apresentacoes-e-documentos/#apresentacoes_e_documentos_weg_day", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
