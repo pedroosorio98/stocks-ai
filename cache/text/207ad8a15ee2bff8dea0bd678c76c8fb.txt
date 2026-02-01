@@ -1,1 +1,3 @@
-{ "label": "Financial Highlights", "original_url": "https://ri.ambev.com.br/en/overview/financial-highlights/", "final_url": "https://ri.ambev.com.br/en/overview/financial-highlights/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b7d118b8826e9da2d3ce37b3f47e42ee057550325b701c38963ebc0650c7dc8
+size 257

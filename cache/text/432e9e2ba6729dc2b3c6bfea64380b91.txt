@@ -1,1 +1,3 @@
-NEWS RELEASE Meta Announces Quarterly Cash Dividend MENLO PARK, Calif., Sept. 5, 2024 /PRNewswire/ -- The Meta Platforms, Inc. (META) board of directors today declared a quarterly cash dividend of $0.50 per share of the company's outstanding Class A common stock and Class B common stock, payable on September 26, 2024 to stockholders of record as of the close of business on September 16, 2024. Contacts Investors: Kenneth Dorell investor@meta.com / investor.fb.com Press: Ryan Moore press@meta.com / about.fb.com/news/ View original content to download multimedia:https://www.prnewswire.com/news-releases/meta-announces- quarterly-cash-dividend-302239973.html SOURCE Meta 1
+version https://git-lfs.github.com/spec/v1
+oid sha256:94ad3bf4d8fc462dfe79cbe3ebe3d9d9eb38d3399ffddf9c2490184b142f1176
+size 675

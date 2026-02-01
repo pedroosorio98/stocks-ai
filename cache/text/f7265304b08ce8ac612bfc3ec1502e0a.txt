@@ -1,1 +1,3 @@
-{ "response": { "symbol": "META", "data": [] }, "request": { "function": "SPLITS", "apikey": "1W86SMG399FCFAIM", "symbol": "META" }, "info": { "status_code": 200, "content_type": "application/json", "url": "https://www.alphavantage.co/query?function=SPLITS&apikey=1W86SMG399FCFAIM&symbol=META" } }
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd15beb2e9b96a148d817f6babfe8bd4ed152c68040cce405430f44a87630922
+size 297

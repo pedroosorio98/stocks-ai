@@ -1,1 +1,3 @@
-[TIME SERIES DATASET CATALOG] ticker: JPM frequency: daily file: Data/JPM/alpha_vantage/csv/TIME_SERIES_DAILY.csv columns: timestamp, open, high, low, close, volume rows: 100 date_range: 2025-09-03 to 2026-01-26 date_column: timestamp usage: This is numeric time-series data (prices/ohlcv). Do NOT semantic-search raw rows. Use a time-series loader/tool to read the CSV and compute returns, drawdowns, volatility, charts, and event-window performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b66a2d6f5547cf878bbf4d7f2fb53817ed0d7585f6dcf7863ba7f0e7f32e2515
+size 451

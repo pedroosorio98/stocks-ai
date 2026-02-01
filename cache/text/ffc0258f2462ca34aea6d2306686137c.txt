@@ -1,1 +1,3 @@
-[TIME SERIES DATASET CATALOG] ticker: GOOGL frequency: monthly file: Data/GOOGL/alpha_vantage/csv/TIME_SERIES_MONTHLY.csv columns: timestamp, open, high, low, close, volume rows: 257 date_range: 2004-09-30 to 2026-01-26 date_column: timestamp usage: This is numeric time-series data (prices/ohlcv). Do NOT semantic-search raw rows. Use a time-series loader/tool to read the CSV and compute returns, drawdowns, volatility, charts, and event-window performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cfceb507a5e8daf2dcae52d4bbf02e71b86a79b638629f0d4f7b84616490079
+size 459

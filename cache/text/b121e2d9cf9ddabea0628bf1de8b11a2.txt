@@ -1,1 +1,3 @@
-{ "label": "Watch the event", "original_url": "https://www.apple.com/apple-events/", "final_url": "https://www.apple.com/apple-events/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:39a00d72aea5f9bf2860e44df5c84460dc4ebf54ff8f03346e12285ee2daed40
+size 208

@@ -1,1 +1,3 @@
-AMBEV S.A. CNPJ/ME nº 07.526.557/0001-00 NIRE 35.300.368.941 COMUNICADO AO MERCADO A AMBEV S.A. (“Companhia” ou “ Ambev”), em atendimento ao Ofício - Circular CVM/SEP nº 7/2020, comunica aos seus acionistas e ao mercado em geral a realização de um evento com membros de sua Diretoria Executiva, a ser transmitido online conforme informações abaixo: Evento: Sustainability Update 2023. Data e Horário: 23 de novembro de 2023, às 10:00h. Tema: Atualizar o mercado sobre a evolução d as principais iniciativas de sustentabilidade da Companhia, incluindo temas ambientais, sociais e de governança. Link para inscrição: https://choruscall.com.br/ambev/sustainability2023.htm São Paulo, 16 de novembro de 2023. AMBEV S.A. Lucas Machado Lira Diretor Vice-Presidente Financeiro e de Relações com Investidores
+version https://git-lfs.github.com/spec/v1
+oid sha256:0885e608e49fbf30e137e98a7dabc508c7b4cfaa75d11baefcc582736e4c3f24
+size 825

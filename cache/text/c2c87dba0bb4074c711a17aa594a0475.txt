@@ -1,1 +1,3 @@
-[TIME SERIES DATASET CATALOG] ticker: META frequency: intraday file: Data/META/alpha_vantage/csv/TIME_SERIES_INTRADAY.csv columns: timestamp, open, high, low, close, volume rows: 100 date_range: 2026-01-15 to 2026-01-26 date_column: timestamp usage: This is numeric time-series data (prices/ohlcv). Do NOT semantic-search raw rows. Use a time-series loader/tool to read the CSV and compute returns, drawdowns, volatility, charts, and event-window performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e92a04885a8831a30e4761d1970b66d3c38c2e64d83f5268e923836dafe3c7f2
+size 459

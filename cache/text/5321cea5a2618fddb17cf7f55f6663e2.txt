@@ -1,1 +1,3 @@
-{ "label": "sec-cvm-filings", "original_url": "https://ri.ambev.com.br/en/reports-publications/sec-cvm-filings/", "final_url": "https://ri.ambev.com.br/en/reports-publications/sec-cvm-filings/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff9dd7c0c5b195ac6113713bbed43084222d3bafc06733d4a3fef1543ffc7441
+size 266

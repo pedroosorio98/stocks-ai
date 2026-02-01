@@ -1,1 +1,3 @@
-{ "label": "News & Events", "original_url": "https://www.investidores.nu/en/financials/filings/", "final_url": "https://www.investidores.nu/en/financials/filings/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd69bf2a5c0b1682ed0a0c3d5e35782529bf7972709260b43cb96600dc6afb61
+size 236

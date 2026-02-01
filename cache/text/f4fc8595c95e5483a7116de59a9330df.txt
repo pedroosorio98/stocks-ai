@@ -1,1 +1,3 @@
-{ "ticker": "MSFT", "cik": 789019, "form": "8-K", "filing_date": "2022-01-25", "accession": "0001193125-22-017041", "primary_document": "d299919d8k.htm" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:785e5454c682c01097e1213c3e4b0307c7cc4e96a473c8d8ed141ed012d52f72
+size 154

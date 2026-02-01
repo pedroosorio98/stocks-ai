@@ -1,1 +1,3 @@
-ï»¿ Download Center Microsoft Corporation 2012 Annual Report Microsoft Shareholder Letter Financial Highlights Financial Review Directors &amp; Officers Investor Relations Show Home Download Center Download Center Microsoft 2012 Annual Report View Online | Download Microsoft 2012 10-K View Online | Download Letter to Shareholders View Online | Download Download Center 2012 Proxy Statement Investor Relations Site Site Map
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b15efb659255cda2ae84cbd3563e9cf096b90d2979c93289b27a35b7cbd235c
+size 427

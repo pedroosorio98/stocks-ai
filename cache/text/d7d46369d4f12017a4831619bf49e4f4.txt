@@ -1,1 +1,3 @@
-{ "label": "Meta Investor Relations", "original_url": "https://investor.atmeta.com/home/default.aspx", "final_url": "https://investor.atmeta.com/home/default.aspx", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e4f74fa636533ddbbac08ce6823134b50db9756d3b0c9b4a7ebfe278b3627c0
+size 236

@@ -1,1 +1,3 @@
-Nimble Security - Waitlist Effective security starts with fundamentals Nimble helps teams scale security expertise and get the fundamentals right Sign up for the waitlist Thank you! Your submission has been received! Oops! Something went wrong while submitting the form.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df08fd371dd01a174e82339420baa274a156057e2f092450f06a6d2e07951f2
+size 270

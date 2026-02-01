@@ -1,1 +1,3 @@
-{ "label": "Financial Information", "original_url": "https://ri.btgpactual.com/en/main-information/financial-information/", "final_url": "https://ri.btgpactual.com/en/main-information/financial-information/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:124432d1ed0eaec68bde85bafa68805d485c90e3c6155b8b1db65bdf75c9343b
+size 280

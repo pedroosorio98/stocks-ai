@@ -1,1 +1,3 @@
-{ "label": "XBRL", "original_url": "https://www.microsoft.com/en-us/investor/sec-filings?year=2023&filing=xbrl", "final_url": "https://www.microsoft.com/en-us/investor/sec-filings?year=2023&filing=xbrl", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:0da753530fdd506e06c8e0d45806bc7d386e2c84952e7f9faecc8633505e85f7
+size 275

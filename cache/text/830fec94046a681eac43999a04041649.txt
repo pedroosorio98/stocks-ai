@@ -1,1 +1,3 @@
-{ "label": "Securities Trading Policy of", "original_url": "https://ri.btgpactual.com/en/corporate-governance/securities-trading-policy-of/", "final_url": "https://ri.btgpactual.com/en/corporate-governance/securities-trading-policy-of/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:5505ddc9b08b8f4efc6e42395044edfc29f27a3b54cbc954bcde568b921c9385
+size 309

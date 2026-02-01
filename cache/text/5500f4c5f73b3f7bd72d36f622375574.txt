@@ -1,1 +1,3 @@
-MSFT Annual Report 2007
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a2d7e134814a3fc654ec66ecac733703aa96e43d4c8fb9f65553c716fa5c0e9
+size 23

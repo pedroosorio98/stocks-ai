@@ -1,1 +1,3 @@
-{ "label": "Shareholder Letters", "original_url": "https://www.aboutamazon.com/about-us/shareholder-letters", "final_url": "https://www.aboutamazon.com/about-us/shareholder-letters", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:484f79a3a30c0e04bff84a98b9125c3db024fdfbde4b0fa2baaf34a3b3a989c5
+size 254

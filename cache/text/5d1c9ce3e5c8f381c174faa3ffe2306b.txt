@@ -1,1 +1,3 @@
-{ "label": "Governance Report", "original_url": "https://ri.weg.net/en/corporate-governance/governance-report/", "final_url": "https://ri.weg.net/en/corporate-governance/governance-report/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:88ff6b2a16f35150500626a9561398c466636a92004b395d98cd1561049898d1
+size 262

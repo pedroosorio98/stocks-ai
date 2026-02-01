@@ -1,1 +1,3 @@
-[CSV file: OVERVIEW__overview.csv] Symbol: TSLA | AssetType: Common Stock | Name: Tesla Inc | Description: Tesla, Inc. is a leading American electric vehicle and clean energy innovator headquartered in Palo Alto, California. Renowned for its commitment to advancing sustainable mobility, Tesla commands a su… | CIK: 1318605 | Exchange: NASDAQ | Currency: USD | Country: USA | Sector: CONSUMER CYCLICAL | Industry: AUTO MANUFACTURERS | Address: 1 TESLA ROAD, AUSTIN, TX, UNITED STATES, 78725 | OfficialSite: https://www.tesla.com | FiscalYearEnd: December | LatestQuarter: 2025-09-30 | MarketCapitalization: 1493492302000 | EBITDA: 1076…
+version https://git-lfs.github.com/spec/v1
+oid sha256:e81445ff50671ac8184a84011bd16243795c1eac4ecd4191e525de795e66a5f3
+size 640

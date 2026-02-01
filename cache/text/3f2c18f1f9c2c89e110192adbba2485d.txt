@@ -1,1 +1,3 @@
-[TIME SERIES DATASET CATALOG] ticker: AAPL frequency: monthly file: Data/AAPL/alpha_vantage/csv/TIME_SERIES_MONTHLY.csv columns: timestamp, open, high, low, close, volume rows: 314 date_range: 1999-12-31 to 2026-01-26 date_column: timestamp usage: This is numeric time-series data (prices/ohlcv). Do NOT semantic-search raw rows. Use a time-series loader/tool to read the CSV and compute returns, drawdowns, volatility, charts, and event-window performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:773de56a24174e6110b1b3bd1253c1f054478180dbe7c3e9dd4d9f5ed128bf71
+size 457

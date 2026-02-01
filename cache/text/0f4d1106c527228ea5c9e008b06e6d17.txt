@@ -1,1 +1,3 @@
-{ "label": "Documentos da Oferta P\u00fablica", "original_url": "https://www.investidores.nu/governanca/documentos-da-oferta-publica/", "final_url": "https://www.investidores.nu/governanca/documentos-da-oferta-publica/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebf16f65d62848e231ba0ff2c9a7a74e397c3c3d74cc4d4e0bae79231ebb9b58
+size 292

@@ -1,1 +1,3 @@
-{ "response": { "symbol": "MSFT", "data": [ { "effective_date": "2003-02-18", "split_factor": "2.0000" }, { "effective_date": "1999-03-29", "split_factor": "2.0000" } ] }, "request": { "function": "SPLITS", "apikey": "1W86SMG399FCFAIM", "symbol": "MSFT" }, "info": { "status_code": 200, "content_type": "application/json", "url": "https://www.alphavantage.co/query?function=SPLITS&apikey=1W86SMG399FCFAIM&symbol=MSFT" } }
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dccfa15f8bd75963ae0f3f0c1f652235199ee3a8ee77cee050d6e129cd45fdb
+size 421

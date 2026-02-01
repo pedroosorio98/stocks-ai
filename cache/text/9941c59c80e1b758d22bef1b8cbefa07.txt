@@ -1,1 +1,3 @@
-{ "label": "earnings-release", "original_url": "https://ri.ambev.com.br/en/reports-publications/earnings-release/", "final_url": "https://ri.ambev.com.br/en/reports-publications/earnings-release/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef64c46acb7d8ff8a3b6ba190e57ab0f72614da47fe7cebdb88da9686794b4e2
+size 269

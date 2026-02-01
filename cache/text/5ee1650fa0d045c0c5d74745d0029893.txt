@@ -1,1 +1,3 @@
-{ "label": "www.proxyvote.com", "original_url": "http://www.proxyvote.com/", "final_url": "https://east.proxyvote.com/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:498d982c0b9560930aaf09c003185ca553e37be36c0715acad8430c85cf030da
+size 192

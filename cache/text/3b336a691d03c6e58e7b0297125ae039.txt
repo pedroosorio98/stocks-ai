@@ -1,1 +1,3 @@
-{ "label": "Vivid Security", "original_url": "https://vividsecurity.ai/", "final_url": "https://www.vivid.security/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:b78ee966ddc6d3fb1acf14bb0dc5e63ae0a81ff5cb79e99844a47b54a47672f5
+size 189

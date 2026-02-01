@@ -1,1 +1,3 @@
-{ "label": "Fale com RI", "original_url": "https://ri.ambev.com.br/perguntas-frequentes/fale-com-ri/", "final_url": "https://ri.ambev.com.br/perguntas-frequentes/fale-com-ri/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:e83ffb192def143a0d885d1b683ca29b0c304df768c046dbb7afee4c289da805
+size 248

@@ -1,1 +1,3 @@
-{ "label": "Listen to the conference call webcast", "original_url": "https://www.apple.com/investor/earnings-call/", "final_url": "https://www.apple.com/investor/earnings-call/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc652ab24a389c9681994cbe28cdd01886f146e6c4c87a434b59a89094233c10
+size 250

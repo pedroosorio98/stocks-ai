@@ -1,1 +1,3 @@
-{ "response": { "symbol": "NU", "quarter": "", "transcript": [] }, "request": { "function": "EARNINGS_CALL_TRANSCRIPT", "apikey": "1W86SMG399FCFAIM", "symbol": "NU" }, "info": { "status_code": 200, "content_type": "application/json", "url": "https://www.alphavantage.co/query?function=EARNINGS_CALL_TRANSCRIPT&apikey=1W86SMG399FCFAIM&symbol=NU" } }
+version https://git-lfs.github.com/spec/v1
+oid sha256:04cb355b8f487b61e55af634e1590e9b7b21edc81db6d2fe1feeebbb0dc43174
+size 348

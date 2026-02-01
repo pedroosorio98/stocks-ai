@@ -1,9 +1,3 @@
-BPAC11
-BBDC4
-PETR4
-KLBN11
-WEGE3
-ABEV3
-ITUB4
-VALE3
-SANB11
+version https://git-lfs.github.com/spec/v1
+oid sha256:e837fcb51632565d283f6f93e0f1133a8ff100e8a3a948181c068aba8865c828
+size 64

@@ -1,1 +1,3 @@
-{ "label": "2014", "original_url": "https://www.berkshirehathaway.com/news/2014news.html", "final_url": "https://www.berkshirehathaway.com/news/2014news.html", "content_type": "text/html", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:958f0be9642d15c51c4ea4daadb3c6be52c29dfec0ab26b73069ac0c1c1a5ea2
+size 216

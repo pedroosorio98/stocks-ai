@@ -1,1 +1,3 @@
-{ "label": "Stocks, Dividends, and Bonds", "original_url": "https://www.investidorpetrobras.com.br/en/presentations-reports-and-events/annual-reports/", "final_url": "https://www.investidorpetrobras.com.br/en/presentations-reports-and-events/annual-reports/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:a56c7ebd358b6e70b6fecd9694e8db068b39970efca0dc883279bc486820621a
+size 331

@@ -1,1 +1,3 @@
-{ "label": "Webcast", "original_url": "https://events.q4inc.com/attendee/275609691", "final_url": "https://events.q4inc.com/attendee/275609691", "content_type": "text/html", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:7536254c744f33427b76bc5c262c47f2884f821be458e173de13f43306dc77da
+size 201

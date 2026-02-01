@@ -1,1 +1,3 @@
-{ "label": "Watch in ASL", "original_url": "https://events-delivery.apple.com/1008yunfyueoofvvgxpjmmvcblgnjsel/m3u8/vod_asl_index-nFnWZveZuANrefxakLbazLHNenqfpnnX.m3u8", "final_url": "https://events-delivery.apple.com/1008yunfyueoofvvgxpjmmvcblgnjsel/m3u8/vod_asl_index-nFnWZveZuANrefxakLbazLHNenqfpnnX.m3u8", "content_type": "application/vnd.apple.mpegurl", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:abe605503db95f615c1d897ff428b23bf75355fa9f1abd2e709a02a56474d42c
+size 386

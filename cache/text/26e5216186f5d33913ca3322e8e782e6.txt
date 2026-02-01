@@ -1,1 +1,3 @@
-{ "label": "Ir para a busca.", "original_url": "https://www.investidorpetrobras.com.br/resultados-e-comunicados/sec/#search", "final_url": "https://www.investidorpetrobras.com.br/resultados-e-comunicados/sec/#search", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ba19fb07d6a343f36758afb7b5fc0ac269fae70c2953e69f4644b753d4c021d
+size 289

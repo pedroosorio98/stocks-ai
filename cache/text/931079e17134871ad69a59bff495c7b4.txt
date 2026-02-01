@@ -1,1 +1,3 @@
-{ "label": "Press Release", "original_url": "https://www.apple.com/newsroom/2023/05/apple-reports-second-quarter-results/", "final_url": "https://www.apple.com/newsroom/2023/05/apple-reports-second-quarter-results/", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ca2e8d920402cacb770eea02c161f233b8a785443aaef26df22d20f1492c7bd
+size 287

@@ -1,1 +1,3 @@
-{ "label": "Integrated Reporting and ESG", "original_url": "https://www.bradescori.com.br/en/bradesco/integrated-reporting-and-esg/", "final_url": "https://www.bradescori.com.br/en/bradesco/integrated-reporting-and-esg/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:375d40033904fa39232b80050cc975102c9c04a7f29f733291b43eb271e8f002
+size 293

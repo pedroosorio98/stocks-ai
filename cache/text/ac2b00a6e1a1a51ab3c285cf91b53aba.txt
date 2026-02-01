@@ -1,1 +1,3 @@
-{ "label": "apple-reports-third-quarter-results", "original_url": "https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/", "final_url": "https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:196322ab22dd2257cdfc772ae09d4b6c0a88f5417a109a80b32f241cd11f21bc
+size 307

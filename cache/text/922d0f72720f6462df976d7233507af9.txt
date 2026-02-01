@@ -1,1 +1,3 @@
-[TIME SERIES DATASET CATALOG] ticker: AVGO frequency: intraday file: Data/AVGO/alpha_vantage/csv/TIME_SERIES_INTRADAY.csv columns: timestamp, open, high, low, close, volume rows: 100 date_range: 2026-01-15 to 2026-01-26 date_column: timestamp usage: This is numeric time-series data (prices/ohlcv). Do NOT semantic-search raw rows. Use a time-series loader/tool to read the CSV and compute returns, drawdowns, volatility, charts, and event-window performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e37cefd7cd2bb721bf8206d1d3406495681fa37c19af2366f11ba00d5167db86
+size 459

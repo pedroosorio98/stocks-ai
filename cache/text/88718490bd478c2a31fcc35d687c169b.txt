@@ -1,1 +1,3 @@
-{ "label": "Ir para o rodap\u00e9.", "original_url": "https://www.investidorpetrobras.com.br/apresentacoes-relatorios-e-eventos/apresentacoes/#rodape", "final_url": "https://www.investidorpetrobras.com.br/apresentacoes-relatorios-e-eventos/apresentacoes/#rodape", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:66fc8611bd9ee785d6344940397565c5de23e38521800ee62b01b9ad6995bbc4
+size 335

@@ -1,1 +1,3 @@
-{ "label": "6 trends every eCommerce leader must watch GET EXCLUSIVE REPORT", "original_url": "https://accessibe.com/industry-reports", "final_url": "https://accessibe.com/industry-reports", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:9964072fb4900b4d5d6760507321a2dcbfcb8fe27c068822058fef5830bbdd93
+size 261

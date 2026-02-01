@@ -1,1 +1,3 @@
-{ "label": "Annual Reports", "original_url": "https://ri.weg.net/en/financial-information/annual-reports/", "final_url": "https://ri.weg.net/en/financial-information/annual-reports/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:9287ca5b263f77ca033c3e3c82be98b8ad9396304ba6b0afb5c2653d654b4a72
+size 255

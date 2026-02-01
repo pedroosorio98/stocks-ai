@@ -1,1 +1,3 @@
-{ "label": "QIZ Security", "original_url": "http://www.qizsecurity.com/", "final_url": "https://qizsecurity.com/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:22f4601d73ab708155b26fad69136bb0d87213acf24c2fed8dae1ffe97874493
+size 186

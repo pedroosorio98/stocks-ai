@@ -1,1 +1,3 @@
-{ "label": "DOWNLOAD NOW", "original_url": "https://www.microsoft.com/investor/reports/ar06/staticversion/10k_dl_dow.html", "final_url": "https://www.microsoft.com/investor/reports/ar06/staticversion/10k_dl_dow.html", "content_type": "text/html", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c62921089063438525f99ebca41ee0ed3b5c29948e57f2cef1eb47ce6578f84
+size 274

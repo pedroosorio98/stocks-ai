@@ -1,1 +1,3 @@
-{ "label": "WEG Day", "original_url": "https://ri.weg.net/publicacoes-e-comunicados/apresentacoes-e-documentos/#apresentacoes_e_documentos_weg_day", "final_url": "https://ri.weg.net/publicacoes-e-comunicados/apresentacoes-e-documentos/#apresentacoes_e_documentos_weg_day", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b495f1a5766426884ee890de536ceadcd64375b15fe18b52def54d4cc19f7ce
+size 344

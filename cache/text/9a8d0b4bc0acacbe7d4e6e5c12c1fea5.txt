@@ -1,1 +1,3 @@
-{ "label": "Events", "original_url": "https://www.microsoft.com/en-us/Investor/events/default", "final_url": "https://www.microsoft.com/en-us/Investor/events/default", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:508e5f24d4334183e5f7e2c389d42f9223ace4900ec676423299d73e59d5538e
+size 239

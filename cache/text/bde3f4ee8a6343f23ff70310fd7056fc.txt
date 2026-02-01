@@ -1,1 +1,3 @@
-{ "response": { "Global Quote": { "01. symbol": "AVGO", "02. open": "319.8000", "03. high": "328.6800", "04. low": "317.6000", "05. price": "324.8500", "06. volume": "24788338", "07. latest trading day": "2026-01-26", "08. previous close": "320.0500", "09. change": "4.8000", "10. change percent": "1.4998%" } }, "request": { "function": "GLOBAL_QUOTE", "apikey": "1W86SMG399FCFAIM", "symbol": "AVGO" }, "info": { "status_code": 200, "content_type": "application/json", "url": "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&apikey=1W86SMG399FCFAIM&symbol=AVGO" } }
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ebc809586583abfd5cfe393e59091fc324c6e03c91ebbc616bb1e8b257d59cd
+size 574

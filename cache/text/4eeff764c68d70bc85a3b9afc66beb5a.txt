@@ -1,1 +1,3 @@
-Vivid Security VIVID Coming Soon Get Notified
+version https://git-lfs.github.com/spec/v1
+oid sha256:76bf9c31183e8c590b2f9a3eef500dbaa8ca9fa6d02c524d50a25f76f8b8ce7c
+size 45

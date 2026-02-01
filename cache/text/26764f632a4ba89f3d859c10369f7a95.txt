@@ -1,1 +1,3 @@
-{ "label": "Reports and Spreadsheets", "original_url": "https://www.bradescori.com.br/en/market-information/reports-and-spreadsheets/", "final_url": "https://www.bradescori.com.br/en/market-information/reports-and-spreadsheets/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0df1b911898ea3e8a639cc08e5314711cf9b22162658a6052aa33a9b4cec185
+size 301

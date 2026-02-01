@@ -1,1 +1,3 @@
-{ "label": "Results Center", "original_url": "https://ri.klabin.com.br/en/disclosures-and-results/results-center/", "final_url": "https://ri.klabin.com.br/en/disclosures-and-results/results-center/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:19879380682fed63178d64a8805433361620196123a804870191cbd43cfb4773
+size 271

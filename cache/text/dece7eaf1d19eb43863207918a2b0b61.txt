@@ -1,1 +1,3 @@
-{ "label": "VIEW ONLINE", "original_url": "https://www.microsoft.com/investor/reports/ar11/index.html", "final_url": "https://www.microsoft.com/investor/reports/ar11/index.html", "content_type": "text/html", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:4af51a58cb6afed8981e868478582a06dc10362ed5a7e618a0dd1082fe5d99d3
+size 235

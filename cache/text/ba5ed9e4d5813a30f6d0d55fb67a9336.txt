@@ -1,1 +1,3 @@
-{ "label": "en", "original_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/cvm-fillings/", "final_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/cvm-fillings/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:3826e6ad163ca291fde21f500da99a1147583bc6acf3b000f885682d6606c836
+size 287

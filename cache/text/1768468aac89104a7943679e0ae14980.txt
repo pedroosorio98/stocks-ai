@@ -1,1 +1,3 @@
-ï»¿ Microsoft 2014 Annual Report Menu --> Homepage Shareholder Letter Financial Highlights Financial Review Directors &amp; Officers Investor Relations &nbsp; &nbsp; Download Center Microsoft 2014 Annual Report View Online | Download Microsoft 2014 10-K View Online | Download Letter to Shareholders View Online | Download Download Center 2014 Proxy Statement Investor Relations Site Site Map Â© 2014 Microsoft Twitter Youtube Facebook
+version https://git-lfs.github.com/spec/v1
+oid sha256:45cc656f1ee0f78e73e0763e55e9fccf37a42c35d7547949d942288628acc17a
+size 440

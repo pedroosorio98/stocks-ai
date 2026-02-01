@@ -1,1 +1,3 @@
-{ "original_symbol": "NU", "working_symbol": "NU", "variants_tried": [ "NU" ] }
+version https://git-lfs.github.com/spec/v1
+oid sha256:20a49548a08eae022a58bc62954121a9b90ecb73229a78ab6084d935eac1a983
+size 79

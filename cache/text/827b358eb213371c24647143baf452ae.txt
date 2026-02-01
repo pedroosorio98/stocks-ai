@@ -1,1 +1,3 @@
-{ "label": "Browser Test opens in new window.", "original_url": "https://event.webcasts.com/viewer/faq.jsp?mType=a&closebtn=no&useHtml5Slide=true&ishtml5player=true", "final_url": "https://event.webcasts.com/viewer/faq.jsp?mType=a&closebtn=no&useHtml5Slide=true&ishtml5player=true", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a1983e5111f529776140e45c8a8bf6f4bb5d4a96cc7b5fd8df06b2d1055cd35
+size 353

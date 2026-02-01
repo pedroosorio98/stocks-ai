@@ -1,1 +1,3 @@
-{ "label": "Press Release", "original_url": "https://www.apple.com/newsroom/2024/08/apple-reports-third-quarter-results/", "final_url": "https://www.apple.com/newsroom/2024/08/apple-reports-third-quarter-results/", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:be2845988055d822551419aeedbeb7e1778a2f4a46f7f643355cd5a880a19ba5
+size 285

@@ -1,1 +1,3 @@
-{ "label": "Perguntas Frequentes", "original_url": "https://ri.ambev.com.br/perguntas-frequentes/", "final_url": "https://ri.ambev.com.br/perguntas-frequentes/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:a458620dc1d253899b0afa56e697a9f205052e22e227ef2f73ab529a53c108a1
+size 233

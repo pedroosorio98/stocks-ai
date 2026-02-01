@@ -1,1 +1,3 @@
-{ "original_symbol": "BRK.B", "working_symbol": "BRK.B", "variants_tried": [ "BRK.B", "BRK-B", "BRKB" ] }
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab4c4f0951ff62e5876e4250e5bb0517bf6a731d66a618a70e99cd961116c1be
+size 105

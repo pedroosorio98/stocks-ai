@@ -1,1 +1,3 @@
-{ "label": "Results Center", "original_url": "https://www.bradescori.com.br/en/market-information/results-center/", "final_url": "https://www.bradescori.com.br/en/market-information/results-center/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc027f60e9ae9ea691d420032cd745cc0a5c93546a736d5ac1911cc8af84909b
+size 271

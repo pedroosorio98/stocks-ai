@@ -1,1 +1,3 @@
-[CSV file: splits.csv] Date: 2021-07-01 00:00:00-03:00 | Stock Splits: 4.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b6c3a655a86094f0f064edcd60a149d17e37083fb5db06443cc24ae615c02dc
+size 74

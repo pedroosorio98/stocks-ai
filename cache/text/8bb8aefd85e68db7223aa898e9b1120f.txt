@@ -1,1 +1,3 @@
-ï»¿ Microsoft 2013 Annual Report Home Menu Annual Report 2013 Close Shareholder Letter Financial Highlights Financial Review Directors and Officers Investor Relations Download Center 2013 Proxy Statement Investor Relations Site Site Map Twitter Facebook YouTube &copy; 2013 Microsoft Credits Created by CSG
+version https://git-lfs.github.com/spec/v1
+oid sha256:777a50d353d500ab69398436a8ffbf8f2ce2f66162cd098c69911cf2b4a9b00d
+size 309

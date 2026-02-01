@@ -1,1 +1,3 @@
-{ "label": "Rating", "original_url": "https://ri.klabin.com.br/en/financial-information/rating/", "final_url": "https://ri.klabin.com.br/en/financial-information/rating/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d478c85c001723be170d347792c912fffce0c13aa1258c0b0b50d6261c1a090
+size 243

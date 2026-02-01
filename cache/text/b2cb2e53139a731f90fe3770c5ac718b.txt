@@ -1,1 +1,3 @@
-{ "label": "Press Release & Webcast", "original_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast", "final_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:72333f4cf43b187e2e2941bfaa46954b8a895a323480fa72b99cd83dcb258fdb
+size 310

@@ -1,1 +1,3 @@
-{ "label": "Documents", "original_url": "https://www.investidores.nu/en/governance/governance-documents/", "final_url": "https://www.investidores.nu/en/governance/governance-documents/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:4203c199e8ad4a9fac25b041aafec68a43250a156c8d50bf64d9314a904b514c
+size 258

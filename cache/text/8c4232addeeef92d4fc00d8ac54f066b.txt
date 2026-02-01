@@ -1,1 +1,3 @@
-{ "label": "Documents", "original_url": "https://www.sec.gov/Archives/edgar/data/1471055/000129281425003653/0001292814-25-003653-index.htm", "final_url": "https://www.sec.gov/Archives/edgar/data/1471055/000129281425003653/0001292814-25-003653-index.htm", "content_type": "text/html", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dbaf7a63d04c6ed761d264b3be553cec8fc1d90994c07a5a873263d846b8330
+size 311

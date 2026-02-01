@@ -1,1 +1,3 @@
-KLABIN S.A. CNPJ nº 89.637.490/0001-45 NIRE 35300188349 Companhia Aberta COMUNICADO AO MERCADO A KLABIN S.A. (“Klabin” ou "Companhia"), comunica aos seus acionistas e ao mercado em geral que , nesta data , a agência de classificação de riscos Moody’s (“Moody’s”) reafirmou o rating da Companhia em “B a1” na escala global com manutenção da perspectiva estável. Para acessar o relatório completo da Moody’s, clique aqui. São Paulo, 28 de janeiro de 2026 Maria Gabriela Woge Liguori Diretora Financeira e de Relações com Investidores
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bb09ca99b3aa1bf108570b4a3269cd1be7c2151b954977b3db911c26f998485
+size 560

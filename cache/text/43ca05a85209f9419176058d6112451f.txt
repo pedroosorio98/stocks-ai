@@ -1,1 +1,3 @@
-{ "label": "Presentations and Documents", "original_url": "https://ri.weg.net/en/publications-and-documents/presentations-and-documents/", "final_url": "https://ri.weg.net/en/publications-and-documents/presentations-and-documents/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dcb269c32240d087a026f81e2be65f90593f9de1cd27ef426d010868895c286
+size 304

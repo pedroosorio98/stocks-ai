@@ -1,1 +1,3 @@
-{ "label": "Shareholder Structure Breakdown", "original_url": "https://ri.btgpactual.com/en/corporate-governance/composicao-societaria/", "final_url": "https://ri.btgpactual.com/en/corporate-governance/composicao-societaria/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e9b0c5c458e4bd6850c83625d951c53f23030d5054d8cf8f7066ba9e8bca4ff
+size 298

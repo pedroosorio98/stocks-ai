@@ -1,1 +1,3 @@
-{ "label": "Sustainability Reports", "original_url": "https://rs2024.klabin.com.br/en/home", "final_url": "https://rs2024.klabin.com.br/en/home", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e3a4599466688b87af8691ae1dff5c40143c7974a3e819411321be9e97f5c7c
+size 216

@@ -1,1 +1,3 @@
-{ "label": "events-calendar", "original_url": "https://ri.ambev.com.br/en/events-calendar/", "final_url": "https://ri.ambev.com.br/en/events-calendar/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:f99584f9d3ba4deec4263042829196fb75ab3974fade423c0c1fb95085186862
+size 224

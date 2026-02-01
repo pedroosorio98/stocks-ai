@@ -1,1 +1,3 @@
-{ "label": "RSS Feed", "original_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001471055&type=&dateb=&owner=exclude&start=0&count=40&output=atom", "final_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001471055&type=&dateb=&owner=exclude&start=0&count=40&output=atom", "content_type": "application/atom+xml", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2413f044da8849d141b2cce4c83f17b87e5b0ad9adfc86c8fd18dfa4656b5ae
+size 385

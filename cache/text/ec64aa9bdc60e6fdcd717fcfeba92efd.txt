@@ -1,1 +1,3 @@
-{ "label": "js", "original_url": "https://www.googletagmanager.com/gtag/js?id=G-R8K2G3MP4J&cx=c&_slc=1", "final_url": "https://www.googletagmanager.com/gtag/js?id=G-R8K2G3MP4J&cx=c&_slc=1", "content_type": "application/javascript; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:49bd1e4d3f0ee62679cc7d87b79debacd97a08c9d138abf460dd25446aad03b1
+size 274

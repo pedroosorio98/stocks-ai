@@ -1,1 +1,3 @@
-[CSV file: major_holders.csv] Unnamed: 0: insidersPercentHeld | Value: 1.0000001e-05 Unnamed: 0: institutionsPercentHeld | Value: 0.23895 Unnamed: 0: institutionsFloatPercentHeld | Value: 0.23895 Unnamed: 0: institutionsCount | Value: 438.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:d47abe0a107ed611f76fae1ddca4bba19dc89aa8134a4cb56d118902dd8cec7f
+size 240

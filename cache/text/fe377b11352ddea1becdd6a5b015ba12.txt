@@ -1,1 +1,3 @@
-{ "label": "security is our top priority", "original_url": "http://aws.amazon.com/security/culture-of-security", "final_url": "https://aws.amazon.com/security/culture-of-security/", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd31b269e84d73f8fbe0df3a712eeffdc1630ddb85d0970d5d6599fc385eeac9
+size 252

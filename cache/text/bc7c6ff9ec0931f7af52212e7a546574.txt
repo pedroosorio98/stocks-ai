@@ -1,1 +1,3 @@
-{ "label": "Events Calendar", "original_url": "https://www.investidores.nu/en/news-events/events-calendar/", "final_url": "https://www.investidores.nu/en/news-events/events-calendar/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:5593fe5a1e4286cc08a01d5aa1ec1661e0a2c77daf90d1532adda7aba386e7fe
+size 256

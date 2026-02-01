@@ -1,1 +1,3 @@
-{ "label": "Calendar of Events", "original_url": "https://www.santander.com.br/ri/en/corporate-information/calendar-of-events/", "final_url": "https://www.santander.com.br/ri/en/corporate-information/calendar-of-events/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:71f0b121d24cfd9013574083f43d958b71f723ef86c1fa15cfe4c99251a518cc
+size 293

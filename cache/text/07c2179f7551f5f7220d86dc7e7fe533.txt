@@ -1,1 +1,3 @@
-{ "label": "Voting Results", "original_url": "https://www.microsoft.com/en-us/investor/corporate-governance/votingresults", "final_url": "https://www.microsoft.com/en-us/investor/corporate-governance/votingresults", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:df5f8cf0cba36306a77a7ea3bf03b07a44f1b3aa14689278267609f76da74e18
+size 287

@@ -1,1 +1,3 @@
-{ "label": "Annual Meeting", "original_url": "https://www.investidores.nu/en/annual-general-meeting/", "final_url": "https://www.investidores.nu/en/annual-general-meeting/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d4283426f798510f53f57624f8268cf20fee1bd8b8204ee7a69d0eb48061edd
+size 245

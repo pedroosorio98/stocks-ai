@@ -1,1 +1,3 @@
-{ "label": "IR Releases", "original_url": "https://www.investidorpetrobras.com.br/en/investor-services/ir-releases/", "final_url": "https://www.investidorpetrobras.com.br/en/investor-services/ir-releases/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ae18454cda192d2440dfd67561e288a40c9972994972c395ce61dee09596e05
+size 278

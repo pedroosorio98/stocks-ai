@@ -1,1 +1,3 @@
-{ "ticker": "NU", "cik": 1691493, "form": "DRSLTR", "filing_date": "2021-08-02", "accession": "0000950103-21-011704", "primary_document": "filename1.htm" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:652c0389b0aa81701107b811a29e5f0f27aa1447610356ee163605ea0a8e6dd8
+size 155

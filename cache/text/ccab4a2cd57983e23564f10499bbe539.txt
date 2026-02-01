@@ -1,1 +1,3 @@
-{ "label": "apple-reports-fourth-quarter-results", "original_url": "https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/", "final_url": "https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:39afd29a61d29cc96578ecd9a0cee3290224de91732ad147d652dae0249021f9
+size 310

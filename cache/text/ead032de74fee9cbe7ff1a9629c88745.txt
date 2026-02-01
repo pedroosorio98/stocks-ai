@@ -1,1 +1,3 @@
-{ "label": "Comprehensive Income", "original_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/comprehensive-income", "final_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/comprehensive-income", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a930d2f423a7fdf377b91372dae7feb86183ac03a0f2e0dacec404e4c309a49
+size 305

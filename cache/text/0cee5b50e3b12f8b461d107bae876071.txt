@@ -1,1 +1,3 @@
-{ "label": "SEC", "original_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/sec/", "final_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/sec/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:6211a9a2876b7b6b284828928aac4f4661e647c7273dfff18c23584ac95e0360
+size 270

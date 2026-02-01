@@ -1,1 +1,3 @@
-Teleconferência de Resultados: 2º trimestre de 2024 - YouTube Sobre Imprensa Direitos autorais Entre em contato Criadores de conteúdo Publicidade Desenvolvedores Termos Privacidade Política e segurança Como funciona o YouTube Testar os novos recursos &copy; 2026 Google LLC
+version https://git-lfs.github.com/spec/v1
+oid sha256:9956602cdad5fb9a1c0037f296b6316a710deab2c391c30e763c17fb0ac081dc
+size 278

@@ -1,1 +1,3 @@
-{ "label": "Conditions of Use", "original_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508088", "final_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508088", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:738b7fcc38ac518c74a601c134432868c7dfed17ee723e7dcf90a256a52a3104
+size 271

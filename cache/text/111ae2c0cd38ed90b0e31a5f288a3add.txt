@@ -1,1 +1,3 @@
-{ "label": "Shareholders Meetings", "original_url": "https://www.bradescori.com.br/en/bradesco/corporate-governance/shareholders-meetings/", "final_url": "https://www.bradescori.com.br/en/bradesco/corporate-governance/shareholders-meetings/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:d915470f5d8e3b6d71d332f4f5bd82d1c62a3397709340bf0097ba0985221809
+size 314

@@ -1,1 +1,3 @@
-{ "ticker": "NVDA", "cik": 1045810, "form": "8-K", "filing_date": "2021-06-07", "accession": "0001045810-21-000075", "primary_document": "nvda-20210603.htm" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:eca70540636bff9cb3b5327e5ac9decc0c27b3b10e47ebd2a91e24135547e664
+size 158

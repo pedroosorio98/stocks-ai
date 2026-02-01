@@ -1,1 +1,3 @@
-{ "label": "Annual Meeting & Proxy", "original_url": "https://www.microsoft.com/en-us/investor/annual-meeting", "final_url": "https://www.microsoft.com/en-us/investor/annual-meeting", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:09a83ece621a1ffbab37525a9a87a14f62fb3086011826c40839de3d6067b869
+size 255

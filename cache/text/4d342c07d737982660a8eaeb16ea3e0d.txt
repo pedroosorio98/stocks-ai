@@ -1,1 +1,3 @@
-[CSV file: OVERVIEW__overview.csv] Symbol: META | AssetType: Common Stock | Name: Meta Platforms Inc. | Description: Meta Platforms, Inc., headquartered in Menlo Park, California, is a dominant player in the technology sector, primarily recognized for its influential social media platforms such as Facebook, Instagra… | CIK: 1326801 | Exchange: NASDAQ | Currency: USD | Country: USA | Sector: COMMUNICATION SERVICES | Industry: INTERNET CONTENT & INFORMATION | Address: 1 META WAY, MENLO PARK, CA, UNITED STATES, 94025 | OfficialSite: https://investor.atmeta.com | FiscalYearEnd: December | LatestQuarter: 2025-09-30 | MarketCapitaliz…
+version https://git-lfs.github.com/spec/v1
+oid sha256:575c63b63888d45da72ae52b3bbdf39f6cf4321b925f0d3d930c24420b92b3c0
+size 640

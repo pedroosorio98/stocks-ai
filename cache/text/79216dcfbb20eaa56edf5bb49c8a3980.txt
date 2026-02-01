@@ -1,1 +1,3 @@
-{ "label": "Minutes and Shareholders Meetings", "original_url": "https://www.santander.com.br/ri/en/corporate-information/minutes-and-shareholders-meetings/", "final_url": "https://www.santander.com.br/ri/en/corporate-information/minutes-and-shareholders-meetings/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:a59fc366284316837ca4fbe0629976351acfd5a949406f05852caad5b35cd23d
+size 338

@@ -1,1 +1,3 @@
-[TIME SERIES DATASET CATALOG] ticker: AVGO frequency: weekly file: Data/AVGO/alpha_vantage/csv/TIME_SERIES_WEEKLY.csv columns: timestamp, open, high, low, close, volume rows: 860 date_range: 2009-08-14 to 2026-01-26 date_column: timestamp usage: This is numeric time-series data (prices/ohlcv). Do NOT semantic-search raw rows. Use a time-series loader/tool to read the CSV and compute returns, drawdowns, volatility, charts, and event-window performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0618b1232ae86bde0f31d86dfc8b7892d96678c7f4127b117c8c254cc51a6471
+size 455

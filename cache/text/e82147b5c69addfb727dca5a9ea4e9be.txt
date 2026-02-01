@@ -1,1 +1,3 @@
-{ "label": "Formul\u00e1rio de Refer\u00eancia e Cadastral", "original_url": "https://ri.weg.net/informacoes-financeiras/formulario-de-referencia-e-cadastral/", "final_url": "https://ri.weg.net/informacoes-financeiras/formulario-de-referencia-e-cadastral/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:6254ad096335fec0db10dec04481d8919407a4212e93b6a1e88c787eb213aced
+size 329

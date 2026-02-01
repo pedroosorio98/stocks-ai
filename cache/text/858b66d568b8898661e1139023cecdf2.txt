@@ -1,1 +1,3 @@
-{ "label": "Mailing", "original_url": "https://ri.ambev.com.br/perguntas-frequentes/mailing/", "final_url": "https://ri.ambev.com.br/perguntas-frequentes/mailing/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:75275e1211de2fbb2686a96814a212f96e47a24260f9bb961f9c24d5bcdd79bd
+size 236

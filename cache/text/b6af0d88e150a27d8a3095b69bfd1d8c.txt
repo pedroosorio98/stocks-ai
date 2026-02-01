@@ -1,1 +1,3 @@
-{ "response": { "symbol": "NU", "status": "invalid request", "data": [] }, "request": { "function": "SHARES_OUTSTANDING", "apikey": "1W86SMG399FCFAIM", "symbol": "NU" }, "info": { "status_code": 200, "content_type": "application/json", "url": "https://www.alphavantage.co/query?function=SHARES_OUTSTANDING&apikey=1W86SMG399FCFAIM&symbol=NU" } }
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae14530c1efdc4c0f98ba6e82d6479b010e9383364b96aeb3775a3a951fe8628
+size 344

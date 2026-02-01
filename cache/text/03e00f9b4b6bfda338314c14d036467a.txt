@@ -1,1 +1,3 @@
-{ "label": "Nimble Security", "original_url": "https://www.nimble.security/", "final_url": "https://www.nimble.security/", "content_type": "text/html", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:e929316b7ab5bc3f3200278427b5e4fecaf76f76698979feac6b586327a808dc
+size 179

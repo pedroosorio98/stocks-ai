@@ -1,1 +1,3 @@
-{ "label": "Not\u00edcias & Eventos", "original_url": "https://www.investidores.nu/assembleia-geral-ordinaria/", "final_url": "https://www.investidores.nu/assembleia-geral-ordinaria/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe33580b899c28c32f4cb7ebdf501c206c7538cfa772019b8e0440174f436685
+size 256

@@ -1,1 +1,3 @@
-[CSV file: SPLITS__data.csv] effective_date: 2003-02-18 | split_factor: 2.0 effective_date: 1999-03-29 | split_factor: 2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:37e1f15436c879c0b614a96d57440211b091fbd05f22879a2b7aacd528a3a05b
+size 122

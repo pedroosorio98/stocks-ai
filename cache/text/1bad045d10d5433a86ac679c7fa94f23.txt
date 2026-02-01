@@ -1,1 +1,3 @@
-{ "label": "DOWNLOAD NOW", "original_url": "https://www.microsoft.com/investor/reports/ar02/downloads/default.htm", "final_url": "https://www.microsoft.com/investor/reports/ar02/downloads/default.htm", "content_type": "text/html", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c6d25ae94ffa6ef24a228ca875898884a4beaa6aed60a38d3ea1e2da3afda28
+size 258

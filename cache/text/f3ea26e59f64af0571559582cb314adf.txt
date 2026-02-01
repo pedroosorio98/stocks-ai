@@ -1,1 +1,3 @@
-ï»¿ MSFT Annual Report 2011 Microsoft Corporation 2011 Annual Report Home Shareholder Letter Financial Highlights Financial Review Directors and Officers Investor Relations Download Center Download Center Microsoft 2011 Annual Report View Online | Download Microsoft 2011 10-K View Online | Download Letter to Shareholders View Online | Download Download Center 2011 Proxy Statement Investor Relations Website Site Map
+version https://git-lfs.github.com/spec/v1
+oid sha256:68d894e95afe97af2d1a9a1ac6c83506c737a12e96d0deef5f3613a11116ef00
+size 421

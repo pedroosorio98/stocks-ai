@@ -1,1 +1,3 @@
-Divulgação de resultados - 1T24 Klabin - YouTube Sobre Imprensa Direitos autorais Entre em contato Criadores de conteúdo Publicidade Desenvolvedores Termos Privacidade Política e segurança Como funciona o YouTube Testar os novos recursos &copy; 2026 Google LLC
+version https://git-lfs.github.com/spec/v1
+oid sha256:cca582f827954997ae6c90bfb110196f8c28cbabf0f8de160059d976219784e4
+size 265

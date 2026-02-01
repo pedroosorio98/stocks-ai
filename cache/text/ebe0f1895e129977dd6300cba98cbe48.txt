@@ -1,1 +1,3 @@
-{ "label": "Jazz Security", "original_url": "https://jazz.security/", "final_url": "https://jazz.security/", "content_type": "text/html", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:d78a813ff25c1ba7ea3f3e2ac9d1dc75174b2a27b8a0d3e7dbc8795aae288be8
+size 165

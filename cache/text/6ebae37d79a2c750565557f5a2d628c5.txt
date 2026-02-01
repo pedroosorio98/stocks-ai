@@ -1,1 +1,3 @@
-{ "label": "WRITER and AWS Team Up to Make Enterprise Agents More Scalable and Secure", "original_url": "https://press.aboutamazon.com/2025/12/writer-and-aws-team-up-to-make-enterprise-agents-more-scalable-and-secure", "final_url": "https://press.aboutamazon.com/2025/12/writer-and-aws-team-up-to-make-enterprise-agents-more-scalable-and-secure", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4702b007e1ba220d078965352c63fb13508047104a10125e616cfbd5ad312d3
+size 417

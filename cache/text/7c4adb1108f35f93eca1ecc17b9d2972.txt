@@ -1,1 +1,3 @@
-{ "label": "Webcast", "original_url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2", "final_url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:336c0e3534d9642916d1bc105571219487abcc0ac153dc4e63e343ff8ed39447
+size 280

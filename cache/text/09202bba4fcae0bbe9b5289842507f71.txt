@@ -1,1 +1,3 @@
-{ "label": "Annual Reports", "original_url": "https://ri.btgpactual.com/en/main-information/annual-reports/", "final_url": "https://ri.btgpactual.com/en/main-information/annual-reports/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:be236ba3a23541744e61840d57a8ba37be7dd61c3324cb81bbd716a0f0d2d32e
+size 259

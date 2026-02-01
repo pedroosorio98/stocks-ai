@@ -1,1 +1,3 @@
-{ "label": "C\u00f3digo de defesa do consumidor", "original_url": "http://www.planalto.gov.br/ccivil_03/Leis/L8078compilado.htm", "final_url": "http://www.planalto.gov.br/ccivil_03/Leis/L8078compilado.htm", "content_type": "text/html", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:3785f38076e25a2df894e2c96c6fc022502e31765fc02a0079a8dc5f36e3f689
+size 263

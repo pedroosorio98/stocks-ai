@@ -1,1 +1,3 @@
-{ "label": "gtm.js", "original_url": "https://www.googletagmanager.com/gtm.js?id=GTM-MP8332T", "final_url": "https://www.googletagmanager.com/gtm.js?id=GTM-MP8332T", "content_type": "application/javascript; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:79f06e90e85a48e86a961d8ea504da94dc2f8827b2c9c850c43247f8ddd8df3a
+size 250

@@ -1,1 +1,3 @@
-{ "label": "Go to the footer.", "original_url": "https://www.investidorpetrobras.com.br/en/presentations-reports-and-events/annual-reports/#rodape", "final_url": "https://www.investidorpetrobras.com.br/en/presentations-reports-and-events/annual-reports/#rodape", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce25e10a8e883e9e7f2dda374c2603bfd4147d4b4ea66eeeb9f9e08300c163ab
+size 334

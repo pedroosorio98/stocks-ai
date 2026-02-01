@@ -1,1 +1,3 @@
-{ "label": "General Shareholder", "original_url": "https://www.investidorpetrobras.com.br/en/general-shareholder/", "final_url": "https://www.investidorpetrobras.com.br/en/general-shareholder/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:056178a634bbe4bc3602bacbdcd04a3af1b8d485901c2c7d38fba2960859215a
+size 266

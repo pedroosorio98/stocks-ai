@@ -1,1 +1,3 @@
-{ "label": "Notices and Material Facts", "original_url": "https://ri.weg.net/en/publications-and-documents/notices-and-material-facts/", "final_url": "https://ri.weg.net/en/publications-and-documents/notices-and-material-facts/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad23aa1bde1240f6f5cb11dd4c51ab402180596dc0f3cf7e16281ccbae35e40d
+size 301

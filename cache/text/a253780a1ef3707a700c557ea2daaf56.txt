@@ -1,1 +1,3 @@
-[TIME SERIES DATASET CATALOG] ticker: META frequency: weekly file: Data/META/alpha_vantage/csv/TIME_SERIES_WEEKLY_ADJUSTED.csv columns: timestamp, open, high, low, close, adjusted close, volume, dividend amount rows: 715 date_range: 2012-05-25 to 2026-01-26 date_column: timestamp usage: This is numeric time-series data (prices/ohlcv). Do NOT semantic-search raw rows. Use a time-series loader/tool to read the CSV and compute returns, drawdowns, volatility, charts, and event-window performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2f8b7dedd04f72e1b8f51ed2817bb74ec9c5631b2094d7b051dbf39cc783201
+size 497

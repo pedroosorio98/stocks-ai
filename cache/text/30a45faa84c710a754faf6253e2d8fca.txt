@@ -1,1 +1,3 @@
-{ "label": "Informa\u00e7\u00f5es aos Acionistas", "original_url": "https://ri.ambev.com.br/relatorios-publicacoes/publicacoes-cvm-sec/", "final_url": "https://ri.ambev.com.br/relatorios-publicacoes/publicacoes-cvm-sec/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d8eb2d1b79d0002542da693e460a887d56f549b3ca322a1139d5434251cde18
+size 293

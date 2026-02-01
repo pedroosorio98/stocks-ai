@@ -1,1 +1,3 @@
-{ "label": "ADR Program for Foreign Investors", "original_url": "https://ri.ambev.com.br/en/informacoes-aos-acionistas/adr-program-for-foreign-investors/", "final_url": "https://ri.ambev.com.br/en/informacoes-aos-acionistas/adr-program-for-foreign-investors/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ddfb1f09985121ba989c34ccfbe3ad62c859090a821f641a1ac5bca2c0f656e
+size 332

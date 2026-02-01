@@ -1,1 +1,3 @@
-{ "ticker": "NVDA", "cik": 1045810, "form": "DEF 14A", "filing_date": "2020-04-29", "accession": "0001045810-20-000055", "primary_document": "nvda2020definitiveproxysta.htm" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:1788a76c0f1f85f2d341f0cd2b80137b2a6110587e1ee514bf42620c73881b63
+size 175

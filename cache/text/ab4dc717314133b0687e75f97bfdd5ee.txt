@@ -1,1 +1,3 @@
-[TIME SERIES DATASET CATALOG] ticker: BRK.B frequency: intraday file: Data/BRK.B/alpha_vantage/csv/TIME_SERIES_INTRADAY.csv columns: timestamp, open, high, low, close, volume rows: 100 date_range: 2026-01-15 to 2026-01-26 date_column: timestamp usage: This is numeric time-series data (prices/ohlcv). Do NOT semantic-search raw rows. Use a time-series loader/tool to read the CSV and compute returns, drawdowns, volatility, charts, and event-window performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64ffd894ebd90e88c3e28c2369fd021b6f58e67f215697a8f4d7a672f94544dc
+size 461

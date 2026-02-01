@@ -1,1 +1,3 @@
-{ "label": "Publica\u00e7\u00f5es e Comunicados", "original_url": "https://ri.weg.net/governanca-corporativa/assembleias-e-reunioes/", "final_url": "https://ri.weg.net/governanca-corporativa/assembleias-e-reunioes/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd4854c57ffa99cbb914bbe95f43417b06fc97dc13d4e350c48ad6fd97299106
+size 288

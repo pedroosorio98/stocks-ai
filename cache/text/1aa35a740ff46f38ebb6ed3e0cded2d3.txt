@@ -1,1 +1,3 @@
-{ "label": "apple-reports-second-quarter-results", "original_url": "https://www.apple.com/newsroom/2022/04/apple-reports-second-quarter-results/", "final_url": "https://www.apple.com/newsroom/2022/04/apple-reports-second-quarter-results/", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:b86d85062493b8b54f7fdb484cf7cabdbd14151528ed17bd604074bab22f8984
+size 310

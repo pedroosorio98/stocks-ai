@@ -1,1 +1,3 @@
-{ "label": "Relat\u00f3rios e Planilhas", "original_url": "https://www.bradescori.com.br/informacoes-ao-mercado/relatorios-e-planilhas/relatorios/", "final_url": "https://www.bradescori.com.br/informacoes-ao-mercado/relatorios-e-planilhas/relatorios/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:88a617db6040d7b1b6a5ee9c6797b1b2ea22e538a822ed566f0d5d8ed1a6d715
+size 324

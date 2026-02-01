@@ -1,1 +1,3 @@
-ï»¿ Microsoft 2016 Annual Report | Download Center Microsoft 2016 Annual Report Home Shareholder Letter Financial Highlights Financial Review Directors &amp; Officers Investor Relations Investor Relations Site Download Center 2016 Proxy Statement YouTube Facebook Twitter Download Center Microsoft 2016 Annual Report View Online | Download Microsoft 2016 10-K View Online | Download Letter to Shareholders View Online | Download
+version https://git-lfs.github.com/spec/v1
+oid sha256:168658455e6ede852a0663711cd46c8b0bafd89e17cc87bf6a850e1dae218384
+size 431

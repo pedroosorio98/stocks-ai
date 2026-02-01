@@ -1,1 +1,3 @@
-[CSV file: GLOBAL_QUOTE__quote.csv] 01. symbol: META | 02. open: 665.125 | 03. high: 675.28 | 04. low: 661.2855 | 05. price: 672.36 | 06. volume: 16082650 | 07. latest trading day: 2026-01-26 | 08. previous close: 658.76 | 09. change: 13.6 | 10. change percent: 2.0645%
+version https://git-lfs.github.com/spec/v1
+oid sha256:55ab047a42dc32c28f177050e83c97198faf291c84090c523d34231a818d8cbb
+size 269

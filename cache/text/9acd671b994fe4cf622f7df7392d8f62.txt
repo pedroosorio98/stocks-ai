@@ -1,1 +1,3 @@
-[CSV file: OVERVIEW__overview.csv] Symbol: NU | AssetType: Common Stock | Name: Nu Holdings Ltd | Description: Nu Holdings Ltd. is a pioneering fintech company headquartered in Grand Cayman, Cayman Islands, that is fundamentally transforming the financial services landscape in Latin America. Specializing in a … | CIK: 1691493 | Exchange: NYSE | Currency: USD | Country: USA | Sector: FINANCIAL SERVICES | Industry: BANKS - REGIONAL | Address: RUA CAPOTE VALENTE, 39, SÃO PAULO, SP, BRAZIL, 05409-000 | OfficialSite: https://www.nubank.com.br | FiscalYearEnd: December | LatestQuarter: 2025-09-30 | MarketCapitalization: 87414186000 |…
+version https://git-lfs.github.com/spec/v1
+oid sha256:12e6a5e29b1aa31d0ba4bf1540be5b5ad3f7a1b626d508ce0dc93f5b1b24498f
+size 641

@@ -1,1 +1,3 @@
-{ "label": "Notice to Shareholders and Debenture Holders", "original_url": "https://www.investidorpetrobras.com.br/en/notice-to-shareholders-and-debenture-holders/", "final_url": "https://www.investidorpetrobras.com.br/en/notice-to-shareholders-and-debenture-holders/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a6c99b05099e43ffc4cc2792368d9c8cb70554a6ef8ae11bc92b765b25c4449
+size 341

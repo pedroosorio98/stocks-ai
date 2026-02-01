@@ -1,1 +1,3 @@
-{ "label": "SEC Santander", "original_url": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=bsbr&owner=exclude&action=getcompany&Find=Search", "final_url": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=bsbr&owner=exclude&action=getcompany&Find=Search", "content_type": "text/html", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:89da78a148a6917934fa8fd7662145abda7174cf3f7defaa4f2525b0c4c568a8
+size 307

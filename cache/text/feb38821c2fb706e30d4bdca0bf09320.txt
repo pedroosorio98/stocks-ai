@@ -1,1 +1,3 @@
-{ "label": "Hush Security", "original_url": "https://hush.security/", "final_url": "https://www.hush.security/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:27f694e638dbfd94ee3453bcd5080039ac3ec4842c5098ffe0887f614642a4ba
+size 184

@@ -1,1 +1,3 @@
-{ "label": "Contato com RI", "original_url": "https://www.investidores.nu/noticias-eventos/contato-com-ri/", "final_url": "https://www.investidores.nu/noticias-eventos/contato-com-ri/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:d831b6cc06a588156b11850f695676de3c4b303d69204198a3af66f151298426
+size 257

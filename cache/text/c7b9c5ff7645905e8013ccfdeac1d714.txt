@@ -1,1 +1,3 @@
-MSFT Annual Report 2005
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd99b1e1aa9606e95737db84b9bb35b4dc50c9b6338d6d76fbe4aee8fe34a321
+size 23

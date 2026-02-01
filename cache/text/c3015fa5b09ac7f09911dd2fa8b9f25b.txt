@@ -1,1 +1,3 @@
-{ "label": "Notice to the Market", "original_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/notice-to-the-market/", "final_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/notice-to-the-market/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:44801ab420c8e37d30d85416480d9ef092210cf13a1121ead8d2b4e73ccfd057
+size 321

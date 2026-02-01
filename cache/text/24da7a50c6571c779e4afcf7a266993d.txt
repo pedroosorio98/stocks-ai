@@ -1,1 +1,3 @@
-{ "label": "Press Release", "original_url": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/", "final_url": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ef078d7d8aa5bfaa0b26602364bcd4c7460cc0778c687d96d0ff88ed6b3014e
+size 287

@@ -1,1 +1,3 @@
-Formulário de Referência - Vale ~;{}(\[\]):=]/g,'')"> Aperte "Enter" para pesquisar. Todos Resultados de
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a14adc255c1b10a5036a9e526c210cbfe06fe81d0568399e3a9e5a2658ba2b3
+size 106

@@ -1,1 +1,3 @@
-{ "label": "Results Center", "original_url": "https://ri.weg.net/en/financial-information/results-center/", "final_url": "https://ri.weg.net/en/financial-information/results-center/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:69f4c327f1d1e042941625adcd487116e52fa9319b20b4d0bbd3f8d592bb733d
+size 255

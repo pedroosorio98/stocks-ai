@@ -1,1 +1,3 @@
-Capsule Security Securing Every Human–Agent Collaboration Your browser does not support the video tag. Capsule is securing smarter, safer collaboration between Humans and AI Agents. Be the first to see how we’re changing the game. Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Need it now? Talk to the founders
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e108ec4cf3defb3f705e91aeed400852cf60008c964603a6a79c4cc06a42969
+size 368

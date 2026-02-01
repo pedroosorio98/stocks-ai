@@ -1,1 +1,3 @@
-{ "label": "Apple Events", "original_url": "https://www.apple.com/apple-events/", "final_url": "https://www.apple.com/apple-events/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7a7fb30f2015f2ac761068440291c67bc8933dda948ca72dccd9f28f3e5c3c3
+size 205

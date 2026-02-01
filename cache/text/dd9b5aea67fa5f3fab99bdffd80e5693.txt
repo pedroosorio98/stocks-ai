@@ -1,1 +1,3 @@
-[TIME SERIES DATASET CATALOG] ticker: JPM frequency: intraday file: Data/JPM/alpha_vantage/csv/TIME_SERIES_INTRADAY.csv columns: timestamp, open, high, low, close, volume rows: 100 date_range: 2026-01-15 to 2026-01-26 date_column: timestamp usage: This is numeric time-series data (prices/ohlcv). Do NOT semantic-search raw rows. Use a time-series loader/tool to read the CSV and compute returns, drawdowns, volatility, charts, and event-window performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:002237e0870cc3a838fdbc28445e593d473e749c59035b7ac0fc7f616932c067
+size 457

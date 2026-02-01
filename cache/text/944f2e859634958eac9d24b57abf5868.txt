@@ -1,1 +1,3 @@
-{ "label": "Outros Documentos CVM", "original_url": "https://ri.weg.net/publicacoes-e-comunicados/outros-documentos-cvm/", "final_url": "https://ri.weg.net/publicacoes-e-comunicados/outros-documentos-cvm/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:74fdb2fbc8ad27e7537658dab744296e5d42a0c9d45f23d76d40acff7e4b821a
+size 278

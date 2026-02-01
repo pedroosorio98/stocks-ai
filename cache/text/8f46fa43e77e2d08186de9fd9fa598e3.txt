@@ -1,1 +1,3 @@
-{ "ticker": "AAPL", "cik": 320193, "form": "10-Q", "filing_date": "2023-05-05", "accession": "0000320193-23-000064", "primary_document": "aapl-20230401.htm" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e38ef2327580b7eafb2f182faacfb399090ded3ef7f388ec4b69cdb185c81bb
+size 158

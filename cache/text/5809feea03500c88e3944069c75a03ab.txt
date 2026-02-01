@@ -1,1 +1,3 @@
-{ "label": "EDGAR", "original_url": "https://www.sec.gov/submit-filings/about-edgar", "final_url": "https://www.sec.gov/submit-filings/about-edgar", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:d21af0a7f584a2a560289b1cfe9a520a4534fd6f19aa43068e8241206abf618d
+size 220

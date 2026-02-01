@@ -1,1 +1,3 @@
-{ "label": "shareArticle", "original_url": "http://www.linkedin.com/shareArticle?url=https://www.microsoft.com/en-us/investor/earnings/fy-2024-q4/press-release-webcast", "final_url": "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2FshareArticle%3Furl%3Dhttps%3A%2F%2Fwww.microsoft.com%2Fen-us%2Finvestor%2Fearnings%2Ffy-2024-q4%2Fpress-release-webcast", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:be5565801257bc3203aa62198accc78c566ed5ab435e518c5d7ae2506a875ba0
+size 462

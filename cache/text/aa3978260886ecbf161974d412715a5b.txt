@@ -1,1 +1,3 @@
-{ "response": { "symbol": "BRK.B", "data": [] }, "request": { "function": "DIVIDENDS", "apikey": "1W86SMG399FCFAIM", "symbol": "BRK.B" }, "info": { "status_code": 200, "content_type": "application/json", "url": "https://www.alphavantage.co/query?function=DIVIDENDS&apikey=1W86SMG399FCFAIM&symbol=BRK.B" } }
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c5f60096e7d75f8aed773d0addae4b892d25e6446d29a1ff5fdcda3ba04f5d8
+size 306

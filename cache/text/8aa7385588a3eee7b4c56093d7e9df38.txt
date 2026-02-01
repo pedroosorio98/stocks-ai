@@ -1,1 +1,3 @@
-{ "ticker": "JPM", "cik": 19617, "form": "8-K", "filing_date": "2025-05-22", "accession": "0000019617-25-000485", "primary_document": "jpm-20250520.htm" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:20263c580f8f3e28a87ddece8d092fd085697d947daeef3ba05fa7a0fb523f19
+size 154

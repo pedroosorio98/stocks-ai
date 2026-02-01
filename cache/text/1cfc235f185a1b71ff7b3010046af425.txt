@@ -1,1 +1,3 @@
-{ "label": "Results Center", "original_url": "https://www.investidores.nu/en/financials/results-center/", "final_url": "https://www.investidores.nu/en/financials/results-center/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a9559168a7913da6cda9f72020cfa1e7f527cfbcd27f054d7e2333c98e5c398
+size 251

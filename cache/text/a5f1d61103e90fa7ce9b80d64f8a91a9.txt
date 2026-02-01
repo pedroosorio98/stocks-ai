@@ -1,1 +1,3 @@
-{ "label": "Dux Security", "original_url": "https://dux.io/", "final_url": "https://dux.io/", "content_type": "text/html", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:29cd91381f05b68084b83c5bae4d925c797488fa122197451aa7cc150c9d4340
+size 150

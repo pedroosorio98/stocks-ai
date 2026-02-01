@@ -1,1 +1,3 @@
-{ "label": "Registration and Reference Form", "original_url": "https://ri.weg.net/en/financial-information/registration-and-reference-form/", "final_url": "https://ri.weg.net/en/financial-information/registration-and-reference-form/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:cde1ea6b1673584c4a0ebc44aa2d7770928c9c4a190d0c07132bf94672f96789
+size 306

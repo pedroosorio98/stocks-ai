@@ -1,1 +1,3 @@
-{ "response": { "Global Quote": { "01. symbol": "AMZN", "02. open": "239.9800", "03. high": "240.9500", "04. low": "237.5400", "05. price": "238.4200", "06. volume": "32296556", "07. latest trading day": "2026-01-26", "08. previous close": "239.1600", "09. change": "-0.7400", "10. change percent": "-0.3094%" } }, "request": { "function": "GLOBAL_QUOTE", "apikey": "1W86SMG399FCFAIM", "symbol": "AMZN" }, "info": { "status_code": 200, "content_type": "application/json", "url": "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&apikey=1W86SMG399FCFAIM&symbol=AMZN" } }
+version https://git-lfs.github.com/spec/v1
+oid sha256:a00a96e609549f0b3e718803d1927d1be7244d5a1e317285000e75b4b2817bfa
+size 576

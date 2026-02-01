@@ -1,1 +1,3 @@
-{ "label": "Load more", "original_url": "https://press.aboutamazon.com/press-release-archive?q=&s=0&p=2", "final_url": "https://press.aboutamazon.com/press-release-archive?q=&s=0&p=2", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:44607951fa124550ece3cdb4191781018a6db9aae7ea9c3b106d30dbc03cd719
+size 255

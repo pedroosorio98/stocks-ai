@@ -1,1 +1,3 @@
-{ "label": "Ir para a busca.", "original_url": "https://www.investidorpetrobras.com.br/apresentacoes-relatorios-e-eventos/relatorios-anuais/#search", "final_url": "https://www.investidorpetrobras.com.br/apresentacoes-relatorios-e-eventos/relatorios-anuais/#search", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b5ab9a9fd3c8cd85fce3dbd154eb441d27b769f8cb67a9fbceb4475afa94f06
+size 337

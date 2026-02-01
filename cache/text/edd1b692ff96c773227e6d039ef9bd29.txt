@@ -1,1 +1,3 @@
-{ "label": "Income Tax Reports", "original_url": "https://www.investidorpetrobras.com.br/en/investor-services/individual-investor/yield-reports/", "final_url": "https://www.investidorpetrobras.com.br/en/investor-services/individual-investor/yield-reports/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:f75c616a27408fd81dd421ecd0dc32860ba40cd5a84bf30cc31baff63d93bf48
+size 329

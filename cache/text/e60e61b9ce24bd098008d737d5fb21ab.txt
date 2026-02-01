@@ -1,1 +1,3 @@
-{ "ticker": "GOOGL", "cik": 1652044, "form": "8-K", "filing_date": "2025-02-04", "accession": "0001652044-25-000010", "primary_document": "goog-20250204.htm" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:38fcc73f9a078fdc690ff9965959b4ddecfadc7df6aadbf8aa06c77ac703604c
+size 159

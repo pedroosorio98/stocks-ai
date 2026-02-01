@@ -1,1 +1,3 @@
-MSFT Annual Report 2006
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe224c97dfcc13b30d86b70e40850fd614bb127047dd08f6a31504e36c09bed9
+size 23

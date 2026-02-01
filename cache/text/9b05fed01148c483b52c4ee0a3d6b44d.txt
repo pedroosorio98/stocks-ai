@@ -1,1 +1,3 @@
-{ "label": "here", "original_url": "https://east-online.proxyvote.com/pv/web.do", "final_url": "https://east.proxyvote.com/pv/web.do", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c664a02e871a0538f1d4a87285f426af720121a06fc2a6a164b079430d6d0cd
+size 205

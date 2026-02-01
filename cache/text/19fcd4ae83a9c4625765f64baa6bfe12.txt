@@ -1,1 +1,3 @@
-{ "label": "Webcast", "original_url": "https://www.microsoft.com/en-us/investor/events/fy-2026/2025-annual-shareholder-meeting", "final_url": "https://www.microsoft.com/en-us/investor/events/fy-2026/2025-annual-shareholder-meeting", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:67870e525ff577124f08f054b5dc2983409272e3fbdb42b84a40af33ef736726
+size 304

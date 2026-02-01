@@ -1,1 +1,3 @@
-{ "ticker": "NU", "cik": 1691493, "form": "6-K", "filing_date": "2025-05-20", "accession": "0001292814-25-002167", "primary_document": "nu20250520_6k.htm" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:47e60e885bd319209c990640dec65f1dc282cd33bd36de7d8588486165cb7086
+size 156

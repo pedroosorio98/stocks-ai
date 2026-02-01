@@ -1,1 +1,3 @@
-Teleconferência de Resultados: 4º trimestre e ano de 2023 - YouTube Sobre Imprensa Direitos autorais Entre em contato Criadores de conteúdo Publicidade Desenvolvedores Termos Privacidade Política e segurança Como funciona o YouTube Testar os novos recursos &copy; 2026 Google LLC
+version https://git-lfs.github.com/spec/v1
+oid sha256:6013897d7634fcc1793171e2b504ca4fc6304d6134a9c65b42d54cbe2dbed8f5
+size 284

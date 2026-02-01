@@ -1,1 +1,3 @@
-{ "label": "Notices and Material Facts", "original_url": "https://ri.klabin.com.br/en/disclosures-and-results/notices-and-material-facts/", "final_url": "https://ri.klabin.com.br/en/disclosures-and-results/notices-and-material-facts/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:00cf1e53a9d10ff3f133497cb0ed8733036e8e185777dc6075470bf1a67c7967
+size 307

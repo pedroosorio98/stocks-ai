@@ -1,1 +1,3 @@
-Microsoft 1999 Annual Report &nbsp;&nbsp; Read Financial Review Financial Highlights Income Statements Alternate Views Discussion and Analysis Cash Flows Balance Sheets Stockholders' Equity Notes Reports ----------------- Directors and Officers Worldwide Locations Investor Relations Downloads &nbsp;&nbsp;&nbsp;&nbsp; Read Bill's Letter English Canadien Fran&ccedil;ais Chinese Deutsch Espa&ntilde;ol Fran&ccedil;ais Italiano Japanese Nederlands Portugu&ecirc;s (Brasil) Portugu&ecirc;s (Portugal)
+version https://git-lfs.github.com/spec/v1
+oid sha256:333274b16d92fb449a9ee7f56c1541ad418f01b5f8b116a543cc50b12d05d58e
+size 498

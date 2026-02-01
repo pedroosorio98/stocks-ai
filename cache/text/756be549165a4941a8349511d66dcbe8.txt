@@ -1,1 +1,3 @@
-{ "label": "Informa\u00e7\u00f5es aos Acionistas", "original_url": "https://ri.ambev.com.br/calendario-de-eventos/", "final_url": "https://ri.ambev.com.br/calendario-de-eventos/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:b60f98225f7f662c58a25edecdfff5bf6fdeacee13a038525746d6abafb869ea
+size 251

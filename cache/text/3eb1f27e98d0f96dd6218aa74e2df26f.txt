@@ -1,1 +1,3 @@
-{ "label": "Mate Security", "original_url": "https://www.matesecurity.io/", "final_url": "https://mate.security", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:337d5a8f8362ce0cf2069bba2156c96cfdb4f62b570db29440e6ab195fad563e
+size 185

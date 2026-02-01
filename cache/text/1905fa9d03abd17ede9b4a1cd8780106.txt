@@ -1,1 +1,3 @@
-[CSV file: OVERVIEW__overview.csv] Symbol: AMZN | AssetType: Common Stock | Name: Amazon.com Inc | Description: Amazon.com, Inc. is a premier American multinational technology company that excels in e-commerce, cloud computing through Amazon Web Services (AWS), and digital streaming services. Recognized as one … | CIK: 1018724 | Exchange: NASDAQ | Currency: USD | Country: USA | Sector: CONSUMER CYCLICAL | Industry: INTERNET RETAIL | Address: 410 TERRY AVENUE NORTH, SEATTLE, WA, UNITED STATES, 98109-5210 | OfficialSite: https://www.amazon.com | FiscalYearEnd: December | LatestQuarter: 2025-09-30 | MarketCapitalization: 255667208…
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a6577f42b7792f3711ad1231cde979774a501d05aa93ed032f6825ff1ea448a
+size 640

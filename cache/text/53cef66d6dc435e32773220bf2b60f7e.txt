@@ -1,1 +1,3 @@
-{ "label": "Analyst Coverage", "original_url": "https://ri.klabin.com.br/en/financial-information/analyst-coverage/", "final_url": "https://ri.klabin.com.br/en/financial-information/analyst-coverage/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9b81ed7e1c4975a8bdeddb88e96dbdec1cd0e067fe22885e8f98606aa7da0f3
+size 273

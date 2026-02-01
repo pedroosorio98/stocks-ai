@@ -1,1 +1,3 @@
-[CSV file: GLOBAL_QUOTE__quote.csv] 01. symbol: JPM | 02. open: 297.81 | 03. high: 301.775 | 04. low: 297.45 | 05. price: 301.04 | 06. volume: 11609801 | 07. latest trading day: 2026-01-26 | 08. previous close: 297.72 | 09. change: 3.32 | 10. change percent: 1.1151%
+version https://git-lfs.github.com/spec/v1
+oid sha256:eadd4f9f70619006a97e40e1aced1da6b16f775ec17bb44a4cab8c3dbe50f7d3
+size 266

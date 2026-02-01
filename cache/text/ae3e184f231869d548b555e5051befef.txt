@@ -1,1 +1,3 @@
-Divulgação de Resultados | 2T25 - YouTube Sobre Imprensa Direitos autorais Entre em contato Criadores de conteúdo Publicidade Desenvolvedores Termos Privacidade Política e segurança Como funciona o YouTube Testar os novos recursos &copy; 2026 Google LLC
+version https://git-lfs.github.com/spec/v1
+oid sha256:0391b1e29524bf030804fb889ceefdd8b3e8ba51df5e8a27de0159eeff63e7a7
+size 258

@@ -1,1 +1,3 @@
-{ "label": "Press Release", "original_url": "https://www.apple.com/newsroom/2024/05/apple-reports-second-quarter-results/", "final_url": "https://www.apple.com/newsroom/2024/05/apple-reports-second-quarter-results/", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ba674d02938870bc3e98dd8e61587810ba8972b98348357c2011a97c91e0ff8
+size 287

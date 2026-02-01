@@ -1,1 +1,3 @@
-{ "label": "Sech", "original_url": "http://amazon.com/music/player/artists/B00A7DYXIU", "final_url": "https://www.amazon.com/music/player/browserWarning", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:912fb3f16f245e4ef25e49f336a7080dac138a2ed2662d7201612c788f26a239
+size 225

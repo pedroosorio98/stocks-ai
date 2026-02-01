@@ -1,1 +1,3 @@
-{ "label": "Press Release", "original_url": "https://www.apple.com/newsroom/2024/10/apple-reports-fourth-quarter-results/", "final_url": "https://www.apple.com/newsroom/2024/10/apple-reports-fourth-quarter-results/", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e37755c2bf1b3176165668836e6f2374a7d49b321e565a592dc3949942be9e9
+size 287

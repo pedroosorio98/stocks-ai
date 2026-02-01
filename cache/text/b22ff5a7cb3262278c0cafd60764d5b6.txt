@@ -1,1 +1,3 @@
-{ "ticker": "AAPL", "cik": 320193, "form": "DEF 14A", "filing_date": "2026-01-08", "accession": "0001308179-26-000008", "primary_document": "aapl014016-def14a.htm" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:49b5322a50e793e2e11b0b0113b3065f37e3447f1a614e6c85fa14a9d2f6fed2
+size 165

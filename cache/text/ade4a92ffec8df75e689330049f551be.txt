@@ -1,1 +1,3 @@
-Teleconferência de Resultados: 1º trimestre de 2023: Expansão de clientes com recorde de lucro. - YouTube Sobre Imprensa Direitos autorais Entre em contato Criadores de conteúdo Publicidade Desenvolvedores Termos Privacidade Política e segurança Como funciona o YouTube Testar os novos recursos &copy; 2026 Google LLC
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9920c5fc44115218a5b1a16eef46cff6ea6465fdc28892b5f8cea13cdef3285
+size 323

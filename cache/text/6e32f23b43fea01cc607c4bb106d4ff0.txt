@@ -1,1 +1,3 @@
-[CSV file: OVERVIEW__overview.csv] Symbol: JPM | AssetType: Common Stock | Name: JPMorgan Chase & Co | Description: JPMorgan Chase & Co. is a leading American multinational investment bank and financial services firm, widely acknowledged as one of the Big Four banks in the U.S. Based in New York City, the firm offe… | CIK: 19617 | Exchange: NYSE | Currency: USD | Country: USA | Sector: FINANCIAL SERVICES | Industry: BANKS - DIVERSIFIED | Address: 270 PARK AVENUE, NEW YORK, NY, UNITED STATES, 10017 | OfficialSite: https://www.jpmorganchase.com | FiscalYearEnd: December | LatestQuarter: 2025-12-31 | MarketCapitalization: 81047191…
+version https://git-lfs.github.com/spec/v1
+oid sha256:81ee73b35a630a272e526bc8965c19d0e87578c702fb896a19a4d136c63218e4
+size 640

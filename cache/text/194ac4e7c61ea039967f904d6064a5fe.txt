@@ -1,1 +1,3 @@
-{ "ticker": "TSLA", "cik": 1318605, "form": "DEF 14A", "filing_date": "2024-04-29", "accession": "0001104659-24-053333", "primary_document": "tm2326076d15_def14a.htm" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:213c54fc8f7ed2cbf79edb0666223ad0e7343013db383326232c23a667626004
+size 168

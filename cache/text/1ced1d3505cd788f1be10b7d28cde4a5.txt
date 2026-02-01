@@ -1,1 +1,3 @@
-{ "label": "wp-emoji-release.min.js", "original_url": "https://ri.ambev.com.br/wp-includes/js/wp-emoji-release.min.js", "final_url": "https://ri.ambev.com.br/wp-includes/js/wp-emoji-release.min.js", "content_type": "application/javascript", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:a57546f480032163819a3b63946677802b706a5d47dc968ed2b958003edcef2f
+size 268

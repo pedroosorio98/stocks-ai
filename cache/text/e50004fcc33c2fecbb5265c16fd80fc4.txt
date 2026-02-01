@@ -1,1 +1,3 @@
-[CSV file: OVERVIEW__overview.csv] Symbol: MSFT | AssetType: Common Stock | Name: Microsoft Corporation | Description: Microsoft Corporation is a premier American multinational technology company, recognized for its extensive portfolio that includes operating systems, productivity software, and innovative hardware sol… | CIK: 789019 | Exchange: NASDAQ | Currency: USD | Country: USA | Sector: TECHNOLOGY | Industry: SOFTWARE - INFRASTRUCTURE | Address: ONE MICROSOFT WAY, REDMOND, WA, UNITED STATES, 98052-6399 | OfficialSite: https://www.microsoft.com | FiscalYearEnd: June | LatestQuarter: 2025-09-30 | MarketCapitalization: 346348…
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f81ddc1bd9e480230307f22236c05c441fd08227ce667362b389ac88192a2e7
+size 640

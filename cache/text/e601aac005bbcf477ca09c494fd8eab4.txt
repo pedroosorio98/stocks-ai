@@ -1,1 +1,3 @@
-{ "label": "Central de Resultados", "original_url": "https://ri.weg.net/informacoes-financeiras/central-de-resultados/", "final_url": "https://ri.weg.net/informacoes-financeiras/central-de-resultados/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc43438582d6421ac53ef6a17e3a6172db8bc2a335254e940067207644cad37d
+size 274

@@ -1,1 +1,3 @@
-{ "label": "Ir para o rodap\u00e9.", "original_url": "https://www.investidorpetrobras.com.br/assembleias/#rodape", "final_url": "https://www.investidorpetrobras.com.br/assembleias/#rodape", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:919924fc40c74e0f72abf0ef294429ee82baead352afde8bd8183756acc6d605
+size 261

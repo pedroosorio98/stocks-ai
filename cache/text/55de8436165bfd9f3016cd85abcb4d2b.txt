@@ -1,1 +1,3 @@
-{ "label": "BR", "original_url": "https://www.prnewswire.com/news-releases/broadridges-shareholder-disclosure-hub-migrates-to-aws-boosting-global-reach-resilience-and-security-302633846.html#financial-modal", "final_url": "https://www.prnewswire.com/news-releases/broadridges-shareholder-disclosure-hub-migrates-to-aws-boosting-global-reach-resilience-and-security-302633846.html#financial-modal", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:b431c75a8150baeee0cda96b539d44780f642696281afb0b46407c2419c18b35
+size 469

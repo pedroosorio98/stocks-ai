@@ -1,1 +1,3 @@
-{ "label": "DOWNLOAD NOW >", "original_url": "https://www.microsoft.com/investor/reports/ar25/download-center/", "final_url": "https://www.microsoft.com/investor/reports/ar25/download-center/", "content_type": "text/html", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:a229f831179faf6c4d490034ea985d4fba103728a40573fa96ab132d55d96975
+size 250

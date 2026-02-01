@@ -1,1 +1,3 @@
-{ "label": "News & Events", "original_url": "https://www.investidores.nu/en/press-releases/", "final_url": "https://www.investidores.nu/en/press-releases/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b839f6b6d62a2dde9e7375e499c5cd7db6bc0f00b0ca411574b1f234fa0ffc9
+size 228

@@ -1,1 +1,3 @@
-{ "label": "Watch", "original_url": "https://events-delivery.apple.com/1008yunfyueoofvvgxpjmmvcblgnjsel/m3u8/vod_index-CtXiJhDFfUsjjmudzvWNpveYoQAuZgpd.m3u8", "final_url": "https://events-delivery.apple.com/1008yunfyueoofvvgxpjmmvcblgnjsel/m3u8/vod_index-CtXiJhDFfUsjjmudzvWNpveYoQAuZgpd.m3u8", "content_type": "application/vnd.apple.mpegurl", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4e54183c41dd9d838839ef6666ef4a191f11567eb730d62334d30ebbfe7f7f6
+size 371

@@ -1,1 +1,3 @@
-{ "label": "Relat\u00f3rios e Apresenta\u00e7\u00f5es", "original_url": "https://www.santander.com.br/ri/resultados-e-relatorios/relatorios-e-apresentacoes/", "final_url": "https://www.santander.com.br/ri/resultados-e-relatorios/relatorios-e-apresentacoes/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:893befd2bdf6c5754f50c393fe4ddf0bfccee2af8546e595291a9f168832518d
+size 330

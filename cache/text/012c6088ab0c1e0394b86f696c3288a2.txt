@@ -1,1 +1,3 @@
-{ "label": "Read the 2025 Annual Report", "original_url": "https://www.microsoft.com/investor/reports/ar25/index.html", "final_url": "https://www.microsoft.com/investor/reports/ar25/index.html", "content_type": "text/html", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaa1210fba35da47a37ea27ec7d7d1a83477a1eb52930ce1687ebbc6bf290dc2
+size 251

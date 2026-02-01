@@ -1,1 +1,3 @@
-{ "label": "Go to the footer.", "original_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/results-center/#rodape", "final_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/results-center/#rodape", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:58711127dbe56136b79bc7c3935116bb2883df93cfa811e09653ecd5b5162952
+size 320

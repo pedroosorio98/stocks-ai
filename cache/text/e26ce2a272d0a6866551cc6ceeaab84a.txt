@@ -1,1 +1,3 @@
-{ "label": "Fabrix", "original_url": "https://fabrix.security/", "final_url": "https://fabrix.security/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:aec95961f1ae91ad1772baf518fabcc1e041b1bb0a7110f5a0896310dbf76526
+size 177

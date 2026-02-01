@@ -1,1 +1,3 @@
-{ "label": "Secured Real Estate Notes (LIG)", "original_url": "https://www.santander.com.br/ri/en/corporate-information/secured-real-estate-notes-lig/", "final_url": "https://www.santander.com.br/ri/en/corporate-information/secured-real-estate-notes-lig/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c81d0191d46c7c8956d1ba5fc3bdd61dd3ebcc0e7d3346f71ae2fdfb1bf372e
+size 328

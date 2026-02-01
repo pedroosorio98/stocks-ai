@@ -1,5 +1,4 @@
 # Data folders - MUST EXCLUDE
-Data/
 old/
 
 # Environment and credentials
@@ -36,10 +35,8 @@ env/
 Thumbs.db
 
 # Large files
-*.pdf
 *.faiss
 *.pkl
 *.pickle
-index/
 index/internal.faiss
 Drafts/

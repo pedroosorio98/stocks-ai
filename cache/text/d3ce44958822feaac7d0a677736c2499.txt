@@ -1,1 +1,3 @@
-{ "response": { "Global Quote": { "01. symbol": "TSLA", "02. open": "445.0000", "03. high": "445.0400", "04. low": "434.2800", "05. price": "435.2000", "06. volume": "48908350", "07. latest trading day": "2026-01-26", "08. previous close": "449.0600", "09. change": "-13.8600", "10. change percent": "-3.0864%" } }, "request": { "function": "GLOBAL_QUOTE", "apikey": "1W86SMG399FCFAIM", "symbol": "TSLA" }, "info": { "status_code": 200, "content_type": "application/json", "url": "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&apikey=1W86SMG399FCFAIM&symbol=TSLA" } }
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d62a065b7359844ddfb725dfd6229f8d879fab5143abd632ecea92f465e68de
+size 577

@@ -1,1 +1,3 @@
-{ "label": "CVM Fillings", "original_url": "https://ri.btgpactual.com/en/cvm-fillings/", "final_url": "https://ri.btgpactual.com/en/cvm-fillings/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9644f9b9599c201e4c5fbca86c7602c9999c4b36404e482f216fbbfe19fa8bc
+size 219

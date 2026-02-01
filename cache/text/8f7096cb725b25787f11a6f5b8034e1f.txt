@@ -1,1 +1,3 @@
-{ "label": "FAQs (Perguntas frequentes)", "original_url": "https://www.investidores.nu/por-que-investir/faqs/", "final_url": "https://www.investidores.nu/por-que-investir/faqs/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:55552f626d14415afb76923bf485fc1d990b9d753c1fa24880b986102aeacd6c
+size 250

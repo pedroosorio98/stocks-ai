@@ -1,1 +1,3 @@
-Microsoft Annual Report 2003 -- Downloads &nbsp; Download Microsoft 2003 Annual Report (All Text, 1642K) Word Document Download Front Copy and Letter to Shareholders (301K) Word Document Download Financial Tables (90K) Excel Spreadsheet Download Alternate Views (58K) Excel Spreadsheet Download XBRL (66K) XML File This XBRL file contains the core Microsoft's 2003 Annual Report financial statements and select additional non-financial data in XBRL format. To view the contents of this XML file, simply download the file locally and open using your default XML browser (such as Microsoft Internet Explorer).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba84032c32d13cc1b2e9781b52d5b26cc414666559c9f2e6c0d66e300f2fc931
+size 607

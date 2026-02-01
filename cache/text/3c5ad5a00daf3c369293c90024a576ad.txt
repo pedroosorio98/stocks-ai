@@ -1,1 +1,3 @@
-[TIME SERIES DATASET CATALOG] ticker: MSFT frequency: monthly file: Data/MSFT/alpha_vantage/csv/TIME_SERIES_MONTHLY_ADJUSTED.csv columns: timestamp, open, high, low, close, adjusted close, volume, dividend amount rows: 314 date_range: 1999-12-31 to 2026-01-26 date_column: timestamp usage: This is numeric time-series data (prices/ohlcv). Do NOT semantic-search raw rows. Use a time-series loader/tool to read the CSV and compute returns, drawdowns, volatility, charts, and event-window performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd6821ee514eae0969e33aeba1a892686c3f10c85f67f4d805ab7a04503bd15c
+size 499

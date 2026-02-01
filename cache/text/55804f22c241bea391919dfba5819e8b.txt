@@ -1,1 +1,3 @@
-{ "label": "Relat\u00f3rios Anuais", "original_url": "https://ri.weg.net/informacoes-financeiras/relatorios-anuais/", "final_url": "https://ri.weg.net/informacoes-financeiras/relatorios-anuais/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:009425a10150363fed202d9aab5981d75414608eac04de83f80ca4fce357bab0
+size 267

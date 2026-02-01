@@ -1,1 +1,3 @@
-{ "label": "Capsule Security", "original_url": "https://capsule.security/", "final_url": "https://capsule.security/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:810c5b75eefcde91c55ba8618bea902df9e85c08cb351e680bf17b6aba20de4b
+size 189

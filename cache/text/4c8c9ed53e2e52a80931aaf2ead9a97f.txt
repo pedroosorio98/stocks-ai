@@ -1,1 +1,3 @@
-{ "ticker": "TSLA", "cik": 1318605, "form": "8-K", "filing_date": "2021-01-04", "accession": "0001564590-21-000008", "primary_document": "tsla-8k_20210102.htm" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c4684131e27b21e6f34f1f943adbe9f7e50bf1c5ab22b9c8fb0418f1f09cad0
+size 161

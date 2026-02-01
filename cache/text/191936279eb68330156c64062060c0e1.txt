@@ -1,1 +1,3 @@
-[CSV file: EARNINGS__annualEarnings.csv] fiscalDateEnding: 2025-12-31 | reportedEPS: 20.82 fiscalDateEnding: 2024-12-31 | reportedEPS: 23.92 fiscalDateEnding: 2023-12-31 | reportedEPS: 14.9 fiscalDateEnding: 2022-12-31 | reportedEPS: 8.58 fiscalDateEnding: 2021-12-31 | reportedEPS: 13.8 fiscalDateEnding: 2020-12-31 | reportedEPS: 10.1 fiscalDateEnding: 2019-12-31 | reportedEPS: 6.44 fiscalDateEnding: 2018-12-31 | reportedEPS: 7.57 fiscalDateEnding: 2017-12-31 | reportedEPS: 5.39 fiscalDateEnding: 2016-12-31 | reportedEPS: 3.26 fiscalDateEnding: 2015-12-31 | reportedEPS: 1.28 fiscalDateEnding: 2014-12-31 | reportedEPS: 1.1 fiscalDateEnding: 2013-12-31 | reportedEPS: 0.59 fiscalDateEnding: 2012-12-31 | reportedEPS: -0.0055
+version https://git-lfs.github.com/spec/v1
+oid sha256:cca7695bdecda374d5b05c291d64f629ad296d233dd653742ea6b895d7a7dbd2
+size 730

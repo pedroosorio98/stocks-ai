@@ -1,1 +1,3 @@
-{ "label": "Servi\u00e7os aos Investidores", "original_url": "https://ri.btgpactual.com/servicos-aos-investidores/calendario-de-eventos/", "final_url": "https://ri.btgpactual.com/servicos-aos-investidores/calendario-de-eventos/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:d93fd4c4679ec1021e53cca2edfa6b4d7f9d6b1c5627606aa7220cc5c6a84d36
+size 301

@@ -1,1 +1,3 @@
-Tika Security Inc. Home Contact Tika Security Contact: info@tikasecurity.io © 2026 Tika Security Inc. All rights reserved.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2da932d0b5e55836dd18140bd5d9f78acb70dd3516df8cbeb51632c8aff9b010
+size 123

@@ -1,1 +1,3 @@
-{ "label": "Investor Resources", "original_url": "https://ir.aboutamazon.com/", "final_url": "https://ir.aboutamazon.com/overview/default.aspx", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:377a385e99ce56169a229fac774e4a0f3d4186c1d13f4e2a280faae3c84f1d2f
+size 216

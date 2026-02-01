@@ -1,1 +1,3 @@
-{ "label": "Manage cookies", "original_url": "https://www.microsoft.com/en-us/Investor/sec-filings", "final_url": "https://www.microsoft.com/en-us/Investor/sec-filings", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac4e45c7b66332b21ff06d2b97bd4146c0181da5290fcc1e6a2167dce838fc76
+size 241

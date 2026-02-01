@@ -1,1 +1,3 @@
-{ "label": "Apresenta\u00e7\u00f5es Institucionais", "original_url": "https://ri.weg.net/publicacoes-e-comunicados/apresentacoes-e-documentos/#apresentacoes_e_documentos_apresentacoes_institucionais", "final_url": "https://ri.weg.net/publicacoes-e-comunicados/apresentacoes-e-documentos/#apresentacoes_e_documentos_apresentacoes_institucionais", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:be0f4c10665de78e3c9ae22427db3db6f62e8708fe7971bbbe0facf1c9d4244b
+size 417

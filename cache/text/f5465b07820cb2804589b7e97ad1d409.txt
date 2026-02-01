@@ -1,1 +1,3 @@
-{ "label": "apple-reports-first-quarter-results", "original_url": "https://www.apple.com/newsroom/2022/01/apple-reports-first-quarter-results/", "final_url": "https://www.apple.com/newsroom/2022/01/apple-reports-first-quarter-results/", "content_type": "text/html;charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1c86f5c64101486fd93726f9c0b92a10551dad1384d088f91b014e1b93dbc43
+size 307

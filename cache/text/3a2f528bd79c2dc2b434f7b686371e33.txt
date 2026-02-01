@@ -1,1 +1,3 @@
-[CSV file: GLOBAL_QUOTE__quote.csv] 01. symbol: GOOGL | 02. open: 327.805 | 03. high: 335.84 | 04. low: 327.0 | 05. price: 333.26 | 06. volume: 25169645 | 07. latest trading day: 2026-01-26 | 08. previous close: 327.93 | 09. change: 5.33 | 10. change percent: 1.6253%
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5e94d91dd00b841425a5188ed33be9be349411ed4ab2c20ae54386d42a3b097
+size 267

@@ -1,1 +1,3 @@
-{ "label": "Governan\u00e7a Corporativa", "original_url": "https://www.bradescori.com.br/o-bradesco/governanca-corporativa/assembleias/editais-de-convocacao/", "final_url": "https://www.bradescori.com.br/o-bradesco/governanca-corporativa/assembleias/editais-de-convocacao/", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:147cbdee0fe743102366484240b29c87818fcf9b6f459326ab549e2f4ca3e247
+size 346

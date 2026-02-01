@@ -1,1 +1,3 @@
-{ "response": { "symbol": "AAPL", "estimates": [] }, "request": { "function": "EARNINGS_ESTIMATES", "apikey": "1W86SMG399FCFAIM", "symbol": "AAPL" }, "info": { "status_code": 200, "content_type": "application/json", "url": "https://www.alphavantage.co/query?function=EARNINGS_ESTIMATES&apikey=1W86SMG399FCFAIM&symbol=AAPL" } }
+version https://git-lfs.github.com/spec/v1
+oid sha256:dea66bbf2decda5cef87ed70216c8ba8e60ee1c589804f6e13f7d036d68c4384
+size 326

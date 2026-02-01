@@ -1,1 +1,3 @@
-{ "label": "Email Alert", "original_url": "https://www.microsoft.com/en-us/investor/events/get-notification", "final_url": "https://www.microsoft.com/en-us/investor/events/get-notification", "content_type": "text/html; charset=utf-8", "blocked_detected": false }
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a388cd6c9875ef45fb0274eed152249dd6bd90e639e5fd6583e831c4d9c2009
+size 262
