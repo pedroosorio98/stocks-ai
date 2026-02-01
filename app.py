@@ -8,6 +8,7 @@ Created on Sat Jan 31 16:52:36 2026
 from flask import Flask, render_template, request, jsonify, send_file
 from pathlib import Path
 from openai import OpenAI
+import os
 from rag import retrieve_internal, retrieve_web_exa, build_context
 from reports import CompanyReportGenerator
 import threading
