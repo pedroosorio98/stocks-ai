@@ -417,12 +417,10 @@ def balance_ticker_results(results: List[dict], tickers: List[str], k: int) -> L
     
     return balanced[:k]
 
-
 def retrieve_web_exa(query: str, k: int = 4, retries: int = 3, backoff: float = 1.5):
     """
-    Robust Exa retrieval:
-    - retries transient failures
-    - never crashes your app (returns [] on failure)
+    Dual-language web search (English + Portuguese) matching retrieve_internal behavior.
+    Searches both languages and merges unique results.
     """
     exa_key = os.getenv("EXA_API_KEY") or os.getenv("EXA_KEY") or os.getenv("EXA_AI_API_KEY")
     if not exa_key:
@@ -430,32 +428,117 @@ def retrieve_web_exa(query: str, k: int = 4, retries: int = 3, backoff: float = 
         return []
 
     try:
-        from exa_py import Exa
+        from openai import OpenAI
+        import re
     except Exception as e:
-        print(f"[web] exa_py import failed: {e}")
+        print(f"[web] import failed: {e}")
         return []
 
-    exa = Exa(exa_key)
+    exa_client = OpenAI(
+        base_url="https://api.exa.ai",
+        api_key=exa_key
+    )
 
+    def search_exa_single(search_query: str, lang: str):
+        """Helper to perform single Exa search and extract sources"""
+        try:
+            enhanced_query = f"""{search_query}
+
+                            After providing your answer, list all sources you used in this format:
+                            SOURCES:
+                            1. [Title] - URL
+                            2. [Title] - URL
+                            etc."""
+                                        
+            resp = exa_client.chat.completions.create(
+                model="exa",
+                messages=[{"role": "user", "content": enhanced_query}],
+                temperature=0,
+                max_tokens=2000
+            )
+            
+            content = resp.choices[0].message.content
+            
+            # Extract structured sources section
+            sources_section = re.search(r'SOURCES?:?\s*\n((?:\d+\..*\n?)+)', content, re.IGNORECASE)
+            
+            results = []
+            if sources_section:
+                sources_text = sources_section.group(1)
+                source_lines = re.findall(r'\d+\.\s*(.+?)(?:\s*-\s*(https?://\S+)|$)', sources_text)
+                
+                for title, url in source_lines:
+                    title = title.strip('[]')
+                    if url:
+                        results.append({
+                            "title": title,
+                            "url": url.strip(),
+                            "text": content[:800],  # Include snippet of content
+                            "query_lang": lang
+                        })
+            
+            # Fallback: extract any URLs from content
+            if not results:
+                urls = re.findall(r'https?://[^\s\)\]]+', content)
+                for url in urls:
+                    domain_match = re.search(r'https?://(?:www\.)?([^/]+)', url)
+                    title = domain_match.group(1) if domain_match else url
+                    results.append({
+                        "title": title,
+                        "url": url,
+                        "text": content[:800],
+                        "query_lang": lang
+                    })
+            
+            return results
+            
+        except Exception as e:
+            print(f"[web] Exa {lang} search failed: {e}")
+            return []
+
+    # Perform searches with retries
     last_err = None
     for attempt in range(1, retries + 1):
         try:
-            r = exa.search_and_contents(
-                query,
-                num_results=k,
-                text=True,
-                highlights=True,
-            )
-
-            out = []
-            for item in r.results:
-                out.append({
-                    "title": getattr(item, "title", None),
-                    "url": getattr(item, "url", None),
-                    "text": getattr(item, "text", "") or "",
-                    "highlights": getattr(item, "highlights", None),
-                })
-            return out
+            # Search with English query
+            print(f"[web] Searching with English query: {query}")
+            en_results = search_exa_single(query, "en")
+            
+            # Search with Portuguese query
+            pt_query = translate_to_portuguese(query)
+            print(f"[web] Searching with Portuguese query: {pt_query}")
+            pt_results = search_exa_single(pt_query, "pt")
+            
+            # Merge results and deduplicate by URL (like retrieve_internal deduplicates by idx)
+            seen_urls = set()
+            merged_results = []
+            
+            # Add English results first
+            for result in en_results:
+                url = result.get("url", "")
+                if url and url not in seen_urls:
+                    merged_results.append(result)
+                    seen_urls.add(url)
+            
+            # Add Portuguese results
+            for result in pt_results:
+                url = result.get("url", "")
+                if url and url not in seen_urls:
+                    merged_results.append(result)
+                    seen_urls.add(url)
+            
+            # Limit to k results
+            final_results = merged_results[:k]
+            
+            if final_results:
+                en_count = sum(1 for r in final_results if r.get("query_lang") == "en")
+                pt_count = sum(1 for r in final_results if r.get("query_lang") == "pt")
+                print(f"[web] Found {len(final_results)} unique sources ({en_count} from EN, {pt_count} from PT)")
+                return final_results
+            
+            # If no results found, return empty (don't use fallback)
+            print("[web] No sources extracted from Exa")
+            return []
 
         except Exception as e:
             last_err = e

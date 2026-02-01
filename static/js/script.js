@@ -1,3 +1,7 @@
+// Global variables for report tracking
+let currentJobId = null;
+let statusCheckInterval = null;
+
 // Section switching with active state management
 function showSection(sectionId) {
     // Hide all sections
@@ -105,7 +109,7 @@ function formatResponse(text) {
     return text;
 }
 
-// Report generation
+// Report generation with async progress tracking
 async function generateReport() {
     const companySelect = document.getElementById('companySelect');
     const downloadLink = document.getElementById('downloadLink');
@@ -113,11 +117,30 @@ async function generateReport() {
     
     const company = companySelect.value;
     
+    if (!company) {
+        alert('Please select a company');
+        return;
+    }
+    
+    // Clear any previous status check
+    if (statusCheckInterval) {
+        clearInterval(statusCheckInterval);
+        statusCheckInterval = null;
+    }
+    
+    // Disable button and show loading state
     generateButton.disabled = true;
     const originalText = generateButton.innerHTML;
-    generateButton.innerHTML = '<span class="spinner"></span> Generating...';
+    generateButton.innerHTML = '<span class="spinner"></span> Starting...';
+    
+    // Show generating state in download link
+    downloadLink.style.display = 'inline-flex';
+    downloadLink.innerHTML = '<span class="spinner"></span> Starting report generation...';
+    downloadLink.style.pointerEvents = 'none';
+    downloadLink.removeAttribute('href');
     
     try {
+        // Start report generation
         const response = await fetch('/api/report', {
             method: 'POST',
             headers: {
@@ -128,18 +151,90 @@ async function generateReport() {
         
         const data = await response.json();
         
-        if (response.ok) {
-            downloadLink.href = data.report_link;
-            downloadLink.innerHTML = `<span class="btn-icon"></span> Download ${company} Report`;
-            downloadLink.style.display = 'inline-flex';
+        if (response.ok && data.status === 'success') {
+            currentJobId = data.job_id;
+            
+            // Show initial status
+            downloadLink.innerHTML = `
+                <span class="spinner"></span> Generating report for ${company}...
+            `;
+            
+            // Start polling for status every 2 seconds
+            statusCheckInterval = setInterval(() => checkReportStatus(currentJobId), 2000);
+            
         } else {
-            alert('Error generating report');
+            downloadLink.innerHTML = `
+                <span style="color: #dc3545;">❌</span> Error: ${data.error || 'Failed to start generation'}
+            `;
+            downloadLink.style.pointerEvents = 'auto';
         }
+        
     } catch (error) {
-        alert('Network error: ' + error.message);
+        downloadLink.innerHTML = `
+            <span style="color: #dc3545;">❌</span> Network error: ${error.message}
+        `;
+        downloadLink.style.pointerEvents = 'auto';
     } finally {
         generateButton.disabled = false;
         generateButton.innerHTML = originalText;
+    }
+}
+
+// Check report generation status
+async function checkReportStatus(jobId) {
+    try {
+        const response = await fetch(`/api/report/status/${jobId}`);
+        const data = await response.json();
+        
+        const downloadLink = document.getElementById('downloadLink');
+        
+        if (data.status === 'completed') {
+            // Stop polling
+            clearInterval(statusCheckInterval);
+            statusCheckInterval = null;
+            
+            // Show download link
+            downloadLink.href = data.download_url;
+            downloadLink.innerHTML = `
+                <span class="btn-icon">📄</span> Download ${data.filename}
+            `;
+            downloadLink.style.pointerEvents = 'auto';
+            downloadLink.style.background = 'var(--success-color)';
+            
+        } else if (data.status === 'failed') {
+            // Stop polling
+            clearInterval(statusCheckInterval);
+            statusCheckInterval = null;
+            
+            // Show error
+            downloadLink.innerHTML = `
+                <span style="color: #dc3545;">❌</span> Generation failed: ${data.error || 'Unknown error'}
+            `;
+            downloadLink.style.pointerEvents = 'auto';
+            downloadLink.style.background = '#dc3545';
+            
+        } else if (data.status === 'generating') {
+            // Still generating - update status
+            downloadLink.innerHTML = `
+                <span class="spinner"></span> Generating ${data.company} report (${data.ticker})...
+            `;
+        } else if (data.status === 'pending') {
+            // Just started
+            downloadLink.innerHTML = `
+                <span class="spinner"></span> Initializing report for ${data.company}...
+            `;
+        }
+        
+    } catch (error) {
+        console.error('Error checking status:', error);
+        clearInterval(statusCheckInterval);
+        statusCheckInterval = null;
+        
+        const downloadLink = document.getElementById('downloadLink');
+        downloadLink.innerHTML = `
+            <span style="color: #dc3545;">❌</span> Error checking status
+        `;
+        downloadLink.style.pointerEvents = 'auto';
     }
 }
 
