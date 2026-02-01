@@ -48,11 +48,10 @@ COMPANY_TO_TICKER = {
 
 
 def answer(query: str, use_web: bool = True):
-    """RAG-powered answer function"""
     internal = retrieve_internal(query, k=12)
     web = retrieve_web_exa(query, k=4) if use_web else []
 
-    # DEBUG: Show what was retrieved (will appear in Flask console)
+    # DEBUG: Show what was retrieved
     print("\n" + "="*60)
     print("RETRIEVED INTERNAL CHUNKS:")
     print("="*60)
@@ -93,7 +92,6 @@ def answer(query: str, use_web: bool = True):
         messages=[{"role": "user", "content": prompt}]
     )
     return resp.choices[0].message.content
-
 
 def generate_report_async(job_id: str, ticker: str):
     """

@@ -1,10 +1,8 @@
+flask
 openai
+numpy
+faiss-cpu
+boto3
+reportlab
 exa-py
 python-dotenv
-pypdf
-pandas
-faiss-cpu
-numpy
-playwright 
-time
-boto3>=1.28.0
