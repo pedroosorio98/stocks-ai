@@ -1,8 +1,0 @@
-flask
-openai
-numpy
-faiss-cpu
-boto3
-reportlab
-exa-py
-python-dotenv
