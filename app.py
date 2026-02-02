@@ -8,11 +8,11 @@ Created on Sat Jan 31 16:52:36 2026
 from flask import Flask, render_template, request, jsonify, send_file
 from pathlib import Path
 from openai import OpenAI
-import os
 from rag import retrieve_internal, retrieve_web_exa, build_context
 from reports import CompanyReportGenerator
 import threading
 import uuid
+import traceback
 
 app = Flask(__name__)
 client = OpenAI()
@@ -127,29 +127,22 @@ def index():
 
 @app.route('/api/prompt', methods=['POST'])
 def handle_prompt():
-    """Handle AI prompt with RAG system"""
     try:
-        prompt_data = request.json.get('prompt')
-        
-        if not prompt_data or not prompt_data.strip():
-            return jsonify({'error': 'Empty prompt'}), 400
-        
-        # Use the RAG system to generate response
-        use_web = request.json.get('use_web', True)  # Allow frontend to toggle web search
-        response = answer(prompt_data, use_web=use_web)
-        
-        return jsonify({
-            'response': response,
-            'status': 'success'
-        })
-    
-    except Exception as e:
-        print(f"Error in handle_prompt: {e}")
-        return jsonify({
-            'error': str(e),
-            'status': 'error'
-        }), 500
+        data = request.get_json(silent=True) or {}
+        prompt_data = (data.get('prompt') or '').strip()
 
+        if not prompt_data:
+            return jsonify({'error': 'Empty prompt'}), 400
+
+        use_web = bool(data.get('use_web', True))
+        response = answer(prompt_data, use_web=use_web)
+
+        return jsonify({'response': response, 'status': 'success'})
+
+    except Exception as e:
+        print("ERROR in handle_prompt:", repr(e))
+        traceback.print_exc()   # <<< this is the important line
+        return jsonify({'error': str(e), 'status': 'error'}), 500
 
 @app.route('/api/report', methods=['POST'])
 def generate_report():
