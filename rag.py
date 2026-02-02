@@ -101,79 +101,116 @@ def download_from_s3():
     """
     # Create index directory if it doesn't exist
     INDEX_DIR.mkdir(exist_ok=True)
-    
-    # Check if FAISS file already exists
-    if FAISS_PATH.exists():
+
+    faiss_exists = FAISS_PATH.exists()
+    meta_exists = META_PATH.exists()  # <-- requires META_PATH global
+
+    # If both already exist, nothing to do
+    if faiss_exists and meta_exists:
         print(f"[S3] FAISS index already exists locally: {FAISS_PATH}")
         print(f"[S3] Size: {FAISS_PATH.stat().st_size / (1024**3):.2f} GB")
+        print(f"[S3] Metadata already exists locally: {META_PATH}")
+        print(f"[S3] Size: {META_PATH.stat().st_size / (1024**2):.2f} MB")
         return True
-    
-    print(f"[S3] FAISS index not found locally. Downloading from S3...")
-    print(f"[S3] Bucket: {S3_BUCKET}, Key: {S3_FAISS_KEY}")
-    
+
+    # If only FAISS exists, still try metadata
+    if faiss_exists and not meta_exists:
+        print(f"[S3] FAISS index already exists locally: {FAISS_PATH}")
+        print(f"[S3] Size: {FAISS_PATH.stat().st_size / (1024**3):.2f} GB")
+        print(f"[S3] Metadata not found locally. Will download from S3...")
+
+    # If only metadata exists, still try FAISS
+    if (not faiss_exists) and meta_exists:
+        print(f"[S3] Metadata already exists locally: {META_PATH}")
+        print(f"[S3] Size: {META_PATH.stat().st_size / (1024**2):.2f} MB")
+        print(f"[S3] FAISS index not found locally. Will download from S3...")
+
+    if not faiss_exists:
+        print(f"[S3] FAISS index not found locally. Downloading from S3...")
+        print(f"[S3] Bucket: {S3_BUCKET}, Key: {S3_FAISS_KEY}")
+
+    if not meta_exists:
+        print(f"[S3] Metadata not found locally. Downloading from S3...")
+        print(f"[S3] Bucket: {S3_BUCKET}, Key: {S3_META_KEY}")  # <-- requires S3_META_KEY global
+
     try:
         # Initialize S3 client
         # For AWS S3: uses AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY env vars
         # For Cloudflare R2: set endpoint_url
         s3_config = {}
-        
+
         # Check if using Cloudflare R2
         r2_endpoint = os.getenv("R2_ENDPOINT_URL")
         if r2_endpoint:
             s3_config["endpoint_url"] = r2_endpoint
             print(f"[S3] Using Cloudflare R2 endpoint: {r2_endpoint}")
-        
+
         # Get region (default to auto for R2)
         region = os.getenv("AWS_REGION", "auto")
         s3_config["region_name"] = region
-        
+
         s3 = boto3.client("s3", **s3_config)
-        
-        # Download FAISS index
-        print(f"[S3] Downloading {S3_FAISS_KEY}... (this may take 1-2 minutes for 2.8GB)")
-        start_time = time.time()
-        
-        s3.download_file(
-            Bucket=S3_BUCKET,
-            Key=S3_FAISS_KEY,
-            Filename=str(FAISS_PATH)
-        )
-        
-        elapsed = time.time() - start_time
-        file_size = FAISS_PATH.stat().st_size / (1024**3)  # GB
-        
-        print(f"[S3] ✅ Downloaded successfully!")
-        print(f"[S3] File: {FAISS_PATH}")
-        print(f"[S3] Size: {file_size:.2f} GB")
-        print(f"[S3] Time: {elapsed:.1f}s ({file_size/elapsed*60:.1f} MB/s)")
-        
-        # Optional: Download metadata if stored in S3
-        # Uncomment if you uploaded internal_meta.jsonl to S3
-        # if not META_PATH.exists():
-        #     print(f"[S3] Downloading {S3_META_KEY}...")
-        #     s3.download_file(S3_BUCKET, S3_META_KEY, str(META_PATH))
-        #     print(f"[S3] ✅ Metadata downloaded")
-        
+
+        # Download FAISS index (if missing)
+        if not faiss_exists:
+            print(f"[S3] Downloading {S3_FAISS_KEY}... (this may take 1-2 minutes for 2.8GB)")
+            start_time = time.time()
+
+            s3.download_file(
+                Bucket=S3_BUCKET,
+                Key=S3_FAISS_KEY,
+                Filename=str(FAISS_PATH)
+            )
+
+            elapsed = time.time() - start_time
+            file_size = FAISS_PATH.stat().st_size / (1024**3)  # GB
+
+            print(f"[S3] Downloaded FAISS successfully!")
+            print(f"[S3] File: {FAISS_PATH}")
+            print(f"[S3] Size: {file_size:.2f} GB")
+            print(f"[S3] Time: {elapsed:.1f}s ({file_size/elapsed*60:.1f} MB/s)")
+
+        # Download metadata (if missing)
+        if not meta_exists:
+            print(f"[S3] Downloading {S3_META_KEY}... (this may take a bit for a large JSONL)")
+            start_time = time.time()
+
+            s3.download_file(
+                Bucket=S3_BUCKET,
+                Key=S3_META_KEY,
+                Filename=str(META_PATH)
+            )
+
+            elapsed = time.time() - start_time
+            meta_size_mb = META_PATH.stat().st_size / (1024**2)
+
+            print(f"[S3] Downloaded metadata successfully!")
+            print(f"[S3] File: {META_PATH}")
+            print(f"[S3] Size: {meta_size_mb:.2f} MB")
+            print(f"[S3] Time: {elapsed:.1f}s ({meta_size_mb/elapsed:.1f} MB/s)")
+
         return True
-        
+
     except ClientError as e:
         error_code = e.response['Error']['Code']
-        print(f"[S3] ❌ Download failed: {error_code}")
+        print(f"[S3] Download failed: {error_code}")
         print(f"[S3] Error: {e}")
-        
+
         if error_code == "NoSuchBucket":
             print(f"[S3] Bucket '{S3_BUCKET}' does not exist!")
         elif error_code == "NoSuchKey":
-            print(f"[S3] File '{S3_FAISS_KEY}' not found in bucket!")
+            # Could be either FAISS or META key — print both to help debugging
+            print(f"[S3] One of these files was not found in bucket:")
+            print(f"     - FAISS Key: {S3_FAISS_KEY}")
+            print(f"     - META  Key: {S3_META_KEY}")
         elif error_code in ["InvalidAccessKeyId", "SignatureDoesNotMatch"]:
             print("[S3] Check your AWS credentials (AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY)")
-        
-        return False
-        
-    except Exception as e:
-        print(f"[S3] ❌ Unexpected error: {e}")
+
         return False
 
+    except Exception as e:
+        print(f"[S3] Unexpected error: {e}")
+        return False
 
 def detect_tickers_from_query(query: str) -> List[str]:
     """
