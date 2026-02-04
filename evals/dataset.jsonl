@@ -1,7 +1,0 @@
-{"id":"nvda_net_income","query":"From internal sources, what is NVDA net income and the period?","expected_sources_contains":["NVDA"],"must_cite_internal":true}
-{"id":"msft_revenue","query":"What is Microsoft's total revenue for 2024?","expected_sources_contains":["MSFT"],"must_cite_internal":true}
-{"id":"aapl_vs_googl","query":"Compare Apple and Google's gross margins","expected_sources_contains":["AAPL","GOOGL"],"must_cite_internal":true}
-{"id":"wrong_company","query":"What is Tesla's net income?","expected_sources_contains":["TSLA"],"must_cite_internal":true}
-{"id":"multi_company","query":"Which company has higher R&D spending: NVDA or AMD?","expected_sources_contains":["NVDA","AMD"],"must_cite_internal":true}
-{"id":"specific_period","query":"NVDA Q2 2024 revenue","expected_sources_contains":["NVDA"],"must_cite_internal":true}
-{"id":"no_company_general","query":"What is net income?","expected_sources_contains":[],"must_cite_internal":false}

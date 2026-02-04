@@ -106,24 +106,24 @@ class CompanyReportGenerator:
         # Generate content using LLM
         system_prompt = f"""You are a financial analyst writing a professional company report section.
 
-Section: {section_name}
-Company Ticker: {self.ticker}
-
-Instructions:
-- Write in clear, professional language
-- Use specific data and metrics from the provided context
-- Be objective and analytical
-- Cite specific numbers, dates, and facts
-- Keep the section focused and concise (300-500 words)
-- Do not use markdown formatting
-- Write in paragraph form suitable for PDF"""
+                            Section: {section_name}
+                            Company Ticker: {self.ticker}
+                            
+                            Instructions:
+                            - Write in clear, professional language
+                            - Use specific data and metrics from the provided context
+                            - Be objective and analytical
+                            - Cite specific numbers, dates, and facts
+                            - Keep the section focused and concise (300-500 words)
+                            - Do not use markdown formatting
+                            - Write in paragraph form suitable for PDF"""
 
         user_prompt = f"""Based on the following context, write the '{section_name}' section for {self.ticker}:
 
-CONTEXT:
-{context}
-
-Write a comprehensive {section_name} section."""
+                        CONTEXT:
+                        {context}
+                        
+                        Write a comprehensive {section_name} section."""
 
         try:
             response = client.chat.completions.create(
