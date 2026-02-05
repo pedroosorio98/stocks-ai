@@ -154,30 +154,126 @@ class CompanyReportGenerator:
         """Generate all report sections"""
         
         sections = {
-            "Core Description": f'''What is the company {self.ticker}? Describe the company's core business, main products, services, and business model. In which markets does it operates?
-            What is the company's value proposition? Who are the main competitors and how the company differentiates it self from others?''',
+            "Core Description": f'''Provide a comprehensive description of {self.ticker}:
+        
+        REQUIRED CONTENT:
+        1. Core Business: Describe what the company does, its main products/services, and business model
+        2. Markets: List the specific geographic markets and industry segments where it operates
+        3. Value Proposition: Explain the company's unique value proposition in 2-3 sentences
+        4. Competitors: Name at least 3 main competitors
+        5. Differentiation: Explain how {self.ticker} differentiates itself from these competitors
+        
+        Ensure you cover all 5 points above.''',
             
-            "Historical Context and Competitive Positioning": f'''What is the historical background of {self.ticker}? How does {self.ticker} position itself against competitors? What is its
-            market share and competitive advantages? Where there any relevant structural changes such as important M&A deals, management shifts, product launches and strategy pivots?
-            Describe how the companies profitability and growth stack up (give specific growth and profitability measures here)''',
+            "Historical Context and Competitive Positioning": f'''Provide historical and competitive analysis for {self.ticker}:
+        
+        REQUIRED CONTENT:
+        1. Historical Background: Summarize the company's history and major milestones
+        2. Market Share: You MUST state the estimated market share percentage (format: "market share: XX%")
+        3. Competitive Advantages: List at least 2 specific competitive advantages
+        4. Structural Changes: Identify any significant M&A deals, management changes, product launches, or strategy pivots
+        5. Performance Metrics:
+           - Revenue growth rate over past 2-3 years (state specific percentage)
+           - Profitability trend (state specific metric like "ROE increased from 15% to 18%")
+        
+        You must include numerical percentages for market share and growth rates. Do not skip the quantitative data.''',
             
-            "Key Drivers of Performance": f'''What are the key financial and operational drivers affecting {self.ticker}'s performance? What metrics are most important for this company?
-            Describe key performance indicators for the company, describe also the companies margins and how it has evolved (Gross margin, ebitda margin, net margin). Compare margins with
-            competitors, how does it compares? Does the company has any economic moat/competitive advantage? What are they? What is the estimate market share the company has? Please 
-            also highlight the 3–5 key factors that determine the company's success or failure.''',
+            "Key Drivers of Performance": f'''Analyze the key drivers of {self.ticker}'s performance:
+        
+        REQUIRED FORMAT - YOU MUST INCLUDE ALL OF THE FOLLOWING:
+        
+        1. Key Performance Indicators (KPIs):
+           - List 3-5 specific KPIs that matter most for this company
+           - For each KPI, provide the recent value/metric
+        
+        2. Margin Analysis (MANDATORY - INCLUDE ALL THREE):
+           - Gross Margin: [You MUST state as "Gross margin: XX.X%"]
+           - EBITDA Margin: [You MUST state as "EBITDA margin: XX.X%"]
+           - Net Margin: [You MUST state as "Net margin: XX.X%"]
+           - For each margin above, describe the trend (improving/declining) over past 2-3 years
+        
+        3. Competitor Margin Comparison:
+           - Name at least 2 competitors
+           - State their gross/EBITDA/net margins for comparison
+           - Example: "Competitor A has gross margin of 45% vs {self.ticker}'s 38%"
+        
+        4. Economic Moat:
+           - Identify 2-3 specific competitive advantages/moats
+           - Explain why each is defensible
+        
+        5. Market Share:
+           - State the estimated market share percentage (format: "market share: XX%")
+        
+        6. Critical Success Factors:
+           - List EXACTLY 3-5 key factors (not fewer than 3, not more than 5)
+           - Number them as 1., 2., 3., etc.
+        
+        CRITICAL: Do not proceed to write this section unless you can provide specific numerical values for all three margins (gross, EBITDA, net). If data is unavailable, state "Data not available" but attempt to find estimates.''',
             
-            "Company Outlook": f'''What is the future outlook for {self.ticker}? What are the growth prospects and strategic initiatives?''',
+            "Company Outlook": f'''What is the future outlook for {self.ticker}?
+        
+        REQUIRED CONTENT:
+        1. Growth Prospects: Describe expected growth trajectory with specific drivers
+        2. Strategic Initiatives: List at least 2-3 current strategic initiatives or focus areas
+        3. Expected Timeline: When are these initiatives expected to impact results?
+        
+        Provide specific details, not vague statements.''',
             
-            "Opportunities": f'''What are the main opportunities for {self.ticker}? What growth vectors or market expansions are possible? Identify specific opportunities and tailwinds,
-            cite at least two examples''',
+            "Opportunities": f'''Identify growth opportunities for {self.ticker}:
+        
+        REQUIRED FORMAT:
+        List AT LEAST 2 specific opportunities. Format as:
+        
+        1. [Opportunity Name]: [Detailed description with specifics]
+           - Potential impact: [quantify if possible]
+           
+        2. [Opportunity Name]: [Detailed description with specifics]
+           - Potential impact: [quantify if possible]
+        
+        You must cite at least 2 examples. Include specific market names, product categories, or expansion vectors.''',
             
-            "Risks": f'''What are the key risks facing {self.ticker}? What challenges could impact the company's performance? Indentify specific risks/headwinds for the company,
-            cite at least two examples''',
+            "Risks": f'''Identify key risks facing {self.ticker}:
+        
+        REQUIRED FORMAT:
+        List AT LEAST 2 specific risks. Format as:
+        
+        1. [Risk Name]: [Detailed description of the risk]
+           - Potential impact: [describe severity]
+           
+        2. [Risk Name]: [Detailed description of the risk]  
+           - Potential impact: [describe severity]
+        
+        You must cite at least 2 examples. Be specific about regulatory, competitive, operational, or market risks.''',
             
-            "Scenarios": f'''For the company {self.ticker}, develop 3 outlook scenarios (base case, bear case and bull case), each probability-weighted, for how the multiple headwinds/risks and
-            tailwinds/opportunities may play out for the company going forward. Talk about what are the likely implications (in terms of stock price) for each scenario. Be straight forward
-            and tell me the estimated numerical probability for each scenario (you have to give 3 probabilites one for each scenario)'''
-            
+            "Scenarios": f'''Develop probability-weighted scenarios for {self.ticker}:
+        
+        REQUIRED FORMAT - THIS IS MANDATORY:
+        
+        **Base Case Scenario (Probability: XX%):**
+        [Description of base case]
+        Stock price implication: [discuss expected price movement/valuation]
+        
+        **Bull Case Scenario (Probability: XX%):**
+        [Description of bull case]
+        Stock price implication: [discuss upside potential]
+        
+        **Bear Case Scenario (Probability: XX%):**
+        [Description of bear case]
+        Stock price implication: [discuss downside risk]
+        
+        CRITICAL REQUIREMENTS:
+        1. You MUST provide 3 numerical probabilities (one for each scenario)
+        2. The 3 probabilities MUST sum to 100%
+        3. Format probabilities clearly (e.g., "Probability: 50%")
+        4. Each scenario must discuss stock price implications
+        5. Use the exact labels: "Base Case", "Bull Case", "Bear Case"
+        
+        Example format:
+        - Base Case Scenario (Probability: 50%)
+        - Bull Case Scenario (Probability: 30%)
+        - Bear Case Scenario (Probability: 20%)
+        
+        Do not write this section unless you include all 3 probabilities that sum to 100%.'''
         }
         
         print(f"\n{'='*60}")

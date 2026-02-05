@@ -56,7 +56,7 @@ def answer(query: str, use_web: bool = True):
     print("\n" + "="*60)
     print("RETRIEVED INTERNAL CHUNKS:")
     print("="*60)
-    
+
     # Group by ticker for better visibility
     by_ticker = {}
     for hit in internal:
@@ -64,7 +64,7 @@ def answer(query: str, use_web: bool = True):
         if ticker not in by_ticker:
             by_ticker[ticker] = []
         by_ticker[ticker].append(hit)
-    
+
     for ticker, hits in by_ticker.items():
         print(f"\n{ticker} ({len(hits)} chunks):")
         for i, hit in enumerate(hits, 1):
@@ -72,12 +72,14 @@ def answer(query: str, use_web: bool = True):
             score = hit.get('score', 0)
             lang = hit.get('query_lang', '?')
             print(f"  {i:2d}. {source:30s} | score: {score:.3f} | via: {lang}")
-    
+
     print("="*60 + "\n")
 
     context = build_context(internal, web)
 
-    prompt = f"""You are a helpful research assistant.
+    prompt = f"""Answer in ENGLISH only.
+        
+                You are a helpful research assistant.
                 Answer the user using the provided context.
                 If something is not in context, say you don't know.
                 Always include a short 'Sources' section listing the INTERNAL and WEB citations you used.
@@ -90,7 +92,18 @@ def answer(query: str, use_web: bool = True):
 
     resp = client.chat.completions.create(
         model="gpt-4o",
-        messages=[{"role": "user", "content": prompt}]
+        messages=[
+            {
+                "role": "system",
+                "content": (
+                    "You are a helpful research assistant. "
+                    "Always respond in English only, regardless of the user's language. "
+                    "Do not translate citations; keep sources exactly as given."
+                )
+            },
+            {"role": "user", "content": prompt},
+        ],
+        temperature=0.2,
     )
     return resp.choices[0].message.content
 

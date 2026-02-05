@@ -151,7 +151,7 @@ async function generateReport() {
     // Disable button and show loading state
     generateButton.disabled = true;
     const originalText = generateButton.innerHTML;
-    generateButton.innerHTML = '<span class="spinner"></span> Starting...';
+    generateButton.innerHTML = '<span class="spinner"></span> Running...';
     
     // Show generating state in download link
     downloadLink.style.display = 'inline-flex';

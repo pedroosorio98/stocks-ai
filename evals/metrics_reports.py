@@ -440,3 +440,191 @@ def check_probability_scenarios(report_text: str, expected_count: int = 3) -> Di
         "count_match": count_match,
         "passed": passed
     }
+
+# ============================================================================
+# ADDITIONAL METRICS BASED ON YOUR SPECIFIC REPORT PROMPTS
+# ============================================================================
+
+def check_all_margins_cited(report_text: str) -> Dict[str, Any]:
+    """
+    Check if all 3 margins (gross, EBITDA, net) are cited with explicit numbers
+    Based on your prompt: "Gross margin, ebitda margin, net margin"
+    """
+    margins = {}
+    
+    # Look for "X% gross margin" or "gross margin of X%"
+    gross = re.search(r'(?:gross margin.*?(\d+\.?\d*)%)|(?:(\d+\.?\d*)%.*?gross margin)', report_text, re.I)
+    margins['gross_margin'] = bool(gross)
+    
+    ebitda = re.search(r'(?:ebitda margin.*?(\d+\.?\d*)%)|(?:(\d+\.?\d*)%.*?ebitda margin)', report_text, re.I)
+    margins['ebitda_margin'] = bool(ebitda)
+    
+    net = re.search(r'(?:net margin.*?(\d+\.?\d*)%)|(?:(\d+\.?\d*)%.*?net margin)', report_text, re.I)
+    margins['net_margin'] = bool(net)
+    
+    all_present = all(margins.values())
+    
+    return {
+        "margins": margins,
+        "all_margins_cited": all_present,
+        "missing_margins": [k for k, v in margins.items() if not v],
+        "passed": all_present
+    }
+
+
+def check_market_share_mentioned(report_text: str) -> Dict[str, Any]:
+    """
+    Check if market share is mentioned with a percentage
+    Based on your prompt: "What is the estimate market share"
+    """
+    pattern = r'market share.*?(\d+\.?\d*)%'
+    match = re.search(pattern, report_text, re.I)
+    
+    return {
+        "market_share_mentioned": bool(match),
+        "market_share_value": match.group(1) if match else None,
+        "passed": bool(match)
+    }
+
+
+def check_key_drivers_count(report_text: str, min_drivers: int = 3, max_drivers: int = 5) -> Dict[str, Any]:
+    """
+    Check if 3-5 key drivers/factors are explicitly identified
+    Based on your prompt: "highlight the 3–5 key factors"
+    """
+    # Look for numbered/bulleted lists
+    driver_patterns = [
+        r'(?:^|\n)\s*(?:\d+\.|•|–|-)\s*[A-Z]',  # Numbered or bulleted
+        r'(?:first|second|third|fourth|fifth)\s+(?:driver|factor|key)',  # Written out
+        r'(?:1\)|2\)|3\)|4\)|5\))',  # Parenthesis numbering
+    ]
+    
+    potential_drivers = []
+    for pattern in driver_patterns:
+        matches = re.findall(pattern, report_text, re.I | re.M)
+        potential_drivers.extend(matches)
+    
+    driver_count = len(set(potential_drivers))
+    
+    # Check for explicit mention of "3 factors" or "5 drivers"
+    explicit_count_match = re.search(r'(\d+)\s+(?:key\s+)?(?:factors|drivers)', report_text, re.I)
+    stated_count = int(explicit_count_match.group(1)) if explicit_count_match else None
+    
+    in_range = min_drivers <= driver_count <= max_drivers
+    
+    return {
+        "driver_count": driver_count,
+        "stated_count": stated_count,
+        "in_range": in_range,
+        "passed": in_range or (stated_count and min_drivers <= stated_count <= max_drivers)
+    }
+
+
+def check_opportunities_and_risks(report_text: str, min_each: int = 2) -> Dict[str, Any]:
+    """
+    Check if at least 2 opportunities and 2 risks are cited
+    Based on your prompts: "cite at least two examples" for both
+    """
+    # Try to isolate sections
+    opps_match = re.search(r'opportunities?:?\s*(.*?)(?:risks?:|scenarios?:|$)', report_text, re.I | re.S)
+    opps_section = opps_match.group(1) if opps_match else ""
+    
+    risks_match = re.search(r'risks?:?\s*(.*?)(?:scenarios?:|$)', report_text, re.I | re.S)
+    risks_section = risks_match.group(1) if risks_match else ""
+    
+    def count_items(text):
+        """Count numbered/bulleted items"""
+        patterns = [
+            r'(?:^|\n)\s*(?:\d+\.|•|–|-)\s*',
+            r'(?:first|second|third|fourth|1\)|2\)|3\)|4\))',
+        ]
+        count = 0
+        for pattern in patterns:
+            matches = re.findall(pattern, text, re.I | re.M)
+            count = max(count, len(matches))
+        return count
+    
+    opp_count = count_items(opps_section)
+    risk_count = count_items(risks_section)
+    
+    return {
+        "opportunities_count": opp_count,
+        "risks_count": risk_count,
+        "opportunities_sufficient": opp_count >= min_each,
+        "risks_sufficient": risk_count >= min_each,
+        "passed": opp_count >= min_each and risk_count >= min_each
+    }
+
+
+def check_scenario_completeness(report_text: str) -> Dict[str, Any]:
+    """
+    Check if all 3 scenario types (base, bull, bear) are explicitly present
+    Based on your prompt: "base case, bear case and bull case"
+    """
+    scenarios = {
+        "base_case": bool(re.search(r'\bbase\s+case\b', report_text, re.I)),
+        "bull_case": bool(re.search(r'\bbull(?:ish)?\s+case\b', report_text, re.I)),
+        "bear_case": bool(re.search(r'\bbear(?:ish)?\s+case\b', report_text, re.I))
+    }
+    
+    all_present = all(scenarios.values())
+    
+    return {
+        "scenarios": scenarios,
+        "all_scenarios_present": all_present,
+        "missing_scenarios": [k for k, v in scenarios.items() if not v],
+        "passed": all_present
+    }
+
+
+def check_stock_price_implications(report_text: str) -> Dict[str, Any]:
+    """
+    Check if stock price implications are discussed in scenarios
+    Based on your prompt: "implications (in terms of stock price)"
+    """
+    price_patterns = [
+        r'stock price',
+        r'share price',
+        r'price target',
+        r'valuation',
+        r'upside',
+        r'downside',
+        r'\$\d+\s*(?:per share|target)'
+    ]
+    
+    mentions = [p for p in price_patterns if re.search(p, report_text, re.I)]
+    
+    return {
+        "discusses_stock_price": len(mentions) > 0,
+        "mention_types": mentions,
+        "mention_count": len(mentions),
+        "passed": len(mentions) > 0
+    }
+
+
+def check_competitor_comparison(report_text: str) -> Dict[str, Any]:
+    """
+    Check if competitors are explicitly compared (margins, market share, etc.)
+    Based on your prompt: "Compare margins with competitors"
+    """
+    comparison_keywords = [
+        r'compar(?:e|ed|ing).*?competitors?',
+        r'versus',
+        r'vs\.?\s+',
+        r'relative to',
+        r'compared to',
+        r'higher than.*?competitors?',
+        r'lower than.*?competitors?'
+    ]
+    
+    has_comparison = any(re.search(kw, report_text, re.I) for kw in comparison_keywords)
+    
+    # Check if specific competitor names appear near comparison words
+    competitor_comparison_pattern = r'(?:compar|vs|versus|relative to).*?[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*'
+    competitor_mentions = re.findall(competitor_comparison_pattern, report_text)
+    
+    return {
+        "has_competitor_comparison": has_comparison,
+        "competitor_comparisons_found": len(competitor_mentions),
+        "passed": has_comparison
+    }
