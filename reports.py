@@ -69,6 +69,12 @@ class CompanyReportGenerator:
             if url:
                 self.web_sources.add((title, url))
     
+    def _markdown_to_html(self, text: str) -> str:
+        """Convert markdown **bold** to HTML <b>bold</b> for ReportLab"""
+        import re
+        text = re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', text)
+        return text
+    
     def generate_section(self, section_name: str, prompt: str, context_k: int = 8) -> str:
         """
         Generate a single report section using RAG + LLM
@@ -148,17 +154,30 @@ class CompanyReportGenerator:
         """Generate all report sections"""
         
         sections = {
-            "Core Description": f"What is {self.ticker}? Describe the company's core business, main products, services, and business model.",
+            "Core Description": f'''What is the company {self.ticker}? Describe the company's core business, main products, services, and business model. In which markets does it operates?
+            What is the company's value proposition? Who are the main competitors and how the company differentiates it self from others?''',
             
-            "Historical Context and Competitive Positioning": f"What is the historical background of {self.ticker}? How does {self.ticker} position itself against competitors? What is its market share and competitive advantages?",
+            "Historical Context and Competitive Positioning": f'''What is the historical background of {self.ticker}? How does {self.ticker} position itself against competitors? What is its
+            market share and competitive advantages? Where there any relevant structural changes such as important M&A deals, management shifts, product launches and strategy pivots?
+            Describe how the companies profitability and growth stack up (give specific growth and profitability measures here)''',
             
-            "Key Drivers of Performance": f"What are the key financial and operational drivers affecting {self.ticker}'s performance? What metrics are most important for this company?",
+            "Key Drivers of Performance": f'''What are the key financial and operational drivers affecting {self.ticker}'s performance? What metrics are most important for this company?
+            Describe key performance indicators for the company, describe also the companies margins and how it has evolved (Gross margin, ebitda margin, net margin). Compare margins with
+            competitors, how does it compares? Does the company has any economic moat/competitive advantage? What are they? What is the estimate market share the company has? Please 
+            also highlight the 3–5 key factors that determine the company's success or failure.''',
             
-            "Company Outlook": f"What is the future outlook for {self.ticker}? What are the growth prospects and strategic initiatives?",
+            "Company Outlook": f'''What is the future outlook for {self.ticker}? What are the growth prospects and strategic initiatives?''',
             
-            "Opportunities": f"What are the main opportunities for {self.ticker}? What growth vectors or market expansions are possible?",
+            "Opportunities": f'''What are the main opportunities for {self.ticker}? What growth vectors or market expansions are possible? Identify specific opportunities and tailwinds,
+            cite at least two examples''',
             
-            "Risks": f"What are the key risks facing {self.ticker}? What challenges could impact the company's performance?"
+            "Risks": f'''What are the key risks facing {self.ticker}? What challenges could impact the company's performance? Indentify specific risks/headwinds for the company,
+            cite at least two examples''',
+            
+            "Scenarios": f'''For the company {self.ticker}, develop 3 outlook scenarios (base case, bear case and bull case), each probability-weighted, for how the multiple headwinds/risks and
+            tailwinds/opportunities may play out for the company going forward. Talk about what are the likely implications (in terms of stock price) for each scenario. Be straight forward
+            and tell me the estimated numerical probability for each scenario (you have to give 3 probabilites one for each scenario)'''
+            
         }
         
         print(f"\n{'='*60}")
@@ -306,7 +325,8 @@ class CompanyReportGenerator:
             "Key Drivers of Performance",
             "Company Outlook",
             "Opportunities",
-            "Risks"
+            "Risks",
+            "Scenarios"
         ]
         
         for section_name in section_order:
@@ -321,7 +341,8 @@ class CompanyReportGenerator:
                 paragraphs = content.split('\n\n')
                 for para in paragraphs:
                     if para.strip():
-                        story.append(Paragraph(para.strip(), body_style))
+                        para_html = self._markdown_to_html(para.strip())
+                        story.append(Paragraph(para_html, body_style))
                 
                 story.append(Spacer(1, 0.2*inch))
         

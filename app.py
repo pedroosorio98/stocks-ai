@@ -115,7 +115,10 @@ def generate_report_async(job_id: str, ticker: str):
         print(f"[REPORT JOB {job_id}] Completed: {pdf_path.name}")
         
     except Exception as e:
-        print(f"[REPORT JOB {job_id}] Error: {e}")
+        print(f"[REPORT JOB {job_id}] ERROR: {e}")
+        print(f"[REPORT JOB {job_id}] Full traceback:")
+        traceback.print_exc()  # Print full stack trace
+        
         report_jobs[job_id]['status'] = 'failed'
         report_jobs[job_id]['error'] = str(e)
 

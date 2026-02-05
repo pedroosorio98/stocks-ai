@@ -1,6 +1,8 @@
 // Global variables for report tracking
 let currentJobId = null;
 let statusCheckInterval = null;
+let statusCheckAttempts = 0;
+const MAX_STATUS_CHECKS = 300; // 10 minutes max (300 checks * 2 seconds = 600 seconds)
 
 // Section switching with active state management
 function showSection(sectionId) {
@@ -23,7 +25,7 @@ function showSection(sectionId) {
     document.getElementById('btn-' + sectionId).classList.add('active');
 }
 
-// AI Prompt submission
+// AI Prompt submission with timeout
 async function submitPrompt() {
     const promptInput = document.getElementById('promptInput');
     const responseDiv = document.getElementById('promptResponse');
@@ -49,6 +51,10 @@ async function submitPrompt() {
     `;
     
     try {
+        // Add timeout to fetch request (60 seconds)
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 60000); // 60 second timeout
+        
         const response = await fetch('/api/prompt', {
             method: 'POST',
             headers: {
@@ -57,8 +63,11 @@ async function submitPrompt() {
             body: JSON.stringify({ 
                 prompt: prompt,
                 use_web: useWebCheckbox.checked
-            })
+            }),
+            signal: controller.signal
         });
+        
+        clearTimeout(timeoutId);
         
         const data = await response.json();
         
@@ -78,11 +87,19 @@ async function submitPrompt() {
             `;
         }
     } catch (error) {
-        responseDiv.innerHTML = `
-            <div style="padding: 1rem; background: #f8d7da; border-left: 4px solid #dc3545; border-radius: 8px;">
-                <strong>Network Error:</strong> ${error.message}
-            </div>
-        `;
+        if (error.name === 'AbortError') {
+            responseDiv.innerHTML = `
+                <div style="padding: 1rem; background: #fff3cd; border-left: 4px solid #ffc107; border-radius: 8px;">
+                    <strong>Timeout:</strong> Request took too long (>60 seconds). The query might be too complex or the system is overloaded. Try a simpler question.
+                </div>
+            `;
+        } else {
+            responseDiv.innerHTML = `
+                <div style="padding: 1rem; background: #f8d7da; border-left: 4px solid #dc3545; border-radius: 8px;">
+                    <strong>Network Error:</strong> ${error.message}
+                </div>
+            `;
+        }
     } finally {
         submitButton.disabled = false;
         submitButton.innerHTML = originalText;
@@ -109,7 +126,7 @@ function formatResponse(text) {
     return text;
 }
 
-// Report generation with async progress tracking
+// Report generation with async progress tracking and timeout
 async function generateReport() {
     const companySelect = document.getElementById('companySelect');
     const downloadLink = document.getElementById('downloadLink');
@@ -127,6 +144,9 @@ async function generateReport() {
         clearInterval(statusCheckInterval);
         statusCheckInterval = null;
     }
+    
+    // Reset attempt counter
+    statusCheckAttempts = 0;
     
     // Disable button and show loading state
     generateButton.disabled = true;
@@ -167,6 +187,8 @@ async function generateReport() {
                 <span style="color: #dc3545;">❌</span> Error: ${data.error || 'Failed to start generation'}
             `;
             downloadLink.style.pointerEvents = 'auto';
+            generateButton.disabled = false;
+            generateButton.innerHTML = originalText;
         }
         
     } catch (error) {
@@ -174,19 +196,46 @@ async function generateReport() {
             <span style="color: #dc3545;">❌</span> Network error: ${error.message}
         `;
         downloadLink.style.pointerEvents = 'auto';
-    } finally {
         generateButton.disabled = false;
         generateButton.innerHTML = originalText;
     }
 }
 
-// Check report generation status
+// Check report generation status with timeout protection
 async function checkReportStatus(jobId) {
+    statusCheckAttempts++;
+    
+    // TIMEOUT: Stop after MAX_STATUS_CHECKS attempts
+    if (statusCheckAttempts > MAX_STATUS_CHECKS) {
+        clearInterval(statusCheckInterval);
+        statusCheckInterval = null;
+        
+        const downloadLink = document.getElementById('downloadLink');
+        const generateButton = document.querySelector('#aiReportGenerator .primary-btn');
+        
+        downloadLink.innerHTML = `
+            <span style="color: #dc3545;">⏱️</span> Report generation timed out after 10 minutes. 
+            <br>The report may still be processing. Please check back later or try again.
+        `;
+        downloadLink.style.pointerEvents = 'auto';
+        downloadLink.style.background = '#dc3545';
+        
+        // Re-enable generate button
+        if (generateButton) {
+            generateButton.disabled = false;
+            generateButton.innerHTML = '<span class="btn-icon"></span> Generate Report';
+        }
+        
+        console.error(`Report generation timeout after ${statusCheckAttempts} attempts`);
+        return;
+    }
+    
     try {
         const response = await fetch(`/api/report/status/${jobId}`);
         const data = await response.json();
         
         const downloadLink = document.getElementById('downloadLink');
+        const generateButton = document.querySelector('#aiReportGenerator .primary-btn');
         
         if (data.status === 'completed') {
             // Stop polling
@@ -201,6 +250,14 @@ async function checkReportStatus(jobId) {
             downloadLink.style.pointerEvents = 'auto';
             downloadLink.style.background = 'var(--success-color)';
             
+            // Re-enable generate button
+            if (generateButton) {
+                generateButton.disabled = false;
+                generateButton.innerHTML = '<span class="btn-icon"></span> Generate Report';
+            }
+            
+            console.log(`Report completed after ${statusCheckAttempts} checks`);
+            
         } else if (data.status === 'failed') {
             // Stop polling
             clearInterval(statusCheckInterval);
@@ -213,10 +270,17 @@ async function checkReportStatus(jobId) {
             downloadLink.style.pointerEvents = 'auto';
             downloadLink.style.background = '#dc3545';
             
+            // Re-enable generate button
+            if (generateButton) {
+                generateButton.disabled = false;
+                generateButton.innerHTML = '<span class="btn-icon"></span> Generate Report';
+            }
+            
         } else if (data.status === 'generating') {
-            // Still generating - update status
+            // Still generating - update status with progress indicator
+            const elapsed = Math.floor((statusCheckAttempts * 2) / 60); // Minutes elapsed
             downloadLink.innerHTML = `
-                <span class="spinner"></span> Generating ${data.company} report (${data.ticker})...
+                <span class="spinner"></span> Generating ${data.company} report (${data.ticker})... ${elapsed}m elapsed
             `;
         } else if (data.status === 'pending') {
             // Just started
@@ -231,10 +295,18 @@ async function checkReportStatus(jobId) {
         statusCheckInterval = null;
         
         const downloadLink = document.getElementById('downloadLink');
+        const generateButton = document.querySelector('#aiReportGenerator .primary-btn');
+        
         downloadLink.innerHTML = `
-            <span style="color: #dc3545;">❌</span> Error checking status
+            <span style="color: #dc3545;">❌</span> Error checking status: ${error.message}
         `;
         downloadLink.style.pointerEvents = 'auto';
+        
+        // Re-enable generate button
+        if (generateButton) {
+            generateButton.disabled = false;
+            generateButton.innerHTML = '<span class="btn-icon"></span> Generate Report';
+        }
     }
 }
 

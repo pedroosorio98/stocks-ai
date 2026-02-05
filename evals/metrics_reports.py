@@ -359,3 +359,84 @@ def check_must_contain_terms(report_text: str, required_terms: List[str]) -> Dic
         "precision": precision,
         "passed": len(missing) == 0
     }
+
+
+def check_probability_scenarios(report_text: str, expected_count: int = 3) -> Dict[str, Any]:
+    """
+    Check if report contains probability scenarios with percentages
+    
+    Looks for patterns like:
+    - "30% probability"
+    - "Base case (50%)"
+    - "Bear case: 25%"
+    - "Bullish scenario - 40%"
+    
+    Args:
+        report_text: Full report text
+        expected_count: Number of scenarios expected (default: 3)
+    
+    Returns:
+        {
+            "probabilities_found": ["30%", "50%", "20%"],
+            "count": 3,
+            "expected_count": 3,
+            "sum": 100.0,
+            "sums_to_100": True,
+            "passed": True
+        }
+    """
+    # Pattern to find percentages in scenario contexts
+    # Looks for: number followed by % near scenario-related words
+    scenario_keywords = r'(scenario|case|probability|likelihood|chance|outlook)'
+    
+    # Find all percentage values near scenario keywords
+    # Pattern: finds "XX%" where XX is 1-3 digits
+    percentage_pattern = r'(\d{1,3})%'
+    
+    # Split text into sentences/sections
+    lines = report_text.lower().split('\n')
+    
+    probabilities_found = []
+    scenario_lines = []
+    
+    for line in lines:
+        # Check if line mentions scenarios
+        if re.search(scenario_keywords, line, re.IGNORECASE):
+            # Find percentages in this line
+            percentages = re.findall(percentage_pattern, line)
+            for pct in percentages:
+                prob_value = int(pct)
+                # Only consider reasonable probability values (1-100%)
+                if 1 <= prob_value <= 100:
+                    probabilities_found.append(f"{pct}%")
+                    scenario_lines.append(line.strip()[:100])  # Keep first 100 chars
+    
+    # Remove duplicates while preserving order
+    unique_probs = []
+    seen = set()
+    for p in probabilities_found:
+        if p not in seen:
+            unique_probs.append(p)
+            seen.add(p)
+    
+    # Calculate sum of probabilities
+    prob_values = [int(p.replace('%', '')) for p in unique_probs]
+    prob_sum = sum(prob_values)
+    
+    # Check if they sum to ~100% (allow small rounding errors)
+    sums_to_100 = 95 <= prob_sum <= 105
+    
+    # Passed if we found the expected count and they sum to 100
+    count_match = len(unique_probs) == expected_count
+    passed = count_match and sums_to_100
+    
+    return {
+        "probabilities_found": unique_probs,
+        "scenario_lines": scenario_lines[:expected_count],  # Show where found
+        "count": len(unique_probs),
+        "expected_count": expected_count,
+        "sum": prob_sum,
+        "sums_to_100": sums_to_100,
+        "count_match": count_match,
+        "passed": passed
+    }

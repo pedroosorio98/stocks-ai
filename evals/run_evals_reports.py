@@ -23,7 +23,8 @@ from metrics_reports import (
     evaluate_source_quality,
     check_length_appropriateness,
     llm_judge_quality,
-    check_must_contain_terms
+    check_must_contain_terms,
+    check_probability_scenarios
 )
 
 
@@ -77,7 +78,9 @@ def run_single_test(test_case: Dict, verbose: bool = True) -> Dict[str, Any]:
     ticker = test_case["ticker"]
     expected_sections = test_case.get("expected_sections", [])
     ground_truth_facts = test_case.get("ground_truth_facts", [])
-    must_contain_terms = test_case.get("must_contain_terms", [])  # NEW
+    must_contain_terms = test_case.get("must_contain_terms", [])
+    require_scenarios = test_case.get("require_scenarios", False)  # NEW
+    scenario_count = test_case.get("scenario_count", 3)  # NEW: default 3 scenarios
     min_words = test_case.get("min_word_count", 1500)
     max_words = test_case.get("max_word_count", 3000)
     
@@ -89,6 +92,8 @@ def run_single_test(test_case: Dict, verbose: bool = True) -> Dict[str, Any]:
         print(f"Expected sections: {', '.join(expected_sections)}")
         if must_contain_terms:
             print(f"Must contain: {', '.join(must_contain_terms)}")
+        if require_scenarios:
+            print(f"Require scenarios: {scenario_count} probability scenarios")
     
     try:
         # Generate report
@@ -130,17 +135,24 @@ def run_single_test(test_case: Dict, verbose: bool = True) -> Dict[str, Any]:
         source_quality = evaluate_source_quality(sources)
         length = check_length_appropriateness(result['full_text'], min_words, max_words)
         llm_judge = llm_judge_quality(result['full_text'], f"Generate comprehensive report for {ticker}")
-        terms_check = check_must_contain_terms(result['full_text'], must_contain_terms)  # NEW
+        terms_check = check_must_contain_terms(result['full_text'], must_contain_terms)
+        
+        # NEW: Check probability scenarios if required
+        if require_scenarios:
+            scenarios_check = check_probability_scenarios(result['full_text'], scenario_count)
+        else:
+            scenarios_check = None
         
         # Calculate overall score
         weights = {
             'completeness': 0.25,
             'facts': 0.15,
-            'data_backing': 0.20,
-            'sources': 0.15,
+            'data_backing': 0.15,
+            'sources': 0.10,
             'llm_judge': 0.10,
             'length': 0.05,
-            'terms': 0.10  # NEW: Must-contain terms
+            'terms': 0.10,
+            'scenarios': 0.10  # NEW: Scenarios check
         }
         
         overall = completeness * weights['completeness']
@@ -152,7 +164,15 @@ def run_single_test(test_case: Dict, verbose: bool = True) -> Dict[str, Any]:
         overall += source_quality['score'] * weights['sources']
         overall += (llm_judge['overall'] / 5.0) * weights['llm_judge']
         overall += length['score'] * weights['length']
-        overall += terms_check['precision'] * weights['terms']  # NEW
+        overall += terms_check['precision'] * weights['terms']
+        
+        # NEW: Add scenarios score if required
+        if scenarios_check:
+            scenario_score = 1.0 if scenarios_check['passed'] else 0.5  # Partial credit if close
+            overall += scenario_score * weights['scenarios']
+        else:
+            # Redistribute scenarios weight if not required
+            overall += 0.0  # Or could redistribute to other metrics
         
         passed = overall >= 0.75  # 75% threshold
         
@@ -171,13 +191,24 @@ def run_single_test(test_case: Dict, verbose: bool = True) -> Dict[str, Any]:
             print(f"  LLM Judge:            {llm_judge['overall']:.1f}/5.0")
             print(f"  Length:               {length['word_count']} words ({length['status']})")
             
-            # NEW: Show terms check
+            # Show terms check
             if must_contain_terms:
                 print(f"  Terms Coverage:       {terms_check['precision']:.1%}")
                 if terms_check['found']:
                     print(f"  Found Terms:          {', '.join(terms_check['found'])}")
                 if terms_check['missing']:
                     print(f"  Missing Terms:        {', '.join(terms_check['missing'])}")
+            
+            # NEW: Show scenarios check
+            if scenarios_check:
+                print(f"  Scenarios Check:      {'✓ PASSED' if scenarios_check['passed'] else '✗ FAILED'}")
+                print(f"  Probabilities Found:  {', '.join(scenarios_check['probabilities_found'])}")
+                print(f"  Count:                {scenarios_check['count']}/{scenarios_check['expected_count']}")
+                print(f"  Sum:                  {scenarios_check['sum']}% (target: 100%)")
+                if not scenarios_check['sums_to_100']:
+                    print(f"  ⚠ Warning:            Probabilities don't sum to 100%")
+                if not scenarios_check['count_match']:
+                    print(f"  ⚠ Warning:            Expected {scenarios_check['expected_count']} scenarios, found {scenarios_check['count']}")
             
             print(f"  {'─'*66}")
             
@@ -202,7 +233,8 @@ def run_single_test(test_case: Dict, verbose: bool = True) -> Dict[str, Any]:
                 "source_quality": source_quality,
                 "length": length,
                 "llm_judge": llm_judge,
-                "terms_check": terms_check  # NEW
+                "terms_check": terms_check,
+                "scenarios_check": scenarios_check  # NEW
             },
             "passed": passed,
             "error": None
@@ -296,7 +328,7 @@ def run_full_evaluation(
     print(f"\n✓ Results saved to: {output_path}")
     
     if total - passed_count > 0:
-        print(f"\n❌ Failed Tests:")
+        print(f"\nFailed Tests:")
         for r in results:
             if not r['passed']:
                 reason = r['error'] if r['error'] else "Quality thresholds not met"
