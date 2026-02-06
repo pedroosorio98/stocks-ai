@@ -83,23 +83,66 @@ class CompanyReportGenerator:
         Returns:
             Tuple of (DataFrame, source_name) or (None, None) if not found
         """
+        import os
+        
         ticker_folder = Path("Data") / self.ticker
+        
+        # ========== ENHANCED LOGGING FOR RAILWAY DEBUG ==========
+        print(f"\n{'='*60}")
+        print(f"[LOAD DATA] Attempting to load data for ticker: {self.ticker}")
+        print(f"[LOAD DATA] Current working directory: {os.getcwd()}")
+        print(f"[LOAD DATA] Ticker folder path: {ticker_folder}")
+        print(f"[LOAD DATA] Ticker folder exists: {ticker_folder.exists()}")
+        
+        if ticker_folder.exists():
+            try:
+                contents = list(ticker_folder.iterdir())
+                print(f"[LOAD DATA] Ticker folder contents: {[c.name for c in contents]}")
+            except Exception as e:
+                print(f"[LOAD DATA] Error listing ticker folder: {e}")
+        else:
+            print(f"[LOAD DATA] ⚠️ Ticker folder does NOT exist!")
+            data_folder = Path("Data")
+            print(f"[LOAD DATA] Data folder exists: {data_folder.exists()}")
+            if data_folder.exists():
+                try:
+                    available = [d.name for d in data_folder.iterdir() if d.is_dir()]
+                    print(f"[LOAD DATA] Available tickers: {available}")
+                except Exception as e:
+                    print(f"[LOAD DATA] Error listing Data/: {e}")
+            else:
+                print(f"[LOAD DATA] ⚠️ Data/ folder NOT FOUND!")
+                try:
+                    print(f"[LOAD DATA] Root contents: {os.listdir('.')[:20]}")
+                except:
+                    pass
         
         # Try Alpha Vantage first
         alpha_vantage_path = ticker_folder / "alpha_vantage" / "csv" / "INCOME_STATEMENT__quarterlyReports.csv"
+        print(f"[LOAD DATA] AV path: {alpha_vantage_path}")
+        print(f"[LOAD DATA] AV exists: {alpha_vantage_path.exists()}")
+        
         if alpha_vantage_path.exists():
-            print(f"  → Loading Alpha Vantage data for {self.ticker}")
+            print(f"  → ✅ Loading Alpha Vantage data for {self.ticker}")
             df = pd.read_csv(alpha_vantage_path)
+            print(f"[LOAD DATA] Success! Shape: {df.shape}")
+            print(f"{'='*60}\n")
             return df, "alpha_vantage"
         
         # Try Yahoo Finance
         yahoo_finance_path = ticker_folder / "yahoo_finance" / "csv" / "income_stmt_quarterly.csv"
+        print(f"[LOAD DATA] YF path: {yahoo_finance_path}")
+        print(f"[LOAD DATA] YF exists: {yahoo_finance_path.exists()}")
+        
         if yahoo_finance_path.exists():
-            print(f"  → Loading Yahoo Finance data for {self.ticker}")
+            print(f"  → ✅ Loading Yahoo Finance data for {self.ticker}")
             df = pd.read_csv(yahoo_finance_path, index_col=0)
+            print(f"[LOAD DATA] Success! Shape: {df.shape}")
+            print(f"{'='*60}\n")
             return df, "yahoo_finance"
         
         print(f"  ⚠ No financial data found for {self.ticker}")
+        print(f"{'='*60}\n")
         return None, None
     
     def _load_balance_sheet_data(self, source: str) -> Optional[pd.DataFrame]:
@@ -114,16 +157,22 @@ class CompanyReportGenerator:
         """
         ticker_folder = Path("Data") / self.ticker
         
+        print(f"[LOAD BALANCE] Loading balance sheet for {self.ticker} from {source}")
+        
         if source == "alpha_vantage":
             balance_path = ticker_folder / "alpha_vantage" / "csv" / "BALANCE_SHEET__quarterlyReports.csv"
+            print(f"[LOAD BALANCE] Path: {balance_path}")
+            print(f"[LOAD BALANCE] Exists: {balance_path.exists()}")
             if balance_path.exists():
-                print(f"  → Loading Alpha Vantage balance sheet for {self.ticker}")
+                print(f"  → ✅ Loading Alpha Vantage balance sheet")
                 return pd.read_csv(balance_path)
         
         elif source == "yahoo_finance":
             balance_path = ticker_folder / "yahoo_finance" / "csv" / "balance_sheet_quarterly.csv"
+            print(f"[LOAD BALANCE] Path: {balance_path}")
+            print(f"[LOAD BALANCE] Exists: {balance_path.exists()}")
             if balance_path.exists():
-                print(f"  → Loading Yahoo Finance balance sheet for {self.ticker}")
+                print(f"  → ✅ Loading Yahoo Finance balance sheet")
                 return pd.read_csv(balance_path, index_col=0)
         
         print(f"  ⚠ No balance sheet data found for {self.ticker}")
