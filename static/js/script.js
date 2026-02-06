@@ -280,7 +280,7 @@ async function checkReportStatus(jobId) {
             // Still generating - update status with progress indicator
             const elapsed = Math.floor((statusCheckAttempts * 2) / 60); // Minutes elapsed
             downloadLink.innerHTML = `
-                <span class="spinner"></span> Generating ${data.company} report (${data.ticker})... ${elapsed}m elapsed
+                <span class="spinner"></span> Generating ${data.company} report (${data.ticker})...
             `;
         } else if (data.status === 'pending') {
             // Just started

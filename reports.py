@@ -7,8 +7,9 @@ Generates comprehensive PDF reports with financial analysis
 import os
 from pathlib import Path
 from datetime import datetime
-from typing import Dict, List, Set, Tuple
+from typing import Dict, List, Set, Tuple, Optional
 from openai import OpenAI
+import pandas as pd
 
 # Import your existing RAG functions
 from rag import retrieve_internal, retrieve_web_exa, build_context, detect_tickers_from_query
@@ -74,6 +75,366 @@ class CompanyReportGenerator:
         import re
         text = re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', text)
         return text
+    
+    def _load_financial_data(self) -> Tuple[Optional[pd.DataFrame], Optional[str]]:
+        """
+        Load quarterly income statement data from Alpha Vantage or Yahoo Finance
+        
+        Returns:
+            Tuple of (DataFrame, source_name) or (None, None) if not found
+        """
+        ticker_folder = Path("Data") / self.ticker
+        
+        # Try Alpha Vantage first
+        alpha_vantage_path = ticker_folder / "alpha_vantage" / "csv" / "INCOME_STATEMENT__quarterlyReports.csv"
+        if alpha_vantage_path.exists():
+            print(f"  → Loading Alpha Vantage data for {self.ticker}")
+            df = pd.read_csv(alpha_vantage_path)
+            return df, "alpha_vantage"
+        
+        # Try Yahoo Finance
+        yahoo_finance_path = ticker_folder / "yahoo_finance" / "csv" / "income_stmt_quarterly.csv"
+        if yahoo_finance_path.exists():
+            print(f"  → Loading Yahoo Finance data for {self.ticker}")
+            df = pd.read_csv(yahoo_finance_path, index_col=0)
+            return df, "yahoo_finance"
+        
+        print(f"  ⚠ No financial data found for {self.ticker}")
+        return None, None
+    
+    def _load_balance_sheet_data(self, source: str) -> Optional[pd.DataFrame]:
+        """
+        Load quarterly balance sheet data from Alpha Vantage or Yahoo Finance
+        
+        Args:
+            source: 'alpha_vantage' or 'yahoo_finance' (determined from income statement)
+        
+        Returns:
+            DataFrame with balance sheet data or None if not found
+        """
+        ticker_folder = Path("Data") / self.ticker
+        
+        if source == "alpha_vantage":
+            balance_path = ticker_folder / "alpha_vantage" / "csv" / "BALANCE_SHEET__quarterlyReports.csv"
+            if balance_path.exists():
+                print(f"  → Loading Alpha Vantage balance sheet for {self.ticker}")
+                return pd.read_csv(balance_path)
+        
+        elif source == "yahoo_finance":
+            balance_path = ticker_folder / "yahoo_finance" / "csv" / "balance_sheet_quarterly.csv"
+            if balance_path.exists():
+                print(f"  → Loading Yahoo Finance balance sheet for {self.ticker}")
+                return pd.read_csv(balance_path, index_col=0)
+        
+        print(f"  ⚠ No balance sheet data found for {self.ticker}")
+        return None
+    
+    def _calculate_financial_metrics(self, df: pd.DataFrame, source: str) -> pd.DataFrame:
+        """
+        Calculate financial metrics from income statement data
+        
+        Args:
+            df: Income statement DataFrame
+            source: 'alpha_vantage' or 'yahoo_finance'
+        
+        Returns:
+            DataFrame with calculated metrics (metrics as rows, quarters as columns)
+        """
+        metrics = {}
+        
+        if source == "alpha_vantage":
+            # Alpha Vantage: columns are metrics, rows are quarters
+            df = df.sort_values('fiscalDateEnding', ascending=True)
+            df = df.tail(12)  # Get last 12 quarters for YoY calculation
+            
+            quarters = df['fiscalDateEnding'].tolist()
+            
+            # Total Revenue
+            total_revenue = pd.to_numeric(df['totalRevenue'], errors='coerce')
+            metrics['Total Revenue'] = total_revenue.tolist()
+            
+            # YoY Revenue Growth
+            yoy_growth = []
+            for i in range(len(total_revenue)):
+                if i >= 4 and not pd.isna(total_revenue.iloc[i]) and not pd.isna(total_revenue.iloc[i-4]) and total_revenue.iloc[i-4] != 0:
+                    growth = (total_revenue.iloc[i] / total_revenue.iloc[i-4]) - 1
+                    yoy_growth.append(growth)
+                else:
+                    yoy_growth.append(None)
+            metrics['YoY Revenue Growth'] = yoy_growth
+            
+            # Margins
+            gross_profit = pd.to_numeric(df['grossProfit'], errors='coerce')
+            metrics['Gross Margin'] = (gross_profit / total_revenue).tolist()
+            
+            operating_income = pd.to_numeric(df['operatingIncome'], errors='coerce')
+            metrics['Operating Margin'] = (operating_income / total_revenue).tolist()
+            
+            ebitda = pd.to_numeric(df['ebitda'], errors='coerce')
+            metrics['EBITDA Margin'] = (ebitda / total_revenue).tolist()
+            
+            net_income = pd.to_numeric(df['netIncome'], errors='coerce')
+            metrics['Net Margin'] = (net_income / total_revenue).tolist()
+            
+        elif source == "yahoo_finance":
+            # Yahoo Finance: rows are metrics (now in index after index_col=0), columns are quarters
+            # IMPORTANT: Yahoo Finance columns are in REVERSE chronological order (newest first)
+            date_columns = [col for col in df.columns if col not in ['TTM']]
+            
+            # Reverse to get oldest → newest for proper YoY calculation
+            date_columns_oldest_first = list(reversed(date_columns))
+            
+            # Take last 12 quarters (most recent) for calculation
+            quarters_all = date_columns_oldest_first[-12:] if len(date_columns_oldest_first) >= 12 else date_columns_oldest_first
+            quarters_display = quarters_all[-8:] if len(quarters_all) >= 8 else quarters_all
+            
+            def get_metric_values(metric_name: str, quarters_to_use) -> List[float]:
+                # Use index to find rows (after index_col=0)
+                if metric_name not in df.index:
+                    return [None] * len(quarters_to_use)
+                row = df.loc[metric_name]  # This returns a Series
+                values = []
+                for quarter in quarters_to_use:
+                    try:
+                        # row is a Series, access by column name directly
+                        val = row[quarter] if quarter in row else None
+                        values.append(float(val) if val is not None else None)
+                    except (ValueError, TypeError, KeyError):
+                        values.append(None)
+                return values
+            
+            # Total Revenue (get 12 quarters for YoY calculation)
+            total_revenue_all = get_metric_values('Total Revenue', quarters_all)
+            total_revenue = total_revenue_all[-8:]  # Keep last 8 for display
+            metrics['Total Revenue'] = total_revenue
+            
+            # YoY Revenue Growth (calculate from all 12 quarters, oldest → newest)
+            yoy_growth_all = []
+            for i in range(len(total_revenue_all)):
+                if i >= 4 and total_revenue_all[i] and total_revenue_all[i-4] and total_revenue_all[i-4] != 0:
+                    growth = (total_revenue_all[i] / total_revenue_all[i-4]) - 1
+                    yoy_growth_all.append(growth)
+                else:
+                    yoy_growth_all.append(None)
+            metrics['YoY Revenue Growth'] = yoy_growth_all[-8:]  # Keep last 8
+            
+            # Margins (only need last 8 quarters for display)
+            gross_profit = get_metric_values('Gross Profit', quarters_display)
+            metrics['Gross Margin'] = [gp/rev if gp and rev and rev != 0 else None for gp, rev in zip(gross_profit, total_revenue)]
+            
+            operating_income = get_metric_values('Operating Income', quarters_display)
+            metrics['Operating Margin'] = [oi/rev if oi and rev and rev != 0 else None for oi, rev in zip(operating_income, total_revenue)]
+            
+            ebitda = get_metric_values('EBITDA', quarters_display)
+            metrics['EBITDA Margin'] = [eb/rev if eb and rev and rev != 0 else None for eb, rev in zip(ebitda, total_revenue)]
+            
+            net_income = get_metric_values('Net Income', quarters_display)
+            metrics['Net Margin'] = [ni/rev if ni and rev and rev != 0 else None for ni, rev in zip(net_income, total_revenue)]
+            
+            # Keep quarters in oldest → newest order for display (data matches)
+            quarters = quarters_display
+            
+        # Create DataFrame with all quarters
+        metrics_df = pd.DataFrame(metrics, index=quarters)
+        
+        # Keep only last 8 quarters for display (after YoY calculation)
+        metrics_df = metrics_df.tail(8)
+        
+        # Drop columns where ALL values are NaN (empty quarters with no data)
+        metrics_df = metrics_df.dropna(axis=1, how='all')
+        
+        return metrics_df.T
+    
+    def _calculate_balance_sheet_metrics(self, income_df: pd.DataFrame, balance_df: pd.DataFrame, source: str, quarters: list) -> pd.DataFrame:
+        """
+        Calculate balance sheet metrics (ROA, ROE) using income statement and balance sheet data
+        
+        Args:
+            income_df: Income statement DataFrame (already loaded)
+            balance_df: Balance sheet DataFrame
+            source: 'alpha_vantage' or 'yahoo_finance'
+            quarters: List of quarters to match (same as income statement)
+        
+        Returns:
+            DataFrame with ROA and ROE metrics (metrics as rows, quarters as columns)
+        """
+        metrics = {}
+        
+        if source == "alpha_vantage":
+            # Alpha Vantage: columns are metrics, rows are quarters
+            balance_df = balance_df.sort_values('fiscalDateEnding', ascending=True)
+            
+            # Match quarters from income statement
+            balance_df_filtered = balance_df[balance_df['fiscalDateEnding'].isin(quarters)]
+            
+            # Get net income from income statement (already calculated in previous function)
+            net_income_series = pd.to_numeric(income_df['netIncome'], errors='coerce')
+            income_df_sorted = income_df.sort_values('fiscalDateEnding', ascending=True)
+            income_df_filtered = income_df_sorted[income_df_sorted['fiscalDateEnding'].isin(quarters)]
+            net_income = pd.to_numeric(income_df_filtered['netIncome'], errors='coerce').tolist()
+            
+            # Get balance sheet items
+            total_assets = pd.to_numeric(balance_df_filtered['totalAssets'], errors='coerce').tolist()
+            total_equity = pd.to_numeric(balance_df_filtered['totalShareholderEquity'], errors='coerce').tolist()
+            
+            # Calculate ROA and ROE
+            roa = []
+            roe = []
+            for ni, ta, te in zip(net_income, total_assets, total_equity):
+                # ROA = Net Income / Total Assets
+                if ni and ta and ta != 0:
+                    roa.append(ni / ta)
+                else:
+                    roa.append(None)
+                
+                # ROE = Net Income / Total Equity
+                if ni and te and te != 0:
+                    roe.append(ni / te)
+                else:
+                    roe.append(None)
+            
+            metrics['Return on Assets'] = roa
+            metrics['Return on Equity'] = roe
+            
+        elif source == "yahoo_finance":
+            # Yahoo Finance: rows are metrics (index), columns are quarters
+            # quarters list is already in oldest → newest order
+            
+            def get_metric_values(df, metric_name: str, quarters_to_use) -> List[float]:
+                if metric_name not in df.index:
+                    return [None] * len(quarters_to_use)
+                row = df.loc[metric_name]
+                values = []
+                for quarter in quarters_to_use:
+                    try:
+                        val = row[quarter] if quarter in row else None
+                        values.append(float(val) if val is not None else None)
+                    except (ValueError, TypeError, KeyError):
+                        values.append(None)
+                return values
+            
+            # Get Net Income from income statement
+            net_income = get_metric_values(income_df, 'Net Income', quarters)
+            
+            # Get balance sheet items
+            total_assets = get_metric_values(balance_df, 'Total Assets', quarters)
+            total_equity = get_metric_values(balance_df, 'Total Equity Gross Minority Interest', quarters)
+            
+            # Calculate ROA and ROE
+            roa = []
+            roe = []
+            for ni, ta, te in zip(net_income, total_assets, total_equity):
+                # ROA = Net Income / Total Assets
+                if ni and ta and ta != 0:
+                    roa.append(ni / ta)
+                else:
+                    roa.append(None)
+                
+                # ROE = Net Income / Total Equity
+                if ni and te and te != 0:
+                    roe.append(ni / te)
+                else:
+                    roe.append(None)
+            
+            metrics['Return on Assets'] = roa
+            metrics['Return on Equity'] = roe
+        
+        # Create DataFrame
+        balance_metrics_df = pd.DataFrame(metrics, index=quarters)
+        
+        # Drop columns where ALL values are NaN (empty quarters with no data)
+        balance_metrics_df = balance_metrics_df.dropna(axis=1, how='all')
+        
+        return balance_metrics_df.T
+    
+    def _format_financial_table_for_pdf(self, metrics_df: pd.DataFrame) -> Table:
+        """
+        Format financial metrics DataFrame as ReportLab Table
+        
+        Args:
+            metrics_df: DataFrame with metrics as rows, quarters as columns
+        
+        Returns:
+            ReportLab Table object
+        """
+        # Prepare header - clean column names
+        clean_columns = []
+        for col in metrics_df.columns:
+            col_str = str(col)
+            # Remove time info if present (e.g., "2024-03-31 00:00:00" -> "2024-03-31")
+            if ' ' in col_str:
+                col_str = col_str.split(' ')[0]
+            # Truncate to 10 chars
+            clean_columns.append(col_str[:10])
+        
+        header = ['Metric'] + clean_columns
+        data = [header]
+        
+        # Add metric rows
+        for metric_name in metrics_df.index:
+            row = [metric_name]
+            for value in metrics_df.loc[metric_name]:
+                if value is None or pd.isna(value):
+                    row.append('-')
+                elif metric_name == 'Total Revenue':
+                    if abs(value) >= 1e9:
+                        row.append(f'${value/1e9:.1f}B')
+                    elif abs(value) >= 1e6:
+                        row.append(f'${value/1e6:.0f}M')
+                    else:
+                        row.append(f'${value:,.0f}')
+                elif 'Growth' in metric_name or 'Margin' in metric_name or 'Return' in metric_name:
+                    row.append(f'{value*100:.1f}%')
+                else:
+                    row.append(f'{value:,.0f}')
+            data.append(row)
+        
+        # Create table with column widths
+        # IMPORTANT: Keep total width consistent regardless of number of columns
+        # Target total width: 8.0 inches (maximizes page usage on 8.5" page with margins)
+        num_quarters = len(metrics_df.columns)
+        
+        target_total_width = 8.0 * inch
+        metric_col_width = 1.6 * inch
+        
+        # Calculate quarter column width to reach target total width
+        # total_width = metric_col_width + (num_quarters × quarter_col_width)
+        # quarter_col_width = (total_width - metric_col_width) / num_quarters
+        quarter_col_width = (target_total_width - metric_col_width) / num_quarters
+        
+        col_widths = [metric_col_width] + [quarter_col_width] * num_quarters
+        table = Table(data, colWidths=col_widths)
+        
+        # Style the table
+        table.setStyle(TableStyle([
+            # Header styling
+            ('BACKGROUND', (0, 0), (-1, 0), colors.HexColor('#043A22')),
+            ('TEXTCOLOR', (0, 0), (-1, 0), colors.whitesmoke),
+            ('ALIGN', (0, 0), (-1, 0), 'CENTER'),
+            ('FONTNAME', (0, 0), (-1, 0), 'Helvetica-Bold'),
+            ('FONTSIZE', (0, 0), (-1, 0), 10),
+            ('BOTTOMPADDING', (0, 0), (-1, 0), 12),
+            
+            # First column styling
+            ('BACKGROUND', (0, 1), (0, -1), colors.HexColor('#F0F0F0')),
+            ('FONTNAME', (0, 1), (0, -1), 'Helvetica-Bold'),
+            ('ALIGN', (0, 1), (0, -1), 'LEFT'),
+            
+            # Data cells styling
+            ('ALIGN', (1, 1), (-1, -1), 'RIGHT'),
+            ('FONTNAME', (1, 1), (-1, -1), 'Helvetica'),
+            ('FONTSIZE', (1, 1), (-1, -1), 9),
+            ('TOPPADDING', (0, 1), (-1, -1), 6),
+            ('BOTTOMPADDING', (0, 1), (-1, -1), 6),
+            
+            # Grid
+            ('GRID', (0, 0), (-1, -1), 0.5, colors.grey),
+            
+            # Alternating rows
+            ('ROWBACKGROUNDS', (1, 1), (-1, -1), [colors.white, colors.HexColor('#F9F9F9')]),
+        ]))
+        
+        return table
     
     def generate_section(self, section_name: str, prompt: str, context_k: int = 8) -> str:
         """
@@ -160,7 +521,7 @@ class CompanyReportGenerator:
         1. Core Business: Describe what the company does, its main products/services, and business model
         2. Markets: List the specific geographic markets and industry segments where it operates
         3. Value Proposition: Explain the company's unique value proposition in 2-3 sentences
-        4. Competitors: Name at least 3 main competitors
+        4. Competitors: you must name at least 3 main competitors
         5. Differentiation: Explain how {self.ticker} differentiates itself from these competitors
         
         Ensure you cover all 5 points above.''',
@@ -411,6 +772,94 @@ class CompanyReportGenerator:
             ('BOTTOMPADDING', (0, 0), (-1, -1), 10),
         ]))
         story.append(disclaimer_table)
+        
+        story.append(PageBreak())
+        
+        # ========== KEY FINANCIAL METRICS TABLE ==========
+        try:
+            df, source = self._load_financial_data()
+            if df is not None:
+                # Section heading
+                story.append(Paragraph("Key Financial Metrics", heading_style))
+                story.append(Spacer(1, 0.1*inch))
+                
+                # Source note
+                source_name = "Alpha Vantage" if source == "alpha_vantage" else "Yahoo Finance"
+                story.append(Paragraph(
+                    f"<i>Quarterly Income Statement Metrics (Source: {source_name})</i>",
+                    ParagraphStyle('SourceNote', parent=styles['Normal'], 
+                                 fontSize=9, textColor=colors.grey, alignment=TA_LEFT)
+                ))
+                story.append(Spacer(1, 0.1*inch))
+                
+                # Calculate and format metrics
+                metrics_df = self._calculate_financial_metrics(df, source)
+                financial_table = self._format_financial_table_for_pdf(metrics_df)
+                
+                # Add table
+                story.append(financial_table)
+                story.append(Spacer(1, 0.3*inch))
+                
+                print(f"  → Added financial table with {len(metrics_df.columns)} quarters")
+                
+                # ========== BALANCE SHEET METRICS TABLE ==========
+                try:
+                    # Load balance sheet data
+                    balance_df = self._load_balance_sheet_data(source)
+                    if balance_df is not None:
+                        # Calculate balance sheet metrics (ROA, ROE)
+                        quarters_list = metrics_df.columns.tolist()
+                        balance_metrics_df = self._calculate_balance_sheet_metrics(df, balance_df, source, quarters_list)
+                        
+                        # Remove columns where BOTH tables have ALL NaN values
+                        # First, identify columns to keep
+                        columns_to_keep = []
+                        for col in metrics_df.columns:
+                            # Check if income table has ANY non-null value in this column
+                            income_has_data = metrics_df[col].notna().any()
+                            # Check if balance table has ANY non-null value in this column
+                            balance_has_data = balance_metrics_df[col].notna().any() if col in balance_metrics_df.columns else False
+                            
+                            # Keep column if EITHER table has data
+                            if income_has_data or balance_has_data:
+                                columns_to_keep.append(col)
+                        
+                        # Filter both tables to only include columns with data
+                        metrics_df = metrics_df[columns_to_keep]
+                        balance_metrics_df = balance_metrics_df[columns_to_keep]
+                        
+                        # Recreate tables with filtered columns
+                        financial_table = self._format_financial_table_for_pdf(metrics_df)
+                        balance_table = self._format_financial_table_for_pdf(balance_metrics_df)
+                        
+                        # Replace the previously added income table with filtered version
+                        story.pop()  # Remove spacer
+                        story.pop()  # Remove old financial_table
+                        
+                        # Add filtered income table
+                        story.append(financial_table)
+                        story.append(Spacer(1, 0.2*inch))
+                        
+                        # Add balance sheet table
+                        story.append(balance_table)
+                        story.append(Spacer(1, 0.2*inch))
+                        
+                        print(f"  → Final tables have {len(columns_to_keep)} quarters (removed {len(quarters_list) - len(columns_to_keep)} empty columns)")
+                    else:
+                        print(f"  ⚠ Skipping balance sheet table - no data found")
+                except Exception as e:
+                    print(f"  ⚠ Error generating balance sheet table: {e}")
+                    import traceback
+                    traceback.print_exc()
+                # ========== END BALANCE SHEET TABLE ==========
+                
+            else:
+                print(f"  ⚠ Skipping financial table - no data found")
+        except Exception as e:
+            print(f"  ⚠ Error generating financial table: {e}")
+            import traceback
+            traceback.print_exc()
+        # ========== END FINANCIAL TABLE ==========
         
         story.append(PageBreak())
         

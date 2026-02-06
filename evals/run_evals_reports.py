@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Enhanced Report Generation Evaluation
-Tests reports.py with comprehensive metrics
-"""
 
 import sys
 from pathlib import Path

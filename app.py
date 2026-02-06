@@ -218,10 +218,20 @@ def report_status(job_id):
     """
     Check status of report generation job
     """
+    print(f"[STATUS CHECK] Checking job: {job_id}")
+    print(f"[STATUS CHECK] Current jobs in memory: {list(report_jobs.keys())}")
+    
     if job_id not in report_jobs:
-        return jsonify({'error': 'Job not found'}), 404
+        print(f"[STATUS CHECK] Job {job_id} NOT FOUND")
+        print(f"[STATUS CHECK] Available jobs: {list(report_jobs.keys())}")
+        return jsonify({
+            'error': 'Job not found - it may have been lost due to server restart',
+            'job_id': job_id,
+            'hint': 'Try generating the report again'
+        }), 404
     
     job = report_jobs[job_id]
+    print(f"[STATUS CHECK] Job {job_id} status: {job['status']}")
     
     response = {
         'job_id': job_id,
@@ -233,9 +243,11 @@ def report_status(job_id):
     if job['status'] == 'completed':
         response['filename'] = job['filename']
         response['download_url'] = f'/api/report/download/{job_id}'
+        print(f"[STATUS CHECK] Job completed: {job['filename']}")
     
     if job['status'] == 'failed':
         response['error'] = job['error']
+        print(f"[STATUS CHECK] Job failed: {job['error']}")
     
     return jsonify(response)
 
@@ -280,5 +292,8 @@ def create_chart():
     })
 
 
+# WARNING: debug=True causes Flask to reload, which clears report_jobs dict!
+# For production, set debug=False or use use_reloader=False
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    #app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, use_reloader=False, host='0.0.0.0', port=5000)

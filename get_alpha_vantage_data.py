@@ -319,9 +319,9 @@ def try_tabular_exports(function_name: str, data: Dict[str, Any]) -> List[Tuple[
 # ---------------------------
 
 TIME_SERIES_CALLS = [
-    ("TIME_SERIES_INTRADAY", {"interval": "60min", "outputsize": "compact", "datatype": "csv"}),
-    ("TIME_SERIES_DAILY", {"outputsize": "compact", "datatype": "csv"}),
-    ("TIME_SERIES_DAILY_ADJUSTED", {"outputsize": "compact", "datatype": "csv"}),
+    ("TIME_SERIES_INTRADAY", {"interval": "60min", "outputsize": "full", "datatype": "csv"}), # before outputsize:compact
+    ("TIME_SERIES_DAILY", {"outputsize": "full", "datatype": "csv"}), # before outputsize:compact
+    ("TIME_SERIES_DAILY_ADJUSTED", {"outputsize": "full", "datatype": "csv"}), # before outputsize:compact
     ("TIME_SERIES_WEEKLY", {"datatype": "csv"}),
     ("TIME_SERIES_WEEKLY_ADJUSTED", {"datatype": "csv"}),
     ("TIME_SERIES_MONTHLY", {"datatype": "csv"}),

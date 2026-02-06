@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Metrics for Report Generation Evaluation
-Comprehensive metrics for PDF report quality
-"""
 
 import sys
 from pathlib import Path

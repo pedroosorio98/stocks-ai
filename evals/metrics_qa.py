@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Metrics for Q&A System Evaluation
-Lightweight metrics for question-answering
-"""
 
 from typing import List, Dict, Any
 import re
