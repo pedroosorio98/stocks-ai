@@ -2,7 +2,7 @@
 let currentJobId = null;
 let statusCheckInterval = null;
 let statusCheckAttempts = 0;
-const MAX_STATUS_CHECKS = 300; // 10 minutes max (300 checks * 2 seconds = 600 seconds)
+const MAX_STATUS_CHECKS = 120; // 10 minutes max (120 checks * 5 seconds = 600 seconds)
 
 // Section switching with active state management
 function showSection(sectionId) {
@@ -179,8 +179,8 @@ async function generateReport() {
                 <span class="spinner"></span> Generating report for ${company}...
             `;
             
-            // Start polling for status every 2 seconds
-            statusCheckInterval = setInterval(() => checkReportStatus(currentJobId), 2000);
+            // Start polling for status every 5 seconds (Railway-friendly)
+            statusCheckInterval = setInterval(() => checkReportStatus(currentJobId), 5000);
             
         } else {
             downloadLink.innerHTML = `
@@ -214,11 +214,11 @@ async function checkReportStatus(jobId) {
         const generateButton = document.querySelector('#aiReportGenerator .primary-btn');
         
         downloadLink.innerHTML = `
-            <span style="color: #dc3545;">⏱️</span> Report generation timed out after 10 minutes. 
+            <span style="color: #C00000;">⏱️</span> Report generation timed out after 10 minutes. 
             <br>The report may still be processing. Please check back later or try again.
         `;
         downloadLink.style.pointerEvents = 'auto';
-        downloadLink.style.background = '#dc3545';
+        downloadLink.style.background = '#C00000';
         
         // Re-enable generate button
         if (generateButton) {
@@ -265,10 +265,10 @@ async function checkReportStatus(jobId) {
             
             // Show error
             downloadLink.innerHTML = `
-                <span style="color: #dc3545;">❌</span> Generation failed: ${data.error || 'Unknown error'}
+                <span style="color: #C00000;">❌</span> Generation failed: ${data.error || 'Unknown error'}
             `;
             downloadLink.style.pointerEvents = 'auto';
-            downloadLink.style.background = '#dc3545';
+            downloadLink.style.background = '#C00000';
             
             // Re-enable generate button
             if (generateButton) {
@@ -278,7 +278,7 @@ async function checkReportStatus(jobId) {
             
         } else if (data.status === 'generating') {
             // Still generating - update status with progress indicator
-            const elapsed = Math.floor((statusCheckAttempts * 2) / 60); // Minutes elapsed
+            const elapsed = Math.floor((statusCheckAttempts * 5) / 60); // Minutes elapsed
             downloadLink.innerHTML = `
                 <span class="spinner"></span> Generating ${data.company} report (${data.ticker})...
             `;
@@ -298,7 +298,7 @@ async function checkReportStatus(jobId) {
         const generateButton = document.querySelector('#aiReportGenerator .primary-btn');
         
         downloadLink.innerHTML = `
-            <span style="color: #dc3545;">❌</span> Error checking status: ${error.message}
+            <span style="color: #C00000;">❌</span> Error checking status: ${error.message}
         `;
         downloadLink.style.pointerEvents = 'auto';
         

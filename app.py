@@ -13,12 +13,42 @@ from reports import CompanyReportGenerator
 import threading
 import uuid
 import traceback
+import json
 
 app = Flask(__name__)
 client = OpenAI()
 
+# File-based storage for report jobs (survives Railway restarts)
+JOBS_FILE = Path("report_jobs.json")
+
 # Store for tracking report generation jobs
 report_jobs = {}
+
+def save_jobs():
+    """Save jobs to file for persistence across Railway restarts"""
+    try:
+        with open(JOBS_FILE, 'w', encoding='utf-8') as f:
+            json.dump(report_jobs, f, indent=2)
+        print(f"[JOBS] Saved {len(report_jobs)} jobs to {JOBS_FILE}")
+    except Exception as e:
+        print(f"[JOBS] Error saving jobs: {e}")
+
+def load_jobs():
+    """Load jobs from file on startup"""
+    global report_jobs
+    try:
+        if JOBS_FILE.exists():
+            with open(JOBS_FILE, 'r', encoding='utf-8') as f:
+                report_jobs = json.load(f)
+            print(f"[JOBS] Loaded {len(report_jobs)} jobs from {JOBS_FILE}")
+        else:
+            print(f"[JOBS] No existing jobs file found, starting fresh")
+    except Exception as e:
+        print(f"[JOBS] Error loading jobs: {e}")
+        report_jobs = {}
+
+# Load existing jobs on startup
+load_jobs()
 
 # Mapping of company names to tickers
 COMPANY_TO_TICKER = {
@@ -110,11 +140,12 @@ def answer(query: str, use_web: bool = True):
 def generate_report_async(job_id: str, ticker: str):
     """
     Background function to generate report
-    Updates job_jobs dict with status
+    Updates job_jobs dict with status and persists to file
     """
     try:
         print(f"[REPORT JOB {job_id}] Starting generation for {ticker}")
         report_jobs[job_id]['status'] = 'generating'
+        save_jobs()  # Persist status change
         
         # Generate the report
         generator = CompanyReportGenerator(ticker)
@@ -124,6 +155,7 @@ def generate_report_async(job_id: str, ticker: str):
         report_jobs[job_id]['status'] = 'completed'
         report_jobs[job_id]['pdf_path'] = str(pdf_path)
         report_jobs[job_id]['filename'] = pdf_path.name
+        save_jobs()  # Persist completion
         
         print(f"[REPORT JOB {job_id}] Completed: {pdf_path.name}")
         
@@ -134,6 +166,7 @@ def generate_report_async(job_id: str, ticker: str):
         
         report_jobs[job_id]['status'] = 'failed'
         report_jobs[job_id]['error'] = str(e)
+        save_jobs()  # Persist error state
 
 
 @app.route('/')
@@ -190,6 +223,7 @@ def generate_report():
             'filename': None,
             'error': None
         }
+        save_jobs()  # Persist new job immediately
         
         # Start report generation in background thread
         thread = threading.Thread(

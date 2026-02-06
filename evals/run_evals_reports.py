@@ -30,7 +30,7 @@ from metrics_reports import (
 )
 
 
-def load_dataset(filepath: str = "evals/dataset_reports.jsonl") -> List[Dict]:
+def load_dataset(filepath: str = "dataset_reports.jsonl") -> List[Dict]:
     """Load report test cases"""
     dataset = []
     with open(filepath, 'r', encoding='utf-8') as f:
@@ -317,7 +317,7 @@ def run_single_test(test_case: Dict, verbose: bool = True) -> Dict[str, Any]:
         }
 
 
-def run_full_evaluation(dataset_path: str = "evals/dataset_reports.jsonl", output_path: str = "evals/results/reports_results.json"):
+def run_full_evaluation(dataset_path: str = "dataset_reports.jsonl", output_path: str = "evals/results/reports_results.json"):
     """Run full report evaluation suite"""
     
     print("\n" + "="*70)
@@ -379,8 +379,8 @@ def run_full_evaluation(dataset_path: str = "evals/dataset_reports.jsonl", outpu
 
 def main():
     parser = argparse.ArgumentParser(description="Run enhanced report evaluation suite")
-    parser.add_argument('--dataset', default='evals/dataset_reports.jsonl')
-    parser.add_argument('--output', default='evals/results/reports_results.json')
+    parser.add_argument('--dataset', default='dataset_reports.jsonl')
+    parser.add_argument('--output', default='results/reports_results.json')
     parser.add_argument('--test-id', help='Run specific test only')
     parser.add_argument('--ticker', help='Run test for specific ticker')
     
