@@ -263,33 +263,38 @@ class CompanyReportGenerator:
         if source == "alpha_vantage":
             # Alpha Vantage: columns are metrics, rows are quarters
             balance_df = balance_df.sort_values('fiscalDateEnding', ascending=True)
+            income_df_sorted = income_df.sort_values('fiscalDateEnding', ascending=True)
             
-            # Match quarters from income statement
+            # Get ALL net income data (need extra quarters for trailing 4Q sum)
+            net_income_series = pd.to_numeric(income_df_sorted['netIncome'], errors='coerce')
+            
+            # Calculate trailing 4-quarter (TTM) net income
+            ttm_net_income = net_income_series.rolling(window=4, min_periods=4).sum()
+            
+            # Filter to quarters we want to display
+            income_df_filtered = income_df_sorted[income_df_sorted['fiscalDateEnding'].isin(quarters)]
             balance_df_filtered = balance_df[balance_df['fiscalDateEnding'].isin(quarters)]
             
-            # Get net income from income statement (already calculated in previous function)
-            net_income_series = pd.to_numeric(income_df['netIncome'], errors='coerce')
-            income_df_sorted = income_df.sort_values('fiscalDateEnding', ascending=True)
-            income_df_filtered = income_df_sorted[income_df_sorted['fiscalDateEnding'].isin(quarters)]
-            net_income = pd.to_numeric(income_df_filtered['netIncome'], errors='coerce').tolist()
+            # Get TTM net income for display quarters
+            ttm_net_income_filtered = ttm_net_income[income_df_sorted['fiscalDateEnding'].isin(quarters)].tolist()
             
             # Get balance sheet items
             total_assets = pd.to_numeric(balance_df_filtered['totalAssets'], errors='coerce').tolist()
             total_equity = pd.to_numeric(balance_df_filtered['totalShareholderEquity'], errors='coerce').tolist()
             
-            # Calculate ROA and ROE
+            # Calculate ROA and ROE using TTM net income
             roa = []
             roe = []
-            for ni, ta, te in zip(net_income, total_assets, total_equity):
-                # ROA = Net Income / Total Assets
-                if ni and ta and ta != 0:
-                    roa.append(ni / ta)
+            for ttm_ni, ta, te in zip(ttm_net_income_filtered, total_assets, total_equity):
+                # ROA = TTM Net Income / Total Assets
+                if ttm_ni and not pd.isna(ttm_ni) and ta and ta != 0:
+                    roa.append(ttm_ni / ta)
                 else:
                     roa.append(None)
                 
-                # ROE = Net Income / Total Equity
-                if ni and te and te != 0:
-                    roe.append(ni / te)
+                # ROE = TTM Net Income / Total Equity
+                if ttm_ni and not pd.isna(ttm_ni) and te and te != 0:
+                    roe.append(ttm_ni / te)
                 else:
                     roe.append(None)
             
@@ -313,26 +318,53 @@ class CompanyReportGenerator:
                         values.append(None)
                 return values
             
-            # Get Net Income from income statement
-            net_income = get_metric_values(income_df, 'Net Income', quarters)
+            # Get Net Income from income statement for ALL available quarters
+            all_quarters_income = income_df.loc['Net Income'] if 'Net Income' in income_df.index else None
+            
+            if all_quarters_income is not None:
+                # Get all date columns (exclude TTM)
+                date_cols = [col for col in all_quarters_income.index if col not in ['TTM', 'Breakdown']]
+                # Sort oldest to newest
+                date_cols_sorted = sorted([pd.to_datetime(col) for col in date_cols])
+                
+                # Convert net income to Series
+                ni_series = pd.Series(dtype=float)
+                for date in date_cols_sorted:
+                    date_str = date.strftime('%Y-%m-%d')
+                    if date_str in all_quarters_income.index:
+                        ni_series[date] = float(all_quarters_income[date_str]) if all_quarters_income[date_str] else None
+                
+                # Calculate TTM net income (trailing 4 quarters)
+                ttm_net_income_series = ni_series.rolling(window=4, min_periods=4).sum()
+                
+                # Get TTM values for our display quarters
+                ttm_net_income = []
+                for quarter in quarters:
+                    quarter_dt = pd.to_datetime(quarter)
+                    if quarter_dt in ttm_net_income_series.index:
+                        ttm_net_income.append(ttm_net_income_series[quarter_dt])
+                    else:
+                        ttm_net_income.append(None)
+            else:
+                ttm_net_income = [None] * len(quarters)
             
             # Get balance sheet items
             total_assets = get_metric_values(balance_df, 'Total Assets', quarters)
             total_equity = get_metric_values(balance_df, 'Total Equity Gross Minority Interest', quarters)
             
-            # Calculate ROA and ROE
+            # Calculate ROA and ROE using TTM net income
             roa = []
             roe = []
-            for ni, ta, te in zip(net_income, total_assets, total_equity):
-                # ROA = Net Income / Total Assets
-                if ni and ta and ta != 0:
-                    roa.append(ni / ta)
+            for ttm_ni, ta, te in zip(ttm_net_income, total_assets, total_equity):
+                # ROA = TTM Net Income / Total Assets
+                if ttm_ni and not pd.isna(ttm_ni) and ta and ta != 0:
+                    roa.append(ttm_ni / ta)
                 else:
                     roa.append(None)
                 
-                # ROE = Net Income / Total Equity
-                if ni and te and te != 0:
-                    roe.append(ni / te)
+                # ROE = TTM Net Income / Total Equity
+                if ttm_ni and not pd.isna(ttm_ni) and te and te != 0:
+                    roe.append(ttm_ni / te)
                 else:
                     roe.append(None)
             
@@ -394,7 +426,7 @@ class CompanyReportGenerator:
         # Target total width: 8.0 inches (maximizes page usage on 8.5" page with margins)
         num_quarters = len(metrics_df.columns)
         
-        target_total_width = 6.5 * inch # 8.0
+        target_total_width = 8.0 * inch # 8.0
         metric_col_width = 1.6 * inch
         
         # Calculate quarter column width to reach target total width
@@ -839,6 +871,15 @@ class CompanyReportGenerator:
                         # Add filtered income table
                         story.append(financial_table)
                         story.append(Spacer(1, 0.2*inch))
+                        
+                        # Add source note for balance sheet table
+                        source_name = "Alpha Vantage" if source == "alpha_vantage" else "Yahoo Finance"
+                        story.append(Paragraph(
+                            f"<i>Trailing 4-Quarter Measures (Source: {source_name})</i>",
+                            ParagraphStyle('BalanceSourceNote', parent=styles['Normal'], 
+                                         fontSize=9, textColor=colors.grey, alignment=TA_LEFT)
+                        ))
+                        story.append(Spacer(1, 0.1*inch))
                         
                         # Add balance sheet table
                         story.append(balance_table)
