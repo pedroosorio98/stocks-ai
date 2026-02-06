@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1a7dee4c0f8ac196aca9e70b96bdb227a5638a8b16dc076b3724af82af2c074e
-size 237
+{
+  "label": "Section 508",
+  "original_url": "https://accessibe.com/compliance/section-508",
+  "final_url": "https://accessibe.com/compliance/section-508",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b4f9423ef024a42a21b4311a50e63187fb3ec32541f7c4d1161a040039554a37
-size 334
+{
+  "label": "CVM Santander",
+  "original_url": "https://www.rad.cvm.gov.br/ENET/frmConsultaExternaCVM.aspx?tipoconsulta=CVM&codigoCVM=20532",
+  "final_url": "https://www.rad.cvm.gov.br/ENET/frmConsultaExternaCVM.aspx?tipoconsulta=CVM&codigoCVM=20532",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

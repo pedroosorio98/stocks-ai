@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81d51993b65a47ec057869052fc2badb94adbbfa4ecab7810109848075e42ec2
-size 303
+{
+  "label": "Press Release",
+  "original_url": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/",
+  "final_url": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

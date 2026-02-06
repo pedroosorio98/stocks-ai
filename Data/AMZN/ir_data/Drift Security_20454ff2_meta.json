@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7d0556ff89e91e6a01f110a0f9467ebb6709b63ff19c2a2bb822601acdffc1e5
-size 201
+{
+  "label": "Drift Security",
+  "original_url": "https://www.getdrift.ai/",
+  "final_url": "https://www.getdrift.ai/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

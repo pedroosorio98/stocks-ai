@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:33de211e9159fd8ccf2720ac32502553dc2ac74258aadbb257bceb6e4e5722b7
-size 232
+{
+  "label": "2018",
+  "original_url": "https://www.berkshirehathaway.com/news/2018news.html",
+  "final_url": "https://www.berkshirehathaway.com/news/2018news.html",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

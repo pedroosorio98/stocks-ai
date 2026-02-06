@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a63380aa543a5892a8c6dc240e717c706ac6e34181bbd4f20a7bfb7c168df825
-size 318
+{
+  "label": "HTML (opens in new window)",
+  "original_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000118/goog-20240930.htm",
+  "final_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000118/goog-20240930.htm",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

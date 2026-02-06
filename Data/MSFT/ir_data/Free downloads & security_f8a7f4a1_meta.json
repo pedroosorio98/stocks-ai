@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e43995a4de59097c6c05a420c2cd1d27c9f10073c41deb13bcd7d559d075042e
-size 244
+{
+  "label": "Free downloads & security",
+  "original_url": "https://www.microsoft.com/en-us/download",
+  "final_url": "https://www.microsoft.com/en-us/download",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

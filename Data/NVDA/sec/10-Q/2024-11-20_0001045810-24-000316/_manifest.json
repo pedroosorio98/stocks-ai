@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7821d1dbaa1b1ca4741db0c80f6eea9dda1a493f49e1de79641f9605aa5758d5
-size 178
+{
+  "ticker": "NVDA",
+  "cik": 1045810,
+  "form": "10-Q",
+  "filing_date": "2024-11-20",
+  "accession": "0001045810-24-000316",
+  "primary_document": "nvda-20241027.htm"
+}

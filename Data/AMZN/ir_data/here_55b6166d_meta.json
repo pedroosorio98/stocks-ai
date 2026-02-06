@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b0065a63969ef2c7860efd6a479513344ef9fb010e8c4de3cad1dcb3567cfd23
-size 280
+{
+  "label": "here",
+  "original_url": "https://www.vestbee.com/aws-and-crowdstrike-cybersecurity-accelerator",
+  "final_url": "https://www.vestbee.com/aws-and-crowdstrike-cybersecurity-accelerator",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

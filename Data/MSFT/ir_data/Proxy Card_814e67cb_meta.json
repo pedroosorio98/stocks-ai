@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6b47d997a6bfc68ceb8262519f12ebefe6e83a883d1829e97ae0975b8d2c31fc
-size 409
+{
+  "label": "Proxy Card",
+  "original_url": "https://view.officeapps.live.com/op/view.aspx?src=https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/ProxyCard2025.docx",
+  "final_url": "https://view.officeapps.live.com/op/view.aspx?src=https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/ProxyCard2025.docx",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

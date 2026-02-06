@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0615434fe93dbdbb1adad9920bae7586bb5ed8ae0a1382e161dd99f8ac7fa7f4
-size 309
+{
+  "label": "Informa\u00e7\u00f5es aos Acionistas",
+  "original_url": "https://ri.ambev.com.br/relatorios-publicacoes/publicacoes-cvm-sec/",
+  "final_url": "https://ri.ambev.com.br/relatorios-publicacoes/publicacoes-cvm-sec/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

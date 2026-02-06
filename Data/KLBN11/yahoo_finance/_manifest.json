@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6a3cf3f9d60a98ee736e6235b111afda55cda1a609b91122f1b703df265f650
-size 245
+{
+  "input_ticker": "KLBN11",
+  "yahoo_ticker_used": "KLBN11.SA",
+  "folder": "C:\\Users\\Pedro\\stocks-ai\\Data\\KLBN11\\yahoo_finance",
+  "notes": "Some modules are not available for all Brazil tickers; see errors/ folder for failures."
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160ee12d321af4c54b9db0e8b06d37e94a789331f3bd78404486b8b2f11fb11a
-size 262
+{
+  "label": "Search the Next-Generation EDGAR System",
+  "original_url": "https://www.sec.gov/edgar/searchedgar/webusers.htm",
+  "final_url": "https://www.sec.gov/search-filings",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c94f2813153bc8873255cc6137c500c688ef7fcc4fce8e9ea5a4c3b04bb94910
-size 1010
+{
+  "cache": {
+    "TIME_SERIES_INTRADAY::BRK.B": "BRK-B",
+    "TIME_SERIES_DAILY::BRK.B": "BRK.B",
+    "TIME_SERIES_DAILY_ADJUSTED::BRK.B": "BRK.B",
+    "TIME_SERIES_WEEKLY::BRK.B": "BRK.B",
+    "TIME_SERIES_WEEKLY_ADJUSTED::BRK.B": "BRK.B",
+    "TIME_SERIES_MONTHLY::BRK.B": "BRK.B",
+    "TIME_SERIES_MONTHLY_ADJUSTED::BRK.B": "BRK.B",
+    "GLOBAL_QUOTE::BRK.B": "BRK.B",
+    "OVERVIEW::BRK.B": "BRK-B",
+    "INCOME_STATEMENT::BRK.B": "BRK-B",
+    "BALANCE_SHEET::BRK.B": "BRK-B",
+    "CASH_FLOW::BRK.B": "BRK-B",
+    "EARNINGS::BRK.B": "BRK-B",
+    "EARNINGS_ESTIMATES::BRK.B": "BRK-B",
+    "SHARES_OUTSTANDING::BRK.B": "BRK-B",
+    "DIVIDENDS::BRK.B": "BRK.B",
+    "SPLITS::BRK.B": "BRK.B",
+    "INSIDER_TRANSACTIONS::BRK.B": "BRK-B",
+    "NEWS_SENTIMENT:tickers::BRK.B": "BRK.B",
+    "EARNINGS_CALL_TRANSCRIPT::BRK.B": "BRK.B",
+    "REALTIME_OPTIONS::BRK.B": "BRK.B",
+    "HISTORICAL_OPTIONS::BRK.B": "BRK.B"
+  },
+  "note": "Chosen symbol variant per endpoint for this ticker."
+}

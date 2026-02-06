@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19f2ffdd5dc245854886e1b40e5a9d6102eb6e7d5ed81e47abc4e36a38856320
-size 262
+{
+  "label": "Presentations",
+  "original_url": "https://ri.ambev.com.br/en/presentations/presentations/",
+  "final_url": "https://ri.ambev.com.br/en/presentations/presentations/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

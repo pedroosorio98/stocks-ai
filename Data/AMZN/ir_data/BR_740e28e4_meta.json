@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:daad34a3efbfc4b4a911d0830ffb6da68f9e47e23e0ed7a0e3620d16a9ccc96c
-size 485
+{
+  "label": "BR",
+  "original_url": "https://www.prnewswire.com/news-releases/broadridges-shareholder-disclosure-hub-migrates-to-aws-boosting-global-reach-resilience-and-security-302633846.html#financial-modal",
+  "final_url": "https://www.prnewswire.com/news-releases/broadridges-shareholder-disclosure-hub-migrates-to-aws-boosting-global-reach-resilience-and-security-302633846.html#financial-modal",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

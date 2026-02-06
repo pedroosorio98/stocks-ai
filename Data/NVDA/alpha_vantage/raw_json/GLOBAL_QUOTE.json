@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb4f784aaa7ce0a6ed4df127113c1e22273bcecd6ab64695625a829ee0140bc5
-size 706
+{
+  "response": {
+    "Global Quote": {
+      "01. symbol": "NVDA",
+      "02. open": "179.4600",
+      "03. high": "179.5800",
+      "04. low": "171.9100",
+      "05. price": "174.1900",
+      "06. volume": "207014116",
+      "07. latest trading day": "2026-02-04",
+      "08. previous close": "180.3400",
+      "09. change": "-6.1500",
+      "10. change percent": "-3.4102%"
+    }
+  },
+  "request": {
+    "function": "GLOBAL_QUOTE",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "NVDA"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&apikey=1W86SMG399FCFAIM&symbol=NVDA"
+  }
+}

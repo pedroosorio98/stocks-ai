@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:848af8eedf072f84eb40a48e79ce09be9738e3c51d198bcf0d9b73e2fa78d8a0
-size 333
+{
+  "label": "Annual Reports",
+  "original_url": "https://www.investidorpetrobras.com.br/en/presentations-reports-and-events/annual-reports/",
+  "final_url": "https://www.investidorpetrobras.com.br/en/presentations-reports-and-events/annual-reports/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

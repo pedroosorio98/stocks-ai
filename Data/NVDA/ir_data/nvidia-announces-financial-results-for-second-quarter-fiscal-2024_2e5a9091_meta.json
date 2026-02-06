@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:051b25eb34c689a544e5c88f2ef38928e669f79e7fc1ac08e5e73acce57aaaf3
-size 404
+{
+  "label": "nvidia-announces-financial-results-for-second-quarter-fiscal-2024",
+  "original_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024",
+  "final_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

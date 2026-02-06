@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bad1163bc175a1a5b077b1e993c43c03be3015bef25e4952598f799838c20b37
-size 737
+{
+  "response": {
+    "symbol": "AAPL",
+    "data": [
+      {
+        "effective_date": "2020-08-31",
+        "split_factor": "4.0000"
+      },
+      {
+        "effective_date": "2014-06-09",
+        "split_factor": "7.0000"
+      },
+      {
+        "effective_date": "2005-02-28",
+        "split_factor": "2.0000"
+      },
+      {
+        "effective_date": "2000-06-21",
+        "split_factor": "2.0000"
+      }
+    ]
+  },
+  "request": {
+    "function": "SPLITS",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "AAPL"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=SPLITS&apikey=1W86SMG399FCFAIM&symbol=AAPL"
+  }
+}

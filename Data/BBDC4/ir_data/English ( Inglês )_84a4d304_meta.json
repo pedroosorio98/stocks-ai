@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af649afb6262a14c1708f4ebfc1eaf5bbd3cc20eea4ea85c3eeb02b2eaff1adf
-size 298
+{
+  "label": "English ( Ingl\u00eas )",
+  "original_url": "https://www.bradescori.com.br/en/market-information/events-calendar/",
+  "final_url": "https://www.bradescori.com.br/en/market-information/events-calendar/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

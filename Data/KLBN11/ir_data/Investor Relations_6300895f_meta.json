@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b049c47665bf470e6b10ee490f90d54860119a225899dc61f29ce37449729abd
-size 213
+{
+  "label": "Investor Relations",
+  "original_url": "https://ri.klabin.com.br/en/",
+  "final_url": "https://ri.klabin.com.br/en/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:54d6a28f19cfea4f35ddbe8689c5630e96ce1fbed5da27c4b7dc4e0713dbfe26
-size 699
+{
+  "response": {
+    "Global Quote": {
+      "01. symbol": "JPM",
+      "02. open": "314.4050",
+      "03. high": "319.3050",
+      "04. low": "314.4050",
+      "05. price": "317.2700",
+      "06. volume": "9848802",
+      "07. latest trading day": "2026-02-04",
+      "08. previous close": "314.8500",
+      "09. change": "2.4200",
+      "10. change percent": "0.7686%"
+    }
+  },
+  "request": {
+    "function": "GLOBAL_QUOTE",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "JPM"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&apikey=1W86SMG399FCFAIM&symbol=JPM"
+  }
+}

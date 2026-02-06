@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:197bb003aea370e18c43584077afed5cec7ddbbe4388f4f4e63f32f098ad3be0
-size 185
+{
+  "label": "Aira Security",
+  "original_url": "https://airasecurity.ai/",
+  "final_url": "https://airasecurity.ai/",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

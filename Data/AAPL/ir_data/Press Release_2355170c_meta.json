@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:065ffb820b6910c0bbb996244e517174aac2a5b48d0002bfa7a6700f27391878
-size 301
+{
+  "label": "Press Release",
+  "original_url": "https://www.apple.com/newsroom/2024/08/apple-reports-third-quarter-results/",
+  "final_url": "https://www.apple.com/newsroom/2024/08/apple-reports-third-quarter-results/",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

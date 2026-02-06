@@ -1,3 +1,593 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d2e34389b1490b932369667698caec68494184ca00e61fb3b72cf32b638ee8b9
-size 22178
+[
+  {
+    "id": "10c75d89-ad8b-38f7-930f-0f00f02cffd3",
+    "content": {
+      "id": "10c75d89-ad8b-38f7-930f-0f00f02cffd3",
+      "contentType": "STORY",
+      "title": "Top Analyst Reports for Applied Materials, Linde & Abbott",
+      "description": "",
+      "summary": "AMAT rides a semiconductor rebound as systems, services and ICAPS drive gains, even as China export curbs, memory lag and costs cloud near-term growth.",
+      "pubDate": "2026-01-29T22:19:00Z",
+      "displayTime": "2026-01-29T22:19:00Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/045ba7ae9e660e2a91686804eef7ab55",
+        "originalWidth": 620,
+        "originalHeight": 413,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/YaeP6YMQifV47czKTk1orA--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/045ba7ae9e660e2a91686804eef7ab55",
+            "width": 620,
+            "height": 413,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/Ft_9v1IaRitknlvMkILMLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/045ba7ae9e660e2a91686804eef7ab55",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/top-analyst-reports-applied-materials-221900110.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/top-analyst-reports-applied-materials-221900110.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "8876fbde-1bf1-30cb-a130-c076b57ddeea",
+    "content": {
+      "id": "8876fbde-1bf1-30cb-a130-c076b57ddeea",
+      "contentType": "STORY",
+      "title": "VALE S.A. (VALE) Is a Trending Stock: Facts to Know Before Betting on It",
+      "description": "",
+      "summary": "Recently, Zacks.com users have been paying close attention to VALE (VALE). This makes it worthwhile to examine what the stock has in store.",
+      "pubDate": "2026-01-29T14:00:02Z",
+      "displayTime": "2026-01-29T14:00:02Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f",
+        "originalWidth": 900,
+        "originalHeight": 675,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/xopQugjeNyS1VO21qlHkcQ--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f",
+            "width": 900,
+            "height": 675,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/k6uDefeIp9u1zRe.lKA2TQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/vale-vale-trending-stock-facts-140002100.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/vale-vale-trending-stock-facts-140002100.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "f6c83785-ee3a-3834-9d3a-e798a5d9eba7",
+    "content": {
+      "id": "f6c83785-ee3a-3834-9d3a-e798a5d9eba7",
+      "contentType": "STORY",
+      "title": "Why the Market Dipped But VALE S.A. (VALE) Gained Today",
+      "description": "",
+      "summary": "VALE S.A. (VALE) closed the most recent trading day at $16.76, moving +1.95% from the previous trading session.",
+      "pubDate": "2026-01-28T23:00:03Z",
+      "displayTime": "2026-01-28T23:00:03Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
+        "originalWidth": 1000,
+        "originalHeight": 603,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/Fs_R4sd8jCoOMib958Znmg--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
+            "width": 1000,
+            "height": 603,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/VHlzTcmp5MiZoTQkdAhz1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/why-market-dipped-vale-vale-230003319.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/why-market-dipped-vale-vale-230003319.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "1a6abc35-95f1-3217-81f9-323935ef8751",
+    "content": {
+      "id": "1a6abc35-95f1-3217-81f9-323935ef8751",
+      "contentType": "STORY",
+      "title": "Vale Confirms Second Water Overflow at Minas Gerais Mines",
+      "description": "",
+      "summary": "Company says overflows were controlled, involved only sedimented water, not tailings, as authorities order emergency measures.",
+      "pubDate": "2026-01-27T20:03:06Z",
+      "displayTime": "2026-01-27T20:03:06Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/us.finance.gurufocus/15b2fc17ad023a4f8ec4c2313cd21722",
+        "originalWidth": 500,
+        "originalHeight": 500,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/NoOUED3S984GO11IJytc1Q--~B/aD01MDA7dz01MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/15b2fc17ad023a4f8ec4c2313cd21722",
+            "width": 500,
+            "height": 500,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/cQakSQtROqVvLwomWhAjNw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/15b2fc17ad023a4f8ec4c2313cd21722",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "GuruFocus.com",
+        "url": "http://www.gurufocus.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/vale-confirms-second-water-overflow-200306176.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/vale-confirms-second-water-overflow-200306176.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "5e4f366c-1f04-3bab-bda3-761217c54df4",
+    "content": {
+      "id": "5e4f366c-1f04-3bab-bda3-761217c54df4",
+      "contentType": "STORY",
+      "title": "China’s Stranglehold on Critical Minerals Creates Massive Opportunity in These 5 Stocks",
+      "description": "",
+      "summary": "Oil built the 20th century. Rare earths and critical minerals is building the 21st. Every electric vehicle, wind turbine, solar panel, and guided missile depends on materials one country controls. China dominates the majority of rare earth processing and lithium refining. That’s not a supply chain. That’s a geopolitical weapon. The energy transition isn’t optional. ... China’s Stranglehold on Critical Minerals Creates Massive Opportunity in These 5 Stocks",
+      "pubDate": "2026-01-26T14:28:09Z",
+      "displayTime": "2026-01-26T14:28:09Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/3ce9945717f26a3c4c975482ab33fe74",
+        "originalWidth": 1366,
+        "originalHeight": 767,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/dafkNa6Hg9TQYcc.juzYmA--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/3ce9945717f26a3c4c975482ab33fe74",
+            "width": 1366,
+            "height": 767,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/XRk3dfSlIQGtRcvrrxtfug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3ce9945717f26a3c4c975482ab33fe74",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "24/7 Wall St.",
+        "url": "https://247wallst.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://247wallst.com/investing/2026/01/26/chinas-stranglehold-on-critical-minerals-creates-massive-opportunity-in-these-5-stocks/",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/china-stranglehold-critical-minerals-creates-142809584.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "247f5f53-8d3e-340d-8125-ccc5ff0939de",
+    "content": {
+      "id": "247f5f53-8d3e-340d-8125-ccc5ff0939de",
+      "contentType": "STORY",
+      "title": "Update: Market Chatter: Vale Probes Water Overflow Incident at Brazil Mine",
+      "description": "",
+      "summary": "(Updates with company response in the fourth and fifth paragraphs.) Vale (VALE) is probing a wate",
+      "pubDate": "2026-01-26T11:11:30Z",
+      "displayTime": "2026-01-26T11:11:30Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": null,
+      "provider": {
+        "displayName": "MT Newswires",
+        "url": "https://www.mtnewswires.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/market-chatter-vale-probes-water-111130241.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/market-chatter-vale-probes-water-111130241.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": true,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "537aa683-e59e-37e0-8f8f-86c6197258f4",
+    "content": {
+      "id": "537aa683-e59e-37e0-8f8f-86c6197258f4",
+      "contentType": "STORY",
+      "title": "Up 40%+ in 2025: 3 Stocks on the Verge of a Massive 2026 Breakout",
+      "description": "",
+      "summary": "BKD, ITUB and VALE top a breakout-stock screen for 2026 after strong 2025 gains, with prices near resistance levels hinting at further upside.",
+      "pubDate": "2026-01-23T20:00:00Z",
+      "displayTime": "2026-01-23T20:00:00Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/328c7b3d21d0409654148ecdce8194cb",
+        "originalWidth": 620,
+        "originalHeight": 413,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/JlxDrvyGvV.7DAIYTSvZbA--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/328c7b3d21d0409654148ecdce8194cb",
+            "width": 620,
+            "height": 413,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/boWtU1a1H0crcUyeJqEHxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/328c7b3d21d0409654148ecdce8194cb",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/40-2025-3-stocks-verge-200000271.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/40-2025-3-stocks-verge-200000271.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "7a75ef53-fed5-3336-9685-dbcc67d2fd6f",
+    "content": {
+      "id": "7a75ef53-fed5-3336-9685-dbcc67d2fd6f",
+      "contentType": "STORY",
+      "title": "VALE S.A. (VALE) Rises Higher Than Market: Key Facts",
+      "description": "",
+      "summary": "In the closing of the recent trading day, VALE S.A. (VALE) stood at $15.74, denoting a +1.09% move from the preceding trading day.",
+      "pubDate": "2026-01-22T23:00:03Z",
+      "displayTime": "2026-01-22T23:00:03Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/0K2vxHTAGj_tGrBqjPJ8Cg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
+            "width": 900,
+            "height": 600,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/Xhlfn4mpAJXpE0vIOolxTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/vale-vale-rises-higher-market-230003204.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/vale-vale-rises-higher-market-230003204.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "cb2e1bf7-f89a-345a-b6b5-df29e531f5bc",
+    "content": {
+      "id": "cb2e1bf7-f89a-345a-b6b5-df29e531f5bc",
+      "contentType": "STORY",
+      "title": "Brokers Suggest Investing in VALE (VALE): Read This Before Placing a Bet",
+      "description": "",
+      "summary": "The average brokerage recommendation (ABR) for VALE (VALE) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
+      "pubDate": "2026-01-22T14:30:04Z",
+      "displayTime": "2026-01-22T14:30:04Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/7853de8d69faeccb7d1ad6ebba40b8a2",
+        "originalWidth": 900,
+        "originalHeight": 741,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/d6hN0_BhikrNdWTnix6fng--~B/aD03NDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7853de8d69faeccb7d1ad6ebba40b8a2",
+            "width": 900,
+            "height": 741,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/8C1MiSlUPXRmm_enKpBGcg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7853de8d69faeccb7d1ad6ebba40b8a2",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/brokers-suggest-investing-vale-vale-143004177.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/brokers-suggest-investing-vale-vale-143004177.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "ac1ff5d0-2763-3fc8-a59e-f7baa0998c7f",
+    "content": {
+      "id": "ac1ff5d0-2763-3fc8-a59e-f7baa0998c7f",
+      "contentType": "STORY",
+      "title": "Stock Market Today, Jan. 21: Vale Jumps After Trading Volume Surges Well Above Average",
+      "description": "",
+      "summary": "Unusually heavy trading in this global iron ore and nickel producer spotlights shifting sentiment in miners, today, Jan. 21, 2026.",
+      "pubDate": "2026-01-21T22:37:39Z",
+      "displayTime": "2026-01-21T22:37:39Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/motleyfool.com/55b24b49be90e3d7c3172a1a4663616e",
+        "originalWidth": 1401,
+        "originalHeight": 1251,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/ORXLDjdjtVPPJIc1rk.muQ--~B/aD0xMjUxO3c9MTQwMTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/55b24b49be90e3d7c3172a1a4663616e",
+            "width": 1401,
+            "height": 1251,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/ZHZ6i8S3G1_FLbBAr6MM4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/55b24b49be90e3d7c3172a1a4663616e",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Motley Fool",
+        "url": "http://www.fool.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/01/21/stock-market-today-jan-21-vale-jumps-after-trading-volume-surges-well-above-average/",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/stock-market-today-jan-21-223739567.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  }
+]

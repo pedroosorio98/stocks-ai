@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9bdf7c6b8ec05d4a99110519a1b139431a167f335b1de214f73c17512b3ca857
-size 287
+{
+  "label": "Conditions of Use",
+  "original_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508088",
+  "final_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508088",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

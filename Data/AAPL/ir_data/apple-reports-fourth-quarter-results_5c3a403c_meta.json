@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:455fb8f2784745d9727bc8567e670b9b5f02ecbacedd406b774cd2e040568ecb
-size 326
+{
+  "label": "apple-reports-fourth-quarter-results",
+  "original_url": "https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/",
+  "final_url": "https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4501f1ef0a5b63876f5b02681a35f8662d14db4c014eb06b60880e10fb5b58f6
-size 273
+{
+  "label": "Listen to Webcast",
+  "original_url": "http://www.virtualshareholdermeeting.com/META2025",
+  "final_url": "https://central.virtualshareholdermeeting.com/vsm/web?pvskey=META2025",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

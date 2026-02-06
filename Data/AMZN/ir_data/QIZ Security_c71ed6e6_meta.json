@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:86cbd74895eb0686db07e85d328e33b963d6035dff9b1fcc9471bb0061ed85b9
-size 202
+{
+  "label": "QIZ Security",
+  "original_url": "http://www.qizsecurity.com/",
+  "final_url": "https://qizsecurity.com/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

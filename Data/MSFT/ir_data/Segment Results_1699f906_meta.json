@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3f845e92b669d12663306d008e0e8402340d69fa9b92616b120ebdeb8a0ea668
-size 308
+{
+  "label": "Segment Results",
+  "original_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/segment-revenues",
+  "final_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/segment-revenues",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

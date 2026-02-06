@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c930e7b8e23986b5f84d8eabf4442d2436c47c47fdf5275fdbaa00513b2fa0d8
-size 374
+{
+  "label": "Segment Performance",
+  "original_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/productivity-and-business-processes-performance",
+  "final_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/productivity-and-business-processes-performance",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

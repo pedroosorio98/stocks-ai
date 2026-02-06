@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:45e44e77c1259bb619b5d13f445bf1ffda0c138f95ff6e2339dcb7a0418b0c34
-size 321
+{
+  "label": "Corporate Governance",
+  "original_url": "https://www.bradescori.com.br/en/market-information/reports-and-spreadsheets/cvm/",
+  "final_url": "https://www.bradescori.com.br/en/market-information/reports-and-spreadsheets/cvm/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

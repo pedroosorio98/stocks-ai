@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:359c15c52601637152035a38e2c7c69ca948898cb5a094ed0249251fc8f1d4f3
-size 336
+{
+  "label": "Go to the footer.",
+  "original_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/results-center/#rodape",
+  "final_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/results-center/#rodape",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

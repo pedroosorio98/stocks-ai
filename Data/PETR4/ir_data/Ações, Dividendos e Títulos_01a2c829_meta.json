@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b0ee9ceb79ac6a2957ca06c604c5d94c88dac8fe81fc0534af26dc46bd7b950a
-size 283
+{
+  "label": "A\u00e7\u00f5es, Dividendos e T\u00edtulos",
+  "original_url": "https://www.investidorpetrobras.com.br/assembleias/",
+  "final_url": "https://www.investidorpetrobras.com.br/assembleias/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

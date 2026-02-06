@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:31bfc8b1d86313a4417ee78b5d3e580b827472e97642f1a97919312c7e900597
-size 373
+{
+  "label": "Industry recognition",
+  "original_url": "https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader",
+  "final_url": "https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

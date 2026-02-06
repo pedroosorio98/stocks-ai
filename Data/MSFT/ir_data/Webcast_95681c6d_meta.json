@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:060ca5c173d4ebf7132dfd8126ef9c3d38366f3192e86907ef8068c2f779f599
-size 320
+{
+  "label": "Webcast",
+  "original_url": "https://www.microsoft.com/en-us/investor/events/fy-2026/2025-annual-shareholder-meeting",
+  "final_url": "https://www.microsoft.com/en-us/investor/events/fy-2026/2025-annual-shareholder-meeting",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

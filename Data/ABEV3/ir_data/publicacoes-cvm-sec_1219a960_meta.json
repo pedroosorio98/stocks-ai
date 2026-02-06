@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:67143951c2230d201cdebaff96c337a33acd0b19f2138959b2bb707179e1e759
-size 293
+{
+  "label": "publicacoes-cvm-sec",
+  "original_url": "https://ri.ambev.com.br/relatorios-publicacoes/publicacoes-cvm-sec/#",
+  "final_url": "https://ri.ambev.com.br/relatorios-publicacoes/publicacoes-cvm-sec/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

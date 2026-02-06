@@ -1,3 +1,551 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2a1e4eae3041d3219c92fcd32027a6444692679426d5f192dca6d49cf5ecebd8
-size 25103
+<!DOCTYPE html>
+<html>
+<head>
+<title>Webcast Help</title>
+<link rel="stylesheet" type="text/css" href="/js/javascript-bandwidth-tester/bins/css/default.css" />
+<link rel="stylesheet" type="text/css" href="/viewer/style/faq_sys_test.css?CodeTagVersion=1" /> <!-- TODO updated this -->
+<meta name="robots" content="none">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div class="pagecontainerSystemTest">
+
+  <div class="pageContent" id="pageContent">
+    <h1 class='faqTitle' tabindex="1">FAQs and System Test</h1>
+    <div id='systest'></div>
+     <section id="systestDetails">
+     	<div id='osVersion' class='containerSystemTest'>
+	     	<span id='ospassfail'></span>
+	     	<span id='osTitle' class='title' tabindex="2">
+	     		Operating System</span>
+	     	<span class='scriptResults' id='os' tabindex="3"></span>
+	     	<div id="osmoreinfo" class='errorTxt displayNone'></div>
+     	</div>
+     	<div id='browser' class='containerSystemTest'>
+	     	<span id='bpassfail'></span>
+	     	<span id='browserTitle' class='title' tabindex="4">
+	     		Browser</span>
+	     	<span class='scriptResults' id='bversion' tabindex="5"></span>
+	     	<div id="bmoreinfo" class='errorTxt displayNone'></div>
+     	</div>
+     	<div id='bandwidth' class='containerSystemTest'>
+	     	<span id='bwpassfail'></span>
+	     	<span id='bandwidthTitle' class='title' tabindex="6">
+	     		Bandwidth</span>
+	     	<span class='scriptResults' id='bw' tabindex="7"></span>
+	     	<div id="bwmoreinfo" class='errorTxt displayNone'></div>
+     	</div>
+     	<div id='slide' class='containerSystemTest'>
+			<span id='sldpassfail'></span>	     	
+	     	<span class='title' tabindex="8">
+	     		Slide Display Test</span>
+	     	<div id="sldmoreinfo" class='errorTxt displayNone'></div>
+     	</div>
+     	<div id='media' class='containerSystemTest'>
+	     	<span id='mediapassfail'></span>
+	     	<span class='title' tabindex="9">
+	     		Media Playback Test</span>
+	     	<div id='mobileMessage' class='displayNone'>Click Play</div>
+	     	<div id="mediaplayback"></div>
+	     	<div id="mediamoreinfo" class='errorTxt displayNone'></div>
+     	</div>
+     	<div id='info' class='containerSystemTest'>
+	     	<span class="advancedLabel" tabindex="10">
+	     		Advanced Info</span>: 
+			<span  tabindex="11">
+				User Agent</span>
+			<div id="advanceInfo" tabindex="12"></div>
+     	</div>
+     </section>
+
+	<h2 id="minreq" tabindex="12"><span class="arrowClosed">View the minimum system requirements</span></h2>
+	<section id='minreqDetails' tabindex="13">
+		<div id='osReq'>
+			<p class='marginBtm5'>Operating System</p>
+	        <span>Windows 10</span>,
+	        <span>Windows 8.1+ Pro</span>,
+	        <span>Android <div id="minAndroidVer" class="versionNum">VERSION</div>+</span>,
+	        <span>Apple Mac OS X <div id="minMajorMacVer" class="versionNum">VERSION</div>.<div id="minMinorMacVer" class="versionNum">VERSION</div>+</span>,
+	        <span>Apple iOS <div id="miniOSVer" class="versionNum">VERSION</div>+</span>
+		</div>
+		<div id='cpuReq'>
+			<p class='marginBtm5'>Processor</p>
+			<span><div id="minGhz" class="versionNum">VERSION</div></span><sup></sup>
+		</div>
+		<div id='ramReq'>
+			<p class='marginBtm5'>RAM</p>
+			<span><div id="minRam" class="versionNum">VERSION</div></span>
+		</div>
+		<div id='browserReq'>
+			<p class='marginBtm0'>Internet Browser</p>
+	        <span>Google Chrome: Current or previous 5 versions<sup><i></i></sup></span>, 
+	        <span>Firefox: Current or previous 5 versions<sup><i></i></sup></span>, 
+	        <span>Safari (Mac devices only): Current or previous 5 versions<sup><i></i></sup></span>, 
+	        <span>Microsoft Edge: Current or previous 5 versions<sup><i></i></sup></span>	
+		</div>	
+		<div id='hardwareReq'>
+			<p class='marginBtm5'>Hardware</p>
+			<span>AUDIO: Sound Card with speakers</span> 
+	        <span>VIDEO: Screen with <div id="minResolution" class="versionNum">VERSION</div>+ resolution support</span>
+		</div>	
+		<div id='mediaReq'>
+			<p class='marginBtm0'>Media Playback</p>
+	       	<span>HTML5 streaming enabled browser<sup><i></i></sup></span>,
+	        <span>Apple iOS http streaming enabled browser<sup><i></i></sup></span>,
+	        <span>Android http streaming enabled browser<sup><i></i></sup></span>	
+		</div>		
+		<div id='netReq'>
+			<p class='marginBtm3'>Internet Connection</p>
+			<span>Dedicated high speed connection of <div id="minBwSpeed" class="versionNum">VERSION</div>Kbps+</span>
+		</div>
+	</section>
+
+	 <!-- Trouble hearing audio? -->
+    <h2 id="hearaudio" tabindex="14"><span class="arrowClosed">I am having trouble hearing audio</span></h2>
+    <div id="hearaudioDetails" style="display:none;"> <br />
+    	<div class="helpContent" tabindex="15">
+			<ul>
+			<li>If you have internal speakers, make sure they aren't muted.</li>
+			<li>If you have external speakers, make sure they are powered on and aren't muted.</li>
+			<li>Make sure you did not lose Internet connectivity.</li>
+			<li>Make sure your system has passed the system test located under "Test my system now".</li>
+			<li>If you are using a mobile device, such as an iPhone, make sure you have enough bandwidth. We advise using dedicated wi-fi or 4G.</li>
+			<li>If you are using an Android device, Apple iPad or iPhone you will need to click on the media play button to begin the presentation. Android and Apple iOS devices do not permit streams to begin automatically.</li>
+			<!-- <li>If you are using an Android device, Apple iPad or iPhone you will need to click on the media play button to begin the presentation.</li> -->
+			</ul>
+		</div>
+    </div>
+	<br />
+	<br />
+
+   <noscript>
+    <div class="failed" style="padding:0 0 0 65px;">A Javascript-enabled browser is required to view this page</div><br />
+    <hr />
+    <br />
+    <br />
+    </noscript>
+  </div>
+</div>
+
+<script type="text/javascript" src="/js/jquery/jquery-3.6.4.min.js?codetag=32885-20260123-1759"></script>
+<script type="text/javascript" src="/js/systemtest/bwtest.js?codetag=32885-20260123-1759"></script>
+<!-- <script type="text/javascript" src="/js/javascript-bandwidth-tester/bins/jquery-1.4.3.min.js?codetag=32885-20260123-1759"></script>-->
+<script type="text/javascript" src="/js/javascript-bandwidth-tester/bins/jQuery.wlBWT.js?codetag=32885-20260123-1759"></script>
+<script type="text/javascript" src="/js/systemtest/pdfdetect.js?codetag=32885-20260123-1759"></script>
+<script type="text/javascript" src="/js/systemtest/detect.js?codetag=32885-20260123-1759"></script>
+<script type="text/javascript" src="/js/systemtest/compatibilitymode.js?codetag=32885-20260123-1759"></script>
+<script type="text/javascript" src="/js/swfobject.js?codetag=32885-20260123-1759"></script>
+<!-- <script type="text/javascript" src="/js/systemtest/wmpdetect.js?codetag=32885-20260123-1759"></script> -->
+<script type="text/javascript" src="/js/systemtest/popupcheck.js?codetag=32885-20260123-1759"></script>
+<script type="text/javascript" src="/js/systemtest/webrtccheck.js?codetag=32885-20260123-1759"></script>
+<script type="text/javascript" src="/js/systemtest/html5check.js?codetag=32885-20260123-1759"></script>
+<style>
+	#wl-bwt-dnl-bar-You-you {
+		width: calc(100vw - 173px);
+	}
+	
+	@media (max-width: 414px) {
+		.advanced tr {
+			width: 100vw;
+		}
+	}
+	
+	.versionNum {
+		display: inline-block; 
+	}
+</style>
+
+<script type="text/javascript">
+// todo this needs to actually be a redirect or another jsp embed or something other than this!
+function legacyBrowserRedirect() {  //  If the browser is very old redirect them to this message
+	document.body.innerHTML = ("<img class='closeBtn' src='/viewer/images/icon_reg-close-white.png' style='position:absolute; top:1%;left: 94%;' onclick='if(self.parent==self){self.close();}else{parent.closeHelp();}return false;'/>" +
+		"<div class='oldBrowser' style='display: flex;align-items: center;justify-content: center;height: 100vh;margin-top:10%;'>" +
+		"<h1 class='oldBrowser-text' style='text-align:center;color:#c00;padding: 0 60px;'>Your browser is not supported. Please return using a modern browser.<br/><br/>If you are using Internet Explorer please ensure you are not in compatibility mode.</h1>" +
+	"</div>");
+}
+
+try {
+	var legacyBrowserTest = (document.addEventListener);
+	if (!legacyBrowserTest) {  //  We are testing for old browsers that don't support eventListeners
+		legacyBrowserRedirect();
+	}
+} catch (err) {
+	console.log(err);
+}
+	
+$('#mediapassfail').html('<img class="spinAni spinPosition" src="/viewer/images/icon_spinner.png"/>');
+
+/*-- Start supporting functions --*/
+
+//  Setup vars for minimum requirements. Changing these will change system test results 
+minIos = "12";//Minimum iOS version 
+minIe = "11";//Minimum IE version 
+minFF = "85";//Minimum Firefox version 
+minChrome = "88"//Minimum Chrome version 
+minEdge = "88";//Minimum Edge version
+minSafari = "14";//Minimum Safari version 
+minMobSafari = "533";//Minimum mobile Safari version 
+minAndroid = "5.1";//Minimum Android version 
+minMajMacos = "10";//Minimum Major MacOS version number 
+minMinMacos = "14";//Minimum Minor MacOS version number 
+minBwSpeed = "1.0";//Minimum bandwidth speed for advanced test. 0.9 = 900kpbs, 1.0 = 1mpbs
+minFlashVersion = "30";//Minimum Flash player version
+minGhz = "2.0";
+minRam = "4";
+minResolution = "1024x768";
+macOspassed = false;
+bUseHtml5Slide = true;//  Should the system test look for HTML5 slides? Setting to true so it no longer checks for flash
+
+//  If the device is a Mac we need a special test to see if the OS passes the minimum requirements 
+if (systemDetect.OS == "Mac OS") {
+	var mac = systemDetect.OSversion;
+	var split = (mac.toString()).split(".");
+	majMacos = parseInt(split[0]); //  Major Mac OS version 
+	minMacos = parseInt(split[1]); //  Minor Mac OS version 
+		if (majMacos>minMajMacos) {
+			macOspassed = true; //  If the major version is greater than the minimum major version it's a pass.
+		} else if ((majMacos>=minMajMacos)&&(minMacos>=minMinMacos)) {
+			macOspassed = true;
+		}
+}
+
+// Set flash player version variable based on results of swfobject.js
+try {
+	playerVersion = swfobject.getFlashPlayerVersion();
+	var afpversion = playerVersion.major + "." + playerVersion.minor + "." + playerVersion.release;
+} catch (err) {
+	//  Do nothing
+}
+  
+//  Function to detect if HTMl5 Video tag is supported by the browser
+function supports_video() {
+	return !!document.createElement('video').canPlayType;
+}
+
+//  Function to display the advanced bandwidth checker. 
+function show_advBwtest() {
+	$('#wl-bwt').wlBWt({
+		BinPath: '/js/javascript-bandwidth-tester/bins', //Ping test and upload test rely on BinPath
+		Payload: 'https://core-static.global.ssl.fastly.net/js/javascript-bandwidth-tester/bins/payload.bin',//Payload test file from CDN. Only requires the Payload path
+		ServerPost: 'server.jsp',
+		Theme: 'default',
+		ShowComparison: false,
+		TestPing: true
+	});
+};
+
+//  Function to show pass fail message from the video test run from faqvideotest.jsp 
+function showmediapassfail(div,txt) {
+	if (txt.search("passed") > -1) {
+		// $(div).html("<span class=\"passed\">Passed</span>");
+		$(div).html('<img class="passed" src="/viewer/images/test_pass.png"/>');
+	} else {
+		// $(div).html("<span class=\"failed\">Failed</span>");
+		$(div).html('<img class="failed" src="/viewer/images/test_fail.png"/>');
+	}
+}
+
+// Function to update the Advanced bandwidth test div to let the user know the advanced test is complete.  Called from jQuery.wlBWT.js
+function updateAdvancedbwtest(dSpeed) {
+	var downloadSpeed = dSpeed.valueOf(); 
+	if (downloadSpeed < minBwSpeed) {
+		document.getElementById('bwttitle').innerHTML = "<strong>Bandwidth connectivity test:  </strong> Complete. <strong>Result:</strong> Failed. <br /><br />";
+	} else {
+		document.getElementById('bwttitle').innerHTML = "<strong>Bandwidth connectivity test:  </strong> Complete. <strong>Result:</strong> Passed. <br /><br />";
+	}
+}
+
+// Change compatibility mode (cmode) text in case a custom language is set
+if (cmode == "Yes") {
+	cmode = "Yes";
+} else if (cmode == "No") {
+	cmode = "No"; 
+}
+
+// Check for for HTML5 video support
+var html5vid = supports_video(); // Old test. MSE check is more accurate
+var html5vresults = (html5vid === true) ? "Yes" : "No";
+
+// Check for HTML5 media source extension support
+var html5mse = isMSESupported();
+var html5mseResults = (html5mse === true) ? "Yes" : "No";
+ 
+// Check for HTML5 canvas support
+var html5canvas = isCanvasSupported();
+var html5canvasResults = (html5canvas === true) ? "Yes" : "No";
+
+// Update advanced system test URL
+function updateAdvSysTestUrl() {
+	$(".sysTestHref").attr("href", "faq.jsp?techview=yes&dlang=en-us&closebtn=no");
+	$(".sysTestHref").attr("target", "_self");
+}
+ 
+// Check for cookie support
+function cCheckCookie(action,name) {
+	$(".cookiecheck").html("Uknown");
+	try {
+		var params = "action=" + action + "&name=" + name;
+		$.ajax({ type: "GET",
+			// async: false, // Forcing the method to run and return. Not an issue because the call is local.
+			url: "/viewer/faqCheckCookie.jsp", // Proc page to read secure cookie
+			data: params,
+			dataType: "json",
+			success: function(jsonResult) {
+				if (jsonResult.success === true) {
+					$(".cookiecheck").html("Yes");
+				} else {
+					$(".cookiecheck").html("No");
+				}
+			},
+			
+			error: function(jsonResult) {
+				$(".cookiecheck").html("Uknown");
+			}
+		});
+	} catch (err) {
+		console.log("TPQA - Error trying to set secure cookie");
+	}
+}
+
+// Function to display the results generated by display() in bwtest.js
+function bwPassed () {
+	// $('#bwpassfail').html('<span class=\"passed\">Passed</span>');
+	$('#bwpassfail').html('<img class="passed" src="/viewer/images/test_pass.png"/>');
+	$('#bwmoreinfo').html('<span class=\"note\">Your current bandwidth connection is ready to go!</span>');
+}
+
+function bwFailed () {
+	// $('#bwpassfail').html('<span class=\"failed\">Failed</span>');
+	$('#bwpassfail').html('<img class="failed" src="/viewer/images/test_fail.png"/>');
+	$('#bwmoreinfo')
+		.css('display', 'block')
+		.html('<span class=\"note redFont \">Please close any other applications that might be using up bandwidth and <a class="sysTestHref" href="#" target="_self">click here</a> to take the advanced system test. If you continue to fail the bandwidth check we advise viewing from a different network connection.</span>');  //FAIL: Bandwidth
+	updateAdvSysTestUrl();
+}
+
+	function sendresults (downSpeed, upSpeed) {
+		//No function call required
+	}
+
+/*-- End supporting functions --*/
+
+/*-- Start of onload functions --*/
+$(document).ready(function() {
+	// Hiding the standard sytem test div. TODO: Add back when reworked.
+	$("#bandwidth").hide();
+	
+	// focus on close button
+	$('.faqTitle').focus();
+	
+	// Pressing enter on sections opens them
+	$("#minreq, #hearaudio, #seevideo").on('keyup', function(event){
+		if (event.keyCode === 13) {
+			$(this).click();
+		}
+	});
+	
+	// Pressing esc or enter on will Close System Test
+	$(document).on('keyup', function(e) {
+		if (e.keyCode === 27) {
+			try {
+				parent.$('#eventDisplayTitle').focus();
+				$(".closeBtn").click();
+			} catch(err) {
+				// not on reg page
+			}
+		}
+	});
+	
+	$(".closeBtn").on('keyup', function(event) {
+		if (event.keyCode === 13) {
+			try {
+				parent.$('#eventDisplayTitle').focus();
+				$(this).click();
+			} catch(err) {
+				// not on reg page
+			}
+		}
+	});
+	
+	// On last tab go back to first tab in this popup window
+	$('.closeBtn').on('keydown', function(e) {
+		if (e.keyCode === 9) {
+			e.preventDefault(); 
+			$('.faqTitle').focus();
+		}
+	});
+	
+	// Check to see if cookies can be set and read
+	cCheckCookie("find","iml_system_test");
+	
+	// If the tester is using iOS, Android or MS Edge Browser make sure HTML5 is always used for the video test
+	sUseHtml5Vid = "true";
+	if ((systemDetect.browser === "Microsoft Edge Browser") || (systemDetect.OS === "iPad iOS") || (systemDetect.OS === "iPhone iOS") || (systemDetect.OS === "iPod iOS") || (systemDetect.OS === "Android")) {
+		sUseHtml5Vid = "true";
+	}
+	
+	//  Check the users bandwidth
+	setTimeout("initBwCheck()", 1000);
+	
+	//  Display OS and OS version onto the DOM next to "Operating System"
+	$('#os').html(systemDetect.OS + " " + systemDetect.OSversion);
+	
+	//  Check OS and display if it passed or failed. Relies on detect.js
+	if ((systemDetect.OS === "Windows 10") || (systemDetect.OS === "Windows 8.1") || (systemDetect.OS === "Windows 8") ||
+		(systemDetect.OS === "iPad iOS" && (systemDetect.OSversion >= minIos)) ||
+		(systemDetect.OS === "iPhone iOS" && (systemDetect.OSversion >= minIos)) ||
+		(systemDetect.OS === "iPod iOS" && (systemDetect.OSversion >= minIos)) ||
+		(systemDetect.OS === "Mac OS" && (macOspassed)) ||
+		(systemDetect.OS === "Android" && (systemDetect.OSversion >= minAndroid)) || (systemDetect.OS === "Linux")) {
+		// $('#ospassfail').html('<span class=\"passed\">Passed</span>');
+		$('#ospassfail').html('<img class="passed" src="/viewer/images/test_pass.png"/>');	   
+		$('#osmoreinfo').html('Your operating system is ready to go!');
+	} else {
+		// $('#ospassfail').html('<span class=\"failed\">Failed</span>');
+		$('#ospassfail').html('<img class="failed" src="/viewer/images/test_fail.png"/>');
+		$('#osmoreinfo')
+			.css('display', 'block')
+			.html('<a class="redFont minreqDetailsAnchor" href="#minreqDetails">Minimum system requirements</a>');
+		$('.minreqDetailsAnchor').css('color', '#c00');
+		$('.minreqDetailsAnchor').click(function () {
+			var minreqDetailsAnchorDiv = $('#minreqDetails');
+			if (minreqDetailsAnchorDiv.css('display') === 'none') {
+				minreqDetailsAnchorDiv.css('display', 'flex');
+				$('#minreq span').attr('class', 'arrowOpened');
+			}
+		});
+	}
+	
+	// show click play if on mobile device
+	var osTxt = $('#os').text().trim().slice(0, 3);
+	
+	if (osTxt === 'iPa' || osTxt === 'iPh' || osTxt === 'iPo' || osTxt === 'And') {
+		$('#mobileMessage').css('display', 'block');
+	}
+	
+	//  Display browser and browser version onto the DOM next to "Browser"
+	$("#bversion").html(systemDetect.browser + '&nbsp;' + systemDetect.version);
+
+	//  Check browser and version and display if it passed or failed.  Uses detect.js
+	if ((systemDetect.browser === 'Microsoft Edge Browser' && (systemDetect.version >= minEdge)) ||
+		(systemDetect.browser === 'Firefox' && (systemDetect.version >= minFF)) ||
+		(systemDetect.browser === 'Google Chrome' && (systemDetect.version >= minChrome)) ||
+		(systemDetect.browser === 'Safari' && (systemDetect.version >= minSafari)) ||
+		(systemDetect.browser === 'Mobile Safari' && (systemDetect.version >= minMobSafari))) {
+		// $('#bpassfail').html('<span class=\"passed\">Passed</span>');
+		$('#bpassfail').html('<img class="passed" src="/viewer/images/test_pass.png"/>');	
+		$('#bmoreinfo').html('Your browser is ready to go!');
+	} else {
+		// $('#bpassfail').html('<span class=\"failed\">Failed</span>');
+		$('#bpassfail').html('<img class="failed" src="/viewer/images/test_fail.png"/>');	
+		$('#bmoreinfo')
+			.css('display', 'block')
+			.html('<a class="redFont minreqDetailsAnchor" href="#minreqDetails">Minimum system requirements</a>');
+		$('.minreqDetailsAnchor').css('color', '#c00');	
+		$('.minreqDetailsAnchor').click(function () {
+			var minreqDetailsAnchorDiv = $('#minreqDetails');
+			if (minreqDetailsAnchorDiv.css('display') === 'none') {
+				minreqDetailsAnchorDiv.css('display', 'flex');
+				$('#minreq span').attr('class', 'arrowOpened');
+			}
+		});
+	}
+	
+	// Check the system to make sure slides can be displayed. 
+	if (isCanvasSupported()) {
+		// $('#sldpassfail').html('<span class=\"passed\">Passed</span>');
+		$('#sldpassfail').html('<img class="passed" src="/viewer/images/test_pass.png"/>');	
+		$('#sldmoreinfo').html('Your system is ready to go!' + " <img src=\"images/HTML5_Logo_16.png\" border=\"0\" valign=\"middle\"/>");
+	} else {  
+		// $('#sldpassfail').html('<span class=\"failed\">Failed</span>');
+		$('#sldpassfail').html('<img class="failed" src="/viewer/images/test_fail.png"/>');	
+		$('#sldmoreinfo').css('display', 'block').html('<span class="redFont"> ' + 'You need the latest Adobe Flash player installed on your system to view dynamic presentation slides.Your current system configuration is only capable of displaying static slides.' + '</span>'); 
+	}
+	// Display advanced info to the audience member.  Will be used by Tech support to troubleshoot.
+	$('#advanceInfo').html(navigator.userAgent + "<br /><br /><strong>Tech info: </strong>" + systemDetect.OS + " | " + systemDetect.browser + "&nbsp;" + systemDetect.version + " | BW: <span id='speed2'>" + speedKbps + "</span> | AFP: " + afpversion +  " | IP: 187.26.158.215" + " | RSA: 204.141.9.162" + " | Screen Resolution: " + screen.width + " x "+ screen.height + " | " +
+		"CMode enabled: " + cmode + " | Cookies enabled: <span class=\"cookiecheck\"></span> | <a class=\"sysTestHref\" href=\"#\" target=\"_self\">Click here for the advanced system test</a>.<br /><br /><b><strong>Time: </strong>" +
+		"Thu Jan 29 03:13:27 GMT 2026");
+
+	// Display the bandwidth detected by bwtest.js
+	// This should go up between browser and slide section of the code
+	$('#bw').html("<span id='speed'> " + speedKbps + "</span> ");
+
+	// Display minimum requirements by toggle button
+	$("#minreq").click(function () {
+		var minreqDetailsDiv = $("#minreqDetails");
+		if (minreqDetailsDiv.css('display') === 'flex') {
+			minreqDetailsDiv.css('display', 'none');	
+		} else {
+			minreqDetailsDiv.css('display', 'flex');
+		}
+		$('#minreq span').toggleClass('arrowOpened arrowClosed')
+	});
+	
+	// Dispay system test by toggle button. The video test opens in an iframe.
+	$("#systest").click(function () {
+		var ht = ("a" === "a") ? 53 : 293; //52 is the padded height of the embedded iframe for the audio player - 292 is the padded height of the embedded iframe for the video player.
+		$('#mediaplayback').html("<IFRAME src=\"faqvideotest.jsp?mType=a&dlang=en-us&audio=false\" name=\"videotest\" width=\"323\" height=\"" + ht + "\" scrolling=\"no\" frameborder=\"0\" allowfullscreen>Your browser does not support iframes</IFRAME>");
+		
+	});
+	
+	// Display audio help instructions via toggle button.
+	$("#hearaudio").click(function () {
+		$("#hearaudioDetails").toggle();
+		$('#hearaudio span').toggleClass('arrowOpened arrowClosed')
+	});
+	
+	// Display vieo help instructions via toggle button.
+	$("#seevideo").click(function () {
+		$("#seevideoDetails").toggle();
+		$('#seevideo span').toggleClass('arrowOpened arrowClosed')
+	});	
+	
+	
+	
+	$("#seetsc").click(function () {
+		$("#seetscDetails").toggle();
+		$('#seetsc span').toggleClass('arrowOpened arrowClosed')
+	});	
+	
+	
+	
+	// make system test run when on click
+	$("#systest").click();
+	// Replace minimum version placeholders in help page text\
+	// min version placeholder from help page text are stored on viewer DB
+	/* 
+		if we were to keep original system failure text, change the following faq variables in Viewer DB
+		variables associate with:
+			#minAndroidVer, #minMajorMacVer, #minMinorMacVer, #miniOSVer, #minIeVer, #minFFVer, 
+			#minChromeVer, #minSafariVer, #minEdgeVer
+		They are faq20, faq21, faq22, faq25, faq26, faq27, faq28, faq120
+		sample code change if variables were changed on DB:
+		$("#minEdgeVer").each(function() {$(this).html(minEdge);});
+	*/
+	updateAdvSysTestUrl();
+	$("#minAndroidVer").html(minAndroid);
+	$("#minAndroidVer2").html(minAndroid);
+	$("#minMajorMacVer").html(minMajMacos);
+	$("#minMinorMacVer").html(minMinMacos);
+	$("#miniOSVer").html(minIos);
+	$("#minGhz").html(minGhz + "Ghz");
+	$("#minRam").html(minRam + "GB");
+	$("#minIeVer").html(minIe);
+	$("#minFFVer").html(minFF);
+	$("#minChromeVer").html(minChrome);
+	$("#minSafariVer").html(minSafari);
+	$("#minEdgeVer").html(minEdge);
+	$("#minMobSafariVer").html(minMobSafari); 
+	$("#minBwSpeed").html(minBwSpeed * 1000);
+	$("#minFlashPlayer").html(minFlashVersion);
+	$("#minResolution").html(minResolution);
+	
+});
+/*-- End of onload functions --*/
+
+try {
+	console.log("TPQA - JQuery version: " + (jQuery.fn.jquery));
+} catch(err) { }
+</script>
+</body>
+</html>

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a4941a11005cf53334be5833e985be35d77ebf736ac34e5525bb9ed97f92aca
-size 310
+{
+  "label": "Central de Resultados",
+  "original_url": "https://www.bradescori.com.br/informacoes-ao-mercado/central-de-resultados/",
+  "final_url": "https://www.bradescori.com.br/informacoes-ao-mercado/central-de-resultados/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

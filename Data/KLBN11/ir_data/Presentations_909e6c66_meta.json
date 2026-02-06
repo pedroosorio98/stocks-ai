@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a249db0f1374f0427101e50b762455a33e04a6dd0f12342327ac3576787ece9d
-size 284
+{
+  "label": "Presentations",
+  "original_url": "https://ri.klabin.com.br/en/disclosures-and-results/presentations/",
+  "final_url": "https://ri.klabin.com.br/en/disclosures-and-results/presentations/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

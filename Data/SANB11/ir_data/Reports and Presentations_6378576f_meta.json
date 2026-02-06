@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:de381322f153f3e045d4a2ea1e306c307a3837f657dda5b79c15a1ab2e25c4b7
-size 326
+{
+  "label": "Reports and Presentations",
+  "original_url": "https://www.santander.com.br/ri/en/results-and-reports/reports-and-presentations/",
+  "final_url": "https://www.santander.com.br/ri/en/results-and-reports/reports-and-presentations/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2d8f7cb6a215129061a6ad9725f9863668e04419ea25a19ed0d8549b336df2d6
-size 272
+{
+  "label": "Events Calendar",
+  "original_url": "https://www.investidores.nu/en/news-events/events-calendar/",
+  "final_url": "https://www.investidores.nu/en/news-events/events-calendar/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

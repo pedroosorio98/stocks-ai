@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4711a64071797ee5b3a2ecccff0073fdd89776d37f6c8bcc2d23109c9ee7ae2a
-size 254
+{
+  "label": "Terms and Conditions of Use",
+  "original_url": "https://www.santander.com.br/ri/en/security/",
+  "final_url": "https://www.santander.com.br/ri/en/security/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

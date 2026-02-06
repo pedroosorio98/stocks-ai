@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7b92299e985c8a708a7209ae30411a9815157eb18ee3080030f76460a4fd9a66
-size 703
+{
+  "response": {
+    "Global Quote": {
+      "01. symbol": "AAPL",
+      "02. open": "272.2850",
+      "03. high": "278.9500",
+      "04. low": "272.2850",
+      "05. price": "276.4900",
+      "06. volume": "90545710",
+      "07. latest trading day": "2026-02-04",
+      "08. previous close": "269.4800",
+      "09. change": "7.0100",
+      "10. change percent": "2.6013%"
+    }
+  },
+  "request": {
+    "function": "GLOBAL_QUOTE",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "AAPL"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&apikey=1W86SMG399FCFAIM&symbol=AAPL"
+  }
+}

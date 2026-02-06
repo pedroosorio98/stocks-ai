@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:40da75896f94aaec7e95d987a8d8b8eed2f9653b15d979ecda82ecbbde847ef3
-size 263
+{
+  "label": "Meetings",
+  "original_url": "https://ri.klabin.com.br/en/corporate-governance/meetings/",
+  "final_url": "https://ri.klabin.com.br/en/corporate-governance/meetings/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

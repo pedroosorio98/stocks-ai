@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46de5065cf8dc5dfe5afd082bdaeacfc77767775f75ae68c89f7fd4d95fe3a56
-size 323
+{
+  "label": "Presentations and Spreadsheets",
+  "original_url": "https://ri.btgpactual.com/en/main-information/presentations-and-spreadsheets/",
+  "final_url": "https://ri.btgpactual.com/en/main-information/presentations-and-spreadsheets/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

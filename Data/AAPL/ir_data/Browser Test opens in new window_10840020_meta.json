@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:730762d8dbfdfc381d6938b23d6bb48b6b5b45aec512d4ffc37775358e416835
-size 369
+{
+  "label": "Browser Test opens in new window.",
+  "original_url": "https://event.webcasts.com/viewer/faq.jsp?mType=a&closebtn=no&useHtml5Slide=true&ishtml5player=true",
+  "final_url": "https://event.webcasts.com/viewer/faq.jsp?mType=a&closebtn=no&useHtml5Slide=true&ishtml5player=true",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

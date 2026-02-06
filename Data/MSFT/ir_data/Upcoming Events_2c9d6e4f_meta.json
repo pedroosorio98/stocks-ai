@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5b91a4ac4c7edc332c774201c475da78dc1a3faa5b213532c93fb06a4d9a3c8b
-size 280
+{
+  "label": "Upcoming Events",
+  "original_url": "https://www.microsoft.com/en-us/investor/events/events-upcoming",
+  "final_url": "https://www.microsoft.com/en-us/investor/events/events-upcoming",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

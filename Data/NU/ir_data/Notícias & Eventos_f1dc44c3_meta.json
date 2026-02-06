@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e57e9003a1963b15f96ddbbf08eeb7bd4df85b930bcaae02fac81cf510992fb
-size 282
+{
+  "label": "Not\u00edcias & Eventos",
+  "original_url": "https://www.investidores.nu/noticias-eventos/contato-com-ri/",
+  "final_url": "https://www.investidores.nu/noticias-eventos/contato-com-ri/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

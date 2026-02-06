@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff067cf4e755f95413715e1f1fdc1b38384a247a328bed86d7ed5d6ec011e06f
-size 190
+{
+  "label": "Fortyx Security",
+  "original_url": "https://fortyx.co/",
+  "final_url": "https://fortyx.co/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

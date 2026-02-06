@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0b919dc2fa4407381f663015b832c85f56cc2a28204645bb594279b4c71767d0
-size 266
+{
+  "label": "Download Center",
+  "original_url": "https://ri.weg.net/en/investor-services/download-center/",
+  "final_url": "https://ri.weg.net/en/investor-services/download-center/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

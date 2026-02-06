@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5aa16f73a3c87c7d1c0386aa8a33b3a204d100678521e58ba3bfbf7e4c2f27b4
-size 362
+{
+  "label": "sharer.php",
+  "original_url": "http://www.facebook.com/sharer.php?u=https://www.microsoft.com/en-us/investor/annual-reports",
+  "final_url": "https://web.facebook.com/sharer.php?u=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Finvestor%2Fannual-reports&_rdc=1&_rdr",
+  "content_type": "text/html; charset=\"utf-8\"",
+  "blocked_detected": false
+}

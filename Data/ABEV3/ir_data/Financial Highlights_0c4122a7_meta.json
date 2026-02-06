@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a3699fb1f6042130a724963122e0f605b1d3ed414a1d3cf40dc5f2eb64a2629c
-size 273
+{
+  "label": "Financial Highlights",
+  "original_url": "https://ri.ambev.com.br/en/overview/financial-highlights/",
+  "final_url": "https://ri.ambev.com.br/en/overview/financial-highlights/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

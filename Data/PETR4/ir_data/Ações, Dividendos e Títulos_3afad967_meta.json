@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bbed47b973f8fe56f77cc6746d0f8fb4e376761a582ab2fb4250077b0883fd25
-size 345
+{
+  "label": "A\u00e7\u00f5es, Dividendos e T\u00edtulos",
+  "original_url": "https://www.investidorpetrobras.com.br/apresentacoes-relatorios-e-eventos/eventos/",
+  "final_url": "https://www.investidorpetrobras.com.br/apresentacoes-relatorios-e-eventos/eventos/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

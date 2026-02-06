@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c846167293b7a90b64eb71176ef613eb8ae11b731a20755306f1305d04068ef8
-size 306
+{
+  "error": "('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))",
+  "params": {
+    "function": "TIME_SERIES_WEEKLY",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "BRK.B",
+    "datatype": "csv"
+  }
+}

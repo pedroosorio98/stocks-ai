@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d473e47f3806b5dbdea19c7bc578e9ace0665ceca978bd2b0836bcf1c4bfe93
-size 301
+{
+  "label": "Press Release",
+  "original_url": "https://www.apple.com/newsroom/2025/01/apple-reports-first-quarter-results/",
+  "final_url": "https://www.apple.com/newsroom/2025/01/apple-reports-first-quarter-results/",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

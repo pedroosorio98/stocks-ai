@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c444e559b786753f70c995cb693d3ebe86b43f26c5862957cc14a9f958e14a9b
-size 272
+{
+  "label": "Past Events",
+  "original_url": "https://www.microsoft.com/en-us/investor/events/events-recent",
+  "final_url": "https://www.microsoft.com/en-us/investor/events/events-recent",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

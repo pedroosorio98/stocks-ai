@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c67ea19bac135a7b35c83aef9da6d85135ad739958ccb9e53b409638df611c4a
-size 311
+{
+  "label": "Ir para o rodap\u00e9.",
+  "original_url": "https://www.investidorpetrobras.com.br/resultados-e-comunicados/sec/#rodape",
+  "final_url": "https://www.investidorpetrobras.com.br/resultados-e-comunicados/sec/#rodape",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

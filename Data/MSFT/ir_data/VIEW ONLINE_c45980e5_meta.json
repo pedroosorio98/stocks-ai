@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a4e7f1132db399f8316c34502fab2eb81cedccaac2cdee5868221a986280163
-size 267
+{
+  "label": "VIEW ONLINE",
+  "original_url": "https://www.microsoft.com/investor/reports/ar03/alt/highlights.htm",
+  "final_url": "https://www.microsoft.com/investor/reports/ar03/alt/highlights.htm",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

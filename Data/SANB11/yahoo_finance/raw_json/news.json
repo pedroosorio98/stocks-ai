@@ -1,3 +1,612 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76945b1191a99dea25b8cb515bb8bb746150445e5271febe946a8de98efecd1e
-size 23096
+[
+  {
+    "id": "aaf8d7e1-6e03-34b5-a7a3-ae476fca9c95",
+    "content": {
+      "id": "aaf8d7e1-6e03-34b5-a7a3-ae476fca9c95",
+      "contentType": "STORY",
+      "title": "Banco Santander (Brasil) SA (BSBR) Q3 2025 Earnings Call Highlights: Strong Profit Growth and ...",
+      "description": "",
+      "summary": "Banco Santander (Brasil) SA (BSBR) reports a robust 10% increase in net profit and unveils strategic initiatives to enhance customer experience and operational efficiency.",
+      "pubDate": "2025-11-05T01:08:38Z",
+      "displayTime": "2025-11-05T01:08:38Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/us.finance.gurufocus/474ec1e8bfcdf318d87337d3bacc1088",
+        "originalWidth": 400,
+        "originalHeight": 400,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/5PGOvrt3KmSTyAk.XXDDRg--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/474ec1e8bfcdf318d87337d3bacc1088",
+            "width": 400,
+            "height": 400,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/FaMwHa44Ww86XDD0HPI_MQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/474ec1e8bfcdf318d87337d3bacc1088",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "GuruFocus.com",
+        "url": "http://www.gurufocus.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/banco-santander-brasil-sa-bsbr-010838020.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/banco-santander-brasil-sa-bsbr-010838020.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "a67fb040-7444-3590-ade3-52c5826277f0",
+    "content": {
+      "id": "a67fb040-7444-3590-ade3-52c5826277f0",
+      "contentType": "STORY",
+      "title": "Are You Looking for a Top Momentum Pick? Why Banco Santander-Brazil (BSBR) is a Great Choice",
+      "description": "",
+      "summary": "Does Banco Santander-Brazil (BSBR) have what it takes to be a top stock pick for momentum investors? Let's find out.",
+      "pubDate": "2025-10-31T20:49:07Z",
+      "displayTime": "2025-10-31T20:49:07Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/21b1f011539d3e31c28282071d344177",
+        "originalWidth": 900,
+        "originalHeight": 598,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/26ddEdIk.0DefsBmi91u3Q--~B/aD01OTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/21b1f011539d3e31c28282071d344177",
+            "width": 900,
+            "height": 598,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/Ws9h_oRqb4hox6.e6gAf_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/21b1f011539d3e31c28282071d344177",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/looking-top-momentum-pick-why-204907463.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/looking-top-momentum-pick-why-204907463.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "25ce641d-abee-3f61-941d-b08c7d3e4e05",
+    "content": {
+      "id": "25ce641d-abee-3f61-941d-b08c7d3e4e05",
+      "contentType": "STORY",
+      "title": "BSBR vs. EBKDY: Which Stock Is the Better Value Option?",
+      "description": "",
+      "summary": "BSBR vs. EBKDY: Which Stock Is the Better Value Option?",
+      "pubDate": "2025-10-30T15:40:02Z",
+      "displayTime": "2025-10-30T15:40:02Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
+        "originalWidth": 900,
+        "originalHeight": 602,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/XFzKRSTb2_xUaLSOCP9.Bg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
+            "width": 900,
+            "height": 602,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/AOCGBukgn6XxK_SF5qswVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/bsbr-vs-ebkdy-stock-better-154002559.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/bsbr-vs-ebkdy-stock-better-154002559.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "c874a824-9d34-3339-a323-1e0e94ada96c",
+    "content": {
+      "id": "c874a824-9d34-3339-a323-1e0e94ada96c",
+      "contentType": "STORY",
+      "title": "Should Value Investors Buy Banco  ntander Brasil (BSBR) Stock?",
+      "description": "",
+      "summary": "Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.",
+      "pubDate": "2025-10-28T13:40:01Z",
+      "displayTime": "2025-10-28T13:40:01Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/9naTdeJlVMX28sdlDpLdrQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4",
+            "width": 900,
+            "height": 600,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/FPwXGsyxPV4rpg4GqtBI5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/value-investors-buy-banco-ntander-134001071.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/value-investors-buy-banco-ntander-134001071.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "f4d134c8-0aa5-3bc8-896c-73737b4c8940",
+    "content": {
+      "id": "f4d134c8-0aa5-3bc8-896c-73737b4c8940",
+      "contentType": "STORY",
+      "title": "BSBR or HDB: Which Is the Better Value Stock Right Now?",
+      "description": "",
+      "summary": "BSBR vs. HDB: Which Stock Is the Better Value Option?",
+      "pubDate": "2025-10-13T15:40:02Z",
+      "displayTime": "2025-10-13T15:40:02Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/670d1917693293f70179651625deb88f",
+        "originalWidth": 900,
+        "originalHeight": 675,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/5w_iAw5naBqMPrzpIECi9Q--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/670d1917693293f70179651625deb88f",
+            "width": 900,
+            "height": 675,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/Iu37D2mm3Zx1u.iQQ4MxUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/670d1917693293f70179651625deb88f",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/bsbr-hdb-better-value-stock-154002463.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/bsbr-hdb-better-value-stock-154002463.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "823ce728-87b7-30d4-ad69-734c1ac687ee",
+    "content": {
+      "id": "823ce728-87b7-30d4-ad69-734c1ac687ee",
+      "contentType": "STORY",
+      "title": "Brazilian Banks, Including Banco Santander Brasil SA ADR (BSBR), Come Under Regulatory Scrutiny",
+      "description": "",
+      "summary": "Banco Santander Brasil SA ADR (NYSE:BSBR) is one of the 10 Best Bank Penny Stocks to Buy Right Now. On September 3, 2025, Brazilian banks, including Banco Santander Brasil SA ADR (NYSE:BSBR), came under regulatory scrutiny. This occurred after reports that the U.S. Treasury Department approached the banks for details on measures taken under the […]",
+      "pubDate": "2025-09-27T14:25:15Z",
+      "displayTime": "2025-09-27T14:25:15Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/8bc9876f1da2ddcde89273db449a2572",
+        "originalWidth": 1456,
+        "originalHeight": 816,
+        "caption": "Brazilian Banks, Including Banco Santander Brasil SA ADR (BSBR), Come Under Regulatory Scrutiny",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/x30hM6DbklVjv8HcdZXqNw--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/8bc9876f1da2ddcde89273db449a2572",
+            "width": 1456,
+            "height": 816,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/wfpx3j89LkaLOcKVgVOM_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8bc9876f1da2ddcde89273db449a2572",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Insider Monkey",
+        "url": "http://www.insidermonkey.com"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/brazilian-banks-including-banco-santander-142515903.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/brazilian-banks-including-banco-santander-142515903.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "e9bc5de6-6c4e-3a01-8fdb-6c78e6feaceb",
+    "content": {
+      "id": "e9bc5de6-6c4e-3a01-8fdb-6c78e6feaceb",
+      "contentType": "STORY",
+      "title": "Banco Santander Brasil SA ADR (BSBR) Net Profit Surges 9.8%",
+      "description": "",
+      "summary": "Banco Santander Brasil SA ADR (NYSE:BSBR) is one of the best low-priced stocks to buy right now. On July 30, the company delivered impressive second-quarter results, characterized by a 9.8% increase in net profit that reached $656.6 million. Net interest income increased 4.4% to 15.4 billion reais, as the return on average equity reached 16.4%, […]",
+      "pubDate": "2025-08-12T13:22:28Z",
+      "displayTime": "2025-08-12T13:22:28Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/e0f27af3da41e5a9144fd0ba5e456a49",
+        "originalWidth": 1000,
+        "originalHeight": 670,
+        "caption": "Banco Santander Brasil SA ADR (BSBR) Net Profit Surges 9.8%",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/3ZeYdHVaopXIULTHyL8nzQ--~B/aD02NzA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/e0f27af3da41e5a9144fd0ba5e456a49",
+            "width": 1000,
+            "height": 670,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/UeYtiMv5JIWc378LE08h4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/e0f27af3da41e5a9144fd0ba5e456a49",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Insider Monkey",
+        "url": "http://www.insidermonkey.com"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/banco-santander-brasil-sa-adr-132228770.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/banco-santander-brasil-sa-adr-132228770.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "c416aa0f-ab47-3459-8abe-6b9c0870e70b",
+    "content": {
+      "id": "c416aa0f-ab47-3459-8abe-6b9c0870e70b",
+      "contentType": "STORY",
+      "title": "Banco Santander (Brasil) SA (BSBR) Q2 2025 Earnings Call Highlights: Record Profits and ...",
+      "description": "",
+      "summary": "Banco Santander (Brasil) SA (BSBR) reports a record quarterly profit and robust customer growth, while navigating economic headwinds and regulatory challenges.",
+      "pubDate": "2025-08-01T15:01:07Z",
+      "displayTime": "2025-08-01T15:01:07Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/us.finance.gurufocus/474ec1e8bfcdf318d87337d3bacc1088",
+        "originalWidth": 400,
+        "originalHeight": 400,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/5PGOvrt3KmSTyAk.XXDDRg--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/474ec1e8bfcdf318d87337d3bacc1088",
+            "width": 400,
+            "height": 400,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/FaMwHa44Ww86XDD0HPI_MQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/474ec1e8bfcdf318d87337d3bacc1088",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "GuruFocus.com",
+        "url": "http://www.gurufocus.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/banco-santander-brasil-sa-bsbr-150107265.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/banco-santander-brasil-sa-bsbr-150107265.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "ebab9e45-bc2a-3b59-8859-445ffe867ed5",
+    "content": {
+      "id": "ebab9e45-bc2a-3b59-8859-445ffe867ed5",
+      "contentType": "STORY",
+      "title": "BSBR or EBKDY: Which Is the Better Value Stock Right Now?",
+      "description": "",
+      "summary": "BSBR vs. EBKDY: Which Stock Is the Better Value Option?",
+      "pubDate": "2025-07-24T15:40:02Z",
+      "displayTime": "2025-07-24T15:40:02Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/bdc2850a48a0f40806db817a9e24f36f",
+        "originalWidth": 900,
+        "originalHeight": 601,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/ksLAzii1aL14haHFbPC1Rg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bdc2850a48a0f40806db817a9e24f36f",
+            "width": 900,
+            "height": 601,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/sUVXv37AsM7y9ooEw4asSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bdc2850a48a0f40806db817a9e24f36f",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/bsbr-ebkdy-better-value-stock-154002841.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/bsbr-ebkdy-better-value-stock-154002841.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "219043a9-414b-3a14-ad8f-de3f880f4f4a",
+    "content": {
+      "id": "219043a9-414b-3a14-ad8f-de3f880f4f4a",
+      "contentType": "STORY",
+      "title": "Is Citigroup (C) Stock Outpacing Its Finance Peers This Year?",
+      "description": "",
+      "summary": "Here is how Citigroup (C) and Banco Santander-Brazil (BSBR) have performed compared to their sector so far this year.",
+      "pubDate": "2025-07-22T13:40:05Z",
+      "displayTime": "2025-07-22T13:40:05Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/wXNaNKXxuWlbebD.cUCv9g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
+            "width": 900,
+            "height": 600,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/Kdbk5MmzfS7bSRdtJx6YgQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/citigroup-c-stock-outpacing-finance-134005268.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/citigroup-c-stock-outpacing-finance-134005268.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  }
+]

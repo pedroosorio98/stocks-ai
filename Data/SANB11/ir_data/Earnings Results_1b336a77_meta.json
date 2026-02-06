@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2607695d0e16da2fcce87ac6773655f40f474d03782e916e9690477fb31c7593
-size 299
+{
+  "label": "Earnings Results",
+  "original_url": "https://www.santander.com.br/ri/en/results-and-reports/earnings-results/",
+  "final_url": "https://www.santander.com.br/ri/en/results-and-reports/earnings-results/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

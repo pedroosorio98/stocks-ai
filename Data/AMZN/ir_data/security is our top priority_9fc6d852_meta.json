@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:de290be7c8bc847c1f89095b1bd155a2c9746ada9ec8c4c17e653c06bb1a16da
-size 268
+{
+  "label": "security is our top priority",
+  "original_url": "http://aws.amazon.com/security/culture-of-security",
+  "final_url": "https://aws.amazon.com/security/culture-of-security/",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

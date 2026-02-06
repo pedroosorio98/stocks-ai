@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:58cb3fa6510b4032840fd3889e75265c86eae1ceba61fe0f5ddac0ac77271afb
-size 235
+{
+  "label": "CVM Fillings",
+  "original_url": "https://ri.btgpactual.com/en/cvm-fillings/",
+  "final_url": "https://ri.btgpactual.com/en/cvm-fillings/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

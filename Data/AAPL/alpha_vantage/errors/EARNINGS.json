@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ef1656da14a79b215a680217c9f6399789e0e6df6f3b9893aae702c70b8059f
-size 218
+{
+  "error": "HTTPSConnectionPool(host='www.alphavantage.co', port=443): Read timed out. (read timeout=60)",
+  "params": {
+    "function": "EARNINGS",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "AAPL"
+  }
+}

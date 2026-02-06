@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6b9fc82a15cd011d008662b3341b4d16ad30abaea86346951da57674cf0c4222
-size 706
+{
+  "response": {
+    "Global Quote": {
+      "01. symbol": "META",
+      "02. open": "687.7300",
+      "03. high": "688.8300",
+      "04. low": "667.4600",
+      "05. price": "668.9900",
+      "06. volume": "16882761",
+      "07. latest trading day": "2026-02-04",
+      "08. previous close": "691.7000",
+      "09. change": "-22.7100",
+      "10. change percent": "-3.2832%"
+    }
+  },
+  "request": {
+    "function": "GLOBAL_QUOTE",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "META"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&apikey=1W86SMG399FCFAIM&symbol=META"
+  }
+}

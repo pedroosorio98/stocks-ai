@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5666c3226b6de18563de9224bd884afb2d949027802ea2ac1fbaeb37e22c18c9
-size 318
+{
+  "response": {},
+  "params": {
+    "function": "OVERVIEW",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "BRK.B"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=OVERVIEW&apikey=1W86SMG399FCFAIM&symbol=BRK.B"
+  }
+}

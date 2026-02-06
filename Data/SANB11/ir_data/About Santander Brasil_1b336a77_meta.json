@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a0f62db4b89cb93671c22039d9bf542cad8fff4e3a2192977541162a370f9f5
-size 305
+{
+  "label": "About Santander Brasil",
+  "original_url": "https://www.santander.com.br/ri/en/results-and-reports/earnings-results/",
+  "final_url": "https://www.santander.com.br/ri/en/results-and-reports/earnings-results/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

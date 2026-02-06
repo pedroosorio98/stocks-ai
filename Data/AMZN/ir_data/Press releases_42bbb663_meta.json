@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c94525ec2413158f52e7d067f66e783af43f8a1daaebacc482d0a63edba1373
-size 233
+{
+  "label": "Press releases",
+  "original_url": "https://press.aboutamazon.com/",
+  "final_url": "https://press.aboutamazon.com/press-release-archive",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

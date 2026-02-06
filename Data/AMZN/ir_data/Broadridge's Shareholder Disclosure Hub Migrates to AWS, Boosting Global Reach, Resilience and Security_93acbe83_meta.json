@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:feec2e683e083c149ac4701103be691c4143d122c76d0cc2f600435179df513a
-size 525
+{
+  "label": "Broadridge's Shareholder Disclosure Hub Migrates to AWS, Boosting Global Reach, Resilience and Security",
+  "original_url": "https://press.aboutamazon.com/aws/2025/12/broadridges-shareholder-disclosure-hub-migrates-to-aws-boosting-global-reach-resilience-and-security",
+  "final_url": "https://press.aboutamazon.com/aws/2025/12/broadridges-shareholder-disclosure-hub-migrates-to-aws-boosting-global-reach-resilience-and-security",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

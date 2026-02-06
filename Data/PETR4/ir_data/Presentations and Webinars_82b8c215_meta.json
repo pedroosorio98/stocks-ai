@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:936920749a109aedcc7f45377f753170119e805109d8d32f68c9a9af74088267
-size 379
+{
+  "label": "Presentations and Webinars",
+  "original_url": "https://www.investidorpetrobras.com.br/en/esg-environment-social-and-governance/presentations-and-webinars/",
+  "final_url": "https://www.investidorpetrobras.com.br/en/esg-environment-social-and-governance/presentations-and-webinars/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

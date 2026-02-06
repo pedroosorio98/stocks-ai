@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:323957fbaf1750e01e18a63403220350510ad7f1ba99f9e886e91763689598e4
-size 147
+{
+  "original_symbol": "GOOGL",
+  "variants": [
+    "GOOGL"
+  ],
+  "note": "This script picks the best variant per endpoint and caches it."
+}

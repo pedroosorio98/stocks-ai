@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:50751cb74ff483bbf330d8f7e10a1f3c7fe6edb195b36bf509e530c9e46cdaa5
-size 174
+{
+  "original_symbol": "BRK.B",
+  "variants": [
+    "BRK.B",
+    "BRK-B",
+    "BRKB"
+  ],
+  "note": "This script picks the best variant per endpoint and caches it."
+}

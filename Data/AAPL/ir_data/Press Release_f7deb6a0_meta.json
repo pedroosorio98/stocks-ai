@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ec5902ff2fda2e3a4c2c1761109af633714981ff531a07bb5a467de13a2353a7
-size 303
+{
+  "label": "Press Release",
+  "original_url": "https://www.apple.com/newsroom/2025/05/apple-reports-second-quarter-results/",
+  "final_url": "https://www.apple.com/newsroom/2025/05/apple-reports-second-quarter-results/",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

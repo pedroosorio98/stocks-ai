@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:48144e1c4c0cb7014b51efae28400f06b0868585ffc635ba41973c7623fbb4b6
-size 328
+{
+  "label": "Conhe\u00e7a o Santander Brasil",
+  "original_url": "https://www.santander.com.br/ri/informacoes-corporativas/calendario-de-eventos/",
+  "final_url": "https://www.santander.com.br/ri/informacoes-corporativas/calendario-de-eventos/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a1beafc19dd71a526841873d0005d469059fcdf6f0a2ee2cd2b68c6289efc6b4
-size 240
+{
+  "label": "Site map",
+  "original_url": "https://www.investidores.nu/en/press-releases/#",
+  "final_url": "https://www.investidores.nu/en/press-releases/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

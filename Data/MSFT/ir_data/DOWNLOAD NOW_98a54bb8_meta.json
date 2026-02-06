@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19e9a1a9037dfe76e2a068f158133d755f8ee8ef283bd37f236660cfd6187496
-size 286
+{
+  "label": "DOWNLOAD NOW",
+  "original_url": "https://www.microsoft.com/investor/reports/ar01/low/form_10-k/downloads.htm",
+  "final_url": "https://www.microsoft.com/investor/reports/ar01/low/form_10-k/downloads.htm",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

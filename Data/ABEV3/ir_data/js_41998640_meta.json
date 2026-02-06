@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:617f5c268a9ee47fd5dbbc41a63105f7128ef47f385a5dbb21e080ae413cdc94
-size 298
+{
+  "label": "js",
+  "original_url": "https://www.googletagmanager.com/gtag/js?id=G-T1MHCS8FMD&cx=c&gtm=4e61r1",
+  "final_url": "https://www.googletagmanager.com/gtag/js?id=G-T1MHCS8FMD&cx=c&gtm=4e61r1",
+  "content_type": "application/javascript; charset=utf-8",
+  "blocked_detected": false
+}

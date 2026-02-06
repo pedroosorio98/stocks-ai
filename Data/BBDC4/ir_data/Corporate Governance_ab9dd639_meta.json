@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0ee2a2536c075f0c16434c175ab694931a65c01df20f44eba7d32a8a2d1a66e
-size 291
+{
+  "label": "Corporate Governance",
+  "original_url": "https://www.bradescori.com.br/en/market-information/presentations/",
+  "final_url": "https://www.bradescori.com.br/en/market-information/presentations/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

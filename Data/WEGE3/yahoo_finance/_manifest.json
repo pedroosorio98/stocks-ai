@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:478dc43d0831a4eb646a7c91a408b54fa9b0d2a84835eab0da94070d6d93c5c5
-size 242
+{
+  "input_ticker": "WEGE3",
+  "yahoo_ticker_used": "WEGE3.SA",
+  "folder": "C:\\Users\\Pedro\\stocks-ai\\Data\\WEGE3\\yahoo_finance",
+  "notes": "Some modules are not available for all Brazil tickers; see errors/ folder for failures."
+}

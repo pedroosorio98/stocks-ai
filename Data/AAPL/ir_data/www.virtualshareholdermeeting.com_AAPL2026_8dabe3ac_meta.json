@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ced36aa750c35de17e78518a4ddc0284fda06fc0feacb0adcc35ddf93853a397
-size 295
+{
+  "label": "www.virtualshareholdermeeting.com/AAPL2026",
+  "original_url": "http://www.virtualshareholdermeeting.com/AAPL2026",
+  "final_url": "https://east.virtualshareholdermeeting.com/vsm/web?pvskey=AAPL2026",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

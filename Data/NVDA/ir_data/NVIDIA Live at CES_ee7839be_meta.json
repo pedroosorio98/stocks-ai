@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e0b8a6e55c2f80afb6baa3d09b16f6e91c9331a78504fd38513e1ad166b93522
-size 437
+{
+  "label": "NVIDIA Live at CES",
+  "original_url": "https://investor.nvidia.com/events-and-presentations/events-and-presentations/event-details/2026/NVIDIA-live-at-CES-with-Jensen/default.aspx",
+  "final_url": "https://investor.nvidia.com/events-and-presentations/events-and-presentations/event-details/2026/NVIDIA-live-at-CES-with-Jensen/default.aspx",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

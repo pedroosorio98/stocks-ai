@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6735d0ce2d1b25faf19a5422183437450afcb497d494e6aad13130835f42226
-size 323
+{
+  "label": "recaptcha__pt_br.js",
+  "original_url": "https://www.gstatic.com/recaptcha/releases/N67nZn4AqZkNcbeMu4prBgzg/recaptcha__pt_br.js",
+  "final_url": "https://www.gstatic.com/recaptcha/releases/N67nZn4AqZkNcbeMu4prBgzg/recaptcha__pt_br.js",
+  "content_type": "text/javascript",
+  "blocked_detected": false
+}

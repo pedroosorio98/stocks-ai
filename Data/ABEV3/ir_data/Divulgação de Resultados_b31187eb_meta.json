@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cddbece702938d526a66e0f1707517589bf4a5678951a97e603a383892d9c6b7
-size 317
+{
+  "label": "Divulga\u00e7\u00e3o de Resultados",
+  "original_url": "https://ri.ambev.com.br/relatorios-publicacoes/divulgacao-de-resultados/",
+  "final_url": "https://ri.ambev.com.br/relatorios-publicacoes/divulgacao-de-resultados/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

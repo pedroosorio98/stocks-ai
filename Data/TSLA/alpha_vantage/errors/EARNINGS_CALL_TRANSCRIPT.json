@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:77f764db718447ca7d25e6def7d2e4d449086702ae3676d460b4dc952ca24ca5
-size 287
+{
+  "error": "('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))",
+  "params": {
+    "function": "EARNINGS_CALL_TRANSCRIPT",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "TSLA"
+  }
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cc2f734a96751c8941d639ca7ae87e44420399f5ce432339b7e068128134ccd3
-size 369
+{
+  "label": "Perguntas Frequentes",
+  "original_url": "https://www.investidorpetrobras.com.br/servicos-ao-investidor/investidor-individual/perguntas-frequentes/",
+  "final_url": "https://www.investidorpetrobras.com.br/servicos-ao-investidor/investidor-individual/perguntas-frequentes/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

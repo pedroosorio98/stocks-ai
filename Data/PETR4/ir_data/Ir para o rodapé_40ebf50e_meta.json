@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c63b89df38a9548f6bac3f9f171b46cd315be5bccf557b874f06bf71b6fe3fe3
-size 277
+{
+  "label": "Ir para o rodap\u00e9.",
+  "original_url": "https://www.investidorpetrobras.com.br/assembleias/#rodape",
+  "final_url": "https://www.investidorpetrobras.com.br/assembleias/#rodape",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

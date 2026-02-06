@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:536a1cd0d4c5d32b29a67db83d4960bf965a72389b025c68524e29ea99825dd8
-size 303
+{
+  "label": "Public Offer Documents",
+  "original_url": "https://www.investidores.nu/en/governance/documentos-da-oferta-publica/",
+  "final_url": "https://www.investidores.nu/en/governance/documentos-da-oferta-publica/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

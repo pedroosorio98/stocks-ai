@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12b31cd59f76081815eb888ab263eca337e65c242e791380e2f6dd5fe2e82a8b
-size 242
+{
+  "input_ticker": "ABEV3",
+  "yahoo_ticker_used": "ABEV3.SA",
+  "folder": "C:\\Users\\Pedro\\stocks-ai\\Data\\ABEV3\\yahoo_finance",
+  "notes": "Some modules are not available for all Brazil tickers; see errors/ folder for failures."
+}

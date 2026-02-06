@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d107dc71673d60707d8552310692c8b00f31ebdcf4b3db89dbb95ec4ad68f46d
-size 549
+{
+  "response": {
+    "symbol": "TSLA",
+    "data": [
+      {
+        "effective_date": "2022-08-25",
+        "split_factor": "3.0000"
+      },
+      {
+        "effective_date": "2020-08-31",
+        "split_factor": "5.0000"
+      }
+    ]
+  },
+  "request": {
+    "function": "SPLITS",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "TSLA"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=SPLITS&apikey=1W86SMG399FCFAIM&symbol=TSLA"
+  }
+}

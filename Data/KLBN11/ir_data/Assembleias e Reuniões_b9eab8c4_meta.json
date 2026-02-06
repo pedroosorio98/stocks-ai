@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ce5035b05121158cb812d787390f1b83a37d616c8c95adbf1e1eb7afe643985
-size 308
+{
+  "label": "Assembleias e Reuni\u00f5es",
+  "original_url": "https://ri.klabin.com.br/governanca-corporativa/assembleias-e-reunioes/",
+  "final_url": "https://ri.klabin.com.br/governanca-corporativa/assembleias-e-reunioes/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

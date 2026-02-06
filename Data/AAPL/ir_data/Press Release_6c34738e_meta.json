@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:48abb36a45cb4a7aac05a91626f842ed1440cfb633a9a1fdb9ce1722a708f9bc
-size 303
+{
+  "label": "Press Release",
+  "original_url": "https://www.apple.com/newsroom/2023/11/apple-reports-fourth-quarter-results/",
+  "final_url": "https://www.apple.com/newsroom/2023/11/apple-reports-fourth-quarter-results/",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

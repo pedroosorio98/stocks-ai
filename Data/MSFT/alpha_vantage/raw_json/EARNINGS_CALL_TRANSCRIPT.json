@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f87b1b7710825355faec7cb4dd974b0bac08ada0b09afcbf60813f97d27ec448
-size 418
+{
+  "response": {
+    "symbol": "MSFT",
+    "quarter": "",
+    "transcript": []
+  },
+  "request": {
+    "function": "EARNINGS_CALL_TRANSCRIPT",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "MSFT"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=EARNINGS_CALL_TRANSCRIPT&apikey=1W86SMG399FCFAIM&symbol=MSFT"
+  }
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6166e956d9d4e09952c10592a2fab579151aaea71c7b5171ac34c72d7e356c2b
-size 317
+{
+  "label": "Shareholder Remuneration",
+  "original_url": "https://www.bradescori.com.br/en/market-information/shareholder-remuneration/",
+  "final_url": "https://www.bradescori.com.br/en/market-information/shareholder-remuneration/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

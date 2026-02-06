@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:86f0474bab38bb9dca7b6eb7b1e9d0b5ae7c28589fc010ac8f88d0dfcf0dfed7
-size 265
+{
+  "label": "Spreadsheets",
+  "original_url": "https://ri.weg.net/en/financial-information/spreadsheets/",
+  "final_url": "https://ri.weg.net/en/financial-information/spreadsheets/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

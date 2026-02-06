@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:244d232cf966d40c3df8878fc57a30d435eda48f6f716c8b8f360f1fe9b75221
-size 176
+{
+  "ticker": "AAPL",
+  "cik": 320193,
+  "form": "8-K",
+  "filing_date": "2016-12-15",
+  "accession": "0001628280-16-022047",
+  "primary_document": "form8-k121316.htm"
+}

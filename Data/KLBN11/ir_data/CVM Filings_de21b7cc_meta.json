@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:de36ac3e7171f66ae294d108a1f9073f9d2c8269c82962af7ef2d2fb695469c1
-size 276
+{
+  "label": "CVM Filings",
+  "original_url": "https://ri.klabin.com.br/en/financial-information/cvm-fillings/",
+  "final_url": "https://ri.klabin.com.br/en/financial-information/cvm-fillings/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bdfcb9cb951edbf92fcc3a2b08468cfc9efd9d229bbe783ea1a364872f98579a
-size 371
+{
+  "label": "Privacy Policy",
+  "original_url": "https://api.mziq.com/mzfilemanager/v2/d/59a081d2-0d63-4bb5-b786-4c07ae26bc74/82e484ab-320d-1f75-bb1b-c8768b25d293?origin=2",
+  "final_url": "https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

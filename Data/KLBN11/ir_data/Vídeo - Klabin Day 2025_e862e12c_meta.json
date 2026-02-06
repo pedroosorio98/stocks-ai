@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4027e7aa26c8a1de671f93a33f26e30acc9960073ccd209474bfca239eeec445
-size 329
+{
+  "label": "V\u00eddeo - Klabin Day 2025",
+  "original_url": "https://api.mziq.com/mzfilemanager/v2/d/1c41fa99-efe7-4e72-81dd-5b571f5aa376/66349b2c-9195-277a-839f-c559d2fafd41?origin=2",
+  "final_url": "https://www.youtube.com/live/XG8z-VM0sow",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

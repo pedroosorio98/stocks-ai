@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9c51d06a45814515295383e104e467ce553e4c95a25680039e2b5c9aaa139799
-size 299
+{
+  "label": "Calend\u00e1rio de Eventos",
+  "original_url": "https://www.investidores.nu/noticias-eventos/calendario-de-eventos/",
+  "final_url": "https://www.investidores.nu/noticias-eventos/calendario-de-eventos/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

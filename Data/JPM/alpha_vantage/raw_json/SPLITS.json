@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:85b72a3dd8764bea106b060a77b1a1e063480107f0f72db52a5fc0e2d28c8989
-size 452
+{
+  "response": {
+    "symbol": "JPM",
+    "data": [
+      {
+        "effective_date": "2000-06-12",
+        "split_factor": "1.5000"
+      }
+    ]
+  },
+  "request": {
+    "function": "SPLITS",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "JPM"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=SPLITS&apikey=1W86SMG399FCFAIM&symbol=JPM"
+  }
+}

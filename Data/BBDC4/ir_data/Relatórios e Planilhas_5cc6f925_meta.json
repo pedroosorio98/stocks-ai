@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:668929e09149ec604e4cc2eac24aaa5273f686342a5d78b9de23d86519827026
-size 340
+{
+  "label": "Relat\u00f3rios e Planilhas",
+  "original_url": "https://www.bradescori.com.br/informacoes-ao-mercado/relatorios-e-planilhas/relatorios/",
+  "final_url": "https://www.bradescori.com.br/informacoes-ao-mercado/relatorios-e-planilhas/relatorios/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

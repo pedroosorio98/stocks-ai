@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fdcdb0791ad245827ae5f7c90a54ccbba5f695ecda8295d352781ef72eb33a72
-size 290
+{
+  "label": "Governance Report",
+  "original_url": "https://ri.klabin.com.br/en/corporate-governance/governance-report/",
+  "final_url": "https://ri.klabin.com.br/en/corporate-governance/governance-report/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

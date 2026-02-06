@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:14db1f4d48d5eda56b3e6f931ea118516e3f333a2d063a1e52f414fb288c55e8
-size 177
+{
+  "ticker": "MSFT",
+  "cik": 789019,
+  "form": "10-K",
+  "filing_date": "2023-07-27",
+  "accession": "0000950170-23-035122",
+  "primary_document": "msft-20230630.htm"
+}

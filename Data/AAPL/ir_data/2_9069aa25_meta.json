@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b1d75b2a41352c895121fd2fe76c473a0b4df473067f50eb4536fe3ca91e930d
-size 232
+{
+  "label": "2",
+  "original_url": "https://www.apple.com/apple-events/#footnote-2",
+  "final_url": "https://www.apple.com/apple-events/#footnote-2",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

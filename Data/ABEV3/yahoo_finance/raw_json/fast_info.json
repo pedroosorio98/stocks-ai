@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:44c2202b7d57758b787851e0a85c036d36cb6ec367610c4bd88c86708cabb94d
-size 666
+{
+  "currency": "BRL",
+  "dayHigh": 14.9399995803833,
+  "dayLow": 14.75,
+  "exchange": "SAO",
+  "fiftyDayAverage": 13.967199974060058,
+  "lastPrice": 14.930000305175781,
+  "lastVolume": 5907700,
+  "marketCap": 233154727793.3853,
+  "open": 14.760000228881836,
+  "previousClose": 14.65999984741211,
+  "quoteType": "EQUITY",
+  "regularMarketPreviousClose": 14.760000228881836,
+  "shares": 15616525320,
+  "tenDayAverageVolume": 27481530,
+  "threeMonthAverageVolume": 30237847,
+  "timezone": "America/Sao_Paulo",
+  "twoHundredDayAverage": 13.291999988555908,
+  "yearChange": 0.35358120277615207,
+  "yearHigh": 15.25,
+  "yearLow": 10.720000267028809
+}

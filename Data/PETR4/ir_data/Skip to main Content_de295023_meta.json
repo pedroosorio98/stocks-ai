@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:866014dea181b4cba902b750696c406a13fd9cf4f18b56ea5af94d3fde438b53
-size 305
+{
+  "label": "Skip to main Content",
+  "original_url": "https://www.investidorpetrobras.com.br/resultados-e-comunicados/sec/#home",
+  "final_url": "https://www.investidorpetrobras.com.br/resultados-e-comunicados/sec/#home",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:875c35a2fdeff204598728d4879da8debc00a80f5b913a71ce1c75b5749b2761
-size 2115
+fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+2024-12-31,USD,2399044000,None,None,None,None,77128000,174990000,None,None,None,-330627000,727741000,None,None,None,None,None,None,None,None,None,None,5546000,None,None,None,1972112000
+2023-12-31,USD,1266189000,None,None,None,None,62895000,177003000,None,-2818592000,None,-177003000,425215000,None,None,None,None,None,None,None,None,None,None,9148000,None,None,None,1030530000
+2022-12-31,USD,755573000,None,None,None,None,35581000,114306000,None,None,None,-127152000,654039000,None,None,None,None,None,None,None,None,None,None,252503000,None,None,None,-364634000
+2021-12-31,USD,-2924318000,None,None,None,None,17339000,28498000,None,-2089105000,None,-154195000,3335982000,None,None,None,None,928601000,928601000,None,None,None,None,-4607000,None,None,None,-165334000
+2020-12-31,USD,974520000,None,None,None,None,7428000,7986000,None,-47683000,None,-16270000,240102000,None,None,None,None,6776000,6776000,None,None,None,None,-15000,None,None,None,-171491000
+2019-12-31,USD,276137000,None,None,None,None,5073000,4679000,None,-166491000,None,-4679000,611193000,None,None,None,None,None,None,None,None,None,None,-3774000,None,None,None,-92531000
+2018-12-31,USD,-5446000,None,None,None,None,1071000,6380000,None,48639000,None,-6380000,253412000,None,None,None,None,None,None,None,None,None,None,-695000,None,None,None,-28583000

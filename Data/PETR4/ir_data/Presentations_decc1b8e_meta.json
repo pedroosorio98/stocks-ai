@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fea6e087121d04584fdd8180bb73f72d07a1c4c3db084ebdedc9cc9de5247bbe
-size 330
+{
+  "label": "Presentations",
+  "original_url": "https://www.investidorpetrobras.com.br/en/presentations-reports-and-events/presentations/",
+  "final_url": "https://www.investidorpetrobras.com.br/en/presentations-reports-and-events/presentations/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

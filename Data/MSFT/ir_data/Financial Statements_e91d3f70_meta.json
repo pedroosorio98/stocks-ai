@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b43e763844a3ce57096c3091cbbb6af973ae6cd906ff4970f72a3a623f465012
-size 315
+{
+  "label": "Financial Statements",
+  "original_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/income-statements",
+  "final_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/income-statements",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

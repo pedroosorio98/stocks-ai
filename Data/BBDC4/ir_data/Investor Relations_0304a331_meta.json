@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c1ba22e3dcfe73a2997d5fd0594085f29ee14b9c294b98ed353711df10c3f86c
-size 223
+{
+  "label": "Investor Relations",
+  "original_url": "https://www.bradescori.com.br/en/",
+  "final_url": "https://www.bradescori.com.br/en/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

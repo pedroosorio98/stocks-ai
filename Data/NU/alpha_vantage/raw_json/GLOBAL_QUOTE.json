@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:384a3aea9ae5b1b2c0aa043a4aeaa59049d73410c7f0ee818bef36ae66afbe97
-size 694
+{
+  "response": {
+    "Global Quote": {
+      "01. symbol": "NU",
+      "02. open": "18.0800",
+      "03. high": "18.1650",
+      "04. low": "16.8750",
+      "05. price": "17.0200",
+      "06. volume": "57903818",
+      "07. latest trading day": "2026-02-04",
+      "08. previous close": "18.1200",
+      "09. change": "-1.1000",
+      "10. change percent": "-6.0706%"
+    }
+  },
+  "request": {
+    "function": "GLOBAL_QUOTE",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "NU"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&apikey=1W86SMG399FCFAIM&symbol=NU"
+  }
+}

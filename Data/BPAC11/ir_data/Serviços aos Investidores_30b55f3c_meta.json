@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9231560fd840acfa44f0e1da4b231a4156bfec464da02dfe68eee1e5379f7b83
-size 317
+{
+  "label": "Servi\u00e7os aos Investidores",
+  "original_url": "https://ri.btgpactual.com/servicos-aos-investidores/calendario-de-eventos/",
+  "final_url": "https://ri.btgpactual.com/servicos-aos-investidores/calendario-de-eventos/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

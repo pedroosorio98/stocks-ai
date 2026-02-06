@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a31bbefd873d9c2966701421176a09454ea0d112c205efd8807d18afb0def801
-size 234
+{
+  "label": "Not\u00edcias & Eventos",
+  "original_url": "https://www.investidores.nu/reports/",
+  "final_url": "https://www.investidores.nu/reports/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

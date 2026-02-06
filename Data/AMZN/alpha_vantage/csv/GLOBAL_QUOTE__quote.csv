@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ed41a315441d36c6a2139150f4df53be8c4365725a20bca6c632cf2ef53840b
-size 219
+01. symbol,02. open,03. high,04. low,05. price,06. volume,07. latest trading day,08. previous close,09. change,10. change percent
+AMZN,238.8600,238.8600,231.8200,232.9900,51299947,2026-02-04,238.6200,-5.6300,-2.3594%

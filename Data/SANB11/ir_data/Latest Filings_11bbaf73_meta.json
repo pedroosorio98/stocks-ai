@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fd814e2499ed15e6ed09adb186e93be1f20576dd56dada92a9bac8681ff19388
-size 254
+{
+  "label": "Latest Filings",
+  "original_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent",
+  "final_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

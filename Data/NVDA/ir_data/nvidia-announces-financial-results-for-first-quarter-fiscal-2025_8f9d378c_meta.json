@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8c30a6d8e47a17984be5c09cbb20c74aee928e21359a5130842874b2e3157e8
-size 401
+{
+  "label": "nvidia-announces-financial-results-for-first-quarter-fiscal-2025",
+  "original_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025",
+  "final_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

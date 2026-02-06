@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d05c04c5775bbce88083f14fad0d0e06bb20babb73e88156e1b0c285e802bf3
-size 271
+{
+  "label": "Annual Reports",
+  "original_url": "https://ri.weg.net/en/financial-information/annual-reports/",
+  "final_url": "https://ri.weg.net/en/financial-information/annual-reports/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

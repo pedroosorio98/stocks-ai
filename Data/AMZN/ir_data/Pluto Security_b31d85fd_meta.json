@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f5d4ad088500c34ef3aed344e8173150c9557cd790b9d45e6465a2cb42ce5957
-size 184
+{
+  "label": "Pluto Security",
+  "original_url": "https://pluto.security/",
+  "final_url": "https://pluto.security/",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

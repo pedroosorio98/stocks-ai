@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f065071f4982d64703507e01a8a2795fcb98bf9a0a426632f3386daa628cf7cd
-size 190
+{
+  "label": "SEC Home",
+  "original_url": "https://www.sec.gov/index.htm",
+  "final_url": "https://www.sec.gov/index.htm",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

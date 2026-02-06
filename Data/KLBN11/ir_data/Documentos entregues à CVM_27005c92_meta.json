@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0e57513353bd2863d6532abd6c88793516cbdd934ec49c7dcaa5068888771fa9
-size 322
+{
+  "label": "Documentos entregues \u00e0 CVM",
+  "original_url": "https://ri.klabin.com.br/informacoes-financeiras/documentos-entregues-a-cvm/",
+  "final_url": "https://ri.klabin.com.br/informacoes-financeiras/documentos-entregues-a-cvm/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

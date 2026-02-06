@@ -1,3 +1,2577 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2514ccf6c16c1ec73a52d128b5b1d9d6b149d15e1067d936002cdf8341ae12d0
-size 115899
+{
+  "response": {
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+      {
+        "title": "Oppenheimer Raises Amazon.com, Inc. (AMZN) Target as AWS Momentum and Margin Expansion Accelerate",
+        "url": "https://uk.finance.yahoo.com/news/oppenheimer-raises-amazon-com-inc-154154491.html",
+        "time_published": "20260205T154511",
+        "authors": [
+          "Sajjl Nooranne"
+        ],
+        "summary": "Oppenheimer has raised its price target for Amazon.com, Inc. (AMZN) to $315 from $305, maintaining an Outperform rating. This increase is driven by strong Amazon Web Services (AWS) momentum, with Oppenheimer forecasting 24% AWS revenue growth for FY26, alongside significant margin expansion in Amazon's e-commerce segment due to automation investments. The firm estimates $7 billion in cumulative cost savings by FY27, reinforcing Amazon's position as a top mega-cap opportunity despite Saks Global ending its e-commerce partnership.",
+        "banner_image": "https://s.yimg.com/ny/api/res/1.2/00PO0wFp0v_iQ0XrMbmHGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed",
+        "source": "Yahoo Finance UK",
+        "category_within_source": "General",
+        "source_domain": "Yahoo Finance UK",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.933626"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.808225"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.731175"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.900433"
+          }
+        ],
+        "overall_sentiment_score": 0.441897,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMZN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.410501",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Here's Why Broadridge Financial (BR) is Poised for a Turnaround After Losing 13.4% in 4 Weeks",
+        "url": "https://finviz.com/news/301579/heres-why-broadridge-financial-br-is-poised-for-a-turnaround-after-losing-134-in-4-weeks",
+        "time_published": "20260205T154216",
+        "authors": [
+          "Zacks Equity Research"
+        ],
+        "summary": "Broadridge Financial Solutions (BR) has experienced a 13.4% decline in the past four weeks but is now showing signs of a potential turnaround. Technical indicators, specifically an oversold Relative Strength Index (RSI) of 25.73, suggest the selling pressure might be exhausting. Fundamentally, analysts have been raising earnings estimates for BR, and the company holds a Zacks Rank #2 (Buy), further indicating a possible rebound.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/charts/yseop/544/BR_RCI14.jpeg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.922285"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.820727"
+          }
+        ],
+        "overall_sentiment_score": 0.067233,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "BR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.345030",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "ATO",
+            "relevance_score": "0.540876",
+            "ticker_sentiment_score": "0.009739",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.555758",
+            "ticker_sentiment_score": "0.039443",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "JPM",
+            "relevance_score": "0.542322",
+            "ticker_sentiment_score": "0.048657",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "CRM",
+            "relevance_score": "0.517761",
+            "ticker_sentiment_score": "0.040499",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Dow drops 215 points on losses for shares of Amazon.com Inc., Microsoft",
+        "url": "https://www.msn.com/en-us/money/markets/dow-drops-215-points-on-losses-for-shares-of-amazon-com-inc-microsoft/ar-AA1VKlBK",
+        "time_published": "20260205T153711",
+        "authors": [],
+        "summary": "The Dow Jones Industrial Average dropped by 215 points due to declines in shares of major tech companies, Amazon.com Inc. and Microsoft. This indicates a challenging day for the stock market, particularly for the technology sector.",
+        "banner_image": null,
+        "source": "MSN",
+        "category_within_source": "General",
+        "source_domain": "MSN",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.935473"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.718008"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.641792"
+          }
+        ],
+        "overall_sentiment_score": -0.648558,
+        "overall_sentiment_label": "Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMZN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.649993",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.932549",
+            "ticker_sentiment_score": "-0.603233",
+            "ticker_sentiment_label": "Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Border patrol, Canadian ire dampening traffic at Simon malls",
+        "url": "https://www.retaildive.com/news/simon-mall-traffic-border-patrol-ice-angry-canadians-tariffs/811175/",
+        "time_published": "20260205T145121",
+        "authors": [
+          "Daphne Howland"
+        ],
+        "summary": "Simon Property Group CEO David Simon stated that while tariffs continue to negatively impact retailers, the company views store closures and bankruptcies as opportunities to replace distressed tenants with more productive ones at higher rents. He also noted that border control activity and Canadian dissatisfaction are dampening traffic at northern U.S. border malls, despite overall positive trends in sales and tenant demand post-pandemic.",
+        "banner_image": "https://imgproxy.divecdn.com/z4AjKYnfEuHY352VMSjKHzvLzAwl-DIGLEic1mGnWmc/g:nowe:0:83/c:800:451/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83OTExMzk2MTQyX2FmNDRkNzFjNmJfYy5qcGc=.webp",
+        "source": "Retail Dive",
+        "category_within_source": "General",
+        "source_domain": "Retail Dive",
+        "topics": [
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.939005"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.849624"
+          },
+          {
+            "topic": "real_estate",
+            "relevance_score": "0.731022"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.635383"
+          },
+          {
+            "topic": "economy_fiscal",
+            "relevance_score": "0.627640"
+          }
+        ],
+        "overall_sentiment_score": 0.139899,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "SPG",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.138737",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.602332",
+            "ticker_sentiment_score": "0.126646",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "WMT",
+            "relevance_score": "0.644513",
+            "ticker_sentiment_score": "0.109244",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "COST",
+            "relevance_score": "0.634390",
+            "ticker_sentiment_score": "0.143555",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "From Petah Tikva to orbit: Gilat Satellite Networks surges 160%, becoming an investor favorite",
+        "url": "https://www.ynetnews.com/business/article/r1fw8rwv11x",
+        "time_published": "20260205T142838",
+        "authors": [
+          "Tal Shahaf"
+        ],
+        "summary": "Gilat Satellite Networks, an Israeli company, has seen its share price jump over 160% in the past year due to strategic acquisitions, defense contracts, and major tender wins in the burgeoning satellite communications industry. While companies like Starlink and Amazon focus on deploying satellites, Gilat specializes in providing the crucial ground equipment that connects them, catering to telecom operators and militaries worldwide. CEO Adi Sfadia details the company's transformation from a struggling firm to an investor favorite, now valued at approximately 3.5 billion shekels, with significant growth potential in defense and new satellite platforms.",
+        "banner_image": "https://ynet-pic1.yit.co.il/cdn-cgi/image/format=auto/picserver6/crop_images/2026/02/04/SJidlhxPbe/SJidlhxPbe_0_0_1200_628_0_x-large.jpg",
+        "source": "ynetnews",
+        "category_within_source": "General",
+        "source_domain": "ynetnews",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.910958"
+          },
+          {
+            "topic": "mergers_and_acquisitions",
+            "relevance_score": "0.849526"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.711423"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.701599"
+          }
+        ],
+        "overall_sentiment_score": 0.550538,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GILT",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.708672",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.744659",
+            "ticker_sentiment_score": "0.434679",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Cummins (NYSE:CMI) Posts Better-Than-Expected Sales In Q4 CY2025",
+        "url": "https://finviz.com/news/301181/cummins-nyse-cmi-posts-better-than-expected-sales-in-q4-cy2025",
+        "time_published": "20260205T134650",
+        "authors": [
+          "Kayode Omotosho"
+        ],
+        "summary": "Cummins (NYSE:CMI) reported better-than-expected revenue in Q4 CY2025, with sales increasing 1.1% year-on-year to $8.54 billion, surpassing analyst estimates. Despite robust sales and record full-year results in its Distribution and Power Systems segments, GAAP EPS missed expectations at $4.27 per share. The company's stock dipped slightly post-announcement, indicating mixed market reaction to the results.",
+        "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/cummins-cover-image-0f6bc7443fea_2024-06-26-071200_vzzb.jpeg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.841396"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.735463"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.613212"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.619962"
+          }
+        ],
+        "overall_sentiment_score": 0.086947,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "CMI",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.278882",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.556747",
+            "ticker_sentiment_score": "-0.115645",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.578370",
+            "ticker_sentiment_score": "0.076066",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.593398",
+            "ticker_sentiment_score": "0.059415",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.576724",
+            "ticker_sentiment_score": "0.090027",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Apple Becomes Apple Again",
+        "url": "https://247wallst.com/apps-software/2026/02/05/apple-becomes-apple-again/",
+        "time_published": "20260205T134540",
+        "authors": [
+          "Douglas A. McIntyre"
+        ],
+        "summary": "Apple's stock has surged by 36% in the last six months, significantly outperforming the S&P 500, despite concerns about its lack of a proprietary AI product. This resurgence comes as other major AI companies like Amazon, Meta, and Microsoft face investor skepticism due to high investments and slow integration of AI into paid products. Apple's decision to integrate Google's Gemini AI into \"Apple Intelligence\" through a reported $1 billion annual deal is seen as a remarkably favorable move for the company.",
+        "banner_image": "https://247wallst.com/wp-content/uploads/2024/05/imageForEntry28-5sq.jpg",
+        "source": "24/7 Wall St.",
+        "category_within_source": "General",
+        "source_domain": "24/7 Wall St.",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.937030"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.823304"
+          }
+        ],
+        "overall_sentiment_score": -0.12124,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "AAPL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.448021",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.715470",
+            "ticker_sentiment_score": "-0.221994",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.631529",
+            "ticker_sentiment_score": "-0.241608",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "ORCL",
+            "relevance_score": "0.600497",
+            "ticker_sentiment_score": "-0.309972",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.641881",
+            "ticker_sentiment_score": "-0.135746",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Amazon Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+        "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/02/50409944/amazon-earnings-are-imminent-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call-3",
+        "time_published": "20260205T132745",
+        "authors": [
+          "Avi Kapoor"
+        ],
+        "summary": "Amazon.com (NASDAQ: AMZN) will release its fourth-quarter earnings results after market close on Thursday, February 5th. Analysts are forecasting earnings per share of $1.97 and revenue of $211.32 billion. Several top-rated analysts have recently reiterated Buy/Outperform ratings and adjusted price targets for Amazon ahead of the earnings call.",
+        "banner_image": "https://cdn.benzinga.com/files/images/story/2026/02/05/Amazon-Layoff-Expansion.jpeg?quality=85&auto=webp&width=850",
+        "source": "Benzinga",
+        "category_within_source": "General",
+        "source_domain": "Benzinga",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.945006"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.837342"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.708287"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.611680"
+          }
+        ],
+        "overall_sentiment_score": 0.32053,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMZN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.336141",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Oracle's Larry Ellison is down an unmatched $49 billion this year after the plunge in software stocks",
+        "url": "https://ca.finance.yahoo.com/news/oracles-larry-ellison-down-unmatched-123416309.html",
+        "time_published": "20260205T130127",
+        "authors": [
+          "Theron Mohamed"
+        ],
+        "summary": "Oracle cofounder Larry Ellison has seen his net worth drop by an \"unmatched\" $49 billion this year, largely due to a 5% slump in Oracle stock. This decline follows a broader sell-off in software stocks, fueled by fears that new AI tools like Anthropic's Claude Cowork AI agent could reduce corporate demand for traditional software. Despite Oracle's significant investments in the AI boom, some analysts, like Michael Burry, have expressed concerns about the company's aggressive spending and growing debt pile.",
+        "banner_image": "https://s.yimg.com/ny/api/res/1.2/0YPcSF_hAh1REO6vk.s_FA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTMyNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2026-01/455be6f0-f194-11f0-b877-da875de334fc",
+        "source": "Yahoo! Finance Canada",
+        "category_within_source": "General",
+        "source_domain": "Yahoo! Finance Canada",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.924755"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.827182"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.620012"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.628115"
+          }
+        ],
+        "overall_sentiment_score": -0.260009,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "ORCL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.384035",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "ADBE",
+            "relevance_score": "0.722452",
+            "ticker_sentiment_score": "-0.243735",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "CRM",
+            "relevance_score": "0.711087",
+            "ticker_sentiment_score": "-0.214479",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "INTU",
+            "relevance_score": "0.636771",
+            "ticker_sentiment_score": "-0.242162",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.605907",
+            "ticker_sentiment_score": "-0.209887",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Amazon and Biogen Earnings: Still to Watch This Week",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-05-2026/card/amazon-and-biogen-earnings-still-to-watch-this-week-cEzCWJezlOEw5fQXbTbh?gaa_at=eafs&gaa_n=AWEtsqexNYb8KsUWQnrJ_H5O7bCduCkethWiv1AfurXEJ9rhv_p9i6ToR42A&gaa_ts=69846c54&gaa_sig=A6N59xfeoLoHFpFe3krDUvovop-UMjgfBMK10cb2OpnGtBGtqlPxS3tualZpgg5nK8LYkspidLS-rfBu4jf3Mg%3D%3D",
+        "time_published": "20260205T092858",
+        "authors": [
+          "Xavier Martinez"
+        ],
+        "summary": "Amazon and Biogen are set to release their earnings reports this week, adding to the ongoing earnings season. Amazon's report will conclude the earnings releases from several Magnificent Seven tech companies, while Biogen's results will contribute to the pharmaceutical industry's reports. The jobs report expected on Friday has been postponed due to a partial government shutdown.",
+        "banner_image": "https://images.wsj.net/im-06929341?width=780&height=520",
+        "source": "The Wall Street Journal",
+        "category_within_source": "General",
+        "source_domain": "The Wall Street Journal",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.914722"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.741677"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.728170"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.638533"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.613180"
+          }
+        ],
+        "overall_sentiment_score": 0.116517,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "BIIB",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.110501",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.900951",
+            "ticker_sentiment_score": "0.149953",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Earnings Flash (CAH) Cardinal Health, Inc. Reports Q2 Revenue $65.63B, vs. FactSet Est of $65.08B",
+        "url": "https://www.marketscreener.com/news/earnings-flash-cah-cardinal-health-inc-reports-q2-revenue-65-63b-vs-factset-est-of-65-08b-ce7e5adbd18cf325",
+        "time_published": "20260205T073200",
+        "authors": [
+          "MT Newswires"
+        ],
+        "summary": "Cardinal Health, Inc. reported its second-quarter revenue of $65.63 billion, surpassing FactSet's estimate of $65.08 billion. This financial update was published on February 5, 2026, at 07:32 am EST. The company also posted an adjusted EPS of $2.63 per share, exceeding the FactSet estimate of $2.34.",
+        "banner_image": "https://www.marketscreener.com/images/mtnewswires.png",
+        "source": "marketscreener.com",
+        "category_within_source": "General",
+        "source_domain": "marketscreener.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.915890"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.808862"
+          }
+        ],
+        "overall_sentiment_score": 0.282232,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "CAH",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.409396",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.584808",
+            "ticker_sentiment_score": "0.112253",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Amazon.com (AMZN) Set to Report Earnings as UBS Raises Price Target on AWS Outlook",
+        "url": "https://finviz.com/news/300727/amazoncom-amzn-set-to-report-earnings-as-ubs-raises-price-target-on-aws-outlook",
+        "time_published": "20260205T072903",
+        "authors": [
+          "Ghazal Ahmed"
+        ],
+        "summary": "UBS analyst Stephen Ju raised the price target for Amazon.com (AMZN) to $311.00, maintaining a Buy rating ahead of its 4Q25 earnings report. The firm increased estimates for AWS revenue and capital expenditures, projecting that AWS revenue could double by 2028, potentially generating an additional $20 billion in free cash flow. This outlook suggests improved investor confidence and continued outperformance for AMZN shares.",
+        "banner_image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2024/12/13082523/Trading-Laptop-Shopping-Ecommerce-768x512.jpg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.907456"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.814988"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.702927"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.615322"
+          }
+        ],
+        "overall_sentiment_score": 0.178007,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMZN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.480637",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.580159",
+            "ticker_sentiment_score": "0.101759",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "SPG",
+            "relevance_score": "0.573602",
+            "ticker_sentiment_score": "0.109535",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TER",
+            "relevance_score": "0.600237",
+            "ticker_sentiment_score": "0.108264",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.589492",
+            "ticker_sentiment_score": "0.143076",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Starbucks Corporation (NASDAQ:SBUX) Given Consensus Recommendation of \"Moderate Buy\" by Analysts",
+        "url": "https://www.marketbeat.com/instant-alerts/starbucks-corporation-nasdaqsbux-given-consensus-recommendation-of-moderate-buy-by-analysts-2026-02-05/",
+        "time_published": "20260205T072851",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Starbucks Corporation (NASDAQ:SBUX) has received a \"Moderate Buy\" consensus recommendation from analysts, with an average 12-month price target of $104.67. Despite missing EPS estimates in its latest quarterly results, the company exceeded revenue expectations and provided FY2026 EPS guidance. While long-term growth is supported by menu simplification and U.S. store expansion plans, risks like union activity, a pessimistic Citigroup forecast, and recent insider sales present near-term headwinds.",
+        "banner_image": "https://www.marketbeat.com/logos/starbucks-co-logo-1200x675.png?v=20231214122544",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.947520"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.849294"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.734364"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.638307"
+          }
+        ],
+        "overall_sentiment_score": 0.078138,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "SBUX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.287732",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "C",
+            "relevance_score": "0.643564",
+            "ticker_sentiment_score": "0.033553",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "V",
+            "relevance_score": "0.560118",
+            "ticker_sentiment_score": "0.027422",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.574991",
+            "ticker_sentiment_score": "0.036123",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.598260",
+            "ticker_sentiment_score": "0.000353",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Amazon.com (AMZN) set to report earnings as UBS raises price target on AWS outlook",
+        "url": "https://www.msn.com/en-us/money/companies/amazon-com-amzn-set-to-report-earnings-as-ubs-raises-price-target-on-aws-outlook/ar-AA1VI12E?ocid=finance-verthp-feeds",
+        "time_published": "20260205T070203",
+        "authors": [],
+        "summary": "UBS has raised its price target for Amazon (AMZN) to $215, citing an improved outlook for Amazon Web Services (AWS) in 2024, particularly as clients optimize cloud spending. The firm anticipates AWS revenue growth to accelerate throughout the year due to new workloads and AI monetization, which is expected to support overall earnings. Amazon is scheduled to report its Q4 2023 earnings after market close, with analysts keen on the company's retail performance, advertising revenue, and AWS growth trajectory.",
+        "banner_image": null,
+        "source": "MSN",
+        "category_within_source": "General",
+        "source_domain": "MSN",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.912784"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.830222"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.712534"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.601587"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.605005"
+          }
+        ],
+        "overall_sentiment_score": 0.461466,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMZN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.486846",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Google Parent Alphabet Earnings Beat Fuels Analyst Price Target Hikes – But Capex Jitters Linger",
+        "url": "https://stocktwits.com/news-articles/markets/equity/google-parent-alphabet-earnings-beat-fuels-analyst-price-target-hikes-but-capex-jitters-linger/cZbZdsDR4VB",
+        "time_published": "20260205T064200",
+        "authors": [
+          "Shivani Kumaresan"
+        ],
+        "summary": "Alphabet Inc. (GOOG, GOOGL) surpassed Q4 analyst estimates with $113.8 billion in revenue and $2.82 EPS, driving multiple Wall Street firms to raise their price targets, citing strong AI and search momentum. However, shares fell over 2% premarket due to investor caution over the company's projected 2026 capital expenditure of $175 billion to $185 billion, significantly higher than previous estimates. Despite this, CEO Sundar Pichai remains optimistic about the revenue potential from these investments.",
+        "banner_image": "https://news.stocktwits-cdn.com/large_Getty_Images_2225993063_jpg_eeb3524552.webp",
+        "source": "Stocktwits",
+        "category_within_source": "General",
+        "source_domain": "Stocktwits",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.905604"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.823888"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.632866"
+          }
+        ],
+        "overall_sentiment_score": 0.038749,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.957250",
+            "ticker_sentiment_score": "0.119549",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.881482",
+            "ticker_sentiment_score": "0.114615",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.557058",
+            "ticker_sentiment_score": "-0.149160",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Transcat (TRNS) Quarterly Loss Challenges Bullish Earnings Growth Narratives",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nasdaq-trns/transcat/news/transcat-trns-quarterly-loss-challenges-bullish-earnings-gro",
+        "time_published": "20260205T062934",
+        "authors": [
+          "Simply Wall St"
+        ],
+        "summary": "Transcat (TRNS) reported a Q3 2026 loss of US$0.12 EPS and US$1.1 million net loss, despite revenue growth to US$83.9 million. While the company still shows a profit over the trailing twelve months, the quarterly loss and compressed net profit margin of 2.5% challenge bullish earnings growth forecasts of 26.2% annually. The stock's high P/E of 83.5x and a DCF fair value significantly below the current price suggest a rich valuation, prompting investors to scrutinize future profitability and growth execution.",
+        "banner_image": null,
+        "source": "Simply Wall Street",
+        "category_within_source": "General",
+        "source_domain": "Simply Wall Street",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.907880"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.848920"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.710602"
+          }
+        ],
+        "overall_sentiment_score": 0.039892,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "TRNS",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.336310",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.616900",
+            "ticker_sentiment_score": "0.129119",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.605518",
+            "ticker_sentiment_score": "0.138333",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.629036",
+            "ticker_sentiment_score": "0.104944",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Tweedy Browne CO LLC Reduces Alphabet Inc. Stake",
+        "url": "https://www.tipranks.com/news/company-announcements/tweedy-browne-co-llc-reduces-alphabet-inc-stake",
+        "time_published": "20260205T030657",
+        "authors": [],
+        "summary": "Tweedy Browne CO LLC recently reduced its stake in Alphabet Inc. Class C (GOOG) by 6,272 shares. Despite this reduction, Alphabet Inc. Class C has seen a strong uptrend, with Wall Street maintaining a Strong Buy consensus due to the company's accelerating AI strategy and robust Google Cloud and Search outlook. Spark, TipRanks’ AI Analyst, rates GOOG as Outperform, citing strong financial performance and strategic investments in AI and cloud services as key drivers for its positive long-term outlook.",
+        "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Consumer-Cylical-4-750x406.jpg",
+        "source": "TipRanks",
+        "category_within_source": "General",
+        "source_domain": "TipRanks",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.916895"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.800105"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.711877"
+          }
+        ],
+        "overall_sentiment_score": -0.047823,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.991135",
+            "ticker_sentiment_score": "0.309644",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.604298",
+            "ticker_sentiment_score": "-0.340365",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.636095",
+            "ticker_sentiment_score": "-0.362402",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.616955",
+            "ticker_sentiment_score": "0.335446",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Alecta Pensionsforsakring, Omsesidigt reduces Amazon.Com, Inc. stake",
+        "url": "https://www.tipranks.com/news/company-announcements/alecta-pensionsforsakring-omsesidigt-reduces-amazon-com-inc-stake",
+        "time_published": "20260205T030533",
+        "authors": [],
+        "summary": "Alecta Pensionsforsakring, Omsesidigt, managed by Magnus Billing, has reduced its stake in Amazon.Com, Inc. (AMZN) by selling 96,600 shares. Despite this reduction and recent flat to modestly higher stock performance, Wall Street analysts maintain a strong bullish outlook on Amazon, citing anticipated acceleration in AWS growth driven by AI, resilient retail performance, and strong advertising growth. TipRanks' AI Analyst, Spark, rates AMZN as \"Outperform,\" highlighting strong financials but noting short-term technical weakness and a high P/E ratio.",
+        "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_276929006-750x406.jpg",
+        "source": "TipRanks",
+        "category_within_source": "General",
+        "source_domain": "TipRanks",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.926827"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.802592"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.700112"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.832142"
+          }
+        ],
+        "overall_sentiment_score": 0.504682,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMZN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.494553",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Franklin Resources Inc. Acquires Significant Stake in Adicet Bio Inc.",
+        "url": "https://www.gurufocus.com/news/8583370/franklin-resources-inc-acquires-significant-stake-in-adicet-bio-inc",
+        "time_published": "20260205T012908",
+        "authors": [
+          "GuruFocus News"
+        ],
+        "summary": "Franklin Resources Inc. has acquired 626,571 shares of Adicet Bio Inc. at $8.42 per share on December 31, 2025, marking a new holding for the prominent investment firm. This strategic move highlights Franklin Resources Inc.'s interest in the biotechnology sector and Adicet Bio Inc.'s potential for growth despite current financial challenges. The acquisition aligns with Franklin Resources Inc.'s diversified investment philosophy, focusing on sectors with robust growth potential.",
+        "banner_image": "https://s3.amazonaws.com/gurufocus_userupload/2019209013979422720.png",
+        "source": "GuruFocus",
+        "category_within_source": "General",
+        "source_domain": "GuruFocus",
+        "topics": [
+          {
+            "topic": "mergers_and_acquisitions",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.921482"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.838311"
+          }
+        ],
+        "overall_sentiment_score": 0.103091,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "ACET",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.140080",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "BEN",
+            "relevance_score": "0.948539",
+            "ticker_sentiment_score": "0.273038",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.642298",
+            "ticker_sentiment_score": "0.104060",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.592644",
+            "ticker_sentiment_score": "0.141593",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Franklin Resources Inc. Expands Holdings in Contineum Therapeuti",
+        "url": "https://www.gurufocus.com/news/8583362/franklin-resources-inc-expands-holdings-in-contineum-therapeutics-inc",
+        "time_published": "20260205T011237",
+        "authors": [],
+        "summary": "Franklin Resources Inc. has increased its holdings in Contineum Therapeutics Inc. by adding 223,819 shares, bringing its total to 1,879,367 shares. This move signals confidence in the biopharmaceutical company's long-term potential, despite its current financial challenges and a low GF Score. Contineum Therapeutics, a clinical-stage firm, focuses on innovative therapies, and its stock has shown recent gains, though profitability and growth metrics remain negative.",
+        "banner_image": "https://s3.amazonaws.com/gurufocus_userupload/2019207837980467200.png",
+        "source": "GuruFocus",
+        "category_within_source": "General",
+        "source_domain": "GuruFocus",
+        "topics": [
+          {
+            "topic": "finance",
+            "relevance_score": "0.838205"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.906539"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.729179"
+          }
+        ],
+        "overall_sentiment_score": 0.139852,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "BEN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.251790",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.618383",
+            "ticker_sentiment_score": "0.133121",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.601208",
+            "ticker_sentiment_score": "0.125621",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.630490",
+            "ticker_sentiment_score": "0.111861",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "A Look At Sonoco Products (SON) Valuation After New Long Term Renewable Power Agreement",
+        "url": "https://simplywall.st/stocks/us/materials/nyse-son/sonoco-products/news/a-look-at-sonoco-products-son-valuation-after-new-long-term",
+        "time_published": "20260205T010029",
+        "authors": [
+          "Simply Wall St"
+        ],
+        "summary": "Sonoco Products (SON) has begun receiving power from a long-term Virtual Power Purchase Agreement, leading to positive investor reaction and a recent stock price increase. Despite trading at a P/E ratio higher than its industry peers, the company is still considered undervalued by analysts, with a fair value of $53.75 compared to its current price of $51.62. Future growth is anticipated through robust expansion in metal packaging and new contract wins, though potential risks like integration issues and softer demand could impact margins.",
+        "banner_image": null,
+        "source": "Simply Wall Street",
+        "category_within_source": "General",
+        "source_domain": "Simply Wall Street",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.939277"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.831324"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.747128"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.636597"
+          }
+        ],
+        "overall_sentiment_score": 0.05306,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "SON",
+            "relevance_score": "0.997768",
+            "ticker_sentiment_score": "0.203276",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "IP",
+            "relevance_score": "0.619412",
+            "ticker_sentiment_score": "0.076028",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "SW",
+            "relevance_score": "0.615579",
+            "ticker_sentiment_score": "0.054858",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.610318",
+            "ticker_sentiment_score": "-0.108450",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.583773",
+            "ticker_sentiment_score": "-0.127718",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Is Instacart’s Expanded Costco Partnership in Europe Altering The Investment Case For Maplebear (CART)?",
+        "url": "https://simplywall.st/stocks/us/consumer-retailing/nasdaq-cart/maplebear/news/is-instacarts-expanded-costco-partnership-in-europe-altering",
+        "time_published": "20260205T000033",
+        "authors": [
+          "Simply Wall St",
+          "Sasha Jovanovic"
+        ],
+        "summary": "Instacart (Maplebear, CART) has expanded its partnership with Costco into France and Spain for same-day delivery and deepened its technology collaboration with Allegiance Retail Services in the US. These moves aim to monetize enterprise software, scale retail media, and test international opportunities. While potentially influencing investor sentiment positively through growth in order volume and high-margin services, the partnerships also highlight risks such as customer concentration and execution in new markets.",
+        "banner_image": "https://images.simplywall.st/company/2fed49c0-96b2-4935-af97-b18e1578de9c/chart/quote-price",
+        "source": "Simply Wall Street",
+        "category_within_source": "General",
+        "source_domain": "Simply Wall Street",
+        "topics": [
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.804918"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.746181"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.628941"
+          }
+        ],
+        "overall_sentiment_score": 0.067523,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "CART",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.102685",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "COST",
+            "relevance_score": "0.739281",
+            "ticker_sentiment_score": "0.237795",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.646993",
+            "ticker_sentiment_score": "-0.142661",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Radware Unveils Agentic AI Protection Solution to Shield Enterprises from New Agentic Threats",
+        "url": "https://itwire.com/business-it-news/data/radware-unveils-agentic-ai-protection-solution-to-shield-enterprises-from-new-agentic-threats.html",
+        "time_published": "20260205T000009",
+        "authors": [
+          "Radware"
+        ],
+        "summary": "Radware has launched its Agentic AI Protection Solution, expanding its platform into the AI security market. This solution is designed to protect autonomous AI agents from new threats like direct and indirect prompt injection attacks, tool abuse, and unauthorized data access. It leverages proprietary behavioral analysis to identify malicious intent in real-time, distinguishing it from traditional software-based guardrails, and comes after Radware's discovery of the \"ZombieAgent\" vulnerability.",
+        "banner_image": "https://itwire.com/media/k2/items/cache/52b58c33d042771b986892b8475e1ff3_M.jpg",
+        "source": "iTWire",
+        "category_within_source": "General",
+        "source_domain": "iTWire",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "0.948053"
+          }
+        ],
+        "overall_sentiment_score": 0.245978,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "RDWR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.493527",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.604343",
+            "ticker_sentiment_score": "0.215392",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.596734",
+            "ticker_sentiment_score": "0.145554",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.554021",
+            "ticker_sentiment_score": "0.146570",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Amcor Files Quarterly Form 10-Q for December 2025 Period",
+        "url": "https://www.tipranks.com/news/company-announcements/amcor-files-quarterly-form-10-q-for-december-2025-period",
+        "time_published": "20260204T223409",
+        "authors": [
+          "TipRanks Australian Auto-Generated Newsdesk"
+        ],
+        "summary": "Amcor plc has filed its Form 10-Q with the US SEC for the quarter ended December 31, 2025, providing an update on its financial and operational performance. This filing ensures regulatory compliance and transparency for global investors, given Amcor's dual listings on the NYSE and ASX. An analyst from TipRanks currently rates Amcor (AU:AMC) stock as a Buy with a A$75.00 price target.",
+        "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Consumer-Cylical-6-750x406.jpg",
+        "source": "TipRanks",
+        "category_within_source": "General",
+        "source_domain": "TipRanks",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.922883"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.835174"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.642965"
+          }
+        ],
+        "overall_sentiment_score": 0.344956,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMCR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.316011",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.635898",
+            "ticker_sentiment_score": "0.328298",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NFLX",
+            "relevance_score": "0.625159",
+            "ticker_sentiment_score": "0.303495",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.602710",
+            "ticker_sentiment_score": "0.310045",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.628039",
+            "ticker_sentiment_score": "0.308443",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Sea Limited’s Multi-Segment Growth Pairs Rising Profitability With Strong Cash",
+        "url": "https://simplywall.st/stocks/us/retail/nyse-se/sea/news/sea-limiteds-multi-segment-growth-pairs-rising-profitability",
+        "time_published": "20260204T222948",
+        "authors": [
+          "Simply Wall St"
+        ],
+        "summary": "Sea Limited is demonstrating strong business momentum across its e-commerce (Shopee), digital financial services (SeaMoney), and digital entertainment (Garena) segments. The company is achieving rising profitability and cash generation, highlighted by a net cash position of US$5.66 billion and faster EPS growth than revenue. This performance positions Sea well for future expansion, relying more on internal resources for growth.",
+        "banner_image": "https://images.simplywall.st/company/3daf11d8-d4c1-46ba-9365-f1f29f727595/chart/quote-price",
+        "source": "Simply Wall Street",
+        "category_within_source": "General",
+        "source_domain": "Simply Wall Street",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.929601"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.840374"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.716978"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.621690"
+          }
+        ],
+        "overall_sentiment_score": 0.23449,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "SE",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.469578",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.621107",
+            "ticker_sentiment_score": "0.100701",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.618909",
+            "ticker_sentiment_score": "0.137482",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "UBER",
+            "relevance_score": "0.587173",
+            "ticker_sentiment_score": "0.168289",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Enact Holdings Inc stock hits all-time high at 42.15 USD",
+        "url": "https://www.investing.com/news/company-news/enact-holdings-inc-stock-hits-alltime-high-at-4215-usd-93CH-4485177",
+        "time_published": "20260204T215932",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Enact Holdings Inc (ACT) stock reached an all-time high of $42.15, reflecting a 22.72% increase over the past year. The company boasts a market capitalization of $5.82 billion, a P/E ratio of 9.22, and strong financial health, with diluted EPS of $4.36, positioning it as potentially undervalued. Despite a recent revenue miss, the mortgage insurance provider surpassed EPS forecasts for Q4 2025, signaling mixed but generally positive performance.",
+        "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.805862"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.925849"
+          }
+        ],
+        "overall_sentiment_score": 0.069041,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "ACT",
+            "relevance_score": "0.995818",
+            "ticker_sentiment_score": "0.423953",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NFLX",
+            "relevance_score": "0.594622",
+            "ticker_sentiment_score": "0.060982",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.595452",
+            "ticker_sentiment_score": "0.111204",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.588359",
+            "ticker_sentiment_score": "-0.141243",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.591169",
+            "ticker_sentiment_score": "-0.161333",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Target’s new CEO admits retailer has lost trust with shoppers, staff: report",
+        "url": "https://nypost.com/2026/02/04/business/targets-new-ceo-admits-retailer-has-lost-trust-with-shoppers-staff-report/",
+        "time_published": "20260204T212020",
+        "authors": [
+          "Reuters"
+        ],
+        "summary": "Target's new CEO, Michael Fiddelke, has acknowledged that the retailer has lost the trust of both shoppers and employees. He stated that the company was not clear enough about its identity, causing confusion that was not adequately addressed. Fiddelke committed to rebuilding these connections and is taking over at a time when Target faces a lengthy sales slump and has pulled back from diversity initiatives.",
+        "banner_image": "https://nypost.com/wp-content/uploads/sites/2/2026/02/michael-fiddelke-speaks-target-opens-117005470.jpg?w=1024",
+        "source": "New York Post",
+        "category_within_source": "General",
+        "source_domain": "New York Post",
+        "topics": [
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "economy_fiscal",
+            "relevance_score": "0.630673"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.647541"
+          }
+        ],
+        "overall_sentiment_score": -0.027955,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "TGT",
+            "relevance_score": "0.968446",
+            "ticker_sentiment_score": "-0.303889",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "COST",
+            "relevance_score": "0.646155",
+            "ticker_sentiment_score": "0.137535",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.557364",
+            "ticker_sentiment_score": "0.095469",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "WMT",
+            "relevance_score": "0.593461",
+            "ticker_sentiment_score": "0.099567",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Jim Cramer on Wells Fargo: \"That's a Winner\"",
+        "url": "https://finviz.com/news/300076/jim-cramer-on-wells-fargo-thats-a-winner",
+        "time_published": "20260204T205828",
+        "authors": [
+          "Syeda Seirut Javed"
+        ],
+        "summary": "Jim Cramer expressed a bullish sentiment on Wells Fargo & Company (NYSE: WFC), calling it \"a winner\" due to its strategic hiring of a technologist from Amazon Web Services to enhance efficiency through AI integration. He specifically highlighted Wells Fargo during a discussion about companies benefiting from AI advancements beyond chip producers, mentioning its strong approach to implementing technology for efficiency as a key reason for the Charitable Trust's investment. While acknowledging WFC's potential, the article also suggests exploring other AI stocks with potentially greater upside and less downside risk.",
+        "banner_image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/08/03065534/erol-ahmed-ln8zRaM3VmI-unsplash.jpg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.936536"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.807970"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.716127"
+          }
+        ],
+        "overall_sentiment_score": 0.278212,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "WFC",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.440884",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.649363",
+            "ticker_sentiment_score": "0.131999",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Amazon Q4 Preview: Analyst Sees 'Big Year for AWS' In 2026 — Here's What To Expect",
+        "url": "https://www.benzinga.com/trading-ideas/previews/26/02/50391928/amazon-q4-preview-analyst-sees-big-year-for-aws-in-2026-heres-what-to-expect",
+        "time_published": "20260204T205711",
+        "authors": [
+          "Chris Katje"
+        ],
+        "summary": "Analysts are optimistic about Amazon's upcoming Q4 earnings report, with a focus on strong performance from its Amazon Web Services (AWS) segment. Wedbush analyst Scott Devitt anticipates 2026 to be a significant year for AWS, potentially driving Amazon's stock towards a $340 price target. Citizens analyst Andrew Boone highlighted Anthropic's projected substantial spending on AWS as a key growth driver, expecting it to generate $10 billion in AWS revenue for 2026.",
+        "banner_image": "https://cdn.benzinga.com/files/images/story/2026/02/04/Amazon-Store-Sign-In-Downtown-Toronto-.jpeg?quality=85&auto=webp&width=850",
+        "source": "Benzinga",
+        "category_within_source": "General",
+        "source_domain": "Benzinga",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.923167"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.825839"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.724424"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.644949"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.633602"
+          }
+        ],
+        "overall_sentiment_score": 0.421958,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMZN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.408190",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Jim Cramer on Wells Fargo: “That’s a Winner”",
+        "url": "https://www.insidermonkey.com/blog/jim-cramer-on-wells-fargo-thats-a-winner-1688919/",
+        "time_published": "20260204T202932",
+        "authors": [
+          "Syeda Seirut Javed"
+        ],
+        "summary": "Jim Cramer has expressed a bullish view on Wells Fargo & Company (NYSE: WFC), identifying it as a \"winner\" for its adoption of AI technology to enhance efficiency. He highlighted the company's hire of a technologist from Amazon Web Services to help bankers find savings, noting that banks, particularly Wells Fargo, are well-positioned to benefit from AI advancements beyond just chip producers. Cramer stated that Wells Fargo is a key holding for his Charitable Trust due to its strong approach to implementing AI for efficiency.",
+        "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/08/03065534/erol-ahmed-ln8zRaM3VmI-unsplash.jpg?auto=format&fit=clip&expires=1801699200&width=480&height=320",
+        "source": "Insider Monkey",
+        "category_within_source": "General",
+        "source_domain": "Insider Monkey",
+        "topics": [
+          {
+            "topic": "finance",
+            "relevance_score": "0.909672"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.810854"
+          }
+        ],
+        "overall_sentiment_score": 0.46746,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "WFC",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.644999",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.632759",
+            "ticker_sentiment_score": "0.330756",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "AI security worries stall enterprise production deployments",
+        "url": "https://www.techtarget.com/searchitoperations/news/366638794/AI-security-worries-stall-enterprise-production-deployments",
+        "time_published": "20260204T202836",
+        "authors": [
+          "Beth Pariseau"
+        ],
+        "summary": "Enterprise AI adoption is being significantly hindered by security concerns, as highlighted by executives from Cisco, OpenAI, and AWS, and a Black Duck report. There's a growing \"trust deficit\" in AI, leading to slower production deployments despite rapid technological advancements. Experts emphasize the need for new security paradigms, data access controls, and a shift towards making security a prerequisite rather than an afterthought for AI systems.",
+        "banner_image": "https://www.techtarget.com/rms/onlineimages/security_a296619547_searchsitetablet_520X173.jpg",
+        "source": "TechTarget",
+        "category_within_source": "General",
+        "source_domain": "TechTarget",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "0.905351"
+          }
+        ],
+        "overall_sentiment_score": -0.109428,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "TTGT",
+            "relevance_score": "0.300858",
+            "ticker_sentiment_score": "0.033306",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "CSCO",
+            "relevance_score": "0.995758",
+            "ticker_sentiment_score": "-0.247492",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.679012",
+            "ticker_sentiment_score": "-0.145565",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.622108",
+            "ticker_sentiment_score": "-0.102059",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.552129",
+            "ticker_sentiment_score": "0.004119",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "New Walmart CEO is not afraid to take risks, analyst says",
+        "url": "https://www.winsightgrocerybusiness.com/grocery-operations/new-walmart-ceo-is-not-afraid-to-take-risks-analyst-says",
+        "time_published": "20260204T192642",
+        "authors": [
+          "Bill Wilson"
+        ],
+        "summary": "John Furner, the new CEO of Walmart, is described by analyst Oliver Chen as a leader with a higher appetite for risk than his predecessor, a necessary trait in a technology-driven environment. Furner plans to spend his initial weeks visiting stores and facilities, engaging directly with employees to understand their challenges. This approach reinforces the company's commitment to innovation and improving operations, as it navigates challenges from competitors like Amazon in both grocery and pharmacy sectors.",
+        "banner_image": "https://eu-images.contentstack.com/v3/assets/blt58a1f8f560a1ab0e/blt486895568016e27b/69839bce195be44d116a895f/Walmart_CEO_John_Furner_greets_Walmart_workers_.png?width=1280&auto=webp&quality=80&disable=upscale",
+        "source": "Supermarket News",
+        "category_within_source": "General",
+        "source_domain": "Supermarket News",
+        "topics": [
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.920518"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.729995"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.604705"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.637999"
+          }
+        ],
+        "overall_sentiment_score": 0.16185,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "WMT",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.427359",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.716986",
+            "ticker_sentiment_score": "-0.142725",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Amazon expands access to digital assistant Alexa+",
+        "url": "https://www.proactiveinvestors.com/companies/news/1086838/amazon-expands-access-to-digital-assistant-alexa-1086838.html",
+        "time_published": "20260204T175429",
+        "authors": [
+          "Emily Jarvie"
+        ],
+        "summary": "Amazon has expanded access to its AI-upgraded digital assistant, Alexa+, to all US users, nearly a year after its early access launch. The service is designed to handle various tasks like managing calendars, booking reservations, and controlling smart home devices. Alexa+ is available on Alexa-enabled devices, the Alexa app, and web browsers, with free access for Prime members or a monthly subscription for non-members, and has seen high engagement during its preview.",
+        "banner_image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzAyXC8yMDI0LTA1LTIyLTExLTQ2LTUzLWJkODUzMDAyOGY1NzhlYWY1ZDAyOGE1NGY2ODdjMmJmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4MCwiaGVpZ2h0Ijo3MjAsImZpdCI6ImNvdmVyIn19fQ==",
+        "source": "Proactive financial news",
+        "category_within_source": "General",
+        "source_domain": "Proactive financial news",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.815775"
+          }
+        ],
+        "overall_sentiment_score": 0.502115,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMZN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.531725",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "SpaceX rivals AST SpaceMobile and Rocket Lab join space-stock selloff",
+        "url": "https://www.marketwatch.com/story/spacex-rivals-ast-spacemobile-and-rocket-lab-join-space-stock-selloff-ace22a17?gaa_at=eafs&gaa_n=AWEtsqfTc1KAaQ4d-I0ok38jA4ODURdFJzSBXfCDj21C0W239njM5IU7mMIf&gaa_ts=698449f0&gaa_sig=AZqmPl3Bn16cI6zUDxY1MQjZykf21wnB6YF_3UmQ5VB7tgqnFHfVhyejGGkisuo7NqE7GMHKbrCz649yrQ4LfA%3D%3D",
+        "time_published": "20260204T164200",
+        "authors": [
+          "William Gavin"
+        ],
+        "summary": "SpaceX rivals AST SpaceMobile and Rocket Lab are experiencing a significant selloff in their stock prices this week. An analyst suggests these losses might be partly connected to a broader software industry rout. AST SpaceMobile saw its shares drop over 10% after AT&T partnered with Amazon Web Services and Amazon's satellite-internet business.",
+        "banner_image": "https://images.mktw.net/im-33499477?width=1260&height=673",
+        "source": "MarketWatch",
+        "category_within_source": "General",
+        "source_domain": "MarketWatch",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.913926"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.814353"
+          }
+        ],
+        "overall_sentiment_score": -0.207316,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "RKLB",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.497795",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "T",
+            "relevance_score": "0.704904",
+            "ticker_sentiment_score": "-0.199754",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.643578",
+            "ticker_sentiment_score": "-0.064485",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "VZ",
+            "relevance_score": "0.557623",
+            "ticker_sentiment_score": "-0.071570",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Freedom Holding plans to acquire another bank and marketplace in Kazakhstan",
+        "url": "https://kz.kursiv.media/en/2026-02-04/engk-tank-freedom-holding-plans-to-acquire-another-bank-and-marketplace-in-kazakhstan/",
+        "time_published": "20260204T162400",
+        "authors": [
+          "Danil Tumashevich"
+        ],
+        "summary": "Freedom Holding Corp. CEO Timur Turlov announced plans to acquire another bank and a local marketplace in Kazakhstan, as well as a second-tier bank in Turkey. The company is considering issuing up to $500 million in bonds to finance these acquisitions and also plans to expand its SuperApp into a digital ecosystem in the U.S. Additionally, Freedom Holding aims to raise an extra $200-300 million for technology investments, including a sovereign AI hub with Nvidia.",
+        "banner_image": "https://cdn-kz.kursiv.media/wp-content/uploads/2026/02/8.jpg-1024x576.jpeg",
+        "source": "Kursiv Media",
+        "category_within_source": "General",
+        "source_domain": "Kursiv Media",
+        "topics": [
+          {
+            "topic": "mergers_and_acquisitions",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.918262"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.808354"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.749482"
+          }
+        ],
+        "overall_sentiment_score": 0.359013,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "FRHC",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.444109",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.617619",
+            "ticker_sentiment_score": "0.345434",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.612551",
+            "ticker_sentiment_score": "0.342749",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.638230",
+            "ticker_sentiment_score": "0.329314",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "How AI commerce threatens eBay, Amazon",
+        "url": "https://www.paymentsdive.com/news/how-ai-commerce-threatens-ebay-amazon-retail-sales-merchants/811297/",
+        "time_published": "20260204T160515",
+        "authors": [
+          "Justin Bachman"
+        ],
+        "summary": "Agentic AI shopping robots pose a significant threat to traditional retail marketplaces like Amazon and eBay by enabling fully autonomous transactions without human involvement. eBay has updated its user agreement to block unauthorized agentic commerce tools, while concurrently developing its own in-house AI capabilities. Amazon has sued Perplexity AI for unauthorized access and is promoting its own AI shopping assistant, Rufus, highlighting a tension between controlling AI agents and embracing their potential benefits for customer experience.",
+        "banner_image": "https://imgproxy.divecdn.com/qUJQWdQwEp3YkKmwn6ySg_MxXO7BYqEAeh6IFC9PFJI/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzA2NDkyMzQ0LmpwZw==.webp",
+        "source": "Payments Dive",
+        "category_within_source": "General",
+        "source_domain": "Payments Dive",
+        "topics": [
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.602707"
+          }
+        ],
+        "overall_sentiment_score": -0.076331,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "EBAY",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.297335",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.962851",
+            "ticker_sentiment_score": "-0.235090",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.728057",
+            "ticker_sentiment_score": "0.058394",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.744639",
+            "ticker_sentiment_score": "0.093736",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.581103",
+            "ticker_sentiment_score": "0.087450",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "What’s up with… Amdocs, AT&T & AWS, MásOrange & Starlink",
+        "url": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-amdocs-at-t-aws-m-sorange-starlink-54785/",
+        "time_published": "20260204T155816",
+        "authors": [
+          "The staff",
+          "TelecomTV"
+        ],
+        "summary": "Amdocs has announced Shimie Hortig as its new CEO, effective March 31, 2026. AT&T is expanding its strategic agreements with Amazon Web Services and satellite operator Amazon Leo to migrate workloads and extend broadband services. Meanwhile, MásOrange in Spain is partnering with Starlink to conduct the country's first direct-to-cell service pilot in Valladolid.",
+        "banner_image": "https://assets.telecomtv.com/assets/telecomtv/amdocs-new-ceo-shimie-hortig-source-amdocs-21726.jpeg?w=896&h=504&crop=auto",
+        "source": "TelecomTV",
+        "category_within_source": "General",
+        "source_domain": "TelecomTV",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "0.800286"
+          }
+        ],
+        "overall_sentiment_score": 0.262558,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "DOX",
+            "relevance_score": "0.981605",
+            "ticker_sentiment_score": "0.405786",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "T",
+            "relevance_score": "0.848463",
+            "ticker_sentiment_score": "0.310001",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.740627",
+            "ticker_sentiment_score": "0.299639",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "KKR",
+            "relevance_score": "0.648145",
+            "ticker_sentiment_score": "0.106020",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "DELL",
+            "relevance_score": "0.577609",
+            "ticker_sentiment_score": "0.115087",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Amazon stock price today: AMZN edges lower before earnings as AWS flags power delays",
+        "url": "https://ts2.tech/en/amazon-stock-price-today-amzn-edges-lower-before-earnings-as-aws-flags-power-delays/",
+        "time_published": "20260204T154100",
+        "authors": [
+          "Khadija Saeed"
+        ],
+        "summary": "Amazon shares saw a slight dip ahead of its quarterly earnings report, with investors closely watching the performance of AWS, particularly after its head of energy markets noted power grid connection delays in Europe. The company is also expanding its physical grocery presence to cut \"last-mile\" delivery costs, even as a broader market mixed sentiment and potential disappointment in AWS growth pose risks to the stock.",
+        "banner_image": "https://ts2.tech/wp-content/uploads/2026/02/amazon-stock-price-today-amzn-edges-lower-before-earnings-as-aws-flags-power-delays-featured.jpg",
+        "source": "TechStock²",
+        "category_within_source": "General",
+        "source_domain": "TechStock²",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.926088"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.944721"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.813196"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.732001"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.629280"
+          }
+        ],
+        "overall_sentiment_score": -0.173838,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMZN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.235575",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.647211",
+            "ticker_sentiment_score": "-0.141470",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.624745",
+            "ticker_sentiment_score": "-0.128531",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "GOOG stock price drops as Alphabet earnings loom and DOJ appeal adds fresh antitrust risk",
+        "url": "https://ts2.tech/en/goog-stock-price-drops-as-alphabet-earnings-loom-and-doj-appeal-adds-fresh-antitrust-risk/",
+        "time_published": "20260204T152740",
+        "authors": [
+          "Khadija Saeed"
+        ],
+        "summary": "Alphabet Inc.'s stock (GOOG) dropped ahead of its Q4 earnings report, with investors concerned about the impact of the latest AI surge on software and data-analytics stocks, alongside a fresh antitrust appeal from the U.S. government. The company's earnings call is expected to focus on AI deployments and data center spending, with analysts anticipating EPS near $2.63 on revenue of roughly $111.3 billion. Concerns also stem from a recent judge's ruling on Google's monopoly in search, which will be appealed by the DOJ, adding to market jitters.",
+        "banner_image": "https://ts2.tech/wp-content/uploads/2026/02/goog-stock-price-drops-as-alphabet-earnings-loom-and-doj-appeal-adds-fresh-antitrust-risk-featured.jpg",
+        "source": "TechStock²",
+        "category_within_source": "General",
+        "source_domain": "TechStock²",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.924130"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.903270"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.847919"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.620552"
+          }
+        ],
+        "overall_sentiment_score": -0.231707,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOG",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.400180",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.873633",
+            "ticker_sentiment_score": "-0.418295",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.614044",
+            "ticker_sentiment_score": "0.109149",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.580801",
+            "ticker_sentiment_score": "-0.147227",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.566437",
+            "ticker_sentiment_score": "-0.261223",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "The Sound of Money: How Spotify Turned Audio Into Profit Power",
+        "url": "https://finviz.com/news/299307/the-sound-of-money-how-spotify-turned-audio-into-profit-power",
+        "time_published": "20260204T145954",
+        "authors": [
+          "Jeffrey Neal Johnson"
+        ],
+        "summary": "Spotify (NYSE: SPOT) is proving to be a dominant force in the audio entertainment sector, successfully decoupling its financial performance from the struggles of video streaming services. While its stock has seen a recent dip, Spotify's shift to a variable-cost model, expanding margins, and strategic bundling of music, podcasts, and audiobooks are driving strong profitability. The company's unique position as a utility, coupled with minimal churn after price increases and a savvy approach to video content through partnerships, indicates a robust long-term growth trajectory amidst short-term market fluctuations.",
+        "banner_image": "https://www.marketbeat.com/logos/articles/med_20260203125620_the-sound-of-money-how-spotify-turned-audio-into-p.png",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.904896"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.809972"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.711538"
+          }
+        ],
+        "overall_sentiment_score": 0.187617,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "SPOT",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.434889",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.714747",
+            "ticker_sentiment_score": "0.138723",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NFLX",
+            "relevance_score": "0.605753",
+            "ticker_sentiment_score": "0.132579",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "DIS",
+            "relevance_score": "0.603381",
+            "ticker_sentiment_score": "0.108242",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Alphabet Q4 2025 preview. Is the pace of AI monetization sustainable?",
+        "url": "https://www.xtb.com/int/market-analysis/news-and-research/alphabet-q4-2025-preview-is-the-pace-of-ai-monetization-sustainable",
+        "time_published": "20260204T144116",
+        "authors": [],
+        "summary": "This article previews Alphabet's Q4 2025 earnings, focusing on whether the company can maintain its AI monetization pace and cloud growth. Key areas of investor scrutiny include the efficacy of AI products like Gemini, the sustained expansion of Google Cloud and YouTube, and the management of rising infrastructure costs. The report emphasizes that the upcoming results will test the quality and sustainability of Alphabet's strategic investments in AI and cloud computing against high market expectations.",
+        "banner_image": "https://xtb.scdn5.secure.raxcdn.com/postTopImage/0104/15/5d6cdecc-27a3-4494-8e3c-8980ed05788a/postTopImage_front/google.png",
+        "source": "XTB.com",
+        "category_within_source": "General",
+        "source_domain": "XTB.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.900598"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.812399"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.701761"
+          }
+        ],
+        "overall_sentiment_score": 0.173594,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.295037",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.734430",
+            "ticker_sentiment_score": "0.286212",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.638139",
+            "ticker_sentiment_score": "0.133752",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.562262",
+            "ticker_sentiment_score": "0.142569",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.578433",
+            "ticker_sentiment_score": "0.099562",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Will Amazon's Q4 Earnings Benefit From Healthy AWS Momentum?",
+        "url": "https://www.tradingview.com/news/zacks:cb0c28fc3094b:0-will-amazon-s-q4-earnings-benefit-from-healthy-aws-momentum/",
+        "time_published": "20260204T142700",
+        "authors": [],
+        "summary": "Amazon's upcoming Q4 2025 earnings are expected to be positively impacted by the strong performance of its cloud service, Amazon Web Services (AWS). AWS is projected to report $35.02 billion in sales, indicating significant year-over-year growth, driven by strategic initiatives like Project Rainier and product innovations from the re:Invent conference, including new AI chips and processors. The company also boasts a growing backlog and increasing power capacity, signaling sustained demand and future revenue visibility.",
+        "banner_image": null,
+        "source": "TradingView",
+        "category_within_source": "General",
+        "source_domain": "TradingView",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.907612"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.820375"
+          }
+        ],
+        "overall_sentiment_score": 0.022108,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.328344",
+            "ticker_sentiment_score": "0.044924",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Penserra Capital Management LLC Purchases 313,008 Shares of IonQ, Inc. $IONQ",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-penserra-capital-management-llc-purchases-313008-shares-of-ionq-inc-ionq-2026-02-04/",
+        "time_published": "20260204T135829",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Penserra Capital Management LLC has significantly increased its stake in IonQ, Inc. by purchasing an additional 313,008 shares, bringing its total ownership to 800,141 shares valued at approximately $49.2 million. The quantum computing company holds a consensus \"Moderate Buy\" rating from analysts with an average price target of $75.91, though its latest quarterly earnings significantly missed expectations despite strong revenue growth. Insider selling has also been noted, with executives reducing their holdings in recent months.",
+        "banner_image": "https://www.marketbeat.com/logos/ionq-inc-logo-1200x675.png?v=20211203111404",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.934853"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.807206"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.731707"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.607147"
+          }
+        ],
+        "overall_sentiment_score": 0.165559,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "IONQ",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.228199",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.601096",
+            "ticker_sentiment_score": "0.148837",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.621355",
+            "ticker_sentiment_score": "0.122716",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.647115",
+            "ticker_sentiment_score": "0.135049",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Hasbro and Amazon MGM Studios Join Forces to Launch New Voltron Movie Toys",
+        "url": "https://www.businesswire.com/news/home/20260204272079/en/Hasbro-and-Amazon-MGM-Studios-Join-Forces-to-Launch-New-Voltron-Movie-Toys",
+        "time_published": "20260204T132827",
+        "authors": [],
+        "summary": "Hasbro has announced a new licensing collaboration with Amazon MGM Studios to produce action figures, toys, and roleplay items for the upcoming live-action Voltron movie. This partnership aims to leverage Hasbro's experience with iconic 80s brands to strengthen the Voltron franchise and engage both longtime fans and new audiences. The film, directed by Rawson Marshall Thurber, will feature a cast including Henry Cavill, Sterling K. Brown, Alba Baptista, and Rita Ora.",
+        "banner_image": "https://mms.businesswire.com/media/20260204272079/en/835320/4/Hasbro_4c_noR_002.jpg",
+        "source": "Business Wire",
+        "category_within_source": "General",
+        "source_domain": "Business Wire",
+        "topics": [
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.849229"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.629955"
+          }
+        ],
+        "overall_sentiment_score": 0.237409,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "HAS",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.337804",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.734006",
+            "ticker_sentiment_score": "0.238186",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MGM",
+            "relevance_score": "0.632729",
+            "ticker_sentiment_score": "0.119219",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Fiber, cloud and satellites: AT&T and Amazon team up on US connectivity",
+        "url": "https://www.stocktitan.net/news/T/at-t-aws-and-amazon-leo-collaborate-to-accelerate-modernization-of-spbrgpbgbygt.html",
+        "time_published": "20260204T130305",
+        "authors": [],
+        "summary": "AT&T, Amazon Web Services (AWS), and Amazon Leo are collaborating to modernize the connectivity infrastructure in the United States. This partnership involves AT&T migrating its workloads to AWS, connecting AWS data centers with high-capacity fiber, and utilizing Amazon Leo's low Earth orbit satellites to expand AT&T's network capabilities. The goal is to create a more resilient, adaptive, and future-ready connectivity solution, leveraging AT&T's fiber network with AWS's cloud and AI expertise to deliver fixed broadband services to businesses.",
+        "banner_image": null,
+        "source": "Stock Titan",
+        "category_within_source": "General",
+        "source_domain": "Stock Titan",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "1.000000"
+          }
+        ],
+        "overall_sentiment_score": 0.443789,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "T",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.411755",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.824736",
+            "ticker_sentiment_score": "0.438461",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "New Voltron movie is getting toys: Hasbro tapped by Amazon MGM",
+        "url": "https://www.stocktitan.net/news/HAS/hasbro-and-amazon-mgm-studios-join-forces-to-launch-new-voltron-gf3fvso9uoiw.html",
+        "time_published": "20260204T130239",
+        "authors": [],
+        "summary": "Hasbro has announced a new licensing collaboration with Amazon MGM Studios to produce action figures, toys, and roleplay items for the highly anticipated live-action Voltron movie. This partnership aims to leverage Hasbro's experience with legacy franchises to expand Voltron's reach and engage both existing and new fans. The upcoming film, directed by Rawson Marshall Thurber, will feature a cast including Henry Cavill and Sterling K. Brown.",
+        "banner_image": null,
+        "source": "Stock Titan",
+        "category_within_source": "General",
+        "source_domain": "Stock Titan",
+        "topics": [
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.920069"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.723332"
+          }
+        ],
+        "overall_sentiment_score": 0.329102,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "HAS",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.336851",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.741106",
+            "ticker_sentiment_score": "0.345174",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Amazon.com's (AMZN) 2026 Could Mark an AI Script Flip, Evercore Says",
+        "url": "https://finviz.com/news/298972/amazoncoms-amzn-2026-could-mark-an-ai-script-flip-evercore-says",
+        "time_published": "20260204T121900",
+        "authors": [
+          "Ghazal Ahmed"
+        ],
+        "summary": "Evercore ISI analyst Mark Mahaney reiterated an Outperform rating for Amazon (AMZN) with a $335.00 price target, predicting a shift from an AI laggard to an AI winner by 2026. Despite softer Amazon-specific sales indicators, Evercore ISI anticipates Amazon will meet Q4 revenue expectations of $211 billion and operating income of $24.6 billion, highlighting potential acceleration in revenue growth and operating margin expansion in 2026. The firm emphasizes key investor focus areas including AWS growth acceleration, retail unit-economics, advertising growth durability, and updated capital spending guidance.",
+        "banner_image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/20014104/56055173_ml.jpg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.911215"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.808114"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.704312"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.646212"
+          }
+        ],
+        "overall_sentiment_score": 0.301474,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMZN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.300216",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Why International Stocks May Win Gold Again in 2026",
+        "url": "https://www.morningstar.com/stocks/why-international-stocks-may-win-gold-again-2026",
+        "time_published": "20260204T115951",
+        "authors": [
+          "Dan Lefkovitz"
+        ],
+        "summary": "International stocks meaningfully outperformed US stocks in 2025, a trend that continued into early 2026, leading to significant inflows into international-equity funds. This shift is attributed to factors like Trump's trade policies, an improved macroeconomic backdrop in Europe, corporate governance reforms in Japan, and global AI beneficiaries. While skeptics note the historical dominance of US markets, valuation-driven investors see international markets as a reversion to the mean, offering attractive opportunities due to formerly suppressed valuations and the cyclical nature of market leadership.",
+        "banner_image": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/JYzmwCYqnN8HkKpL9_IpNUKtsx0=/2000x2000/author-service-images-prod-us-east-1.publishing.aws.arc.pub/morningstar/033528a9-55cc-40aa-90a9-8d2d98697cf5.jpg",
+        "source": "Morningstar",
+        "category_within_source": "General",
+        "source_domain": "Morningstar",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.914577"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.830433"
+          }
+        ],
+        "overall_sentiment_score": 0.159195,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "MORN",
+            "relevance_score": "0.931076",
+            "ticker_sentiment_score": "0.209977",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NFLX",
+            "relevance_score": "0.630200",
+            "ticker_sentiment_score": "0.131263",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.645179",
+            "ticker_sentiment_score": "0.121625",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.625859",
+            "ticker_sentiment_score": "0.112277",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Analysts Offer Insights on Consumer Cyclical Companies: Restaurant Brands International (QSR) and Amazon (AMZN)",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/16214/analysts-offer-insights-on-consumer-cyclical-companies-restaurant-brands-international-qsr-and-amazon-amzn/",
+        "time_published": "20260204T115850",
+        "authors": [
+          "Tipranks"
+        ],
+        "summary": "Two analysts have issued bullish ratings for companies in the Consumer Cyclical sector. Dennis Geiger from UBS maintained a Buy rating on Restaurant Brands International (QSR) with an $85.00 price target, seeing a 17.3% upside. Brian Pitz from BMO Capital maintained a Buy rating on Amazon (AMZN) with a $304.00 price target, suggesting a 24.7% upside.",
+        "banner_image": null,
+        "source": "The Globe and Mail",
+        "category_within_source": "General",
+        "source_domain": "The Globe and Mail",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.944460"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.739398"
+          }
+        ],
+        "overall_sentiment_score": 0.466013,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "QSR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.480112",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.885204",
+            "ticker_sentiment_score": "0.509653",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "C WorldWide Group Loads Up 45,000 MercadoLibre Shares Worth $94 Million",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL-Q/pressreleases/24332/c-worldwide-group-loads-up-45-000-mercadolibre-shares-worth-94-million/",
+        "time_published": "20260204T101800",
+        "authors": [
+          "Motley Fool"
+        ],
+        "summary": "C WorldWide Group Holding A/S significantly increased its stake in MercadoLibre (NASDAQ: MELI) by purchasing 44,747 additional shares, a transaction valued at approximately $93.99 million. This investment increased their total holdings to 53,411 shares, now representing 1.88% of the fund's U.S. equity assets under management. The move is seen as an opportunistic long-term play despite MercadoLibre's recent struggles, potentially benefiting from economic improvements in Latin America.",
+        "banner_image": "https://barchart-news-media-prod.aws.barchart.com/FC/5f4c032f3c2a5941b0f81cc10c75d17b/pixel%3Fslug%3Dmotleyfoolgm-2026-2-4-c-worldwide-group-loads-up-45000-mercadolibre-shares-worth-94-million",
+        "source": "The Globe and Mail",
+        "category_within_source": "General",
+        "source_domain": "The Globe and Mail",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.930392"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.846826"
+          }
+        ],
+        "overall_sentiment_score": 0.328605,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "MELI",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.262908",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.669423",
+            "ticker_sentiment_score": "0.308050",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.621537",
+            "ticker_sentiment_score": "0.327198",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.594031",
+            "ticker_sentiment_score": "0.328641",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "V",
+            "relevance_score": "0.623406",
+            "ticker_sentiment_score": "0.320616",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      }
+    ]
+  },
+  "request": {
+    "function": "NEWS_SENTIMENT",
+    "apikey": "1W86SMG399FCFAIM",
+    "tickers": "AMZN"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&apikey=1W86SMG399FCFAIM&tickers=AMZN"
+  }
+}

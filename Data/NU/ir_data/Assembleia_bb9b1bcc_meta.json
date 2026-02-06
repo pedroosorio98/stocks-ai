@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7bb6d8fb517c973ac4f619f2f58cb69dd06a35b0eb5be284460e7aee19b78ed4
-size 259
+{
+  "label": "Assembleia",
+  "original_url": "https://www.investidores.nu/assembleia-geral-ordinaria/",
+  "final_url": "https://www.investidores.nu/assembleia-geral-ordinaria/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

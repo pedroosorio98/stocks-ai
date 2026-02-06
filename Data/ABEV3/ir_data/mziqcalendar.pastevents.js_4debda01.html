@@ -1,3 +1,201 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c39cb6c712b9404732a561bbc7c5ed5591000abd9ecae1e75a9f6e8c60bd52c4
-size 5468
+var orderEvents = function (array){
+  return array.sort(function(a, b){
+    return moment.unix(b.event_date) - moment.unix(a.event_date);
+  });
+ }
+
+var mziqChTd = function(yearsField, tables)
+{
+  var THIS = this;
+  this.yearsField = yearsField;
+  this.tables = tables;
+
+  $(yearsField).change(function() {
+    var selectedYear = $(this).val();
+    if (selectedYear == "ANO") return;
+
+    $('#loading').show();
+
+    var reqGetEventosRealizados = {
+      action: 'wpmziq_get_eventos_realizados',
+      year: selectedYear
+    };
+
+    jQuery.post(ajaxurl, reqGetEventosRealizados, function(response) {
+      THIS.clearTables();
+
+      var result = JSON.parse(response);
+      if (result === null) return;
+      THIS.fillTable(THIS.tables[0].tableId, THIS.tables[0].headerId, orderEvents(result));
+
+      $('#loading').hide();
+      $('#no-files').hide();
+      $('#data').show();
+    }); //json post
+  }); //change
+
+  this.clearTables = function()
+  {
+    var tables = this.tables;
+    for (var i = 0; i < tables.length; i++)
+    {
+      var tbId = tables[i].tableId;
+      var headerId = tables[i].headerId;
+      $(tbId + ' > tbody > tr').remove();
+      $(headerId).hide();
+    }
+  };
+
+  this.fillTable = function(tableId, headerId, events)
+  {
+    _.each(events, function(item) {
+      var formatedDate = moment.unix(item.event_date).format(i18nDateFormat);
+      var tds = [
+        '<td>' + formatedDate +'</td>',
+        '<td>'+ item.event_name +'</td>',
+        '<td>'+item.event_place  +'</td>'
+      ]
+      $('<tr>' + tds.join('')).appendTo(tableId);
+    });
+
+    if (typeof events == 'undefined' || events === null) {
+      $(tableId).hide();
+      $(headerId).hide();
+    }
+    else {
+      $(tableId).show();
+      $(headerId).show();
+    }
+  };
+
+  this.init = function()
+  {
+    var requestGetYears = {
+      action: 'wpmziq_get_eventos_realizados_anos'
+    };
+    var yearsField = this.yearsField;
+
+    jQuery.post(ajaxurl, requestGetYears, function(response) {
+      var result = JSON.parse(response);
+      if (result === null) return;
+
+      for (var i = 0, len = result.length; i < len; i++) {
+        $(yearsField).append($('<option>', {
+          value: result[i],
+          text: result[i]
+        }));
+        if (i === 0) {
+          $(yearsField).val(result[i]).trigger('change');
+        }
+      }
+    }); //Jquery Post
+  }
+}
+//oi
+var mziqChTdv2 = function(yearsField, tables)
+{
+  var THIS = this;
+  this.yearsField = yearsField;
+  this.tables = tables;
+
+  $(yearsField).change(function() {
+    var selectedYear = $(this).val();
+    if (selectedYear == "ANO") return;
+
+    $('#loading').show();
+
+    var reqGetEventosRealizados = {
+      action: 'wpmziq_get_eventos_realizados',
+      year: selectedYear
+    };
+
+    jQuery.post(ajaxurlPast, reqGetEventosRealizados, function(response) {
+      THIS.clearTables();
+
+      var result = JSON.parse(response);
+      if (result === null) return;
+      THIS.fillTable(THIS.tables[0].tableId, THIS.tables[0].headerId, result);
+
+      $('#loading').hide();
+      $('#no-files').hide();
+      $('#data').show();
+    }); //json post
+  }); //change
+
+  this.clearTables = function()
+  {
+    var tables = this.tables;
+    for (var i = 0; i < tables.length; i++)
+    {
+      var tbId = tables[i].tableId;
+      var headerId = tables[i].headerId;
+      $(tbId + ' > tbody > tr').remove();
+      $(headerId).hide();
+    }
+  };
+
+  this.fillTable = function (tableId, headerId, events) {
+
+    _.each(events, function (item) {
+        var nameEvent = item.event_name;
+
+        if(lang == "pt-br") {
+            var str = "Divulgação de resultados";
+        } else {
+            var str = "Earnings release";
+        }
+
+        if(nameEvent.indexOf(str) >= 0 ) { //comparete name event
+            var nameBroker = nameEvent.split(' ');
+            var size = nameBroker.length;
+            var lastPosition = nameBroker[size - 1];
+            var finalString = lastPosition.slice(0, 2) + lastPosition.slice(4, 6);
+            nameBroker.pop();
+            nameBroker.push(finalString);
+            var nameBrokerFinal = nameBroker.toString().split(',').join(' ');
+
+            nameEvent = nameBrokerFinal;
+        }
+
+        var formatedDate = moment.unix(item.event_date).format(i18nDateFormat);
+        var tds = [
+            '<td>' + formatedDate + '</td>',
+            '<td>' + nameEvent + '</td>',
+            '<td>' + item.event_place + '</td>'
+        ]
+        $('<tr>' + tds.join('')).appendTo(tableId);
+    });
+
+    if (typeof events == 'undefined' || events === null) {
+        $(tableId).hide();
+        $(headerId).hide();
+    } else {
+        $(tableId).show();
+        $(headerId).show();
+    }
+};
+
+  this.init = function()
+  {
+    var requestGetYears = {
+      action: 'wpmziq_get_eventos_realizados_anos'
+    };
+    var yearsField = this.yearsField;
+
+    jQuery.post(ajaxurlPast, requestGetYears, function(response) {
+      var result = JSON.parse(response);
+      if (result === null) return;
+
+      for (var i = 0, len = result.length; i < len; i++) {
+        $(yearsField).append($('<option>', {
+          value: result[i],
+          text: result[i]
+        }));
+        if (i === 0) {
+          $(yearsField).val(result[i]).trigger('change');
+        }
+      }
+    }); //Jquery Post
+  }
+}
+

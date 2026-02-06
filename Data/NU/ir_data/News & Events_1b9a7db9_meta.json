@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bc997eb889eb66f8c4a4b3f3f3dd51788f9dfba7254c80990eada1828e2ff4b6
-size 260
+{
+  "label": "News & Events",
+  "original_url": "https://www.investidores.nu/en/news-events/contact-ir/",
+  "final_url": "https://www.investidores.nu/en/news-events/contact-ir/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

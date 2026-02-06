@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:29eaaa573dcdb30e93ce3fa7c332c6ed6aaae138f7f54dada21704b15d2dad1f
-size 287
+{
+  "label": "Results Center",
+  "original_url": "https://ri.klabin.com.br/en/disclosures-and-results/results-center/",
+  "final_url": "https://ri.klabin.com.br/en/disclosures-and-results/results-center/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

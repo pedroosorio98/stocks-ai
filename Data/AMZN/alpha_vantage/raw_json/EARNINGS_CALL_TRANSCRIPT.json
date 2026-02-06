@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fbfdb36df6a4129fbbb84473f5bd6cb62973e06a937928a2692d2c438bd102f7
-size 418
+{
+  "response": {
+    "symbol": "AMZN",
+    "quarter": "",
+    "transcript": []
+  },
+  "request": {
+    "function": "EARNINGS_CALL_TRANSCRIPT",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "AMZN"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=EARNINGS_CALL_TRANSCRIPT&apikey=1W86SMG399FCFAIM&symbol=AMZN"
+  }
+}

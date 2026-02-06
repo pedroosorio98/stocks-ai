@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1d3861667923a28b1d9bde443fb2d84b0ee2dc473f023fc6206a21d8ba72ec26
-size 404
+{
+  "label": "nvidia-announces-financial-results-for-second-quarter-fiscal-2023",
+  "original_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2023",
+  "final_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2023",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17e304cda1edee9e52fc1a3d50f639c6d8aeefe583ba66243856c79ea7f6cb96
-size 175
+{
+  "ticker": "GOOGL",
+  "cik": 1652044,
+  "form": "8-K",
+  "filing_date": "2023-06-08",
+  "accession": "0001193125-23-163590",
+  "primary_document": "d442583d8k.htm"
+}

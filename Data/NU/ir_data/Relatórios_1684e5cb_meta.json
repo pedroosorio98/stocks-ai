@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bae67b1680926f35d6a5f74ae3cb3200029bb6776437b439be42b4115ad6cc13
-size 226
+{
+  "label": "Relat\u00f3rios",
+  "original_url": "https://www.investidores.nu/reports/",
+  "final_url": "https://www.investidores.nu/reports/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

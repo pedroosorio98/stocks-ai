@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1dd5c75d89a50e361c4caf9d74a1f8df4af161721c75df90c18894edef199ca
-size 322
+{
+  "label": "VIEW DETAILS >",
+  "original_url": "https://aka.ms/2025ProxyStatement",
+  "final_url": "https://view.officeapps.live.com/op/view.aspx?src=https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/2025_ProxyStatement.docx",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

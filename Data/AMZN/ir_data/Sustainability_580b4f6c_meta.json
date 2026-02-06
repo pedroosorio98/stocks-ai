@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:efe5a19dce29efa80749f3bb86e7d6f63fa49c3f0575da89074fa0966f99862f
-size 295
+{
+  "label": "Sustainability",
+  "original_url": "https://www.aboutamazon.com/sustainability-company-reports-news-updates",
+  "final_url": "https://www.aboutamazon.com/sustainability-company-reports-news-updates",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

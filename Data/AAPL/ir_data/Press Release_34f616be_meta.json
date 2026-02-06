@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fc4aa3ade8b45f9563ce0d1fc25a85c97fc341c12f034642c665420561eb0432
-size 301
+{
+  "label": "Press Release",
+  "original_url": "https://www.apple.com/newsroom/2023/08/apple-reports-third-quarter-results/",
+  "final_url": "https://www.apple.com/newsroom/2023/08/apple-reports-third-quarter-results/",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

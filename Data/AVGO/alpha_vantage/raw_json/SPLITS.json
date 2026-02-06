@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08ea49a76201d0b7995e5fe6ff0b80bd8229bd603df886efc0b485ee238714af
-size 456
+{
+  "response": {
+    "symbol": "AVGO",
+    "data": [
+      {
+        "effective_date": "2024-07-15",
+        "split_factor": "10.0000"
+      }
+    ]
+  },
+  "request": {
+    "function": "SPLITS",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "AVGO"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=SPLITS&apikey=1W86SMG399FCFAIM&symbol=AVGO"
+  }
+}

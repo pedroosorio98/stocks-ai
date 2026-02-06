@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:559664ce14a0f85ec39e3df3d2de590c14b624311ec864c1d46278acefb24df0
-size 255
+{
+  "label": "Press Releases",
+  "original_url": "https://international.nubank.com.br/pt-br/newsroom/",
+  "final_url": "https://international.nubank.com.br/pt-br/newsroom/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9f5257b6829a2a61679a739a5baae347cc23997d167351e2655c0c85dc22a0e3
-size 333
+{
+  "label": "Ir para a busca.",
+  "original_url": "https://www.investidorpetrobras.com.br/apresentacoes-relatorios-e-eventos/eventos/#search",
+  "final_url": "https://www.investidorpetrobras.com.br/apresentacoes-relatorios-e-eventos/eventos/#search",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

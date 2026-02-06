@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:28eadc5a840e20bfdedd70215d0628efc90ae4160e0d1b99cb367f4a55d1a4b1
-size 291
+{
+  "label": "Meetings",
+  "original_url": "https://www.bradescori.com.br/en/bradesco/corporate-governance/meetings/",
+  "final_url": "https://www.bradescori.com.br/en/bradesco/corporate-governance/meetings/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

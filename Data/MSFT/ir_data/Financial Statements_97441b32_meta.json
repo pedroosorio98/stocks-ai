@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:896e6d10970fc351e962ce67fcd338545f679ebb435edf2d5a0e715f2651ecf0
-size 268
+{
+  "label": "Financial Statements",
+  "original_url": "https://aka.ms/latestincomestmt",
+  "final_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/income-statements",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

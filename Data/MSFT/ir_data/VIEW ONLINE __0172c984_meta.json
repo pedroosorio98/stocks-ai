@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0626eac99f4d61c1b746e3c2386788d3f530ef89c0b07d8ad4f77ac161d1e010
-size 253
+{
+  "label": "VIEW ONLINE >",
+  "original_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+  "final_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

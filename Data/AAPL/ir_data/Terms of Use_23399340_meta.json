@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:03eb2d06bd71a7ddd4952e64fe43d6cd34561f0d1ee3473496bdae0896565399
-size 273
+{
+  "label": "Terms of Use",
+  "original_url": "https://www.apple.com/legal/internet-services/terms/site.html",
+  "final_url": "https://www.apple.com/legal/internet-services/terms/site.html",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b136a1c517c7120cf109cb996e38433e7657fb3bb69ceaa9fb3c502be867ab07
-size 243
+{
+  "label": "Investors",
+  "original_url": "https://www.microsoft.com/investor/default.aspx",
+  "final_url": "https://www.microsoft.com/en-us/investor/default",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3fb5725672254135c6ccf3ae6f11b15033b611a3753acde9a8de4039df5326f0
-size 195
+{
+  "label": "Nimble Security",
+  "original_url": "https://www.nimble.security/",
+  "final_url": "https://www.nimble.security/",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

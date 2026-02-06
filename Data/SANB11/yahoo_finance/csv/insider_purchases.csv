@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d04cf4c277138a45907b790e78a9899da117a96bea38492f4682e0ea1dc59fc
-size 209
+,Insider Purchases Last 6m,Shares,Trans
+0,Purchases,0,0
+1,Sales,,0
+2,Net Shares Purchased (Sold),0,0
+3,Total Insider Shares Held,0,
+4,% Net Shares Purchased (Sold),,
+5,% Buy Shares,,
+6,% Sell Shares,,

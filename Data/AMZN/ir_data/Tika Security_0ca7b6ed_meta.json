@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d364cbdd444bc42c979b76fed2efa102e087b3aa0ba0103a6a840dd641bc529f
-size 208
+{
+  "label": "Tika Security",
+  "original_url": "https://www.tikasecurity.io/",
+  "final_url": "https://www.tikasecurity.io/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

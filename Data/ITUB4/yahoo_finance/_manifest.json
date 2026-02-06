@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:382ba08ae9201f36797f3b6e5d554bb1bb1f7da92e7d2dc6da9c3c0c50da860a
-size 242
+{
+  "input_ticker": "ITUB4",
+  "yahoo_ticker_used": "ITUB4.SA",
+  "folder": "C:\\Users\\Pedro\\stocks-ai\\Data\\ITUB4\\yahoo_finance",
+  "notes": "Some modules are not available for all Brazil tickers; see errors/ folder for failures."
+}

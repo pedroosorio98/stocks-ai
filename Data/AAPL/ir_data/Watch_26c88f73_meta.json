@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1274dff93b1efb06d98acd662d08631e6f8d4090a97b5ceedd7164963105614e
-size 387
+{
+  "label": "Watch",
+  "original_url": "https://events-delivery.apple.com/0705ssefukzgmvtafvdghmccmofevkcb/m3u8/vod_index-joowRJLcCBPCthnkzxWwyZCUDqDsNaCG.m3u8",
+  "final_url": "https://events-delivery.apple.com/0705ssefukzgmvtafvdghmccmofevkcb/m3u8/vod_index-joowRJLcCBPCthnkzxWwyZCUDqDsNaCG.m3u8",
+  "content_type": "application/vnd.apple.mpegurl",
+  "blocked_detected": false
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a3548eef81dc769e607ccce21646c6031d7593d7e543b1eda1a15dc2cd265bf3
-size 303
+{
+  "label": "Voting Results",
+  "original_url": "https://www.microsoft.com/en-us/investor/corporate-governance/votingresults",
+  "final_url": "https://www.microsoft.com/en-us/investor/corporate-governance/votingresults",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

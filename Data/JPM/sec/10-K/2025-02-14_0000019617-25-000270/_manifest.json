@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0fda8425469bb578b803b7421f5b10ab7fdc5747ef3434f00f3901eb14dcebbb
-size 174
+{
+  "ticker": "JPM",
+  "cik": 19617,
+  "form": "10-K",
+  "filing_date": "2025-02-14",
+  "accession": "0000019617-25-000270",
+  "primary_document": "jpm-20241231.htm"
+}

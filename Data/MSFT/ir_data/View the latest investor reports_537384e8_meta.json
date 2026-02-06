@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0842e991aa6a29ae7fd5039a04d316a457a2087f05262ba75d6a3d8707eabd7f
-size 298
+{
+  "label": "View the latest investor reports",
+  "original_url": "https://www.microsoft.com/en-us/Investor/investor-information.aspx",
+  "final_url": "https://www.microsoft.com/en-us/investor/investor-information",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

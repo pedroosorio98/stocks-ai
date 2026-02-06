@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62825325939fdcc77f29fe117c07a90a110afc039416a71cdbc2b972ea63c66f
-size 254
+{
+  "label": "SEC Filings",
+  "original_url": "https://www.microsoft.com/en-us/investor/sec-filings",
+  "final_url": "https://www.microsoft.com/en-us/investor/sec-filings",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

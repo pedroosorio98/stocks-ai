@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:09f1abcf5bd7babed236ec98075d90a55e443f37fa6e2addec9722470d8a217c
-size 293
+{
+  "label": "Sign up for IR Mailing",
+  "original_url": "https://www.investidores.nu/en/news-events/sign-up-for-ir-mailing/",
+  "final_url": "https://www.investidores.nu/en/news-events/sign-up-for-ir-mailing/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

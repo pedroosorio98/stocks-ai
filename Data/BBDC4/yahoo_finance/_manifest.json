@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d21a1350320bfb6fee504be2e9856708cbc2d2febfd778372bb261f29c4c0253
-size 242
+{
+  "input_ticker": "BBDC4",
+  "yahoo_ticker_used": "BBDC4.SA",
+  "folder": "C:\\Users\\Pedro\\stocks-ai\\Data\\BBDC4\\yahoo_finance",
+  "notes": "Some modules are not available for all Brazil tickers; see errors/ folder for failures."
+}

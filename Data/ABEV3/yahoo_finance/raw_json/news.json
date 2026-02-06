@@ -1,3 +1,612 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:48c66710b12ce69aeca1624bdfba58f294f9ffcddef5b6f49a03c3b9806791b1
-size 24203
+[
+  {
+    "id": "bacc342f-8640-38d6-8a78-4c243058a264",
+    "content": {
+      "id": "bacc342f-8640-38d6-8a78-4c243058a264",
+      "contentType": "STORY",
+      "title": "Is Ambev (ABEV) One of the Cheap Penny Stocks to Invest In?",
+      "description": "",
+      "summary": "Ambev (NYSE:ABEV) is one of the cheap penny stocks to invest in. Earlier in December, Barclays analyst Benjamin Theurer kept his Hold rating on the stock along with a $2.5 price target. Previously, on November 26, Bernstein downgraded Ambev to Market Perform from Outperform with a $2.88 price target. The firm downgraded the stock due […]",
+      "pubDate": "2025-12-28T15:05:22Z",
+      "displayTime": "2025-12-28T15:05:22Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/2fb6db5d49a9f2bc8f17bb73347ff3f7",
+        "originalWidth": 1456,
+        "originalHeight": 816,
+        "caption": "Is Ambev (ABEV) One of the Cheap Penny Stocks to Invest In?",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/llIHMPVflBnPiB68iw.6EQ--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/2fb6db5d49a9f2bc8f17bb73347ff3f7",
+            "width": 1456,
+            "height": 816,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/UFoC8Skimt9qK3E_OaHCCw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2fb6db5d49a9f2bc8f17bb73347ff3f7",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Insider Monkey",
+        "url": "http://www.insidermonkey.com"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/ambev-abev-one-cheap-penny-150522520.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/ambev-abev-one-cheap-penny-150522520.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "d414be80-d22c-3f1b-bf12-fafecd01c333",
+    "content": {
+      "id": "d414be80-d22c-3f1b-bf12-fafecd01c333",
+      "contentType": "STORY",
+      "title": "Do Options Traders Know Something About Ambev Stock We Don't?",
+      "description": "",
+      "summary": "Investors need to pay close attention to ABEV stock based on the movements in the options market lately.",
+      "pubDate": "2025-12-26T13:38:00Z",
+      "displayTime": "2025-12-26T13:38:00Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/ef1507d745378adffb9dbf0a9db23419",
+        "originalWidth": 635,
+        "originalHeight": 400,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/H5DDkQNRwlnRtYHS0HzLMw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ef1507d745378adffb9dbf0a9db23419",
+            "width": 635,
+            "height": 400,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/e3yllFococksSFrflspWKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ef1507d745378adffb9dbf0a9db23419",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/options-traders-know-something-ambev-133800886.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/options-traders-know-something-ambev-133800886.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "22b869af-8af0-35e6-9190-9f4321034ecc",
+    "content": {
+      "id": "22b869af-8af0-35e6-9190-9f4321034ecc",
+      "contentType": "STORY",
+      "title": "Stock Market Today, Dec. 23: Ambev Starts to Recover After Losing 4% This Month,",
+      "description": "",
+      "summary": "On Dec. 23, 2025, Ambev posts gains after a major hedge fund’s 400% stake jump balances cautious ratings.",
+      "pubDate": "2025-12-23T22:41:33Z",
+      "displayTime": "2025-12-23T22:41:33Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/motleyfool.com/ece2644f62c999828edb4a744e8a56b7",
+        "originalWidth": 1401,
+        "originalHeight": 1251,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/C8Z.edwcv5LnY1X79lXlqg--~B/aD0xMjUxO3c9MTQwMTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/ece2644f62c999828edb4a744e8a56b7",
+            "width": 1401,
+            "height": 1251,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/por.ey9JT.I7DXXFMtt3aQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ece2644f62c999828edb4a744e8a56b7",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Motley Fool",
+        "url": "http://www.fool.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://www.fool.com/coverage/stock-market-today/2025/12/23/stock-market-today-dec-23-ambev-starts-to-recover-after-losing-4-this-month/",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/stock-market-today-dec-23-224133060.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "ef89c321-9770-3a39-949e-1c188b56f1cc",
+    "content": {
+      "id": "ef89c321-9770-3a39-949e-1c188b56f1cc",
+      "contentType": "STORY",
+      "title": "Ambev (ABEV) Falls on Lack of Leads",
+      "description": "",
+      "summary": "We recently published 10 Stocks Struggling to Shine Ahead of Christmas. Ambev SA (NYSE:ABEV) is one of the worst performers on Monday. Ambev dropped its share prices by 7.63 percent to close at $2.30 apiece amid the lack of catalysts to boost buying appetite and what appeared to be an early window-dressing. The practice is […]",
+      "pubDate": "2025-12-23T17:55:12Z",
+      "displayTime": "2025-12-23T17:55:12Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/83c14767b2afa3a9a3c543bcba7d7c2d",
+        "originalWidth": 1920,
+        "originalHeight": 1280,
+        "caption": "Ambev (ABEV) Falls on Lack of Leads",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/LUYce8EuqVBmklocjQIDng--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/83c14767b2afa3a9a3c543bcba7d7c2d",
+            "width": 1920,
+            "height": 1280,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/nIsIv3QQppgjsP_lpWL0Uw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/83c14767b2afa3a9a3c543bcba7d7c2d",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Insider Monkey",
+        "url": "http://www.insidermonkey.com"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/ambev-abev-falls-lack-leads-175512906.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/ambev-abev-falls-lack-leads-175512906.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "2b932073-6600-3213-b40e-b87b436b3a09",
+    "content": {
+      "id": "2b932073-6600-3213-b40e-b87b436b3a09",
+      "contentType": "STORY",
+      "title": "Ford Upgraded, Amazon Downgraded: Updated Rankings on Top Blue-Chip Stocks",
+      "description": "",
+      "summary": "During these busy times, it pays to stay on top of the latest profit opportunities. And today’s blog post should be a great place to start. After taking a close look at the latest data on institutional buying pressure and each company’s fundamental health, I decided to revise my Stock Grader recommendations for 110 big blue chips. Chances are that you have at least one of these stocks in your portfolio, so you may want to give this list a skim and act accordingly. This Week’s Ratings Changes: Up",
+      "pubDate": "2025-12-15T14:42:57Z",
+      "displayTime": "2025-12-15T14:42:57Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/investorplace_417/66f66343d794b8595611a273413f326d",
+        "originalWidth": 300,
+        "originalHeight": 96,
+        "caption": "An image of a cursive signature in black text.",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/EnhpXwFlcu8y0QrDAkqZEg--~B/aD05Njt3PTMwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/investorplace_417/66f66343d794b8595611a273413f326d",
+            "width": 300,
+            "height": 96,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/RQzILBxrGj7Orhs3uk7TVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/66f66343d794b8595611a273413f326d",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "InvestorPlace",
+        "url": "https://investorplace.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/ford-upgraded-amazon-downgraded-updated-144257218.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/ford-upgraded-amazon-downgraded-updated-144257218.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "bb20672c-a61b-3b29-a97b-a7c7cdcf0188",
+    "content": {
+      "id": "bb20672c-a61b-3b29-a97b-a7c7cdcf0188",
+      "contentType": "STORY",
+      "title": "What Does Wall Street Think About Ambev S.A. (ABEV)?",
+      "description": "",
+      "summary": "Ambev S.A. (NYSE:ABEV) is one of the best affordable stocks under $5 to buy for the next 3 years. Ambev S.A. (NYSE:ABEV) was downgraded to Market Perform from Outperform by Bernstein on November 26, who assigned a $2.88 price target to the stock. The firm supported the rating downgrade with the company’s valuation, stating that […]",
+      "pubDate": "2025-12-09T05:20:15Z",
+      "displayTime": "2025-12-09T05:20:15Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/2fb6db5d49a9f2bc8f17bb73347ff3f7",
+        "originalWidth": 1456,
+        "originalHeight": 816,
+        "caption": "Why Ambev SA (ABEV) is Surging in 2025",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/llIHMPVflBnPiB68iw.6EQ--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/2fb6db5d49a9f2bc8f17bb73347ff3f7",
+            "width": 1456,
+            "height": 816,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/UFoC8Skimt9qK3E_OaHCCw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2fb6db5d49a9f2bc8f17bb73347ff3f7",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Insider Monkey",
+        "url": "http://www.insidermonkey.com"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/does-wall-street-think-ambev-052015262.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/does-wall-street-think-ambev-052015262.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "7abfa3f2-b455-3a9d-be1a-5d9e7b19a9cc",
+    "content": {
+      "id": "7abfa3f2-b455-3a9d-be1a-5d9e7b19a9cc",
+      "contentType": "STORY",
+      "title": "Ambev S.A. (ABEV): A Bull Case Theory",
+      "description": "",
+      "summary": "We came across a bullish thesis on Ambev S.A. on CompoundingLab’s Substack. In this article, we will summarize the bulls’ thesis on ABEV. Ambev S.A.’s share was trading at $2.57 as of December 1st. ABEV’s trailing and forward P/E were 13.45 and 13.26 respectively according to Yahoo Finance. Ambev appears undervalued, trading at roughly a 23% discount to […]",
+      "pubDate": "2025-12-05T20:07:47Z",
+      "displayTime": "2025-12-05T20:07:47Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/29915cd9d54f752618c858b4cf38c97d",
+        "originalWidth": 1920,
+        "originalHeight": 1280,
+        "caption": "Top 5 Beer Brands in the World",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/qSediGaHCazFZWUXtHcHsQ--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/29915cd9d54f752618c858b4cf38c97d",
+            "width": 1920,
+            "height": 1280,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/Zqp8LxjbemQRBOzkb6lzKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/29915cd9d54f752618c858b4cf38c97d",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Insider Monkey",
+        "url": "http://www.insidermonkey.com"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/ambev-abev-bull-case-theory-200747504.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/ambev-abev-bull-case-theory-200747504.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "ba4fa63c-daf2-3b31-9810-7cb7dbc53a35",
+    "content": {
+      "id": "ba4fa63c-daf2-3b31-9810-7cb7dbc53a35",
+      "contentType": "STORY",
+      "title": "How Recent Market Trends Are Shaping the Story Behind Ambev’s Valuation",
+      "description": "",
+      "summary": "Ambev’s price target guidance has seen modest revisions, reflecting shifts in both macroeconomic factors and sector trends. While the fair value remains unchanged, a slightly lower discount rate signals a cautious but steady outlook on long-term returns. Stay tuned to learn how you can stay ahead of future updates as Ambev’s stock narrative continues to evolve. Analyst Price Targets don't always capture the full story. Head over to our Company Report to find new ways to value Ambev. What Wall...",
+      "pubDate": "2025-11-30T15:08:15Z",
+      "displayTime": "2025-11-30T15:08:15Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/4007c5f60022f3d086a9ee282fe76bfc",
+        "originalWidth": 1194,
+        "originalHeight": 432,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/dpLU3vS73TRfQS5McoFUUQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/4007c5f60022f3d086a9ee282fe76bfc",
+            "width": 1194,
+            "height": 432,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/YzaqYwOmpZ6MvfahWtsepw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/4007c5f60022f3d086a9ee282fe76bfc",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Simply Wall St.",
+        "url": "https://simplywall.st/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/recent-market-trends-shaping-story-150815233.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/recent-market-trends-shaping-story-150815233.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "36ff0723-5440-375d-bd2b-12bba70292d0",
+    "content": {
+      "id": "36ff0723-5440-375d-bd2b-12bba70292d0",
+      "contentType": "STORY",
+      "title": "ABEV vs. BF.B: Which Stock Is the Better Value Option?",
+      "description": "",
+      "summary": "ABEV vs. BF.B: Which Stock Is the Better Value Option?",
+      "pubDate": "2025-11-28T16:40:03Z",
+      "displayTime": "2025-11-28T16:40:03Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/0K2vxHTAGj_tGrBqjPJ8Cg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
+            "width": 900,
+            "height": 600,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/Xhlfn4mpAJXpE0vIOolxTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/abev-vs-bf-b-stock-164003618.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/abev-vs-bf-b-stock-164003618.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "61f26799-92f9-3a5e-9094-12e61c1a5ad8",
+    "content": {
+      "id": "61f26799-92f9-3a5e-9094-12e61c1a5ad8",
+      "contentType": "STORY",
+      "title": "Autodesk upgraded, Nio downgraded: Wall Street's top analyst calls",
+      "description": "",
+      "summary": "Autodesk upgraded, Nio downgraded: Wall Street's top analyst calls",
+      "pubDate": "2025-11-26T14:43:23Z",
+      "displayTime": "2025-11-26T14:43:23Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec",
+        "originalWidth": 1200,
+        "originalHeight": 628,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/zUit8GQVW5kcaTZHEPMI9Q--~B/aD02Mjg7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec",
+            "width": 1200,
+            "height": 628,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/gS79B8voAjWV.54rV5PgVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "The Fly",
+        "url": "https://thefly.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/autodesk-upgraded-nio-downgraded-wall-144323241.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/autodesk-upgraded-nio-downgraded-wall-144323241.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  }
+]

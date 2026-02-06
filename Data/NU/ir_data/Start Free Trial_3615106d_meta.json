@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5f8ca8c5d3a74172bbe6be1c3bf748f164b88f83a5d7cee3441c4a4b975fd936
-size 239
+{
+  "label": "Start Free Trial",
+  "original_url": "https://dashboard.accessibe.com/app/signup",
+  "final_url": "https://dashboard.accessibe.com/app/signup",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

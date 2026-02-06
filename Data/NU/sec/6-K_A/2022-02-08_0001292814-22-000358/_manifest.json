@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7c3078b64410f02401f45c9126a061e158f4968163bff4e7e4e8fbf254a4af3e
-size 178
+{
+  "ticker": "NU",
+  "cik": 1691493,
+  "form": "6-K/A",
+  "filing_date": "2022-02-08",
+  "accession": "0001292814-22-000358",
+  "primary_document": "nu20220208_6ka.htm"
+}

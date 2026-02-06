@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19ad6897b761dd5085f9cdabd208d9418557d26d18f3fc1edb9bc7eb25954af6
-size 290
+{
+  "label": "Central de Resultados",
+  "original_url": "https://ri.weg.net/informacoes-financeiras/central-de-resultados/",
+  "final_url": "https://ri.weg.net/informacoes-financeiras/central-de-resultados/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

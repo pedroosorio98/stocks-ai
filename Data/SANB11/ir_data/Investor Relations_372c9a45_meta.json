@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:175a362ca245fa45f22c5934219f19f1dac05d57e8341a610a54bf4e09f8f3bc
-size 227
+{
+  "label": "Investor Relations",
+  "original_url": "https://www.santander.com.br/ri/en/",
+  "final_url": "https://www.santander.com.br/ri/en/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

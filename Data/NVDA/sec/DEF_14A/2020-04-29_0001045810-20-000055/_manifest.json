@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9658908fdf9f842e8d7f30e460db309d27a3403fa903afba0c1440fb67d83a99
-size 194
+{
+  "ticker": "NVDA",
+  "cik": 1045810,
+  "form": "DEF 14A",
+  "filing_date": "2020-04-29",
+  "accession": "0001045810-20-000055",
+  "primary_document": "nvda2020definitiveproxysta.htm"
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e32d5047dbdac1af5dae76a9f8a0a3ae49b201299d57e3c31ca4449edd5fd298
-size 348
+{
+  "label": "Corporate Reporting Channel",
+  "original_url": "https://www.bradescori.com.br/en/bradesco/corporate-governance/corporate-reporting-channel/",
+  "final_url": "https://www.bradescori.com.br/en/bradesco/corporate-governance/corporate-reporting-channel/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2de4595244b5a4ebda9048e5d06ff3c28be4d450cbb3fc573be72ac6760f1fa5
-size 157
+fiscalDateEnding,reportedEPS
+2025-12-31,0.4
+2024-12-31,0.4
+2023-12-31,0.21
+2022-12-31,-0.07
+2021-12-31,-0.0611
+2020-12-31,-0.1413
+2019-12-31,-0.0258

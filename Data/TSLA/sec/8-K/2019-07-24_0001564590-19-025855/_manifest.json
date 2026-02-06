@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4196b11f620d5cec7b1ac6d9562c5b85722ae223707daba21c17c490b3383229
-size 180
+{
+  "ticker": "TSLA",
+  "cik": 1318605,
+  "form": "8-K",
+  "filing_date": "2019-07-24",
+  "accession": "0001564590-19-025855",
+  "primary_document": "tsla-8k_20190724.htm"
+}

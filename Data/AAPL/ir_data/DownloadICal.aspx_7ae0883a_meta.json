@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cc19060a1c5622f85b297b152b0eb79447f3278d0fe78d5126060fce21a0c986
-size 264
+{
+  "label": "DownloadICal.aspx",
+  "original_url": "https://investor.apple.com/DownloadICal.aspx?id=1080",
+  "final_url": "https://investor.apple.com/DownloadICal.aspx?id=1080",
+  "content_type": "text/calendar; charset=utf-8",
+  "blocked_detected": false
+}

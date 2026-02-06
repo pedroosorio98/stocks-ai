@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7cc96436f7ec5042ab8b09c012767d26989a0a60b90a3a585e30419512b94b59
-size 228
+{
+  "label": "Reports",
+  "original_url": "https://www.investidores.nu/en/reports-2/",
+  "final_url": "https://www.investidores.nu/en/reports-2/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

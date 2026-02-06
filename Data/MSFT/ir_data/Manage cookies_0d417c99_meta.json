@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b83d20be0e650f90314da4cf71dfd7a8df5a80b1437f7dbde54634f38032cea6
-size 257
+{
+  "label": "Manage cookies",
+  "original_url": "https://www.microsoft.com/en-us/Investor/sec-filings",
+  "final_url": "https://www.microsoft.com/en-us/Investor/sec-filings",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

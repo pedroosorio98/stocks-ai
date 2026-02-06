@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1fa0e0c1e29e5cc34e115c2ec63736357b732ac3cc3715f698cc1dac4311c51c
-size 336
+{
+  "label": "Go to the search.",
+  "original_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/results-center/#search",
+  "final_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/results-center/#search",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

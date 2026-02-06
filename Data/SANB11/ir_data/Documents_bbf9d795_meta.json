@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d7b041aecc65e3e9b5d527e2636d63d4f200eb54befb7f369df8b27ddc76a85a
-size 327
+{
+  "label": "Documents",
+  "original_url": "https://www.sec.gov/Archives/edgar/data/1471055/000129281426000040/0001292814-26-000040-index.htm",
+  "final_url": "https://www.sec.gov/Archives/edgar/data/1471055/000129281426000040/0001292814-26-000040-index.htm",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

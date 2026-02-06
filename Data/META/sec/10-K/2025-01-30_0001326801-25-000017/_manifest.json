@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dce166eb9132e90fcc9ac933a8b1f39516bffaffa307dbdb16055c50cbe08934
-size 178
+{
+  "ticker": "META",
+  "cik": 1326801,
+  "form": "10-K",
+  "filing_date": "2025-01-30",
+  "accession": "0001326801-25-000017",
+  "primary_document": "meta-20241231.htm"
+}

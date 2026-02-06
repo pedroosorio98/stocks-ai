@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:532dd4c41a4ec4d5c5da867eb3aa4014489e9c8ba7d8eee76ea48c8cb34a4084
-size 185
+{
+  "label": "SEC.gov",
+  "original_url": "https://www.sec.gov",
+  "final_url": "https://www.sec.gov/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

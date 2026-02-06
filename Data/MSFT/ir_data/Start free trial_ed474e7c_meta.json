@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81f2cf1ea27763e21487c0abcf69d1076c03ed19495b04d948dce5077d204ff2
-size 311
+{
+  "label": "Start free trial",
+  "original_url": "https://www.microsoft.com/en-us/security/business/get-started/start-free-trial",
+  "final_url": "https://www.microsoft.com/en-us/security/business/get-started/start-free-trial",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

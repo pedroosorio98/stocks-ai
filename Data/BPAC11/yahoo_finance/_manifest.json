@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9de1ccb5adb6480883f264d9c0f94f1fb39a8643de72028fdfb00679bee51f8
-size 245
+{
+  "input_ticker": "BPAC11",
+  "yahoo_ticker_used": "BPAC11.SA",
+  "folder": "C:\\Users\\Pedro\\stocks-ai\\Data\\BPAC11\\yahoo_finance",
+  "notes": "Some modules are not available for all Brazil tickers; see errors/ folder for failures."
+}

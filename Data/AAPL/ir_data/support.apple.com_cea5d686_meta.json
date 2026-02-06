@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1fc4e06950c23225e3eabbe636a88bc8811a428b7270aaac7276921488836418
-size 290
+{
+  "label": "support.apple.com",
+  "original_url": "https://support.apple.com/?cid=mc-ols-general-b3d8fc66-apple-events",
+  "final_url": "https://support.apple.com/?cid=mc-ols-general-b3d8fc66-apple-events",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

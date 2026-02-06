@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4cb1b7aec3da659e4000f949a41e4b69c2111759ee0e07d6c21296d745f82ad9
-size 281
+{
+  "label": "Press Release",
+  "original_url": "https://news.microsoft.com/source/?p=22941",
+  "final_url": "https://news.microsoft.com/source/2025/12/02/microsoft-announces-quarterly-dividend-27/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

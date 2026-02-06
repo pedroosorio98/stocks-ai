@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:33af5ab3328cb29cbeca64022163702e004a6bc9274214198e4826c470131b34
-size 290
+{
+  "label": "Other CVM Filings",
+  "original_url": "https://ri.weg.net/en/publications-and-documents/other-cvm-filings/",
+  "final_url": "https://ri.weg.net/en/publications-and-documents/other-cvm-filings/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

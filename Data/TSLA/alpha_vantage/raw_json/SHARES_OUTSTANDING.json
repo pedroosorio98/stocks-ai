@@ -1,3 +1,223 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e503e15bec04e8c1a0a2628ef1fb3753bda51734ffa676ac726cf13f58b2cd7
-size 6641
+{
+  "response": {
+    "symbol": "TSLA",
+    "status": "success",
+    "data": [
+      {
+        "date": "2025-12-31",
+        "shares_outstanding_diluted": "3539000000",
+        "shares_outstanding_basic": "3539000000"
+      },
+      {
+        "date": "2025-09-30",
+        "shares_outstanding_diluted": "3526000000",
+        "shares_outstanding_basic": "3526000000"
+      },
+      {
+        "date": "2025-06-30",
+        "shares_outstanding_diluted": "3519000000",
+        "shares_outstanding_basic": "3519000000"
+      },
+      {
+        "date": "2025-03-31",
+        "shares_outstanding_diluted": "3521000000",
+        "shares_outstanding_basic": "3218000000"
+      },
+      {
+        "date": "2024-12-31",
+        "shares_outstanding_diluted": "3525000000",
+        "shares_outstanding_basic": "3212000000"
+      },
+      {
+        "date": "2024-09-30",
+        "shares_outstanding_diluted": "3497000000",
+        "shares_outstanding_basic": "3198000000"
+      },
+      {
+        "date": "2024-06-30",
+        "shares_outstanding_diluted": "3481000000",
+        "shares_outstanding_basic": "3191000000"
+      },
+      {
+        "date": "2024-03-31",
+        "shares_outstanding_diluted": "3484000000",
+        "shares_outstanding_basic": "3186000000"
+      },
+      {
+        "date": "2023-12-31",
+        "shares_outstanding_diluted": "3497000000",
+        "shares_outstanding_basic": "3183000000"
+      },
+      {
+        "date": "2023-09-30",
+        "shares_outstanding_diluted": "3493000000",
+        "shares_outstanding_basic": "3176000000"
+      },
+      {
+        "date": "2023-06-30",
+        "shares_outstanding_diluted": "3478000000",
+        "shares_outstanding_basic": "3171000000"
+      },
+      {
+        "date": "2023-03-31",
+        "shares_outstanding_diluted": "3468000000",
+        "shares_outstanding_basic": "3166000000"
+      },
+      {
+        "date": "2022-12-31",
+        "shares_outstanding_diluted": "3478000000",
+        "shares_outstanding_basic": "3160000000"
+      },
+      {
+        "date": "2022-09-30",
+        "shares_outstanding_diluted": "3468000000",
+        "shares_outstanding_basic": "3146000000"
+      },
+      {
+        "date": "2022-06-30",
+        "shares_outstanding_diluted": "1155000000",
+        "shares_outstanding_basic": "1037000000"
+      },
+      {
+        "date": "2022-03-31",
+        "shares_outstanding_diluted": "1157000000",
+        "shares_outstanding_basic": "1034000000"
+      },
+      {
+        "date": "2021-12-31",
+        "shares_outstanding_diluted": "1126000000",
+        "shares_outstanding_basic": "1013000000"
+      },
+      {
+        "date": "2021-09-30",
+        "shares_outstanding_diluted": "1123000000",
+        "shares_outstanding_basic": "998000000"
+      },
+      {
+        "date": "2021-06-30",
+        "shares_outstanding_diluted": "1119000000",
+        "shares_outstanding_basic": "971000000"
+      },
+      {
+        "date": "2021-03-31",
+        "shares_outstanding_diluted": "1133000000",
+        "shares_outstanding_basic": "961000000"
+      },
+      {
+        "date": "2020-12-31",
+        "shares_outstanding_diluted": "1155000000",
+        "shares_outstanding_basic": "951000000"
+      },
+      {
+        "date": "2020-09-30",
+        "shares_outstanding_diluted": "1105000000",
+        "shares_outstanding_basic": "937000000"
+      },
+      {
+        "date": "2020-06-30",
+        "shares_outstanding_diluted": "207000000",
+        "shares_outstanding_basic": "186000000"
+      },
+      {
+        "date": "2020-03-31",
+        "shares_outstanding_diluted": "199000000",
+        "shares_outstanding_basic": "183000000"
+      },
+      {
+        "date": "2019-12-31",
+        "shares_outstanding_diluted": "180000000",
+        "shares_outstanding_basic": "180000000"
+      },
+      {
+        "date": "2019-09-30",
+        "shares_outstanding_diluted": "184000000",
+        "shares_outstanding_basic": "179000000"
+      },
+      {
+        "date": "2019-06-30",
+        "shares_outstanding_diluted": "176654000",
+        "shares_outstanding_basic": "176654000"
+      },
+      {
+        "date": "2019-03-31",
+        "shares_outstanding_diluted": "172989000",
+        "shares_outstanding_basic": "172989000"
+      },
+      {
+        "date": "2018-12-31",
+        "shares_outstanding_diluted": "172043000",
+        "shares_outstanding_basic": "172043000"
+      },
+      {
+        "date": "2018-09-30",
+        "shares_outstanding_diluted": "178196000",
+        "shares_outstanding_basic": "170893000"
+      },
+      {
+        "date": "2018-06-30",
+        "shares_outstanding_diluted": "169997000",
+        "shares_outstanding_basic": "169997000"
+      },
+      {
+        "date": "2018-03-31",
+        "shares_outstanding_diluted": "169146000",
+        "shares_outstanding_basic": "169146000"
+      },
+      {
+        "date": "2017-12-31",
+        "shares_outstanding_diluted": "168341000",
+        "shares_outstanding_basic": "168341000"
+      },
+      {
+        "date": "2017-09-30",
+        "shares_outstanding_diluted": "167294000",
+        "shares_outstanding_basic": "167294000"
+      },
+      {
+        "date": "2017-06-30",
+        "shares_outstanding_diluted": "165212000",
+        "shares_outstanding_basic": "165212000"
+      },
+      {
+        "date": "2017-03-31",
+        "shares_outstanding_diluted": "162129000",
+        "shares_outstanding_basic": "162129000"
+      },
+      {
+        "date": "2016-12-31",
+        "shares_outstanding_diluted": "155105000",
+        "shares_outstanding_basic": "155105000"
+      },
+      {
+        "date": "2016-09-30",
+        "shares_outstanding_diluted": "156935000",
+        "shares_outstanding_basic": "148991000"
+      },
+      {
+        "date": "2015-12-31",
+        "shares_outstanding_diluted": "131133000",
+        "shares_outstanding_basic": "131133000"
+      },
+      {
+        "date": "2015-09-30",
+        "shares_outstanding_diluted": "129006000",
+        "shares_outstanding_basic": "129006000"
+      },
+      {
+        "date": "2014-03-31",
+        "shares_outstanding_diluted": "123472782",
+        "shares_outstanding_basic": "123472782"
+      }
+    ]
+  },
+  "request": {
+    "function": "SHARES_OUTSTANDING",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "TSLA"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=SHARES_OUTSTANDING&apikey=1W86SMG399FCFAIM&symbol=TSLA"
+  }
+}

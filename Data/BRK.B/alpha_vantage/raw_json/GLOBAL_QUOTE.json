@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4a70de2f490d76116cb7cc0fcfd68b510ea3ba46169b496e7010c3448232936e
-size 707
+{
+  "response": {
+    "Global Quote": {
+      "01. symbol": "BRK.B",
+      "02. open": "495.8000",
+      "03. high": "512.1300",
+      "04. low": "495.6700",
+      "05. price": "503.8300",
+      "06. volume": "10591665",
+      "07. latest trading day": "2026-02-04",
+      "08. previous close": "493.7400",
+      "09. change": "10.0900",
+      "10. change percent": "2.0436%"
+    }
+  },
+  "request": {
+    "function": "GLOBAL_QUOTE",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "BRK.B"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&apikey=1W86SMG399FCFAIM&symbol=BRK.B"
+  }
+}

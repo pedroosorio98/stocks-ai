@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ead9a3c7f930ed8159bc261fe1a4cd76851e5948ec3d451e2ab51bd90cf8b152
-size 284
+{
+  "label": "Presentations",
+  "original_url": "https://www.bradescori.com.br/en/market-information/presentations/",
+  "final_url": "https://www.bradescori.com.br/en/market-information/presentations/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

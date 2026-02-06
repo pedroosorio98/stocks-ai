@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:adc442b8e9619cf8d38922b884f9148f80bb1026e75333f2d9741d2f9eb0b4b3
-size 418
+{
+  "response": {
+    "symbol": "TSLA",
+    "quarter": "",
+    "transcript": []
+  },
+  "request": {
+    "function": "EARNINGS_CALL_TRANSCRIPT",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "TSLA"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=EARNINGS_CALL_TRANSCRIPT&apikey=1W86SMG399FCFAIM&symbol=TSLA"
+  }
+}

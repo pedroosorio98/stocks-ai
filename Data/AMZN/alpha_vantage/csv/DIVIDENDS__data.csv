@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c14c2aea4921d7625909abfa5a350bb295b0502cfd53bead88757bf091d7db55
-size 98
+ex_dividend_date,declaration_date,record_date,payment_date,amount
+2022-12-27,None,None,None,0.0

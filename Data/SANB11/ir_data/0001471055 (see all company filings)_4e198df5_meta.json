@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:43c76c6334e433f5279709ac68ca803eff10c92008b54cd1036bc5444cd1f909
-size 352
+{
+  "label": "0001471055 (see all company filings)",
+  "original_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001471055&owner=exclude&count=40",
+  "final_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001471055&owner=exclude&count=40",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

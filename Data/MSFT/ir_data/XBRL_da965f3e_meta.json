@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:543f3f567ec917f304154a7aa5d090cea3a6c143efe85bc90bb880028315dd36
-size 291
+{
+  "label": "XBRL",
+  "original_url": "https://www.microsoft.com/en-us/investor/sec-filings?year=2026&filing=xbrl",
+  "final_url": "https://www.microsoft.com/en-us/investor/sec-filings?year=2026&filing=xbrl",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7ca784adef1755e1d968cb6f38d21083858c96e880dc40a2d979ce10a627ff6b
-size 304
+{
+  "label": "Central de Resultados",
+  "original_url": "https://ri.klabin.com.br/divulgacoes-e-resultados/central-de-resultados/",
+  "final_url": "https://ri.klabin.com.br/divulgacoes-e-resultados/central-de-resultados/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

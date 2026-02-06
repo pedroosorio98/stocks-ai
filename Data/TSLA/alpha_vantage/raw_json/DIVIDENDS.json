@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12114ecbf2f64b0df14d5bfb6964ccd08ae5f5fda8fea1783bf8b0042c09cd9b
-size 362
+{
+  "response": {
+    "symbol": "TSLA",
+    "data": []
+  },
+  "request": {
+    "function": "DIVIDENDS",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "TSLA"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=DIVIDENDS&apikey=1W86SMG399FCFAIM&symbol=TSLA"
+  }
+}

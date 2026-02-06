@@ -1,3 +1,583 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6b768a292d2e013ddf31722faa34c7315e2c2f147db999b5b0941f9f15b66c6f
-size 23367
+[
+  {
+    "id": "b06ded3b-9214-3d94-b7d2-8f627d182ecf",
+    "content": {
+      "id": "b06ded3b-9214-3d94-b7d2-8f627d182ecf",
+      "contentType": "STORY",
+      "title": "Stock Market Today, Jan. 27: Banco Bradesco Rises Ahead of Brazilian Central Bank Meeting",
+      "description": "",
+      "summary": "Today, Jan. 27, 2026, Brazilian financial stocks are performing well as investors hope for rate cuts in coming months.",
+      "pubDate": "2026-01-28T17:13:36Z",
+      "displayTime": "2026-01-28T17:13:36Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/motleyfool.com/ece2644f62c999828edb4a744e8a56b7",
+        "originalWidth": 1401,
+        "originalHeight": 1251,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/C8Z.edwcv5LnY1X79lXlqg--~B/aD0xMjUxO3c9MTQwMTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/ece2644f62c999828edb4a744e8a56b7",
+            "width": 1401,
+            "height": 1251,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/por.ey9JT.I7DXXFMtt3aQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ece2644f62c999828edb4a744e8a56b7",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Motley Fool",
+        "url": "http://www.fool.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/01/28/stock-market-today-jan-27-banco-bradesco-rises-ahead-of-brazilian-central-bank-meeting/",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/stock-market-today-jan-27-171336617.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "04af5de1-a7d6-36f1-8064-1dfc49264922",
+    "content": {
+      "id": "04af5de1-a7d6-36f1-8064-1dfc49264922",
+      "contentType": "STORY",
+      "title": "Stock Market Today, Jan. 5: Nu Holdings Sets New High",
+      "description": "",
+      "summary": "Nu Holdings’ fresh price record puts Latin American digital banking growth in sharper focus for U.S. investors, today, Jan. 5, 2026.",
+      "pubDate": "2026-01-05T23:19:44Z",
+      "displayTime": "2026-01-05T23:19:44Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/motleyfool.com/ece2644f62c999828edb4a744e8a56b7",
+        "originalWidth": 1401,
+        "originalHeight": 1251,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/C8Z.edwcv5LnY1X79lXlqg--~B/aD0xMjUxO3c9MTQwMTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/ece2644f62c999828edb4a744e8a56b7",
+            "width": 1401,
+            "height": 1251,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/por.ey9JT.I7DXXFMtt3aQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ece2644f62c999828edb4a744e8a56b7",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Motley Fool",
+        "url": "http://www.fool.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/01/05/stock-market-today-jan-5-nu-holdings-sets-new-high/",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/stock-market-today-jan-5-231944757.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "444fa581-384e-3827-bd9c-fc3730037ddd",
+    "content": {
+      "id": "444fa581-384e-3827-bd9c-fc3730037ddd",
+      "contentType": "STORY",
+      "title": "Latin American Stocks Shake Off Trump Threats—for Now",
+      "description": "",
+      "summary": "Investors in Latin America are betting that the U.S. operation to oust Venezuela’s Nicolás Maduro won’t derail the region’s strong recent performance.  Despite the Trump administration’s saber-rattling in the Western Hemisphere, the region’s largest stocks mostly rose, tracking gains in U.S. markets.  The S&P Latin America 40 index—home to blue-chip companies such as Brazil’s Banco Bradesco and Mexico’s Grupo México—was trading more than 2% higher Monday afternoon.",
+      "pubDate": "2026-01-05T19:40:33Z",
+      "displayTime": "2026-01-05T19:40:33Z",
+      "isHosted": false,
+      "bypassModal": false,
+      "previewUrl": "https://finance.yahoo.com/m/444fa581-384e-3827-bd9c-fc3730037ddd/latin-american-stocks-shake.html",
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+        "originalWidth": 1200,
+        "originalHeight": 630,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/Fwf5HL4GsEGPbDfR3MJBPg--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+            "width": 1200,
+            "height": 630,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "The Wall Street Journal",
+        "url": "http://www.wsj.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/latin-american-stocks-shake-off-trump-threats-for-now-ScvTgAaCx9boyIZyOrrw?siteid=yhoof2&yptr=yahoo",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": null,
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "671a8dba-b866-367e-a1c4-878cb3126a4e",
+    "content": {
+      "id": "671a8dba-b866-367e-a1c4-878cb3126a4e",
+      "contentType": "STORY",
+      "title": "Brazil’s Stock Market Had a Knockout Year. More Gains Hinge on Political Change.",
+      "description": "",
+      "summary": "What’s driving the bull run in Brazilian stocks is the prospect of change under a new president after the election next October.",
+      "pubDate": "2025-12-27T00:45:00Z",
+      "displayTime": "2025-12-27T00:45:00Z",
+      "isHosted": false,
+      "bypassModal": false,
+      "previewUrl": "https://finance.yahoo.com/m/671a8dba-b866-367e-a1c4-878cb3126a4e/brazil%E2%80%99s-stock-market-had-a.html",
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/Barrons.com/4dfbcbd6815be300a3d33cf0caaa2a95",
+        "originalWidth": 1280,
+        "originalHeight": 640,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/q2JloUNMDJoNKpyvd6cnyQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/4dfbcbd6815be300a3d33cf0caaa2a95",
+            "width": 1280,
+            "height": 640,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/xr2Tx2.PxqZmCcWfg2nGAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/4dfbcbd6815be300a3d33cf0caaa2a95",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Barrons.com",
+        "url": "http://www.barrons.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://www.barrons.com/articles/brazil-stock-market-bull-run-president-election-bonds-415b43d1?siteid=yhoof2&yptr=yahoo",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": null,
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "e9e1e73e-41ee-31c4-bdb4-5ff676e59875",
+    "content": {
+      "id": "e9e1e73e-41ee-31c4-bdb4-5ff676e59875",
+      "contentType": "STORY",
+      "title": "Bank Bradesco SA (BBD) Q3 2025 Earnings Call Highlights: Strong Revenue Growth and Strategic ...",
+      "description": "",
+      "summary": "Bank Bradesco SA (BBD) reports robust financial performance with significant revenue growth and strategic focus on efficiency and market expansion.",
+      "pubDate": "2025-11-06T01:01:30Z",
+      "displayTime": "2025-11-06T01:01:30Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/us.finance.gurufocus/cff059980af119bb846f337229529179",
+        "originalWidth": 250,
+        "originalHeight": 81,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/SKJMUSizCPxIqABiove6Ig--~B/aD04MTt3PTI1MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/us.finance.gurufocus/cff059980af119bb846f337229529179",
+            "width": 250,
+            "height": 81,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/XfU7GyQeDgiOpaY8MfAD9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/cff059980af119bb846f337229529179",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "GuruFocus.com",
+        "url": "http://www.gurufocus.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/bank-bradesco-sa-bbd-q3-010130337.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/bank-bradesco-sa-bbd-q3-010130337.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "de8fe45f-3c1c-3c91-8596-aaa44f049c22",
+    "content": {
+      "id": "de8fe45f-3c1c-3c91-8596-aaa44f049c22",
+      "contentType": "STORY",
+      "title": "Banco Bradesco (BBD) is a Great Momentum Stock: Should You Buy?",
+      "description": "",
+      "summary": "Does Banco Bradesco (BBD) have what it takes to be a top stock pick for momentum investors? Let's find out.",
+      "pubDate": "2025-11-04T17:00:02Z",
+      "displayTime": "2025-11-04T17:00:02Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
+        "originalWidth": 900,
+        "originalHeight": 618,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/bHsRpCKrGzzbaGHEolBtWw--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
+            "width": 900,
+            "height": 618,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/ioqNyI9jOh7CiNNfF8upSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/banco-bradesco-bbd-great-momentum-170002623.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/banco-bradesco-bbd-great-momentum-170002623.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "db14a2e8-c133-3299-ba1c-cd41b6d04575",
+    "content": {
+      "id": "db14a2e8-c133-3299-ba1c-cd41b6d04575",
+      "contentType": "STORY",
+      "title": "What Developments Are Changing the Narrative for Banco Bradesco?",
+      "description": "",
+      "summary": "Banco Bradesco's stock narrative has recently shifted, with its fair value price target moving from R$19.25 to R$19.64. This change reflects improved revenue growth projections and ongoing optimism surrounding the bank's future. Analysts cite confidence in the company’s strategic direction as a key reason for the modest upward revision. Stay tuned to find out how you can keep track of Bradesco's evolving outlook and what signals to watch for in upcoming analyst updates. Analyst Price Targets...",
+      "pubDate": "2025-11-02T00:16:28Z",
+      "displayTime": "2025-11-02T00:16:28Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/064d0b7911046f8efd85160776a9b33b",
+        "originalWidth": 1194,
+        "originalHeight": 432,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/jg8PADlkEXYEw5CXkVJkoA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/064d0b7911046f8efd85160776a9b33b",
+            "width": 1194,
+            "height": 432,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/HkW9eIFzgh_dkCnVyjLHCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/064d0b7911046f8efd85160776a9b33b",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Simply Wall St.",
+        "url": "https://simplywall.st/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/developments-changing-narrative-banco-bradesco-001628341.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/developments-changing-narrative-banco-bradesco-001628341.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "8d0e97ef-999f-36c7-ae96-3b055090eb1e",
+    "content": {
+      "id": "8d0e97ef-999f-36c7-ae96-3b055090eb1e",
+      "contentType": "STORY",
+      "title": "Options Volume in Banco Bradesco Soars, Fueling Breakout Buzz for Brazilian Bank",
+      "description": "",
+      "summary": "Brazilian bank Banco Bradesco’s stock is already up 84% in 2025. Yesterday, the bank stock’s options volume was nearly 21 times its average volume. It had five unusually active options on Wednesday trading. All five were calls. Time to buy?",
+      "pubDate": "2025-10-30T17:30:02Z",
+      "displayTime": "2025-10-30T17:30:02Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/barchart_com_477/0398fe1951b0ff436207f7f19cc21824",
+        "originalWidth": 1600,
+        "originalHeight": 1067,
+        "caption": "Page of newspaper with words options trading by Vitalii Vodolazskyi via Shutterstock",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/0g9P54llAjTTDPVdDAdstw--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/0398fe1951b0ff436207f7f19cc21824",
+            "width": 1600,
+            "height": 1067,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/6TdWtj6ZH44xPkUlAXikqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/0398fe1951b0ff436207f7f19cc21824",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Barchart",
+        "url": "https://www.barchart.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://www.barchart.com/story/news/35802573/options-volume-in-banco-bradesco-soars-fueling-breakout-buzz-for-brazilian-bank",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/options-volume-banco-bradesco-soars-173002499.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "1bc5a581-c798-34bb-8a6a-2db95795cd13",
+    "content": {
+      "id": "1bc5a581-c798-34bb-8a6a-2db95795cd13",
+      "contentType": "STORY",
+      "title": "Banco Bradesco: Q3 Earnings Snapshot",
+      "description": "",
+      "summary": "OSASCO, Brazil (AP) — Banco Bradesco SA (BBD) on Wednesday reported third-quarter earnings of $1.01 billion. The Osasco, Brazil-based bank said it had earnings of 9 cents per share. The results missed Wall Street expectations.",
+      "pubDate": "2025-10-29T22:31:54Z",
+      "displayTime": "2025-10-29T22:31:54Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": null,
+      "provider": {
+        "displayName": "Associated Press Finance",
+        "url": "http://www.ap.org/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/banco-bradesco-q3-earnings-snapshot-223154740.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/banco-bradesco-q3-earnings-snapshot-223154740.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "d027327d-53af-3e15-9379-7e6bc7ef748f",
+    "content": {
+      "id": "d027327d-53af-3e15-9379-7e6bc7ef748f",
+      "contentType": "STORY",
+      "title": "Goldman Sachs Upgrades Banco Bradesco (BBD) on Improved Capital Generation and Earnings Momentum",
+      "description": "",
+      "summary": "Banco Bradesco S.A. (NYSE:BBD) is included among the 10 Best Dividend Stocks Under $10 to Invest in. Banco Bradesco S.A. (NYSE:BBD), on‍e of Brazil’s largest fin⁠ancial institutions, o‍ffers a broad⁠ port‍f⁠oli‍o​ of banking, insuran‌ce,⁠ and financial services to individua⁠ls, companies, and​ corporations‍. On October 14, Goldman Sachs⁠ upgraded⁠ Banco Bradesco S.A. (NYSE:BBD) fro‍m Sell to […]",
+      "pubDate": "2025-10-29T03:26:58Z",
+      "displayTime": "2025-10-29T03:26:58Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/cc88fe4a0a16614c80d5e42ac175454e",
+        "originalWidth": 1280,
+        "originalHeight": 853,
+        "caption": "Goldman Sachs Upgrades Banco Bradesco (BBD) on Improved Capital Generation and Earnings Momentum",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/C8vHk0sJM1cKY88_KYHBxg--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/cc88fe4a0a16614c80d5e42ac175454e",
+            "width": 1280,
+            "height": 853,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/iPgO83GKA9sWZuGcFlgAuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/cc88fe4a0a16614c80d5e42ac175454e",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Insider Monkey",
+        "url": "http://www.insidermonkey.com"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/goldman-sachs-upgrades-banco-bradesco-032658364.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/goldman-sachs-upgrades-banco-bradesco-032658364.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  }
+]

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4a20d283420f95de703bc3d51736c46cb30211e3bad8e83084ddac70f0dd49b8
-size 182
+{
+  "ticker": "AAPL",
+  "cik": 320193,
+  "form": "DEF 14A",
+  "filing_date": "2023-01-12",
+  "accession": "0001308179-23-000019",
+  "primary_document": "laap2023_def14a.htm"
+}

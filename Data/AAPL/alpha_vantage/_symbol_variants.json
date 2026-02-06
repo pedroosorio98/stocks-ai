@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f5a2addbf8eea84b69e895de7bc5292abc39256706c6819d81110a1f75964bb9
-size 145
+{
+  "original_symbol": "AAPL",
+  "variants": [
+    "AAPL"
+  ],
+  "note": "This script picks the best variant per endpoint and caches it."
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:56fc8ec02b0df8c79e5a8a7d3e0516967c2fcb8ba22058f21fe237865f5a1a3b
-size 273
+{
+  "label": "VIEW ONLINE",
+  "original_url": "https://www.microsoft.com/investor/reports/ar04/nonflash/default.html",
+  "final_url": "https://www.microsoft.com/investor/reports/ar04/nonflash/default.html",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

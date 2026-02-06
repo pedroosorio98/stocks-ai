@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4dcfa0e08d5348536632552351836cbcb4ff490d6a9fe86dbf8e75fbfe8a5297
-size 350
+{
+  "response": {
+    "symbol": "NU",
+    "data": []
+  },
+  "request": {
+    "function": "SPLITS",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "NU"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=SPLITS&apikey=1W86SMG399FCFAIM&symbol=NU"
+  }
+}

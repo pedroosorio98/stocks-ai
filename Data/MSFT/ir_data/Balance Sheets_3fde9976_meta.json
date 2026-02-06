@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d1474ac3dcde8ea63c1d1fa85fc1e36133db08f092af7d9b9f6d89d7aed6bde2
-size 303
+{
+  "label": "Balance Sheets",
+  "original_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/balance-sheets",
+  "final_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/balance-sheets",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

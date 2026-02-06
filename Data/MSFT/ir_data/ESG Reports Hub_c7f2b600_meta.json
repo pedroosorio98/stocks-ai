@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17d9e3d44d7f724d2bad19d017e83b0496ab6c240be8aa501e5c463fe3759eb3
-size 296
+{
+  "label": "ESG Reports Hub",
+  "original_url": "https://www.microsoft.com/en-us/about/corporate-responsibility/reports-hub",
+  "final_url": "https://www.microsoft.com/en-us/corporate-responsibility/reports-hub",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

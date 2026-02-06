@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:052e02235b949e1ed1125cf028ca1673dbd4a01424404700564fcf2e80941715
-size 348
+{
+  "label": "Broadridge Financial Solutions, Inc.",
+  "original_url": "https://edge.prnewswire.com/c/link/?t=0&l=en&o=4573292-1&h=2146208071&u=http%3A%2F%2Fwww.broadridge.com%2F&a=Broadridge+Financial+Solutions%2C+Inc.",
+  "final_url": "https://www.broadridge.com/",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

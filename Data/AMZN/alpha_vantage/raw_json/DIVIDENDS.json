@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:acba25491cc34d9973d23d80c7f040153d4b1b16eb3b556cbac0c224142d4274
-size 556
+{
+  "response": {
+    "symbol": "AMZN",
+    "data": [
+      {
+        "ex_dividend_date": "2022-12-27",
+        "declaration_date": "None",
+        "record_date": "None",
+        "payment_date": "None",
+        "amount": "0.0"
+      }
+    ]
+  },
+  "request": {
+    "function": "DIVIDENDS",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "AMZN"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=DIVIDENDS&apikey=1W86SMG399FCFAIM&symbol=AMZN"
+  }
+}

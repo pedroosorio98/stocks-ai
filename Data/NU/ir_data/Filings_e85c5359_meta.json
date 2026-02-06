@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d18235a27b6608fd032b967b624f67a50db91226f1534851073f1b56664be340
-size 246
+{
+  "label": "Filings",
+  "original_url": "https://www.investidores.nu/en/financials/filings/",
+  "final_url": "https://www.investidores.nu/en/financials/filings/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

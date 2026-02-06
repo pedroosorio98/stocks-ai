@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7ef13fbfbb44447516982d4b59323bf8a09f92c6aa48a1e232ef20e64c009daf
-size 472
+{
+  "response": {
+    "Error Message": "Invalid ticker format: BRK.B. Ticker can only contain alphanumeric characters, colons, underscores, and hyphens"
+  },
+  "params": {
+    "function": "NEWS_SENTIMENT",
+    "apikey": "1W86SMG399FCFAIM",
+    "tickers": "BRK.B"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&apikey=1W86SMG399FCFAIM&tickers=BRK.B"
+  }
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e73a261d2434c0c00c60ed0fc3654319422e1a68385ecda9f7595c93f2edf31
-size 332
+{
+  "label": "Central de Resultados",
+  "original_url": "https://www.investidorpetrobras.com.br/resultados-e-comunicados/central-de-resultados/",
+  "final_url": "https://www.investidorpetrobras.com.br/resultados-e-comunicados/central-de-resultados/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

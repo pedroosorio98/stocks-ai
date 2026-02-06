@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c64d012d9860b797b6c8d8f8455138347eda5a68f9da714c152ca30fa398ef72
-size 703
+{
+  "response": {
+    "Global Quote": {
+      "01. symbol": "MSFT",
+      "02. open": "411.0000",
+      "03. high": "419.8000",
+      "04. low": "409.2400",
+      "05. price": "414.1900",
+      "06. volume": "45012374",
+      "07. latest trading day": "2026-02-04",
+      "08. previous close": "411.2100",
+      "09. change": "2.9800",
+      "10. change percent": "0.7247%"
+    }
+  },
+  "request": {
+    "function": "GLOBAL_QUOTE",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "MSFT"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&apikey=1W86SMG399FCFAIM&symbol=MSFT"
+  }
+}

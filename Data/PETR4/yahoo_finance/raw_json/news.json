@@ -1,3 +1,612 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e97a15c29cb393e58816538d4f71177f367b1e755c6164eec418894961b4b5b
-size 23699
+[
+  {
+    "id": "87797475-224d-3814-9788-d5a40413844c",
+    "content": {
+      "id": "87797475-224d-3814-9788-d5a40413844c",
+      "contentType": "STORY",
+      "title": "Petrobras (PBR) Announces Increase in Estimated Proven Reserves",
+      "description": "",
+      "summary": "The share price of Petróleo Brasileiro S.A. – Petrobras (NYSE:PBR) surged by 12.71% between January 22 and January 29, 2026, putting it among the Energy Stocks that Gained the Most This Week. Petróleo Brasileiro S.A. – Petrobras (NYSE:PBR) is one of the largest oil and gas producers in the world. The Brazilian company is mainly […]",
+      "pubDate": "2026-01-31T17:18:37Z",
+      "displayTime": "2026-01-31T17:18:37Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/6e8fc6ba2be22ce90f896795270ab88d",
+        "originalWidth": 1456,
+        "originalHeight": 816,
+        "caption": "Petrobras (PBR) Announces Increase in Estimates Proven Reserves",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/fnxf1TnTJxWaok_wY9sL2g--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/6e8fc6ba2be22ce90f896795270ab88d",
+            "width": 1456,
+            "height": 816,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/Ft7Ks0ESsmVOMeo68CTNFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6e8fc6ba2be22ce90f896795270ab88d",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Insider Monkey",
+        "url": "http://www.insidermonkey.com"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/petrobras-pbr-announces-increase-estimated-171837289.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/petrobras-pbr-announces-increase-estimated-171837289.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "dadb2abf-d9e2-3ba1-adcb-8ab0ddc3a6c1",
+    "content": {
+      "id": "dadb2abf-d9e2-3ba1-adcb-8ab0ddc3a6c1",
+      "contentType": "STORY",
+      "title": "Investors Heavily Search Petroleo Brasileiro S.A.- Petrobras (PBR): Here is What You Need to Know",
+      "description": "",
+      "summary": "Petrobras (PBR) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+      "pubDate": "2026-01-30T14:00:03Z",
+      "displayTime": "2026-01-30T14:00:03Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
+        "originalWidth": 900,
+        "originalHeight": 633,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
+            "width": 900,
+            "height": 633,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/dyt3crCN4lSY1Napwi9gXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/investors-heavily-search-petroleo-brasileiro-140003819.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/investors-heavily-search-petroleo-brasileiro-140003819.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "defe35fc-5df7-3ec3-aa50-8c511e5cab20",
+    "content": {
+      "id": "defe35fc-5df7-3ec3-aa50-8c511e5cab20",
+      "contentType": "STORY",
+      "title": "Petrobras (PBR) Advances While Market Declines: Some Information for Investors",
+      "description": "",
+      "summary": "In the most recent trading session, Petrobras (PBR) closed at $15.39, indicating a +2.43% shift from the previous trading day.",
+      "pubDate": "2026-01-28T22:50:02Z",
+      "displayTime": "2026-01-28T22:50:02Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/737ffb82e07dc8bffb77e72d153c91f2",
+        "originalWidth": 900,
+        "originalHeight": 469,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/T44Iwg7RbRrkaTIYz_liyQ--~B/aD00Njk7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/737ffb82e07dc8bffb77e72d153c91f2",
+            "width": 900,
+            "height": 469,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/EYRUzXGjRyiee50fz6.x3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/737ffb82e07dc8bffb77e72d153c91f2",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/petrobras-pbr-advances-while-market-225002164.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/petrobras-pbr-advances-while-market-225002164.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "5c5fb602-f693-3f3b-a7b7-a8b65b13bbc5",
+    "content": {
+      "id": "5c5fb602-f693-3f3b-a7b7-a8b65b13bbc5",
+      "contentType": "STORY",
+      "title": "Petrobras renews oil deals with Indian refiners worth more than $3.1 billion",
+      "description": "",
+      "summary": "SAO PAULO, Jan 28 (Reuters) - Brazil's state-run oil firm Petrobras said on Wednesday it has expanded and renewed oil sales contracts with Indian state-owned oil refiners. ",
+      "pubDate": "2026-01-28T18:29:01Z",
+      "displayTime": "2026-01-28T18:29:01Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/reuters.com/356123545f3e5a916a9c1d257b993235",
+        "originalWidth": 800,
+        "originalHeight": 534,
+        "caption": "A view shows the logo of Brazilian state-run oil firm Petrobras in Rio de Janeiro, Brazil June 5, 2025. REUTERS/Ricardo Moraes",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/hi4lvK3sH7Awx_eEXnsobA--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/356123545f3e5a916a9c1d257b993235",
+            "width": 800,
+            "height": 534,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/v4CXgIGYNRPfgmBZWm4WlQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/356123545f3e5a916a9c1d257b993235",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://sg.finance.yahoo.com/news/petrobras-renews-oil-deals-indian-182901519.html",
+        "site": "finance",
+        "region": "SG",
+        "lang": "en-SG"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/petrobras-renews-oil-deals-indian-182901519.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "62be1efa-30c3-3fc4-b75b-957ec99317c6",
+    "content": {
+      "id": "62be1efa-30c3-3fc4-b75b-957ec99317c6",
+      "contentType": "STORY",
+      "title": "Wall Street Bulls Look Optimistic About Petrobras (PBR): Should You Buy?",
+      "description": "",
+      "summary": "According to the average brokerage recommendation (ABR), one should invest in Petrobras (PBR). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
+      "pubDate": "2026-01-26T14:30:02Z",
+      "displayTime": "2026-01-26T14:30:02Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/a7cdcede0bb5a646be035f4a7e678781",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/e0VWXB5.wUFiKGuJPPpLzg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a7cdcede0bb5a646be035f4a7e678781",
+            "width": 900,
+            "height": 600,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/LXEcF_svRsDk_k1Ry1vm8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a7cdcede0bb5a646be035f4a7e678781",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/wall-street-bulls-look-optimistic-143002573.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/wall-street-bulls-look-optimistic-143002573.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "5f7721cc-d665-36ab-9fcf-271375f91ce1",
+    "content": {
+      "id": "5f7721cc-d665-36ab-9fcf-271375f91ce1",
+      "contentType": "STORY",
+      "title": "Why Investors Need to Take Advantage of These 2 Oils-Energy Stocks Now",
+      "description": "",
+      "summary": "Why investors should use the Zacks Earnings ESP tool to help find stocks that are poised to top quarterly earnings estimates.",
+      "pubDate": "2026-01-26T14:00:05Z",
+      "displayTime": "2026-01-26T14:00:05Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
+        "originalWidth": 900,
+        "originalHeight": 845,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/gUf3JPAiwp3PVjuDKftvaA--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
+            "width": 900,
+            "height": 845,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/eCx50FHAThtC2odHVlyBEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/why-investors-advantage-2-oils-140005587.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/why-investors-advantage-2-oils-140005587.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "644d36eb-db76-3b8b-9d6b-20112152bcf8",
+    "content": {
+      "id": "644d36eb-db76-3b8b-9d6b-20112152bcf8",
+      "contentType": "STORY",
+      "title": "India says state-run BPCL to sign oil deal with Brazil's Petrobras",
+      "description": "",
+      "summary": "NEW DELHI, Jan 23 (Reuters) - Indian state refiner Bharat Petroleum Corp will sign a deal with Brazil's national oil company Petrobras to buy 12 million barrels of Brazilian oil valued at $780 million",
+      "pubDate": "2026-01-23T10:46:17Z",
+      "displayTime": "2026-01-23T10:46:17Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/reuters.com/77daf92b0e6805c708feced74a83e038",
+        "originalWidth": 800,
+        "originalHeight": 542,
+        "caption": "A private security guard stands in front of the regional head office of oil refiner Bharat Petroleum Corp (BPCL) in Kolkata, India, November 28, 2019. REUTERS/Rupak De Chowdhuri",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/P64SS5sJU6BDQiG5FfYAAA--~B/aD01NDI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/77daf92b0e6805c708feced74a83e038",
+            "width": 800,
+            "height": 542,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/6yMxl3shCehiwr.mCXWhmA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/77daf92b0e6805c708feced74a83e038",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://sg.finance.yahoo.com/news/india-says-state-run-bpcl-104617445.html",
+        "site": "finance",
+        "region": "SG",
+        "lang": "en-SG"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/india-says-state-run-bpcl-104617445.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "c1d0f052-40cb-33de-a0ff-c8ef0952dd59",
+    "content": {
+      "id": "c1d0f052-40cb-33de-a0ff-c8ef0952dd59",
+      "contentType": "STORY",
+      "title": "Indian Oil buys Angola, Brazil, UAE oil to replace Russian crude, sources say",
+      "description": "",
+      "summary": "By Nidhi Verma and Siyi Liu NEW DELHI/SINGAPORE, Jan 23 (Reuters) - Indian Oil Corp, the country's top refiner, has bought 7 million barrels of oil, including from Brazil's Petrobras, for March",
+      "pubDate": "2026-01-23T06:31:02Z",
+      "displayTime": "2026-01-23T06:31:02Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/reuters.com/4b248233a1bd0e95a35a47f285c3b859",
+        "originalWidth": 800,
+        "originalHeight": 534,
+        "caption": "Indian Oil Corp Ltd logo is seen displayed in this illustration taken, April 10, 2023. REUTERS/Dado Ruvic/Illustration",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/XQDsjAOk16YUMx18.f5X4A--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/4b248233a1bd0e95a35a47f285c3b859",
+            "width": 800,
+            "height": 534,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/W4lAUUkFdJkBhZplcNPs.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/4b248233a1bd0e95a35a47f285c3b859",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://sg.finance.yahoo.com/news/indian-oil-buys-angola-brazil-063102104.html",
+        "site": "finance",
+        "region": "SG",
+        "lang": "en-SG"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/indian-oil-buys-angola-brazil-063102104.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "f5d04319-75cf-38ba-bfe3-d856fd2c99a2",
+    "content": {
+      "id": "f5d04319-75cf-38ba-bfe3-d856fd2c99a2",
+      "contentType": "STORY",
+      "title": "Petrobras (PBR) Surges 5.3%: Is This an Indication of Further Gains?",
+      "description": "",
+      "summary": "Petrobras (PBR) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term.",
+      "pubDate": "2026-01-22T10:11:00Z",
+      "displayTime": "2026-01-22T10:11:00Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/fd48a5cf2c95a786941ac36b8be5f5ee",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/GmjltQwZgbIPaTlqfuD5cg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/fd48a5cf2c95a786941ac36b8be5f5ee",
+            "width": 900,
+            "height": 600,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/GvbwufjUvd.76syDw1JnuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/fd48a5cf2c95a786941ac36b8be5f5ee",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/petrobras-pbr-surges-5-3-101100270.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/petrobras-pbr-surges-5-3-101100270.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "5a1fc45a-29ad-31cc-8688-4453308fcb8c",
+    "content": {
+      "id": "5a1fc45a-29ad-31cc-8688-4453308fcb8c",
+      "contentType": "STORY",
+      "title": "Chevron or Petrobras: Best Bet After the Venezuela Shock Now",
+      "description": "",
+      "summary": "We compare CVX's Venezuela upside with PBR's operating momentum, then look at stock performance, valuation, and earnings trends to see how the two stack up today.",
+      "pubDate": "2026-01-21T14:10:00Z",
+      "displayTime": "2026-01-21T14:10:00Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/8bfd0f623b5292106ecd2c62d71b3372",
+        "originalWidth": 555,
+        "originalHeight": 213,
+        "caption": "Zacks Investment Research",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/aqonx.4BiUKKPZt131hTHQ--~B/aD0yMTM7dz01NTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8bfd0f623b5292106ecd2c62d71b3372",
+            "width": 555,
+            "height": 213,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/hP.AoX2AnJcnTcWvoy44.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8bfd0f623b5292106ecd2c62d71b3372",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/chevron-petrobras-best-bet-venezuela-141000123.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/chevron-petrobras-best-bet-venezuela-141000123.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  }
+]

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4d01fdfe99d72ce211e59701641f709f481dc3c7fb04bb381ac4af2b03bd8d7d
-size 322
+{
+  "label": "Registration and Reference Form",
+  "original_url": "https://ri.weg.net/en/financial-information/registration-and-reference-form/",
+  "final_url": "https://ri.weg.net/en/financial-information/registration-and-reference-form/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

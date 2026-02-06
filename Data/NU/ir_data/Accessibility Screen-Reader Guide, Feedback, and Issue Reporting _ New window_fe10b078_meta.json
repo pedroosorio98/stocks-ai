@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b2dee776c4e3c6c48c8f1fd5f78ca603a279c52baa735e9c9ef2c0fb27941bda
-size 335
+{
+  "label": "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window",
+  "original_url": "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+  "final_url": "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

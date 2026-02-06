@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:121ffb80333885dd7348b75e98dfe6ade32368e3d47a9fee8ff1d1dacc77bda0
-size 186
+{
+  "ticker": "NVDA",
+  "cik": 1045810,
+  "form": "8-K",
+  "filing_date": "2020-04-27",
+  "accession": "0001045810-20-000052",
+  "primary_document": "form8-kmellanoxclosing.htm"
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0e9fef4adfa4bc8d6bf6b5916198c359883b59c3108a4497bcfee0f07621593b
-size 273
+{
+  "label": "Investor Relations",
+  "original_url": "https://investor.apple.com/investor-relations/default.aspx",
+  "final_url": "https://investor.apple.com/investor-relations/default.aspx",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

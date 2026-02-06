@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0b95bcea2dddf5e1cd503549c42ebc847d76db9a1725f1dc0a89ef1f29d4421d
-size 220
+01. symbol,02. open,03. high,04. low,05. price,06. volume,07. latest trading day,08. previous close,09. change,10. change percent
+META,687.7300,688.8300,667.4600,668.9900,16882761,2026-02-04,691.7000,-22.7100,-3.2832%

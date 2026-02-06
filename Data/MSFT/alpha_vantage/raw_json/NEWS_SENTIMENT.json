@@ -1,3 +1,2972 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:51304f9703bce3f842bb05835bdc68d45d546b46a8f58d53d78bd8f23aafe5f7
-size 127472
+{
+  "response": {
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+      {
+        "title": "Form 424B2 GOLDMAN SACHS GROUP INC",
+        "url": "https://www.streetinsider.com/SEC+Filings/Form+424B2+GOLDMAN+SACHS+GROUP+INC/25952607.html",
+        "time_published": "20260205T155656",
+        "authors": [],
+        "summary": "This SEC filing (Form 424B2) details the offering of \"Contingent Income Auto-Callable Securities\" by GS Finance Corp., guaranteed by The Goldman Sachs Group, Inc., based on the performance of Microsoft Corporation common stock. These principal-at-risk securities offer quarterly contingent coupon payments if Microsoft's stock price meets certain thresholds, but investors risk losing all or a significant portion of their principal if the stock falls below a downside threshold. The securities may be automatically called if the stock price reaches or exceeds the initial share price on specified observation dates.",
+        "banner_image": null,
+        "source": "StreetInsider",
+        "category_within_source": "General",
+        "source_domain": "StreetInsider",
+        "topics": [
+          {
+            "topic": "finance",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.932274"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.834569"
+          }
+        ],
+        "overall_sentiment_score": 0.00115,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "GS",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.141954",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.830310",
+            "ticker_sentiment_score": "-0.138054",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Dow drops 215 points on losses for shares of Amazon.com Inc., Microsoft",
+        "url": "https://www.msn.com/en-us/money/markets/dow-drops-215-points-on-losses-for-shares-of-amazon-com-inc-microsoft/ar-AA1VKlBK",
+        "time_published": "20260205T153711",
+        "authors": [],
+        "summary": "The Dow Jones Industrial Average dropped by 215 points due to declines in shares of major tech companies, Amazon.com Inc. and Microsoft. This indicates a challenging day for the stock market, particularly for the technology sector.",
+        "banner_image": null,
+        "source": "MSN",
+        "category_within_source": "General",
+        "source_domain": "MSN",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.902801"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.730058"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.624336"
+          }
+        ],
+        "overall_sentiment_score": -0.602587,
+        "overall_sentiment_label": "Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMZN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.613361",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.941367",
+            "ticker_sentiment_score": "-0.600506",
+            "ticker_sentiment_label": "Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Gen Digital earnings on deck: Can AI features reverse revenue slide?",
+        "url": "https://uk.investing.com/news/earnings/gen-digital-earnings-on-deck-can-ai-features-reverse-revenue-slide-93CH-4491321",
+        "time_published": "20260205T151834",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Gen Digital (NASDAQ: GEN) is set to report its fiscal third-quarter earnings, with analysts anticipating EPS of $0.63 and revenue of $1.2 billion. The company faces scrutiny over its ability to reverse an expected sequential revenue decline, the traction of its AI-driven cybersecurity features, and the success of its acquisition of MoneyLion. Investors are keenly watching these areas to determine if Gen Digital can sustain growth amid competitive pressures and market saturation.",
+        "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+        "source": "Investing.com UK",
+        "category_within_source": "General",
+        "source_domain": "Investing.com UK",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.908291"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.803544"
+          }
+        ],
+        "overall_sentiment_score": -0.130756,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "GEN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.128662",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.628393",
+            "ticker_sentiment_score": "-0.124551",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.623080",
+            "ticker_sentiment_score": "-0.136557",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.633802",
+            "ticker_sentiment_score": "-0.112859",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "2 Fidelity ETFs To Buy In February",
+        "url": "https://247wallst.com/investing/2026/02/05/2-fidelity-etfs-to-buy-in-february/",
+        "time_published": "20260205T144844",
+        "authors": [
+          "Vandita Jadeja"
+        ],
+        "summary": "This article recommends two Fidelity ETFs, the Fidelity Blue Chip Growth ETF (FBCG) and the Fidelity Disruptive Technology ETF (FDTX), as strong buys for February. FBCG focuses on large-cap growth stocks, particularly in the tech sector, with strong returns over the past three years. FDTX invests in disruptive technology companies, showing significant growth since its 2020 launch and concentrating on the semiconductor and software industries.",
+        "banner_image": "https://247wallst.com/wp-content/uploads/2015/12/fidelityinvestmentslogo-e1451507178449.jpg",
+        "source": "24/7 Wall St.",
+        "category_within_source": "General",
+        "source_domain": "24/7 Wall St.",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.908987"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.807523"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.712703"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.627923"
+          }
+        ],
+        "overall_sentiment_score": 0.388361,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "FDTX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.387069",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.738414",
+            "ticker_sentiment_score": "0.445817",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.660996",
+            "ticker_sentiment_score": "0.431293",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.615712",
+            "ticker_sentiment_score": "0.329815",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Cummins (NYSE:CMI) Posts Better-Than-Expected Sales In Q4 CY2025",
+        "url": "https://finviz.com/news/301181/cummins-nyse-cmi-posts-better-than-expected-sales-in-q4-cy2025",
+        "time_published": "20260205T134650",
+        "authors": [
+          "Kayode Omotosho"
+        ],
+        "summary": "Cummins (NYSE:CMI) reported better-than-expected revenue in Q4 CY2025, with sales increasing 1.1% year-on-year to $8.54 billion, surpassing analyst estimates. Despite robust sales and record full-year results in its Distribution and Power Systems segments, GAAP EPS missed expectations at $4.27 per share. The company's stock dipped slightly post-announcement, indicating mixed market reaction to the results.",
+        "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/cummins-cover-image-0f6bc7443fea_2024-06-26-071200_vzzb.jpeg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.820537"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.737961"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.617546"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.603138"
+          }
+        ],
+        "overall_sentiment_score": 0.070016,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "CMI",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.262205",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.559646",
+            "ticker_sentiment_score": "-0.145754",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.597495",
+            "ticker_sentiment_score": "0.056094",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.569564",
+            "ticker_sentiment_score": "0.061416",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.586772",
+            "ticker_sentiment_score": "0.065574",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Apple Becomes Apple Again",
+        "url": "https://247wallst.com/apps-software/2026/02/05/apple-becomes-apple-again/",
+        "time_published": "20260205T134540",
+        "authors": [
+          "Douglas A. McIntyre"
+        ],
+        "summary": "Apple's stock has surged by 36% in the last six months, significantly outperforming the S&P 500, despite concerns about its lack of a proprietary AI product. This resurgence comes as other major AI companies like Amazon, Meta, and Microsoft face investor skepticism due to high investments and slow integration of AI into paid products. Apple's decision to integrate Google's Gemini AI into \"Apple Intelligence\" through a reported $1 billion annual deal is seen as a remarkably favorable move for the company.",
+        "banner_image": "https://247wallst.com/wp-content/uploads/2024/05/imageForEntry28-5sq.jpg",
+        "source": "24/7 Wall St.",
+        "category_within_source": "General",
+        "source_domain": "24/7 Wall St.",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.941477"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.816233"
+          }
+        ],
+        "overall_sentiment_score": -0.117642,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "AAPL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.409988",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.723577",
+            "ticker_sentiment_score": "-0.247507",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.625071",
+            "ticker_sentiment_score": "-0.239945",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "ORCL",
+            "relevance_score": "0.616626",
+            "ticker_sentiment_score": "-0.314431",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.632082",
+            "ticker_sentiment_score": "-0.135525",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "HORAN Wealth LLC Acquires 6,139 Shares of RTX Corporation $RTX",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-horan-wealth-llc-acquires-6139-shares-of-rtx-corporation-rtx-2026-02-05/",
+        "time_published": "20260205T122701",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "HORAN Wealth LLC significantly increased its stake in RTX Corporation, purchasing an additional 6,139 shares, bringing its total holdings to 9,072 shares valued at approximately $1.52 million. This increase follows a strong quarter for RTX, which beat earnings estimates and raised its FY2026 guidance, while securing major defense contracts. Despite positive news, the stock is seeing some profit-taking and valuation concerns.",
+        "banner_image": "https://www.marketbeat.com/logos/rtx-corporation-logo-1200x675.png?v=20251216095440",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.917744"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.824303"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.744482"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.646562"
+          }
+        ],
+        "overall_sentiment_score": 0.282894,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "RTX",
+            "relevance_score": "0.967087",
+            "ticker_sentiment_score": "0.410169",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.553921",
+            "ticker_sentiment_score": "0.269871",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "JPM",
+            "relevance_score": "0.551757",
+            "ticker_sentiment_score": "0.263452",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.552235",
+            "ticker_sentiment_score": "0.274799",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Ashton Thomas Private Wealth LLC Purchases 91,476 Shares of VICI Properties Inc. $VICI",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-ashton-thomas-private-wealth-llc-purchases-91476-shares-of-vici-properties-inc-vici-2026-02-05/",
+        "time_published": "20260205T121437",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Ashton Thomas Private Wealth LLC significantly increased its stake in VICI Properties Inc., adding 91,476 shares to hold a total of 131,798 shares valued at $4.356 million. VICI Properties, a real estate investment trust specializing in experiential real estate, offers a dividend yield of 6.2% and has a \"Moderate Buy\" consensus rating from analysts with an average price target of $33.85. The company's stock recently traded near $28.83, supporting a market cap of approximately $30.8 billion.",
+        "banner_image": "https://www.marketbeat.com/logos/vici-properties-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.929598"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.836650"
+          },
+          {
+            "topic": "real_estate",
+            "relevance_score": "0.749797"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.606263"
+          }
+        ],
+        "overall_sentiment_score": 0.083811,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "VICI",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.294616",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "DECK",
+            "relevance_score": "0.582673",
+            "ticker_sentiment_score": "0.245585",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.614847",
+            "ticker_sentiment_score": "0.209152",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.550781",
+            "ticker_sentiment_score": "-0.101232",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.535108",
+            "ticker_sentiment_score": "-0.175643",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Coca-Cola Europacific Partners $CCEP Shares Sold by Cullen Capital Management LLC",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-coca-cola-europacific-partners-ccep-shares-sold-by-cullen-capital-management-llc-2026-02-05/",
+        "time_published": "20260205T121419",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Cullen Capital Management LLC reduced its stake in Coca-Cola Europacific Partners (CCEP) by 9.8% in the third quarter, selling 56,417 shares and retaining 520,359 shares valued at $47.0 million. Despite the sale, analyst sentiment remains largely positive with a \"Moderate Buy\" consensus rating and an average price target of $100.80. The company's stock recently opened at $94.85, with a 12-month trading range of $78.00–$100.67.",
+        "banner_image": "https://www.marketbeat.com/logos/coca-cola-europacific-partners-plc-logo-1200x675.jpg?v=20231226131737",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.941657"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.806030"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.605954"
+          }
+        ],
+        "overall_sentiment_score": 0.076758,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "KO",
+            "relevance_score": "0.724885",
+            "ticker_sentiment_score": "0.259972",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.647419",
+            "ticker_sentiment_score": "0.247578",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.611261",
+            "ticker_sentiment_score": "-0.147951",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NFLX",
+            "relevance_score": "0.573461",
+            "ticker_sentiment_score": "-0.093932",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.594883",
+            "ticker_sentiment_score": "-0.090627",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Machina Capital S.A.S. Buys New Stake in Arista Networks, Inc. $ANET",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-machina-capital-sas-buys-new-stake-in-arista-networks-inc-anet-2026-02-05/",
+        "time_published": "20260205T115657",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Machina Capital S.A.S. has acquired a new stake of 9,986 shares in Arista Networks, Inc., valued at approximately $1.455 million, during the third quarter. This comes as several institutional investors have also adjusted their holdings in the technology company. Despite beating quarterly earnings estimates and reporting significant revenue growth, Arista Networks’ stock was down 6.5%, though analysts maintain a \"Moderate Buy\" rating with an average target of $164.44.",
+        "banner_image": "https://www.marketbeat.com/logos/arista-networks-inc-logo-1200x675.gif",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.937588"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.847582"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.829896"
+          }
+        ],
+        "overall_sentiment_score": 0.183987,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "ANET",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.129790",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.641974",
+            "ticker_sentiment_score": "0.290025",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.649430",
+            "ticker_sentiment_score": "0.286019",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.617707",
+            "ticker_sentiment_score": "0.294224",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.637463",
+            "ticker_sentiment_score": "-0.110633",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Expro Group Holdings N.V. (NYSE:XPRO) Given Consensus Recommendation of \"Hold\" by Analysts",
+        "url": "https://www.marketbeat.com/instant-alerts/expro-group-holdings-nv-nysexpro-given-consensus-recommendation-of-hold-by-analysts-2026-02-05/",
+        "time_published": "20260205T114412",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Expro Group Holdings N.V. (NYSE:XPRO) has received a consensus \"Hold\" rating from six research firms, with an average 1-year price target of $14.00. Recent analyst reports show varied recommendations, including \"neutral,\" \"underweight,\" and \"overweight\" ratings with price target adjustments. Institutional investors have also been active, increasing or decreasing their stakes in the company, which currently has a market cap of $1.82 billion.",
+        "banner_image": "https://www.marketbeat.com/logos/expro-group-holdings-nv-logo-1200x675.png?v=20211203143341",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.940843"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.823961"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.735579"
+          }
+        ],
+        "overall_sentiment_score": 0.050206,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "XPRO",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.045183",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "OXY",
+            "relevance_score": "0.683493",
+            "ticker_sentiment_score": "0.128866",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.555356",
+            "ticker_sentiment_score": "0.100678",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.526147",
+            "ticker_sentiment_score": "-0.108237",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.553439",
+            "ticker_sentiment_score": "0.129577",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Ashton Thomas Private Wealth LLC Increases Stock Holdings in Amdocs Limited $DOX",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-ashton-thomas-private-wealth-llc-increases-stock-holdings-in-amdocs-limited-dox-2026-02-05/",
+        "time_published": "20260205T112913",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Ashton Thomas Private Wealth LLC significantly increased its stake in Amdocs Limited, boosting its holdings by 226.9% in Q3 to 76,084 shares, valued at approximately $6.28 million. Amdocs recently reported strong Q1 earnings, beating analyst estimates, and increased its quarterly dividend by about 8%. Despite a positive earnings report and strategic wins, the company experienced a roughly 10% share pullback following mixed market reactions to its FY26 guidance and an announced CEO succession.",
+        "banner_image": "https://www.marketbeat.com/logos/amdocs-limited-logo-1200x675.png?v=20240119120004",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.941528"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.841609"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.709481"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.610386"
+          }
+        ],
+        "overall_sentiment_score": 0.286189,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "DOX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.146076",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TMUS",
+            "relevance_score": "0.650489",
+            "ticker_sentiment_score": "0.739726",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.577290",
+            "ticker_sentiment_score": "-0.140508",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.592896",
+            "ticker_sentiment_score": "0.271915",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "ZoomInfo Technologies (NASDAQ:GTM) Upgraded at Piper Sandler",
+        "url": "https://www.marketbeat.com/instant-alerts/zoominfo-technologies-nasdaqgtm-upgraded-at-piper-sandler-2026-02-05/",
+        "time_published": "20260205T112908",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Piper Sandler has upgraded ZoomInfo Technologies (NASDAQ:GTM) to a \"hold\" rating. This upgrade follows several other analyst adjustments, with the company currently holding an average \"Hold\" rating and a consensus price target of $11.39 based on MarketBeat.com data. The article also provides a financial overview, recent earnings performance, and details on institutional investor activity in GTM.",
+        "banner_image": "https://www.marketbeat.com/logos/zoominfo-technologies-inc-logo-1200x675.jpg?v=20250613073732",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.918961"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.814491"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.708786"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.641257"
+          }
+        ],
+        "overall_sentiment_score": 0.279064,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GTM",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.230111",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.597301",
+            "ticker_sentiment_score": "0.269573",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.578380",
+            "ticker_sentiment_score": "0.264829",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.520402",
+            "ticker_sentiment_score": "0.234569",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.554385",
+            "ticker_sentiment_score": "0.280429",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Alphabet Inc. $GOOGL Shares Sold by First Business Financial Services Inc.",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-alphabet-inc-googl-shares-sold-by-first-business-financial-services-inc-2026-02-05/",
+        "time_published": "20260205T105746",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "First Business Financial Services Inc. reduced its stake in Alphabet Inc. (NASDAQ:GOOGL) by 5.8% in Q3, selling 2,372 shares to hold 38,376 shares valued at $9.3 million. Other institutional investors also adjusted their positions, with hedge funds and institutional investors collectively owning 40.03% of the company's stock. Analysts maintain a \"Moderate Buy\" rating for Alphabet, with a consensus target price of $336.60, despite recent insider selling and concerns about high capital expenditure projections for 2026.",
+        "banner_image": "https://www.marketbeat.com/logos/google-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.916771"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.809432"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.847696"
+          }
+        ],
+        "overall_sentiment_score": 0.158326,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "FBIZ",
+            "relevance_score": "0.337062",
+            "ticker_sentiment_score": "0.043178",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.929407",
+            "ticker_sentiment_score": "0.341059",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AVGO",
+            "relevance_score": "0.605605",
+            "ticker_sentiment_score": "0.107943",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.624981",
+            "ticker_sentiment_score": "0.149182",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.628920",
+            "ticker_sentiment_score": "0.240850",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Jones Financial Companies Lllp Purchases 20,758 Shares of Arista Networks, Inc. $ANET",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-jones-financial-companies-lllp-purchases-20758-shares-of-arista-networks-inc-anet-2026-02-05/",
+        "time_published": "20260205T105540",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Jones Financial Companies LLP increased its stake in Arista Networks (NYSE:ANET) by 31.8% during the third quarter, acquiring 20,758 additional shares, bringing its total holdings to 85,953 shares valued at approximately $12.25 million. Despite significant insider selling totaling $27.55 million in the last 90 days, Arista Networks exceeded recent quarterly earnings expectations, and analysts maintain a \"Moderate Buy\" rating with a consensus price target of $164.44.",
+        "banner_image": "https://www.marketbeat.com/logos/arista-networks-inc-logo-1200x675.gif",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.925932"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.806898"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.742200"
+          }
+        ],
+        "overall_sentiment_score": 0.153047,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "ANET",
+            "relevance_score": "0.990539",
+            "ticker_sentiment_score": "0.291855",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.604460",
+            "ticker_sentiment_score": "0.100914",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.569308",
+            "ticker_sentiment_score": "0.103952",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "PLTR",
+            "relevance_score": "0.613605",
+            "ticker_sentiment_score": "0.108328",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.567856",
+            "ticker_sentiment_score": "0.137741",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "BI Asset Management Fondsmaeglerselskab A S Decreases Stock Holdings in HCA Healthcare, Inc. $HCA",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-bi-asset-management-fondsmaeglerselskab-a-s-decreases-stock-holdings-in-hca-healthcare-inc-hca-2026-02-05/",
+        "time_published": "20260205T105457",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "BI Asset Management Fondsmaeglerselskab A S reduced its stake in HCA Healthcare by 2.9% in the third quarter, selling 4,327 shares to hold 143,627 shares valued at approximately $61.21 million. Despite this trimming, HCA Healthcare reported strong quarterly earnings, beating EPS estimates and announcing an increased quarterly dividend of $0.78 per share ($3.12 annualized). The company maintains a \"Moderate Buy\" consensus rating from analysts with an average price target of $519.71.",
+        "banner_image": "https://www.marketbeat.com/logos/hca-healthcare-inc-logo-1200x675.png?v=20231226131558",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.912339"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.801141"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.710745"
+          }
+        ],
+        "overall_sentiment_score": 0.178909,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "HCA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.298848",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.634828",
+            "ticker_sentiment_score": "0.118729",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.553397",
+            "ticker_sentiment_score": "0.107080",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.582421",
+            "ticker_sentiment_score": "0.102938",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "DECK",
+            "relevance_score": "0.556484",
+            "ticker_sentiment_score": "0.147216",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Prologis, Inc. $PLD Shares Bought by Envestnet Asset Management Inc.",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-prologis-inc-pld-shares-bought-by-envestnet-asset-management-inc-2026-02-05/",
+        "time_published": "20260205T105411",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Envestnet Asset Management Inc. increased its stake in Prologis, Inc. (NYSE:PLD) by 3.6% in the third quarter, bringing its total holdings to 3,644,875 shares valued at approximately $417.4 million. This increased investment comes as Prologis explores a co-investment fund and a potential $25 billion expansion into AI/data-center assets, a strategic move that has contributed to the stock reaching a 52-week high. Analysts currently maintain a \"Moderate Buy\" rating for Prologis, with an average target price of $135.32, following strong quarterly revenue and positive FY26 EPS guidance.",
+        "banner_image": "https://www.marketbeat.com/logos/800px-ProLogis_logo.svg-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.904915"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.866690"
+          },
+          {
+            "topic": "real_estate",
+            "relevance_score": "0.939360"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.785764"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.610501"
+          }
+        ],
+        "overall_sentiment_score": 0.236682,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "PLD",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.504557",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.574915",
+            "ticker_sentiment_score": "0.145553",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.550457",
+            "ticker_sentiment_score": "0.102931",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Academy Capital Management Sells 14,381 Shares of Alphabet Inc. $GOOG",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-academy-capital-management-sells-14381-shares-of-alphabet-inc-goog-2026-02-05/",
+        "time_published": "20260205T104725",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Academy Capital Management reduced its holdings in Alphabet Inc. (NASDAQ:GOOG) by 6.4% in the third quarter, selling 14,381 shares and now owning 209,850 shares valued at $51.1 million. This reduction comes amidst mixed sentiment for Alphabet, with positive signs from strong Q4 earnings, accelerating Cloud growth, and significant Waymo funding, contrasted by high 2026 capital expenditure forecasts and some insider selling. Despite Academy Capital Management's sale, many other institutional investors increased their stakes in Alphabet during recent quarters.",
+        "banner_image": "https://www.marketbeat.com/logos/google-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.900629"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.817066"
+          }
+        ],
+        "overall_sentiment_score": 0.064249,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.319191",
+            "ticker_sentiment_score": "0.008874",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.033317",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.649718",
+            "ticker_sentiment_score": "0.136918",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Amdocs agentic aOS system boosts Gen AI support for telecom operators",
+        "url": "https://capacityglobal.com/news/amdocs-generative-ai-launch-strategy-telecommunications/",
+        "time_published": "20260205T102913",
+        "authors": [
+          "Amber Jackson"
+        ],
+        "summary": "Amdocs has launched aOS, an agentic operating system designed for telecommunications to accelerate Generative AI strategies. This system aims to embed intelligence into telecom operations, improving customer and employee experiences and unlocking new growth opportunities and operational efficiencies for Communication Services Providers (CSPs). Amdocs highlights that aOS will help CSPs move from AI experimentation to real impact by creating a cognitive ecosystem for AI agents, built on modular architecture and strategic partnerships with tech leaders like Nvidia, Microsoft, Google, and AWS.",
+        "banner_image": "https://capacityglobal.com/wp-content/uploads/2026/02/Amdocs-aOS.jpg",
+        "source": "Global Telecoms Business",
+        "category_within_source": "General",
+        "source_domain": "Global Telecoms Business",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "0.942789"
+          }
+        ],
+        "overall_sentiment_score": 0.315654,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "DOX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.459823",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.640105",
+            "ticker_sentiment_score": "0.340620",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.566269",
+            "ticker_sentiment_score": "0.258636",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.566534",
+            "ticker_sentiment_score": "0.274205",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Principal Financial Group Inc. Sells 19,331 Shares of Kimberly-Clark Corporation $KMB",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-principal-financial-group-inc-sells-19331-shares-of-kimberly-clark-corporation-kmb-2026-02-05/",
+        "time_published": "20260205T102902",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Principal Financial Group Inc. reduced its stake in Kimberly-Clark Corporation (NASDAQ:KMB) by 4.9% in the 3rd quarter, selling 19,331 shares and retaining 377,300 shares valued at $46.91 million. Despite this reduction, other institutional investors have increased their holdings. Kimberly-Clark recently reported Q3 earnings of $1.86 per share, beating analyst estimates, and increased its quarterly dividend to $1.28.",
+        "banner_image": "https://www.marketbeat.com/logos/kimberly-clark-co-logo-1200x675.jpg?v=20221024144613",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.912749"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.833859"
+          }
+        ],
+        "overall_sentiment_score": 0.15898,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "KMB",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.259271",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "SBUX",
+            "relevance_score": "0.629908",
+            "ticker_sentiment_score": "0.120970",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TGT",
+            "relevance_score": "0.648505",
+            "ticker_sentiment_score": "0.131850",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.644595",
+            "ticker_sentiment_score": "0.120501",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.646392",
+            "ticker_sentiment_score": "0.126715",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Strs Ohio Sells 9,300 Shares of Matson, Inc. $MATX",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-strs-ohio-sells-9300-shares-of-matson-inc-matx-2026-02-05/",
+        "time_published": "20260205T102856",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Strs Ohio significantly reduced its stake in Matson, Inc. (NYSE:MATX) by selling 9,300 shares in Q3, decreasing its holding by 91.2% to 900 shares. Despite this, Matson has a \"Hold\" consensus rating with a target price of $156.25 and recently beat Q3 earnings estimates. The company also declared a quarterly dividend of $0.36 per share.",
+        "banner_image": "https://www.marketbeat.com/logos/matson-inc-logo-1200x675.jpg?v=20240424115558",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.933786"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.808125"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.701511"
+          }
+        ],
+        "overall_sentiment_score": 0.17347,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "MATX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.200966",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.561263",
+            "ticker_sentiment_score": "0.283709",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.582074",
+            "ticker_sentiment_score": "0.303030",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "DECK",
+            "relevance_score": "0.581450",
+            "ticker_sentiment_score": "0.241201",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.536797",
+            "ticker_sentiment_score": "-0.182652",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "The TJX Companies, Inc. $TJX Stake Decreased by J.W. Cole Advisors Inc.",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-the-tjx-companies-inc-tjx-stake-decreased-by-jw-cole-advisors-inc-2026-02-05/",
+        "time_published": "20260205T102730",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "J.W. Cole Advisors Inc. significantly reduced its stake in The TJX Companies (TJX) by 27.9% in Q3. Despite this, TJX reported strong Q3 earnings, beating analyst expectations for both EPS and revenue, and issued optimistic guidance for Q4 2026 and FY2026. The stock maintains a \"Buy\" consensus rating from analysts, a 1.1% dividend yield, and active institutional ownership, although insiders have recently sold shares.",
+        "banner_image": "https://www.marketbeat.com/logos/the-tjx-companies-inc-logo-1200x675.png?v=20240102162711",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.941892"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.826755"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.745673"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.608537"
+          }
+        ],
+        "overall_sentiment_score": 0.139805,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "TJX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.287875",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.608102",
+            "ticker_sentiment_score": "0.128318",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "DECK",
+            "relevance_score": "0.603781",
+            "ticker_sentiment_score": "0.124909",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.635175",
+            "ticker_sentiment_score": "0.131531",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.644909",
+            "ticker_sentiment_score": "0.149894",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Envestnet Asset Management Inc. Grows Stock Holdings in WEC Energy Group, Inc. $WEC",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-envestnet-asset-management-inc-grows-stock-holdings-in-wec-energy-group-inc-wec-2026-02-05/",
+        "time_published": "20260205T094058",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Envestnet Asset Management Inc. increased its stake in WEC Energy Group, Inc. by 12.4% during the third quarter, now owning 3,046,591 shares valued at $349.1 million. Other institutional investors also adjusted their positions, with 77.20% of the stock held by institutional investors. WEC Energy Group recently declared a quarterly dividend of $0.9525 per share, representing a 3.4% annual yield, and analysts have issued varied ratings with an average target price of $120.33.",
+        "banner_image": "https://www.marketbeat.com/logos/wec-energy-group-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.923061"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.811272"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.711414"
+          }
+        ],
+        "overall_sentiment_score": 0.229634,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "WEC",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.390296",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.586476",
+            "ticker_sentiment_score": "0.228742",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.577570",
+            "ticker_sentiment_score": "0.227341",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.571570",
+            "ticker_sentiment_score": "0.205399",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.576187",
+            "ticker_sentiment_score": "0.218235",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Envestnet Asset Management Inc. Has $358.80 Million Stake in Starbucks Corporation $SBUX",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-envestnet-asset-management-inc-has-35880-million-stake-in-starbucks-corporation-sbux-2026-02-05/",
+        "time_published": "20260205T094048",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Envestnet Asset Management Inc. increased its stake in Starbucks Corporation (NASDAQ:SBUX) by 10.6% in the third quarter, bringing its total holdings to 4,241,131 shares valued at $358.80 million. Other large institutional investors also either boosted or initiated positions in Starbucks during the second quarter. The article notes Starbucks' stock performance, recent earnings, dividend announcement, and a summary of analyst ratings, indicating a \"Moderate Buy\" consensus.",
+        "banner_image": "https://www.marketbeat.com/logos/starbucks-co-logo-1200x675.png?v=20231214122544",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.948045"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.821633"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.700763"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.606636"
+          }
+        ],
+        "overall_sentiment_score": 0.140987,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "SBUX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.142954",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.618723",
+            "ticker_sentiment_score": "0.211119",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.626621",
+            "ticker_sentiment_score": "0.218652",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.610428",
+            "ticker_sentiment_score": "-0.143022",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.635463",
+            "ticker_sentiment_score": "0.234414",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Amkor Technology, Inc. $AMKR Shares Sold by Mirae Asset Global Investments Co. Ltd.",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-amkor-technology-inc-amkr-shares-sold-by-mirae-asset-global-investments-co-ltd-2026-02-05/",
+        "time_published": "20260205T093104",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Mirae Asset Global Investments Co. Ltd. significantly reduced its stake in Amkor Technology (NASDAQ:AMKR) by 92.7% in the third quarter, selling 365,957 shares and retaining 28,733 shares valued at approximately $816,000. Analyst ratings for Amkor are mixed, with Needham and Zacks upgrading their views, while the consensus remains a \"Hold\" with an average target price of $39.14. Insiders also sold approximately 96,000 shares worth $4.09 million in the last quarter, with insiders now owning 26.9% of the company's stock.",
+        "banner_image": "https://www.marketbeat.com/logos/amkor-technology-inc-logo-1200x675.jpg",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.946719"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.810712"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.701027"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.620786"
+          }
+        ],
+        "overall_sentiment_score": -0.071252,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMKR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.058238",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.619101",
+            "ticker_sentiment_score": "-0.060775",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.561195",
+            "ticker_sentiment_score": "-0.098459",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.595074",
+            "ticker_sentiment_score": "-0.061540",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Triglav Investments D.O.O. Acquires New Position in Welltower Inc. $WELL",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-triglav-investments-doo-acquires-new-position-in-welltower-inc-well-2026-02-05/",
+        "time_published": "20260205T092958",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Triglav Investments D.O.O. has acquired a new position of 11,600 shares in Welltower Inc. (NYSE:WELL) during the third quarter, valued at approximately $2.07 million. This move is part of a broader trend of high institutional ownership in Welltower, with several other investment firms also increasing or initiating positions. Analysts have a \"Moderate Buy\" consensus rating for WELL, with a target price of $204.80.",
+        "banner_image": "https://www.marketbeat.com/logos/welltower-inc-logo-1200x675.png?v=20250307145305",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "real_estate",
+            "relevance_score": "0.911096"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.819780"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.704089"
+          }
+        ],
+        "overall_sentiment_score": 0.226048,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "WELL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.421542",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.629371",
+            "ticker_sentiment_score": "0.256237",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.634715",
+            "ticker_sentiment_score": "0.265375",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.640574",
+            "ticker_sentiment_score": "-0.142698",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.623503",
+            "ticker_sentiment_score": "0.185205",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Mutual Advisors LLC Makes New Investment in BorgWarner Inc. $BWA",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-mutual-advisors-llc-makes-new-investment-in-borgwarner-inc-bwa-2026-02-05/",
+        "time_published": "20260205T092750",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Mutual Advisors LLC recently acquired a new stake of 20,597 shares in BorgWarner Inc. (NYSE:BWA) during Q3, valued at approximately $900,000. Institutional ownership of BorgWarner is notably high at 95.67%, with significant firms like State Street, AQR Capital Management, and Norges Bank increasing or establishing large positions. Wall Street analysts have a \"Moderate Buy\" consensus rating for BWA, with an average price target of $47.31, while the stock currently trades near its 52-week high of $50.53.",
+        "banner_image": "https://www.marketbeat.com/logos/Borg_Warner_logo-1200x675.jpg",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.904567"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.823942"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.749811"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.643060"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.645153"
+          }
+        ],
+        "overall_sentiment_score": 0.095941,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "BWA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.255810",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.605896",
+            "ticker_sentiment_score": "-0.138120",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.576388",
+            "ticker_sentiment_score": "0.107896",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.595683",
+            "ticker_sentiment_score": "0.113526",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.590447",
+            "ticker_sentiment_score": "-0.131843",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Endeavour Silver Corporation (NYSE:EXK) Receives Average Rating of \"Buy\" from Brokerages",
+        "url": "https://www.marketbeat.com/instant-alerts/endeavour-silver-corporation-nyseexk-receives-average-rating-of-buy-from-brokerages-2026-02-05/",
+        "time_published": "20260205T092649",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Endeavour Silver Corporation (NYSE:EXK) has received an average \"Buy\" rating from fourteen brokerages, with an average twelve-month target price of $13.8750. Analyst reports show a mix of ratings, predominantly favoring \"Buy\" or \"Strong Buy,\" despite the company missing its Q4 earnings and revenue estimates. Institutional investors have also shown increased interest, with several firms significantly boosting their holdings in the mining company.",
+        "banner_image": "https://www.marketbeat.com/logos/endeavour-silver-corp-logo-1200x675.png?v=20250513083728",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.920358"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.832463"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.738340"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.626099"
+          }
+        ],
+        "overall_sentiment_score": 0.147816,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "EXK",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.263863",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.569702",
+            "ticker_sentiment_score": "0.035591",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "PLTR",
+            "relevance_score": "0.641864",
+            "ticker_sentiment_score": "0.344397",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.570540",
+            "ticker_sentiment_score": "0.306919",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.593191",
+            "ticker_sentiment_score": "-0.248036",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "F5, Inc. $FFIV Shares Bought by Allianz Asset Management GmbH",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-f5-inc-ffiv-shares-bought-by-allianz-asset-management-gmbh-2026-02-05/",
+        "time_published": "20260205T092131",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Allianz Asset Management GmbH significantly increased its stake in F5, Inc. (NASDAQ:FFIV) by 93.9% in Q3, acquiring an additional 79,747 shares to own a total of 164,632 shares valued at approximately $53.2 million. This comes as F5 reported strong quarterly earnings, beating expectations with $4.45 EPS and $822.5 million revenue, while also providing positive Q2 and full-year 2026 guidance. However, the company faces multiple securities class action lawsuits alleging misleading investors about BIG-IP security and a potential long-term hack, with a lead-plaintiff deadline on February 17, 2026.",
+        "banner_image": "https://www.marketbeat.com/logos/f5-networks-logo-1200x675.jpg",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "finance",
+            "relevance_score": "0.739899"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.947342"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.845034"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.623529"
+          }
+        ],
+        "overall_sentiment_score": 0.060352,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "FFIV",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.283274",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.596624",
+            "ticker_sentiment_score": "0.201895",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "PLTR",
+            "relevance_score": "0.587707",
+            "ticker_sentiment_score": "0.241044",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.554390",
+            "ticker_sentiment_score": "0.204106",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.585331",
+            "ticker_sentiment_score": "-0.164416",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Allianz Asset Management GmbH Has $47.51 Million Stock Holdings in Ventas, Inc. $VTR",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-allianz-asset-management-gmbh-has-4751-million-stock-holdings-in-ventas-inc-vtr-2026-02-05/",
+        "time_published": "20260205T085514",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Allianz Asset Management GmbH reduced its stake in Ventas, Inc. (NYSE:VTR) by 6.9% in the third quarter, now holding 678,773 shares valued at $47.51 million. Despite this, institutional investors and hedge funds own 94.18% of the stock. Analysts have a \"Moderate Buy\" rating for Ventas with a consensus target price of $81.63, while insider selling by the CFO and CEO has also been reported.",
+        "banner_image": "https://www.marketbeat.com/logos/ventas-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "real_estate",
+            "relevance_score": "0.912244"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.815048"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.728851"
+          }
+        ],
+        "overall_sentiment_score": 0.274676,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "VTR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.318489",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "DECK",
+            "relevance_score": "0.623275",
+            "ticker_sentiment_score": "0.209977",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.642975",
+            "ticker_sentiment_score": "0.209798",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.605208",
+            "ticker_sentiment_score": "0.310196",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.634394",
+            "ticker_sentiment_score": "0.237763",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "AAM Brentview Dividend Growth ETF (NYSEARCA:BDIV) Short Interest Up 20.1% in January",
+        "url": "https://www.defenseworld.net/2026/02/05/aam-brentview-dividend-growth-etf-nysearcabdiv-short-interest-up-20-1-in-january.html",
+        "time_published": "20260205T082936",
+        "authors": [
+          "Defense World Staff"
+        ],
+        "summary": "AAM Brentview Dividend Growth ETF (NYSEARCA:BDIV) experienced a 20.1% increase in short interest in January, reaching 2,059 shares from 1,714 shares. The ETF, which has a market cap of $4.88 million, also recently disclosed a monthly dividend of $0.02. BDIV aims for current income and long-term capital appreciation by investing in 30 to 40 US-listed stocks chosen for their dividend growth potential.",
+        "banner_image": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+        "source": "Defense World",
+        "category_within_source": "General",
+        "source_domain": "Defense World",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.924707"
+          }
+        ],
+        "overall_sentiment_score": 0.064201,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "BDIV",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.081889",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "PM",
+            "relevance_score": "0.614896",
+            "ticker_sentiment_score": "-0.130088",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.641950",
+            "ticker_sentiment_score": "0.108127",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "HORAN Wealth LLC Invests $917,000 in Nordson Corporation $NDSN",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-horan-wealth-llc-invests-917000-in-nordson-corporation-ndsn-2026-02-05/",
+        "time_published": "20260205T082854",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "HORAN Wealth LLC recently acquired a new position in Nordson Corporation, purchasing 4,043 shares valued at approximately $917,000 during the third quarter. This investment is part of broader institutional interest in Nordson, with several other hedge funds also adjusting their stakes in the industrial products company. Nordson has demonstrated strong financial performance, reporting better-than-expected quarterly earnings and declaring a quarterly dividend.",
+        "banner_image": "https://www.marketbeat.com/logos/nordson-co-logo-1200x675.png?v=20240104073415",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.906648"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.838292"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.707037"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.611378"
+          }
+        ],
+        "overall_sentiment_score": 0.163336,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "NDSN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.298118",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.564465",
+            "ticker_sentiment_score": "0.103880",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.570510",
+            "ticker_sentiment_score": "0.143027",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.569004",
+            "ticker_sentiment_score": "0.140086",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "BI Asset Management Fondsmaeglerselskab A S Lowers Stake in Costco Wholesale Corporation $COST",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-bi-asset-management-fondsmaeglerselskab-a-s-lowers-stake-in-costco-wholesale-corporation-cost-2026-02-05/",
+        "time_published": "20260205T082826",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "BI Asset Management Fondsmaeglerselskab A S reduced its stake in Costco Wholesale Corporation by 13.3%, selling 16,194 shares, now holding 105,956 shares valued at $98.08 million. Despite insider selling, Costco demonstrates strong operational momentum with raised January retail sales, significant membership revenue growth, and an announced quarterly dividend of $1.30. Analysts maintain a \"Moderate Buy\" rating with an average target price of $998.50, though some debate its high P/E valuation.",
+        "banner_image": "https://www.marketbeat.com/logos/costco-logo-1200x675.jpg",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.927457"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.835172"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.919090"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.649462"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.605869"
+          }
+        ],
+        "overall_sentiment_score": 0.181572,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "COST",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.200964",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "WMT",
+            "relevance_score": "0.610864",
+            "ticker_sentiment_score": "0.121934",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TGT",
+            "relevance_score": "0.605625",
+            "ticker_sentiment_score": "0.102874",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.560695",
+            "ticker_sentiment_score": "0.224896",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.581543",
+            "ticker_sentiment_score": "0.229247",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Hardman Johnston Global Advisors LLC Reduces Holdings in Apple Inc. $AAPL",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-hardman-johnston-global-advisors-llc-reduces-holdings-in-apple-inc-aapl-2026-02-05/",
+        "time_published": "20260205T082755",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Hardman Johnston Global Advisors LLC significantly reduced its stake in Apple Inc. by 19.0% in the third quarter, selling 43,840 shares to own 186,670 shares valued at $47.53 million. Despite this, Apple remains the firm's 13th largest holding, accounting for 2.3% of its investment portfolio. The article also notes other institutional investor adjustments, insider selling, and analyst ratings, alongside Apple's recent financial performance and dividend announcement.",
+        "banner_image": "https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.921976"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.813264"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.708516"
+          }
+        ],
+        "overall_sentiment_score": 0.036043,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "AAPL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.323995",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.630372",
+            "ticker_sentiment_score": "-0.334119",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.609953",
+            "ticker_sentiment_score": "-0.328508",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.608662",
+            "ticker_sentiment_score": "0.323983",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Apple Inc. $AAPL Shares Sold by St. Johns Investment Management Company LLC",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-shares-sold-by-st-johns-investment-management-company-llc-2026-02-05/",
+        "time_published": "20260205T082732",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "St. Johns Investment Management Company LLC reduced its stake in Apple Inc. by 4.6% in the third quarter, while several other institutional investors either increased their positions or initiated new ones. Analyst ratings for Apple are largely positive, with an average rating of \"Moderate Buy\" and a price target of $291.70. The company reported strong Q1 earnings, beating consensus estimates, and recently declared a quarterly dividend.",
+        "banner_image": "https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.927087"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.807269"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.748011"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.839077"
+          }
+        ],
+        "overall_sentiment_score": 0.153097,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AAPL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.349943",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.619670",
+            "ticker_sentiment_score": "0.116516",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "META",
+            "relevance_score": "0.638582",
+            "ticker_sentiment_score": "0.107185",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.627285",
+            "ticker_sentiment_score": "0.114684",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.636831",
+            "ticker_sentiment_score": "0.029473",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Apple Inc. $AAPL Position Decreased by PKO Investment Management Joint Stock Co",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-position-decreased-by-pko-investment-management-joint-stock-co-2026-02-05/",
+        "time_published": "20260205T082729",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "PKO Investment Management Joint Stock Co reduced its stake in Apple Inc. by 12.6% in the third quarter, now owning 195,000 shares valued at $49.65 million. Despite this reduction, Apple remains its fourth-largest holding, comprising 4.2% of its portfolio. Other institutional investors like Capstone Wealth Management LLC and Vermillion Wealth Management Inc. increased their positions in Apple during the same period.",
+        "banner_image": "https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.945717"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.828656"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.729022"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.634111"
+          }
+        ],
+        "overall_sentiment_score": 0.121015,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.995246",
+            "ticker_sentiment_score": "0.319645",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.612297",
+            "ticker_sentiment_score": "0.108921",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.607353",
+            "ticker_sentiment_score": "-0.201185",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "META",
+            "relevance_score": "0.564020",
+            "ticker_sentiment_score": "0.126579",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "BI Asset Management Fondsmaeglerselskab A S Sells 60,982 Shares of Gilead Sciences, Inc. $GILD",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-bi-asset-management-fondsmaeglerselskab-a-s-sells-60982-shares-of-gilead-sciences-inc-gild-2026-02-05/",
+        "time_published": "20260205T081541",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "BI Asset Management Fondsmaeglerselskab A S reduced its stake in Gilead Sciences, Inc. by 11.3%, selling 60,982 shares and retaining 477,987 shares valued at approximately $53.06 million. While large institutional investors like Vanguard, Invesco, and Norges Bank increased their positions, company insiders sold 257,397 shares totaling $33.39 million in the last three months. Gilead Sciences maintains a \"Moderate Buy\" consensus rating from analysts with an average target price of $136.73, and currently has a market cap of $181.4 billion, trading near its 52-week high.",
+        "banner_image": "https://www.marketbeat.com/logos/Gilead_Sciences_Pty_Ltd-1200x675.jpg",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.914063"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.807652"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.728756"
+          }
+        ],
+        "overall_sentiment_score": 0.155285,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GILD",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.275338",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.647133",
+            "ticker_sentiment_score": "0.102682",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.635497",
+            "ticker_sentiment_score": "0.146352",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Arista Networks (ANET) Projected to Post Earnings on Thursday",
+        "url": "https://www.marketbeat.com/instant-alerts/arista-networks-anet-projected-to-post-earnings-on-thursday-2026-02-05/",
+        "time_published": "20260205T080321",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Arista Networks (ANET) is scheduled to release its Q4 2025 earnings before market open on Thursday, February 12th, with analysts expecting $0.75 EPS and revenue of $2.3839 billion. The company reported strong Q3 2025 results, exceeding analyst expectations with $0.75 EPS and $2.31 billion in revenue. Insider selling activities have been noted, while institutional investors have adjusted their holdings. Wall Street analysts currently rate ANET as a \"Moderate Buy\" with an average price target of $164.44.",
+        "banner_image": "https://www.marketbeat.com/logos/arista-networks-inc-logo-1200x675.gif",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.928524"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.817246"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.740336"
+          }
+        ],
+        "overall_sentiment_score": 0.155192,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "ANET",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.251990",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.589694",
+            "ticker_sentiment_score": "0.138261",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.565580",
+            "ticker_sentiment_score": "0.107000",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AES",
+            "relevance_score": "0.568435",
+            "ticker_sentiment_score": "0.107032",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.590934",
+            "ticker_sentiment_score": "0.118538",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Hercules Capital (HTGC) Projected to Post Earnings on Thursday",
+        "url": "https://www.marketbeat.com/instant-alerts/hercules-capital-htgc-projected-to-post-earnings-on-thursday-2026-02-05/",
+        "time_published": "20260205T075851",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Hercules Capital (HTGC) is expected to announce its Q4 2025 earnings after market close on Thursday, February 12th, with analysts forecasting earnings of $0.48 per share and revenue of approximately $141.57 million. The company's shares recently fell 3.2%, opening at $16.95, and analysts currently hold a \"Moderate Buy\" consensus rating with an average target price of $20.32, despite some recent downgrades. Institutional investors have made various adjustments to their holdings in HTGC, with significant acquisitions by firms like WFA of San Diego LLC and Triumph Capital Management.",
+        "banner_image": "https://www.marketbeat.com/logos/hercules-capital-inc-logo-1200x675.png?v=20221128134557",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.933160"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.707505"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.644176"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.645247"
+          }
+        ],
+        "overall_sentiment_score": 0.15792,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "HTGC",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.069856",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.526668",
+            "ticker_sentiment_score": "0.276419",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.625336",
+            "ticker_sentiment_score": "0.246908",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.591515",
+            "ticker_sentiment_score": "0.249832",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Healthcare Realty Trust (HR) to Release Quarterly Earnings on Thursday",
+        "url": "https://www.marketbeat.com/instant-alerts/healthcare-realty-trust-hr-to-release-quarterly-earnings-on-thursday-2026-02-05/",
+        "time_published": "20260205T075839",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Healthcare Realty Trust (NYSE:HR) is set to release its Q4 2025 earnings after market close on Thursday, February 12th, with analysts forecasting EPS of $0.40 and revenue of $284.37 million. The company's shares are trading around $16.57, within a 12-month range of $14.09–$18.97, and hold a \"Hold\" consensus rating with a target price of $19.13. Institutional investors, including Rush Island, Invesco, and Bank of America, have recently increased their stakes in the REIT.",
+        "banner_image": "https://www.marketbeat.com/logos/healthcare-realty-trust-incorporated-logo-1200x675.png?v=20240426160239",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "real_estate",
+            "relevance_score": "0.806195"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.713469"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.610833"
+          }
+        ],
+        "overall_sentiment_score": 0.119743,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "HR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.195435",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "BAC",
+            "relevance_score": "0.661240",
+            "ticker_sentiment_score": "-0.085118",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "WFC",
+            "relevance_score": "0.550729",
+            "ticker_sentiment_score": "-0.051650",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.545486",
+            "ticker_sentiment_score": "0.277463",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.515251",
+            "ticker_sentiment_score": "0.105925",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Trinity Industries (TRN) Expected to Announce Quarterly Earnings on Thursday",
+        "url": "https://www.marketbeat.com/instant-alerts/trinity-industries-trn-expected-to-announce-quarterly-earnings-on-thursday-2026-02-05/",
+        "time_published": "20260205T073128",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Trinity Industries (NYSE:TRN) is scheduled to announce its Q4 2025 earnings before market open on Thursday, February 12th. Analysts project earnings of $2.30 per share and revenue of $570.45 million for the quarter. The company recently increased its quarterly dividend to $0.31, representing a 4.2% yield, and currently holds a consensus \"Hold\" rating with a target price of $29.50.",
+        "banner_image": "https://www.marketbeat.com/logos/trinity-industries-inc-logo-1200x675.png?v=20221122141938",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.900046"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.842278"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.627808"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.749986"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.630503"
+          }
+        ],
+        "overall_sentiment_score": 0.109976,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "TRN",
+            "relevance_score": "0.969395",
+            "ticker_sentiment_score": "0.068425",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.614502",
+            "ticker_sentiment_score": "0.133030",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.558556",
+            "ticker_sentiment_score": "0.145303",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.625420",
+            "ticker_sentiment_score": "0.106788",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.595876",
+            "ticker_sentiment_score": "0.113662",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Jefferies reiterates Buy rating on Broadcom stock amid AI growth",
+        "url": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-buy-rating-on-broadcom-stock-amid-ai-growth-93CH-4486550",
+        "time_published": "20260205T072928",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Jefferies has reiterated its Buy rating and $500.00 price target for Broadcom (NASDAQ: AVGO), citing the company's strong position in the artificial intelligence and networking markets. The firm highlighted Broadcom's \"well ahead\" status in custom on-package (COT) business and expected growth in its networking segment, further supported by Google's increased AI spending guidance and positive InvestingPro data suggesting undervaluation. Other analysts from Wolfe Research and Wells Fargo have also recently upgraded Broadcom's stock, underscoring the semiconductor giant's strategic advancements and potential for future growth.",
+        "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.835724"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.939505"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "1.000000"
+          }
+        ],
+        "overall_sentiment_score": 0.22475,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AVGO",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.536394",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.820744",
+            "ticker_sentiment_score": "0.320726",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.645362",
+            "ticker_sentiment_score": "-0.405097",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "ORCL",
+            "relevance_score": "0.530125",
+            "ticker_sentiment_score": "0.313177",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.555116",
+            "ticker_sentiment_score": "0.303117",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Amazon.com (AMZN) Set to Report Earnings as UBS Raises Price Target on AWS Outlook",
+        "url": "https://finviz.com/news/300727/amazoncom-amzn-set-to-report-earnings-as-ubs-raises-price-target-on-aws-outlook",
+        "time_published": "20260205T072903",
+        "authors": [
+          "Ghazal Ahmed"
+        ],
+        "summary": "UBS analyst Stephen Ju raised the price target for Amazon.com (AMZN) to $311.00, maintaining a Buy rating ahead of its 4Q25 earnings report. The firm increased estimates for AWS revenue and capital expenditures, projecting that AWS revenue could double by 2028, potentially generating an additional $20 billion in free cash flow. This outlook suggests improved investor confidence and continued outperformance for AMZN shares.",
+        "banner_image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2024/12/13082523/Trading-Laptop-Shopping-Ecommerce-768x512.jpg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.937837"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.812831"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.713793"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.635910"
+          }
+        ],
+        "overall_sentiment_score": 0.189482,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMZN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.465051",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.615745",
+            "ticker_sentiment_score": "0.149644",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "SPG",
+            "relevance_score": "0.593565",
+            "ticker_sentiment_score": "0.137671",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TER",
+            "relevance_score": "0.578232",
+            "ticker_sentiment_score": "0.132590",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.574271",
+            "ticker_sentiment_score": "0.129569",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Starbucks Corporation (NASDAQ:SBUX) Given Consensus Recommendation of \"Moderate Buy\" by Analysts",
+        "url": "https://www.marketbeat.com/instant-alerts/starbucks-corporation-nasdaqsbux-given-consensus-recommendation-of-moderate-buy-by-analysts-2026-02-05/",
+        "time_published": "20260205T072851",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Starbucks Corporation (NASDAQ:SBUX) has received a \"Moderate Buy\" consensus recommendation from analysts, with an average 12-month price target of $104.67. Despite missing EPS estimates in its latest quarterly results, the company exceeded revenue expectations and provided FY2026 EPS guidance. While long-term growth is supported by menu simplification and U.S. store expansion plans, risks like union activity, a pessimistic Citigroup forecast, and recent insider sales present near-term headwinds.",
+        "banner_image": "https://www.marketbeat.com/logos/starbucks-co-logo-1200x675.png?v=20231214122544",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.926733"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.825612"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.743709"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.623259"
+          }
+        ],
+        "overall_sentiment_score": 0.062889,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "SBUX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.260299",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "C",
+            "relevance_score": "0.646571",
+            "ticker_sentiment_score": "0.041076",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "V",
+            "relevance_score": "0.572134",
+            "ticker_sentiment_score": "0.035249",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.562559",
+            "ticker_sentiment_score": "0.038948",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.559280",
+            "ticker_sentiment_score": "0.030486",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Howmet Aerospace (HWM) Expected to Announce Quarterly Earnings on Thursday",
+        "url": "https://www.marketbeat.com/instant-alerts/howmet-aerospace-hwm-expected-to-announce-quarterly-earnings-on-thursday-2026-02-05/",
+        "time_published": "20260205T070109",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Howmet Aerospace (HWM) is scheduled to announce its Q4 2025 earnings before market open on Thursday, February 12, 2026. Analysts project earnings of $0.96 per share and revenue of $2.1249 billion. The company also recently declared a quarterly dividend of $0.12 per share, yielding approximately 0.2% annually, and has a \"Moderate Buy\" average analyst rating with a target price of $224.53.",
+        "banner_image": "https://www.marketbeat.com/logos/howmet-aerospace-inc-logo-1200x675.png?v=20221104135805",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.834091"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.718759"
+          }
+        ],
+        "overall_sentiment_score": 0.170753,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "HWM",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.257703",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.597302",
+            "ticker_sentiment_score": "0.148327",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.576970",
+            "ticker_sentiment_score": "0.103656",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.574851",
+            "ticker_sentiment_score": "0.245071",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.578233",
+            "ticker_sentiment_score": "0.115352",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Is Fortinet’s FortiCNAPP Risk‑Scoring Push Quietly Reshaping The Investment Case For FTNT?",
+        "url": "https://simplywall.st/stocks/us/software/nasdaq-ftnt/fortinet/news/is-fortinets-forticnapp-riskscoring-push-quietly-reshaping-t",
+        "time_published": "20260205T065810",
+        "authors": [
+          "Simply Wall St",
+          "Sasha Jovanovic"
+        ],
+        "summary": "Fortinet recently enhanced its FortiCNAPP platform with improved cloud risk prioritization, crucial for its strategy to expand beyond firewalls into a comprehensive security platform. These updates integrate network controls, data sensitivity, and runtime behavior into a unified risk view, bolstering the company's cloud security ambitions. While the market currently focuses more on traditional metrics like billings and growth expectations, the long-term impact of FortiCNAPP on Fortinet's investment narrative depends on its ability to demonstrate clear adoption and contribute to earnings growth in the cloud security sector.",
+        "banner_image": null,
+        "source": "Simply Wall Street",
+        "category_within_source": "General",
+        "source_domain": "Simply Wall Street",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "0.856298"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.789820"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.659563"
+          }
+        ],
+        "overall_sentiment_score": 0.247676,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "FTNT",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.128439",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.648915",
+            "ticker_sentiment_score": "0.315287",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "ORCL",
+            "relevance_score": "0.612959",
+            "ticker_sentiment_score": "0.236121",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Expedia Group (EXPE) Expected to Release Earnings on Thursday",
+        "url": "https://www.marketbeat.com/instant-alerts/expedia-group-expe-expected-to-release-earnings-on-thursday-2026-02-05/",
+        "time_published": "20260205T062820",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Expedia Group (EXPE) is scheduled to release its Q4 2025 earnings after the market closes on Thursday, February 12th, with analysts forecasting EPS of $3.32 and revenue of $3.4052 billion. The company exceeded expectations in the previous quarter, reporting an EPS of $7.57 against an estimate of $7.10, with an 8.7% year-over-year revenue increase. Insiders have sold approximately $1.28 million worth of shares over the last three months, while institutional investors hold a significant 90.76% stake in the company.",
+        "banner_image": "https://www.marketbeat.com/logos/expedia-group-inc-logo-1200x675.jpg?v=20221104141431",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.921749"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.826691"
+          }
+        ],
+        "overall_sentiment_score": 0.200568,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "EXPE",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.139273",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.593734",
+            "ticker_sentiment_score": "0.253014",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.609743",
+            "ticker_sentiment_score": "0.299488",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.608309",
+            "ticker_sentiment_score": "0.227846",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "DECK",
+            "relevance_score": "0.604216",
+            "ticker_sentiment_score": "0.206579",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Stifel downgrades Microsoft stock to Hold on Azure concerns",
+        "url": "https://www.investing.com/news/analyst-ratings/stifel-downgrades-microsoft-stock-to-hold-on-azure-concerns-93CH-4486518",
+        "time_published": "20260205T061840",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Stifel downgraded Microsoft stock from Buy to Hold and significantly cut its price target due to concerns over Azure's supply constraints and increased AI competition. The firm believes Wall Street's 2027 revenue and earnings expectations are too optimistic, citing strong performance from Google Cloud Platform and Anthropic. Stifel also raised its capital expenditure estimate for Microsoft and lowered its gross margin forecast, indicating a new spending phase for AI development.",
+        "banner_image": "https://i-invdn-com.investing.com/news/Microsoft_2_800x533_L_1412175603.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.927960"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.826650"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.707458"
+          }
+        ],
+        "overall_sentiment_score": 0.047849,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "MSFT",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.425789",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.746891",
+            "ticker_sentiment_score": "0.288053",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.611390",
+            "ticker_sentiment_score": "0.144408",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.607822",
+            "ticker_sentiment_score": "0.145671",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Cerence Q1 2026 Earnings Call Transcript",
+        "url": "https://www.marketbeat.com/earnings/reports/2026-2-4-cerence-inc-stock/",
+        "time_published": "20260205T055944",
+        "authors": [],
+        "summary": "Cerence reported strong Q1 2026 financials with $115.1 million in revenue and $44.6 million in adjusted EBITDA, exceeding guidance, partly due to a one-time $49.5 million patent license payment from Samsung. The company highlighted significant commercial momentum for its xUI platform, securing five new customer programs including JLR and a Volkswagen brand, and introduced new AI agents like Microsoft Mobile Work, Dealer Assist, and Ownership Companion. Cerence reaffirmed its full-year 2026 guidance, emphasizing continued progress in technology, cost management, and top-line growth despite a lower Q2 outlook and complex tax situation.",
+        "banner_image": "https://cdn.quartr.com/images/conference-calls/cerence-inc-q1-2026-fcddd7e26dbcd077/1.png?ref=TWFya2V0QmVhdCBNZWRpYSBLLEM=",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.945601"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.841733"
+          }
+        ],
+        "overall_sentiment_score": 0.519879,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "CRNC",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.485621",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.636923",
+            "ticker_sentiment_score": "0.543648",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "RXO Earnings: What To Look For From RXO",
+        "url": "https://finviz.com/news/300659/rxo-earnings-what-to-look-for-from-rxo",
+        "time_published": "20260205T033014",
+        "authors": [
+          "Kayode Omotosho"
+        ],
+        "summary": "RXO is set to announce its earnings results, with analysts expecting a revenue decline of 11.2% year-on-year to $1.48 billion and an adjusted loss of -$0.04 per share. Despite missing Wall Street’s revenue estimates six times in the past two years, investor sentiment in the ground transportation segment is positive, with RXO's shares up 18.6% over the last month. The company's average analyst price target is $15.50, compared to its current share price of $17.05.",
+        "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/rxo-cover-image-38cfd77434f0_2024-06-28-064902_rngo.jpeg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.846472"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.710798"
+          }
+        ],
+        "overall_sentiment_score": 0.133364,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "RXO",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.210705",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "ODFL",
+            "relevance_score": "0.680589",
+            "ticker_sentiment_score": "0.017916",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.535087",
+            "ticker_sentiment_score": "0.278697",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.517684",
+            "ticker_sentiment_score": "0.253831",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "KO",
+            "relevance_score": "0.510475",
+            "ticker_sentiment_score": "0.297249",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      }
+    ]
+  },
+  "request": {
+    "function": "NEWS_SENTIMENT",
+    "apikey": "1W86SMG399FCFAIM",
+    "tickers": "MSFT"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&apikey=1W86SMG399FCFAIM&tickers=MSFT"
+  }
+}

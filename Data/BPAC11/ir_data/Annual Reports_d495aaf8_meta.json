@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:66fa336cbd18497e00bc86a7e03557f7d31e1972fdf2ea1f6740d38a6f28c581
-size 275
+{
+  "label": "Annual Reports",
+  "original_url": "https://ri.btgpactual.com/en/main-information/annual-reports/",
+  "final_url": "https://ri.btgpactual.com/en/main-information/annual-reports/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

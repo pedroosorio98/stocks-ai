@@ -1,3 +1,2775 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e3bb085ce982f75c6ff44bad38349a5243e3975635aa4a9140207651c2eb894
-size 122846
+{
+  "response": {
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+      {
+        "title": "Why Alphabet (GOOGL) stock crashed today, Feb 5: what happened to Alphabet shares as the US stock market t",
+        "url": "https://m.economictimes.com/news/international/us/why-alphabet-googl-stock-crashed-today-feb-5-what-happened-to-alphabet-shares-as-the-us-stock-market-turned-deep-in-red/articleshow/127942899.cms",
+        "time_published": "20260205T153636",
+        "authors": [
+          "Piyush Shukla"
+        ],
+        "summary": "Alphabet (GOOGL) stock plummeted today, February 5th, following a massive $185 billion capital expenditure forecast for 2026, which nearly doubles its previous spending and ignited fears over profitability despite beating revenue estimates. This aggressive \"AI-first\" pivot, aimed at bolstering AI infrastructure, caused a widespread selloff felt across the US stock market, including the S&P 500, Dow Jones, and Nasdaq Composite, as investors questioned if AI returns could justify such historic costs. The decline also impacted other tech stocks, commodities like silver and gold, and even Bitcoin, reflecting broader market concerns about valuations and future economic growth amidst higher-than-expected jobless claims.",
+        "banner_image": "https://img.etimg.com/thumb/msid-127943141,width-300,height-225,imgsize-80308,resizemode-75/why-alphabet-googl-stock-crashed-today-feb-5-what-happened-to-alphabet-shares-as-the-us-stock-market-turned-deep-in-red.jpg",
+        "source": "The Economic Times",
+        "category_within_source": "General",
+        "source_domain": "The Economic Times",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.930429"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.932468"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.826810"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.807231"
+          }
+        ],
+        "overall_sentiment_score": -0.394496,
+        "overall_sentiment_label": "Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.409164",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "QCOM",
+            "relevance_score": "0.746550",
+            "ticker_sentiment_score": "-0.333267",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "EL",
+            "relevance_score": "0.621111",
+            "ticker_sentiment_score": "-0.423527",
+            "ticker_sentiment_label": "Bearish"
+          }
+        ]
+      },
+      {
+        "title": "2 Fidelity ETFs To Buy In February",
+        "url": "https://247wallst.com/investing/2026/02/05/2-fidelity-etfs-to-buy-in-february/",
+        "time_published": "20260205T144844",
+        "authors": [
+          "Vandita Jadeja"
+        ],
+        "summary": "This article recommends two Fidelity ETFs, the Fidelity Blue Chip Growth ETF (FBCG) and the Fidelity Disruptive Technology ETF (FDTX), as strong buys for February. FBCG focuses on large-cap growth stocks, particularly in the tech sector, with strong returns over the past three years. FDTX invests in disruptive technology companies, showing significant growth since its 2020 launch and concentrating on the semiconductor and software industries.",
+        "banner_image": "https://247wallst.com/wp-content/uploads/2015/12/fidelityinvestmentslogo-e1451507178449.jpg",
+        "source": "24/7 Wall St.",
+        "category_within_source": "General",
+        "source_domain": "24/7 Wall St.",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.935298"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.818634"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.702504"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.619226"
+          }
+        ],
+        "overall_sentiment_score": 0.399905,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "FDTX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.380761",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.707033",
+            "ticker_sentiment_score": "0.440519",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.666988",
+            "ticker_sentiment_score": "0.435601",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.623907",
+            "ticker_sentiment_score": "0.344565",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Envestnet Asset Management Inc. Decreases Holdings in American Electric Power Company, Inc. $AEP",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-envestnet-asset-management-inc-decreases-holdings-in-american-electric-power-company-inc-aep-2026-02-05/",
+        "time_published": "20260205T131835",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Envestnet Asset Management Inc. reduced its stake in American Electric Power Company, Inc. (NASDAQ:AEP) by 0.4% in the third quarter, now owning 3,359,755 shares valued at $377.97 million. This comes as American Electric Power declared a quarterly dividend of $0.95 per share, providing an annualized yield of 3.2%. Analysts currently maintain a consensus \"Moderate Buy\" rating for AEP with an average price target of $127.39.",
+        "banner_image": "https://www.marketbeat.com/logos/american-electric-power-company-inc-logo-1200x675.png?v=20231214130144",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.912030"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.818386"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.718959"
+          }
+        ],
+        "overall_sentiment_score": 0.161763,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AEP",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.226483",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.586754",
+            "ticker_sentiment_score": "0.244849",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.582055",
+            "ticker_sentiment_score": "0.253236",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.538027",
+            "ticker_sentiment_score": "0.035626",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "The 5 Biggest Changes You'll Notice At Kroger In 2026",
+        "url": "https://www.tastingtable.com/2093474/kroger-changes-coming-2026/",
+        "time_published": "20260205T130710",
+        "authors": [
+          "Deepak Narayanan"
+        ],
+        "summary": "Kroger is poised for significant changes in 2026, including a new partnership with Uber for faster grocery delivery, an expanded Simple Truth brand focusing on high-protein products, and the integration of AI-powered personal shopping assistants. The company will also introduce a Verified Savings Program for discounts to those in need and plans to open more Kroger Marketplace stores after strategic closures in 2025. These initiatives aim to enhance customer experience, promote healthier eating, and expand Kroger's market presence following its failed merger with Albertsons.",
+        "banner_image": "https://www.tastingtable.com/img/gallery/kroger-changes-coming-2026/intro-1770242085.jpg",
+        "source": "Tasting Table",
+        "category_within_source": "General",
+        "source_domain": "Tasting Table",
+        "topics": [
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.938412"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.834782"
+          },
+          {
+            "topic": "mergers_and_acquisitions",
+            "relevance_score": "0.727337"
+          }
+        ],
+        "overall_sentiment_score": 0.271411,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "KR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.347709",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "UBER",
+            "relevance_score": "0.748408",
+            "ticker_sentiment_score": "0.305051",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "WMT",
+            "relevance_score": "0.608666",
+            "ticker_sentiment_score": "0.106816",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.648724",
+            "ticker_sentiment_score": "0.200906",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Form FWP JPMorgan Chase Financial Filed by: JPMorgan Chase Financial Co. LLC",
+        "url": "https://www.streetinsider.com/SEC+Filings/Form+FWP+JPMorgan+Chase+Financial+Filed+by%3A+JPMorgan+Chase+Financial+Co.+LLC/25949930.html",
+        "time_published": "20260205T112132",
+        "authors": [],
+        "summary": "JPMorgan Chase Financial Company LLC has filed a Form FWP (Free Writing Prospectus) with the SEC regarding its 2-year RTY/SPX Uncapped Accelerated Barrier Notes. These notes are linked to the Russell 2000 Index and the S&P 500 Index, offering accelerated returns with a barrier feature, but investors are exposed to the credit risk of JPMorgan Chase Financial Company LLC and JPMorgan Chase & Co. and could lose principal. The document provides a summary of terms, hypothetical returns, selected risks, and additional SEC filing information.",
+        "banner_image": null,
+        "source": "StreetInsider",
+        "category_within_source": "General",
+        "source_domain": "StreetInsider",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.903406"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.742297"
+          }
+        ],
+        "overall_sentiment_score": -0.155893,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "JPM",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.038057",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.705550",
+            "ticker_sentiment_score": "-0.312267",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "QCOM",
+            "relevance_score": "0.642139",
+            "ticker_sentiment_score": "-0.223291",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.611390",
+            "ticker_sentiment_score": "-0.116967",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "After Earnings, Is Tesla Stock a Buy, a Sell, or Fairly Valued?",
+        "url": "https://www.morningstar.com/stocks/after-earnings-is-tesla-stock-buy-sell-or-fairly-valued-11",
+        "time_published": "20260205T110642",
+        "authors": [
+          "Seth Goldstein",
+          "CFA"
+        ],
+        "summary": "Morningstar maintains a narrow economic moat rating and a \"Very High\" uncertainty rating for Tesla. Following its Q4 earnings, Morningstar raised its fair value estimate for Tesla to $400 per share from $300, driven by robotaxi valuation, autonomous driving software adoption, and the humanoid robot business. Despite this, Tesla shares are currently considered fairly valued, trading about 10% above the fair value estimate, placing them in 3-star territory due to expected volatility as new products progress.",
+        "banner_image": "https://cloudfront-us-east-1.images.arcpublishing.com/morningstar/ECL2DOEB4ZHYZJZBQBIMCKZ2HM.jpg",
+        "source": "Morningstar",
+        "category_within_source": "General",
+        "source_domain": "Morningstar",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.904075"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.812188"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.744727"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.614442"
+          }
+        ],
+        "overall_sentiment_score": 0.055042,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "TSLA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.065749",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.615629",
+            "ticker_sentiment_score": "-0.115125",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.557477",
+            "ticker_sentiment_score": "0.056886",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GM",
+            "relevance_score": "0.578167",
+            "ticker_sentiment_score": "0.085930",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.554200",
+            "ticker_sentiment_score": "0.095354",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Alphabet Inc. $GOOGL Shares Sold by First Business Financial Services Inc.",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-alphabet-inc-googl-shares-sold-by-first-business-financial-services-inc-2026-02-05/",
+        "time_published": "20260205T105746",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "First Business Financial Services Inc. reduced its stake in Alphabet Inc. (NASDAQ:GOOGL) by 5.8% in Q3, selling 2,372 shares to hold 38,376 shares valued at $9.3 million. Other institutional investors also adjusted their positions, with hedge funds and institutional investors collectively owning 40.03% of the company's stock. Analysts maintain a \"Moderate Buy\" rating for Alphabet, with a consensus target price of $336.60, despite recent insider selling and concerns about high capital expenditure projections for 2026.",
+        "banner_image": "https://www.marketbeat.com/logos/google-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.909425"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.805610"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.810711"
+          }
+        ],
+        "overall_sentiment_score": 0.149055,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "FBIZ",
+            "relevance_score": "0.313339",
+            "ticker_sentiment_score": "0.020193",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.905202",
+            "ticker_sentiment_score": "0.333199",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AVGO",
+            "relevance_score": "0.644763",
+            "ticker_sentiment_score": "0.126067",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.633172",
+            "ticker_sentiment_score": "0.148566",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.622747",
+            "ticker_sentiment_score": "0.229981",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Academy Capital Management Sells 14,381 Shares of Alphabet Inc. $GOOG",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-academy-capital-management-sells-14381-shares-of-alphabet-inc-goog-2026-02-05/",
+        "time_published": "20260205T104725",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Academy Capital Management reduced its holdings in Alphabet Inc. (NASDAQ:GOOG) by 6.4% in the third quarter, selling 14,381 shares and now owning 209,850 shares valued at $51.1 million. This reduction comes amidst mixed sentiment for Alphabet, with positive signs from strong Q4 earnings, accelerating Cloud growth, and significant Waymo funding, contrasted by high 2026 capital expenditure forecasts and some insider selling. Despite Academy Capital Management's sale, many other institutional investors increased their stakes in Alphabet during recent quarters.",
+        "banner_image": "https://www.marketbeat.com/logos/google-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.940980"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.824663"
+          }
+        ],
+        "overall_sentiment_score": 0.048794,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.335038",
+            "ticker_sentiment_score": "0.035800",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.041896",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.645836",
+            "ticker_sentiment_score": "0.116742",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Allianz Asset Management GmbH Purchases 69,290 Shares of Expeditors International of Washington, Inc. $EXPD",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-allianz-asset-management-gmbh-purchases-69290-shares-of-expeditors-international-of-washington-inc-expd-2026-02-05/",
+        "time_published": "20260205T092415",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Allianz Asset Management GmbH increased its stake in Expeditors International of Washington (NASDAQ:EXPD) by 14.0% in the third quarter, acquiring an additional 69,290 shares and now owning 565,430 shares valued at $69.32 million. The company's stock trades at $165.03 with a market capitalization of $22.12 billion, and institutional investors collectively own 94.02% of its shares. Analysts have a \"Reduce\" consensus rating with an average target price of $134.10, despite some recent price target increases.",
+        "banner_image": "https://www.marketbeat.com/logos/expeditors-international-of-washington-inc-logo-1200x675.png?v=20221104115253",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.914737"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.826028"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.733919"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.629112"
+          }
+        ],
+        "overall_sentiment_score": 0.134347,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "EXPD",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.054661",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "STZ",
+            "relevance_score": "0.607756",
+            "ticker_sentiment_score": "0.295002",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "CVX",
+            "relevance_score": "0.663710",
+            "ticker_sentiment_score": "0.088200",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.603023",
+            "ticker_sentiment_score": "0.329879",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "JPM",
+            "relevance_score": "0.551367",
+            "ticker_sentiment_score": "-0.126241",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Alphabet Earnings: Continued Momentum on Cloud and Search as Capital Expenses Set to Mount",
+        "url": "https://global.morningstar.com/en-ca/stocks/alphabet-earnings-continued-momentum-cloud-search-capital-expenses-set-mount",
+        "time_published": "20260205T085856",
+        "authors": [
+          "Malik Ahmed Khan",
+          "CFA"
+        ],
+        "summary": "Alphabet reported strong fourth-quarter earnings with sales up 18%, driven significantly by Google Cloud's 48% growth, illustrating the company's success in integrating AI. Despite upbeat results, management projects substantial capital expenditures of USD 180 billion in 2026, a 97% year-over-year increase, primarily due to AI investments. Morningstar maintains a USD 340 fair value estimate for Alphabet, viewing it as a clear AI leader with a fairly valued stock.",
+        "banner_image": "https://cloudfront-us-east-1.images.arcpublishing.com/morningstar/4FVFILWRQFBBXNN46NLDWT4K4M.jpg",
+        "source": "Morningstar Canada",
+        "category_within_source": "General",
+        "source_domain": "Morningstar Canada",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.917648"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.722034"
+          }
+        ],
+        "overall_sentiment_score": 0.192665,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.954696",
+            "ticker_sentiment_score": "0.333527",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.967219",
+            "ticker_sentiment_score": "0.321639",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "ABBV",
+            "relevance_score": "0.554762",
+            "ticker_sentiment_score": "-0.238157",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "META",
+            "relevance_score": "0.522606",
+            "ticker_sentiment_score": "0.259534",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Decker Retirement Planning Inc. Boosts Holdings in Apple Inc. $AAPL",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-decker-retirement-planning-inc-boosts-holdings-in-apple-inc-aapl-2026-02-05/",
+        "time_published": "20260205T085838",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Decker Retirement Planning Inc. significantly increased its stake in Apple Inc. by 687.0% in the third quarter, now owning 5,769 shares valued at $1,469,000. Several other institutional investors also adjusted their holdings in Apple. The article also provides recent insider trading information, market sentiment, financial data, and analyst ratings for Apple.",
+        "banner_image": "https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.944932"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.860984"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.802530"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.709108"
+          }
+        ],
+        "overall_sentiment_score": 0.078085,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "AAPL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.453155",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.626115",
+            "ticker_sentiment_score": "-0.181405",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.608704",
+            "ticker_sentiment_score": "-0.153867",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Machina Capital S.A.S. Grows Stake in VeriSign, Inc. $VRSN",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-machina-capital-sas-grows-stake-in-verisign-inc-vrsn-2026-02-05/",
+        "time_published": "20260205T084913",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Machina Capital S.A.S. significantly increased its stake in VeriSign, Inc. (NASDAQ:VRSN) by 502.2% in the third quarter, bringing its total holdings to 6,702 shares valued at $1.874 million. Other major institutions like Norges Bank and AQR Capital Management also acquired or boosted their positions, leading to institutional investors owning approximately 92.9% of the company. Despite mixed analyst ratings, the consensus remains \"Hold\" with an average price target of $298.00.",
+        "banner_image": "https://www.marketbeat.com/logos/verisign-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.940304"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.800103"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.746520"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.626746"
+          }
+        ],
+        "overall_sentiment_score": 0.063953,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "VRSN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.175882",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.545410",
+            "ticker_sentiment_score": "-0.186333",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.547606",
+            "ticker_sentiment_score": "-0.157145",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "C",
+            "relevance_score": "0.535799",
+            "ticker_sentiment_score": "0.332180",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "JPM",
+            "relevance_score": "0.527483",
+            "ticker_sentiment_score": "0.171679",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Alphabet Earnings: Continued Momentum on Cloud and Search as Capital Expenses Set to Mount",
+        "url": "https://www.morningstar.com/stocks/alphabet-earnings-continued-momentum-cloud-search-capital-expenses-set-mount",
+        "time_published": "20260205T084039",
+        "authors": [
+          "Malik Ahmed Khan",
+          "CFA"
+        ],
+        "summary": "Alphabet (GOOG) reported robust Q4 earnings with an 18% sales increase, primarily driven by its Google Cloud segment which saw 48% growth. The company successfully integrated AI into its Search product, mitigating competitive threats and boosting engagement. Despite strong results, Alphabet anticipates a significant increase in capital expenditures for 2026, projected at $180 billion, to support its full-stack AI strategy.",
+        "banner_image": "https://cloudfront-us-east-1.images.arcpublishing.com/morningstar/4FVFILWRQFBBXNN46NLDWT4K4M.jpg",
+        "source": "Morningstar",
+        "category_within_source": "General",
+        "source_domain": "Morningstar",
+        "topics": [
+          {
+            "topic": "finance",
+            "relevance_score": "0.616293"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.927937"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.808202"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.604346"
+          }
+        ],
+        "overall_sentiment_score": 0.062688,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.252497",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.972548",
+            "ticker_sentiment_score": "0.276754",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "ABBV",
+            "relevance_score": "0.562409",
+            "ticker_sentiment_score": "-0.222952",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "UBER",
+            "relevance_score": "0.550218",
+            "ticker_sentiment_score": "-0.319819",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "LLY",
+            "relevance_score": "0.591006",
+            "ticker_sentiment_score": "0.211167",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "BI Asset Management Fondsmaeglerselskab A S Lowers Stake in Costco Wholesale Corporation $COST",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-bi-asset-management-fondsmaeglerselskab-a-s-lowers-stake-in-costco-wholesale-corporation-cost-2026-02-05/",
+        "time_published": "20260205T082826",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "BI Asset Management Fondsmaeglerselskab A S reduced its stake in Costco Wholesale Corporation by 13.3%, selling 16,194 shares, now holding 105,956 shares valued at $98.08 million. Despite insider selling, Costco demonstrates strong operational momentum with raised January retail sales, significant membership revenue growth, and an announced quarterly dividend of $1.30. Analysts maintain a \"Moderate Buy\" rating with an average target price of $998.50, though some debate its high P/E valuation.",
+        "banner_image": "https://www.marketbeat.com/logos/costco-logo-1200x675.jpg",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.916995"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.831879"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.909162"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.623951"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.608405"
+          }
+        ],
+        "overall_sentiment_score": 0.184505,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "COST",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.203185",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "WMT",
+            "relevance_score": "0.616603",
+            "ticker_sentiment_score": "0.108136",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TGT",
+            "relevance_score": "0.627304",
+            "ticker_sentiment_score": "0.142215",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.595345",
+            "ticker_sentiment_score": "0.228403",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.598495",
+            "ticker_sentiment_score": "0.248831",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Hardman Johnston Global Advisors LLC Reduces Holdings in Apple Inc. $AAPL",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-hardman-johnston-global-advisors-llc-reduces-holdings-in-apple-inc-aapl-2026-02-05/",
+        "time_published": "20260205T082755",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Hardman Johnston Global Advisors LLC significantly reduced its stake in Apple Inc. by 19.0% in the third quarter, selling 43,840 shares to own 186,670 shares valued at $47.53 million. Despite this, Apple remains the firm's 13th largest holding, accounting for 2.3% of its investment portfolio. The article also notes other institutional investor adjustments, insider selling, and analyst ratings, alongside Apple's recent financial performance and dividend announcement.",
+        "banner_image": "https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.941167"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.828112"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.731253"
+          }
+        ],
+        "overall_sentiment_score": 0.006378,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "AAPL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.329076",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.626647",
+            "ticker_sentiment_score": "-0.313372",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.619237",
+            "ticker_sentiment_score": "-0.320587",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.629951",
+            "ticker_sentiment_score": "0.341158",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Apple Inc. $AAPL Shares Sold by St. Johns Investment Management Company LLC",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-shares-sold-by-st-johns-investment-management-company-llc-2026-02-05/",
+        "time_published": "20260205T082732",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "St. Johns Investment Management Company LLC reduced its stake in Apple Inc. by 4.6% in the third quarter, while several other institutional investors either increased their positions or initiated new ones. Analyst ratings for Apple are largely positive, with an average rating of \"Moderate Buy\" and a price target of $291.70. The company reported strong Q1 earnings, beating consensus estimates, and recently declared a quarterly dividend.",
+        "banner_image": "https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.928831"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.828242"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.742506"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.845710"
+          }
+        ],
+        "overall_sentiment_score": 0.144444,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "AAPL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.311410",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.628004",
+            "ticker_sentiment_score": "0.132797",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "META",
+            "relevance_score": "0.636953",
+            "ticker_sentiment_score": "0.129693",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.647798",
+            "ticker_sentiment_score": "0.103151",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.620018",
+            "ticker_sentiment_score": "0.029172",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Apple Inc. $AAPL Position Decreased by PKO Investment Management Joint Stock Co",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-position-decreased-by-pko-investment-management-joint-stock-co-2026-02-05/",
+        "time_published": "20260205T082729",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "PKO Investment Management Joint Stock Co reduced its stake in Apple Inc. by 12.6% in the third quarter, now owning 195,000 shares valued at $49.65 million. Despite this reduction, Apple remains its fourth-largest holding, comprising 4.2% of its portfolio. Other institutional investors like Capstone Wealth Management LLC and Vermillion Wealth Management Inc. increased their positions in Apple during the same period.",
+        "banner_image": "https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.919993"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.838375"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.719931"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.609094"
+          }
+        ],
+        "overall_sentiment_score": 0.088223,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.955607",
+            "ticker_sentiment_score": "0.312592",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.649537",
+            "ticker_sentiment_score": "0.139765",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.628068",
+            "ticker_sentiment_score": "-0.217518",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "META",
+            "relevance_score": "0.588566",
+            "ticker_sentiment_score": "0.104936",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Jefferies reiterates Buy rating on Broadcom stock amid AI growth",
+        "url": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-buy-rating-on-broadcom-stock-amid-ai-growth-93CH-4486550",
+        "time_published": "20260205T072928",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Jefferies has reiterated its Buy rating and $500.00 price target for Broadcom (NASDAQ: AVGO), citing the company's strong position in the artificial intelligence and networking markets. The firm highlighted Broadcom's \"well ahead\" status in custom on-package (COT) business and expected growth in its networking segment, further supported by Google's increased AI spending guidance and positive InvestingPro data suggesting undervaluation. Other analysts from Wolfe Research and Wells Fargo have also recently upgraded Broadcom's stock, underscoring the semiconductor giant's strategic advancements and potential for future growth.",
+        "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.812359"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.930810"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "1.000000"
+          }
+        ],
+        "overall_sentiment_score": 0.229548,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AVGO",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.527686",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.794323",
+            "ticker_sentiment_score": "0.311980",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.651185",
+            "ticker_sentiment_score": "-0.429684",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "ORCL",
+            "relevance_score": "0.560069",
+            "ticker_sentiment_score": "0.302895",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.541019",
+            "ticker_sentiment_score": "0.323782",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Rep. Cleo Fields Buys Alphabet Inc. (NASDAQ:GOOG) Stock",
+        "url": "https://www.marketbeat.com/instant-alerts/rep-cleo-fields-buys-alphabet-inc-nasdaqgoog-stock-2026-02-05/",
+        "time_published": "20260205T072824",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Representative Cleo Fields (D-Louisiana) recently disclosed multiple purchases of Alphabet (NASDAQ: GOOG) stock, including a buy between $1,001 and $15,000 on January 12th, and a larger purchase of $100,001–$250,000 on January 20th, 2026. The article details a series of tech stock transactions made by Fields, and also provides a financial overview of Alphabet, highlighting its strong Q4 earnings, analyst ratings, and investor sentiment mixed with concerns over high 2026 capital expenditure guidance.",
+        "banner_image": "https://www.marketbeat.com/logos/google-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.916435"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.828345"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.731008"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.631036"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.648798"
+          }
+        ],
+        "overall_sentiment_score": 0.03985,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.330580",
+            "ticker_sentiment_score": "0.011094",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "KeyBanc downgrades TransDigm stock rating to Sector Weight on aftermarket growth concerns",
+        "url": "https://www.investing.com/news/analyst-ratings/keybanc-downgrades-transdigm-stock-rating-to-sector-weight-on-aftermarket-growth-concerns-93CH-4486549",
+        "time_published": "20260205T065657",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "KeyBanc Capital Markets downgraded TransDigm Group (NYSE: TDG) from Overweight to Sector Weight, citing concerns about slowing aftermarket growth and margin pressure from acquisitions. The stock has already seen an 11% drop, trading 7% above its 52-week low. This downgrade follows TransDigm's fiscal first-quarter 2026 earnings report; however, the company still surpassed EPS and revenue expectations for the quarter, and other analysts have varying outlooks, including both raised and lowered price targets.",
+        "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.905666"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.824988"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.622687"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.620290"
+          }
+        ],
+        "overall_sentiment_score": -0.198842,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "TDG",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.445593",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.602580",
+            "ticker_sentiment_score": "-0.313955",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.564955",
+            "ticker_sentiment_score": "-0.316774",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.587105",
+            "ticker_sentiment_score": "0.256593",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.560764",
+            "ticker_sentiment_score": "-0.236287",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Google Parent Alphabet Earnings Beat Fuels Analyst Price Target Hikes – But Capex Jitters Linger",
+        "url": "https://stocktwits.com/news-articles/markets/equity/google-parent-alphabet-earnings-beat-fuels-analyst-price-target-hikes-but-capex-jitters-linger/cZbZdsDR4VB",
+        "time_published": "20260205T064200",
+        "authors": [
+          "Shivani Kumaresan"
+        ],
+        "summary": "Alphabet Inc. (GOOG, GOOGL) surpassed Q4 analyst estimates with $113.8 billion in revenue and $2.82 EPS, driving multiple Wall Street firms to raise their price targets, citing strong AI and search momentum. However, shares fell over 2% premarket due to investor caution over the company's projected 2026 capital expenditure of $175 billion to $185 billion, significantly higher than previous estimates. Despite this, CEO Sundar Pichai remains optimistic about the revenue potential from these investments.",
+        "banner_image": "https://news.stocktwits-cdn.com/large_Getty_Images_2225993063_jpg_eeb3524552.webp",
+        "source": "Stocktwits",
+        "category_within_source": "General",
+        "source_domain": "Stocktwits",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.905604"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.823888"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.632866"
+          }
+        ],
+        "overall_sentiment_score": 0.038749,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.957250",
+            "ticker_sentiment_score": "0.119549",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.881482",
+            "ticker_sentiment_score": "0.114615",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.557058",
+            "ticker_sentiment_score": "-0.149160",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Transcat (TRNS) Quarterly Loss Challenges Bullish Earnings Growth Narratives",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nasdaq-trns/transcat/news/transcat-trns-quarterly-loss-challenges-bullish-earnings-gro",
+        "time_published": "20260205T062934",
+        "authors": [
+          "Simply Wall St"
+        ],
+        "summary": "Transcat (TRNS) reported a Q3 2026 loss of US$0.12 EPS and US$1.1 million net loss, despite revenue growth to US$83.9 million. While the company still shows a profit over the trailing twelve months, the quarterly loss and compressed net profit margin of 2.5% challenge bullish earnings growth forecasts of 26.2% annually. The stock's high P/E of 83.5x and a DCF fair value significantly below the current price suggest a rich valuation, prompting investors to scrutinize future profitability and growth execution.",
+        "banner_image": null,
+        "source": "Simply Wall Street",
+        "category_within_source": "General",
+        "source_domain": "Simply Wall Street",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.907880"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.848920"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.710602"
+          }
+        ],
+        "overall_sentiment_score": 0.039892,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "TRNS",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.336310",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.616900",
+            "ticker_sentiment_score": "0.129119",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.605518",
+            "ticker_sentiment_score": "0.138333",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.629036",
+            "ticker_sentiment_score": "0.104944",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Stifel downgrades Microsoft stock to Hold on Azure concerns",
+        "url": "https://www.investing.com/news/analyst-ratings/stifel-downgrades-microsoft-stock-to-hold-on-azure-concerns-93CH-4486518",
+        "time_published": "20260205T061840",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Stifel downgraded Microsoft stock from Buy to Hold and significantly cut its price target due to concerns over Azure's supply constraints and increased AI competition. The firm believes Wall Street's 2027 revenue and earnings expectations are too optimistic, citing strong performance from Google Cloud Platform and Anthropic. Stifel also raised its capital expenditure estimate for Microsoft and lowered its gross margin forecast, indicating a new spending phase for AI development.",
+        "banner_image": "https://i-invdn-com.investing.com/news/Microsoft_2_800x533_L_1412175603.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.904000"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.813658"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.744866"
+          }
+        ],
+        "overall_sentiment_score": 0.050791,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "MSFT",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.433764",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.738431",
+            "ticker_sentiment_score": "0.252493",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.640153",
+            "ticker_sentiment_score": "0.122349",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.627785",
+            "ticker_sentiment_score": "0.143626",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "BHP share price drops nearly 4% — what to watch before the next ASX session",
+        "url": "https://ts2.tech/en/bhp-share-price-drops-nearly-4-what-to-watch-before-the-next-asx-session/",
+        "time_published": "20260205T055928",
+        "authors": [
+          "Shan Ahmed Khan"
+        ],
+        "summary": "BHP Group Ltd shares closed down 3.9% at A$50.36 on Thursday, influencing the broader Australian market. The drop is attributed to softening iron ore prices, which hit a seven-week low, and pressure from rising interest rates with the Reserve Bank of Australia lifting the cash rate. Investors are now looking to BHP's half-year results due on February 17th for the next major catalyst.",
+        "banner_image": "https://ts2.tech/wp-content/uploads/2026/02/bhp-share-price-drops-nearly-4-what-to-watch-before-the-next-asx-session-featured.jpg",
+        "source": "TechStock²",
+        "category_within_source": "General",
+        "source_domain": "TechStock²",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.902633"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.949761"
+          },
+          {
+            "topic": "economy_monetary",
+            "relevance_score": "0.847286"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.615407"
+          }
+        ],
+        "overall_sentiment_score": -0.27458,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "BHP",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.417206",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.554710",
+            "ticker_sentiment_score": "-0.185507",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.567497",
+            "ticker_sentiment_score": "-0.184248",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Alphabet CEO Sundar Pichai Says AI Capacity Is What 'Keeps Us Up At Night' As Power, Land And Supply Chain Limits Test Growth",
+        "url": "https://www.benzinga.com/markets/tech/26/02/50401232/alphabet-ceo-sundar-pichai-says-ai-capacity-is-what-keeps-us-up-at-night-as-power-land-and-supply-chain-limits-test-growth",
+        "time_published": "20260205T055839",
+        "authors": [
+          "Ananya Gairola"
+        ],
+        "summary": "Alphabet CEO Sundar Pichai highlights AI capacity as the company's most significant near-term challenge, citing constraints in power, land, and supply chains. Despite years of \"AI-first\" strategy and investments in custom chips, meeting the surging demand for AI is becoming difficult. Alphabet reported strong Q4 revenues of $113.83 billion, exceeding estimates, and plans to allocate $175-185 billion in 2026 capital expenditures primarily towards expanding AI computing capacity.",
+        "banner_image": "https://cdn.benzinga.com/files/images/story/2026/02/05/Nyc--Ny-usa--July-16-2020--Googles-Ny-Of.jpeg?quality=85&auto=webp&width=850",
+        "source": "Benzinga",
+        "category_within_source": "General",
+        "source_domain": "Benzinga",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.922718"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.914527"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.617711"
+          }
+        ],
+        "overall_sentiment_score": 0.187472,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.117584",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.983555",
+            "ticker_sentiment_score": "0.126940",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.605543",
+            "ticker_sentiment_score": "0.225299",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMAT",
+            "relevance_score": "0.562725",
+            "ticker_sentiment_score": "0.204687",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "In-Depth Examination of Segments, Industry Trends, and Key Competitors in the Smoke Alarms Market",
+        "url": "https://www.openpr.com/news/4377871/in-depth-examination-of-segments-industry-trends-and-key",
+        "time_published": "20260205T035926",
+        "authors": [],
+        "summary": "The smoke alarms market is projected to reach $2.69 billion by 2030, driven by technological advancements like AI and IoT integration, increased safety awareness, and demand for smart home solutions. Key players include Robert Bosch GmbH, Honeywell International Inc., and Schneider Electric SE, with a focus on innovations like combined smoke and carbon monoxide detection. The market is segmented by type (ionization, photoelectric, beam), power backup, application (commercial, residential, industrial), and distribution channel.",
+        "banner_image": "https://cdn.open-pr.com/L/2/L205791675_g.jpg",
+        "source": "openPR.com",
+        "category_within_source": "General",
+        "source_domain": "openPR.com",
+        "topics": [
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.840277"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.737731"
+          },
+          {
+            "topic": "mergers_and_acquisitions",
+            "relevance_score": "0.648074"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.610459"
+          }
+        ],
+        "overall_sentiment_score": 0.262583,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "UUU",
+            "relevance_score": "0.313690",
+            "ticker_sentiment_score": "0.020640",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "JCI",
+            "relevance_score": "0.614062",
+            "ticker_sentiment_score": "0.321958",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "HON",
+            "relevance_score": "0.719320",
+            "ticker_sentiment_score": "0.328985",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.638144",
+            "ticker_sentiment_score": "0.344824",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Alphabet Is an Interest Behemoth With Its Fingers in Many Profitable Pies",
+        "url": "https://www.morningstar.com/company-reports/1424222-alphabet-is-an-interest-behemoth-with-its-fingers-in-many-profitable-pies",
+        "time_published": "20260205T035824",
+        "authors": [
+          "Malik Ahmed Khan"
+        ],
+        "summary": "Alphabet is considered a conglomerate of strong businesses, generating significant free cash flow from diverse operations like advertising, cloud computing, and self-driving cars. Despite antitrust concerns regarding its core search business, analysts maintain confidence in Alphabet's overall strength and expect its continued leadership in areas such as search, AI, video, and cloud computing. The company is poised to remain a behemoth with its varied profitable ventures.",
+        "banner_image": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/mxV_cEtNt2NpUYzclwnVhBxVics=/2000x2000/author-service-images-prod-us-east-1.publishing.aws.arc.pub/morningstar/4ef98a5a-6be5-4127-a335-3568837ad0cd.jpg",
+        "source": "Morningstar",
+        "category_within_source": "General",
+        "source_domain": "Morningstar",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.941504"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.822437"
+          }
+        ],
+        "overall_sentiment_score": 0.444365,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.436377",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Alecta Pensionsforsakring trims Alphabet Inc. Class A stake",
+        "url": "https://www.tipranks.com/news/company-announcements/alecta-pensionsforsakring-trims-alphabet-inc-class-a-stake",
+        "time_published": "20260205T030657",
+        "authors": [],
+        "summary": "Alecta Pensionsforsakring, managed by Magnus Billing, has reduced its stake in Alphabet Inc. Class A by 702,000 shares. This transaction comes as Alphabet Inc. Class A shares have seen strong gains recently, with Wall Street maintaining a bullish \"StrongBuy\" consensus and positive price targets. Analysts, including Bank of America's Justin Post, anticipate a strong fourth quarter for Alphabet driven by its AI strategy and robust digital ad backdrop, despite acknowledging potential risks like valuation and rising capex costs.",
+        "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2195413855-750x406.jpg",
+        "source": "TipRanks",
+        "category_within_source": "General",
+        "source_domain": "TipRanks",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.922037"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.836407"
+          }
+        ],
+        "overall_sentiment_score": 0.424216,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.504362",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "BAC",
+            "relevance_score": "0.566737",
+            "ticker_sentiment_score": "0.310258",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Alibaba, Kuaishou, SMIC drop in Hong Kong tech sell-off on AI fears",
+        "url": "https://www.scmp.com/business/china-business/article/3342440/alibaba-kuaishou-smic-drop-hong-kong-tech-stock-sell-ai-fears-grip",
+        "time_published": "20260205T022942",
+        "authors": [
+          "Yulu Ao"
+        ],
+        "summary": "Hong Kong stocks closed slightly higher on Thursday, despite a sell-off in technology shares driven by valuation and AI concerns, as robust buying from mainland investors via Stock Connect provided late-session support. The Hang Seng Index reversed earlier losses to end up 0.1%, while the Hang Seng Tech Index gained 0.7%. Baidu rose after announcing a share buy-back and dividend policy, while other tech giants like Alibaba, Kuaishou, and SMIC saw declines.",
+        "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2026/02/05/635644d6-4bdf-446f-9c3b-69e53d773191_51b3ecd5.jpg?itok=Qkcbg6Lx&v=1770257593",
+        "source": "South China Morning Post",
+        "category_within_source": "General",
+        "source_domain": "South China Morning Post",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.946940"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.835970"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.749891"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.614808"
+          }
+        ],
+        "overall_sentiment_score": -0.200775,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "BABA",
+            "relevance_score": "0.336106",
+            "ticker_sentiment_score": "0.028451",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.646856",
+            "ticker_sentiment_score": "-0.342789",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.615904",
+            "ticker_sentiment_score": "-0.311879",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Alphabet, Qualcomm, Arm Holdings, Broadcom And Snap: Why These 5 Stocks Are On Investors' Radars Today",
+        "url": "https://www.benzinga.com/news/26/02/50400234/alphabet-qualcomm-arm-holdings-broadcom-and-snap-why-these-5-stocks-are-on-investors-radars-today",
+        "time_published": "20260205T013149",
+        "authors": [
+          "Shivdeep Dhaliwal"
+        ],
+        "summary": "Major U.S. indices had a mixed close, with Dow Jones up and S&P 500 and Nasdaq down. This article highlights five stocks—Alphabet, Qualcomm, Arm Holdings, Broadcom, and Snap—that captured investor attention due to their recent earnings reports, stock performance, and guidance, particularly concerning AI-driven growth and capital expenditures. Alphabet and Snap saw post-market appreciation due to strong earnings, while Qualcomm and Arm Holdings experienced declines despite beating expectations, largely due to cautious guidance or high investor expectations. Broadcom also surged on Alphabet's increased AI spending outlook.",
+        "banner_image": "https://cdn.benzinga.com/files/images/story/2026/02/04/Chart-Trading---Stock-Exchange---Economy.jpeg?quality=85&auto=webp&width=850",
+        "source": "Benzinga",
+        "category_within_source": "General",
+        "source_domain": "Benzinga",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.930836"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.924304"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.815650"
+          }
+        ],
+        "overall_sentiment_score": -0.13257,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.212213",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.968789",
+            "ticker_sentiment_score": "-0.235343",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "AVGO",
+            "relevance_score": "0.949234",
+            "ticker_sentiment_score": "0.326070",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "QCOM",
+            "relevance_score": "0.846764",
+            "ticker_sentiment_score": "-0.343886",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "IAC Q4 Deep Dive: Digital Revenue Resilience Amid Margin Pressures and Strategic Shifts",
+        "url": "https://finviz.com/news/300112/iac-q4-deep-dive-digital-revenue-resilience-amid-margin-pressures-and-strategic-shifts",
+        "time_published": "20260205T005827",
+        "authors": [
+          "Radek Strnad"
+        ],
+        "summary": "IAC reported mixed Q4 CY2025 results, exceeding revenue expectations but falling significantly short on non-GAAP profit, which management attributed to declines in traditional web traffic and AI's impact on digital publishing. The company is focusing on strategic shifts towards diversified, off-platform revenue streams, direct-to-consumer channels, and product innovation to combat industry headwinds and prepare for future growth. Litigation expenses related to Google ad tech and ongoing cost management efforts are also highlighted as influencing future margins and strategy.",
+        "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/iac-cover-image-c7f69870edc2_2025-03-11-193056_ykfx.jpeg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.937001"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.826094"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.708016"
+          }
+        ],
+        "overall_sentiment_score": -0.110695,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "IACVV",
+            "relevance_score": "0.336923",
+            "ticker_sentiment_score": "0.005244",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.601055",
+            "ticker_sentiment_score": "-0.136375",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.600992",
+            "ticker_sentiment_score": "-0.102584",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "WBD",
+            "relevance_score": "0.641987",
+            "ticker_sentiment_score": "-0.148390",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Eagle Point sells acres commercial realty (ACR) stock worth $118,216",
+        "url": "https://www.investing.com/news/insider-trading-news/eagle-point-sells-acres-commercial-realty-acr-stock-worth-118216-93CH-4486349",
+        "time_published": "20260205T001128",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Eagle Point Credit Management LLC, a significant owner in ACRES Commercial Realty Corp (NASDAQ:ACR), has sold preferred stock totaling $118,216 across different transactions between February 2nd and February 4th, 2026. The sales involved both Series D and Series C preferred stocks at varying prices. Despite these sales, Eagle Point still retains substantial holdings in both preferred and common stock of ACRES Commercial Realty Corp.",
+        "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.902403"
+          },
+          {
+            "topic": "real_estate",
+            "relevance_score": "0.849485"
+          }
+        ],
+        "overall_sentiment_score": -0.23702,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "ACR-P-D",
+            "relevance_score": "0.340842",
+            "ticker_sentiment_score": "0.049410",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.557392",
+            "ticker_sentiment_score": "-0.338802",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.563891",
+            "ticker_sentiment_score": "-0.343580",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.540528",
+            "ticker_sentiment_score": "-0.332394",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.558526",
+            "ticker_sentiment_score": "-0.133789",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Radware Unveils Agentic AI Protection Solution to Shield Enterprises from New Agentic Threats",
+        "url": "https://itwire.com/business-it-news/data/radware-unveils-agentic-ai-protection-solution-to-shield-enterprises-from-new-agentic-threats.html",
+        "time_published": "20260205T000009",
+        "authors": [
+          "Radware"
+        ],
+        "summary": "Radware has launched its Agentic AI Protection Solution, expanding its platform into the AI security market. This solution is designed to protect autonomous AI agents from new threats like direct and indirect prompt injection attacks, tool abuse, and unauthorized data access. It leverages proprietary behavioral analysis to identify malicious intent in real-time, distinguishing it from traditional software-based guardrails, and comes after Radware's discovery of the \"ZombieAgent\" vulnerability.",
+        "banner_image": "https://itwire.com/media/k2/items/cache/52b58c33d042771b986892b8475e1ff3_M.jpg",
+        "source": "iTWire",
+        "category_within_source": "General",
+        "source_domain": "iTWire",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "0.948053"
+          }
+        ],
+        "overall_sentiment_score": 0.245978,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "RDWR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.493527",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.604343",
+            "ticker_sentiment_score": "0.215392",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.596734",
+            "ticker_sentiment_score": "0.145554",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.554021",
+            "ticker_sentiment_score": "0.146570",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Thomas Indelicarto Sells 498 Shares of VeriSign (NASDAQ:VRSN) Stock",
+        "url": "https://www.marketbeat.com/instant-alerts/thomas-indelicarto-sells-498-shares-of-verisign-nasdaqvrsn-stock-2026-02-04/",
+        "time_published": "20260204T234327",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "VeriSign EVP Thomas Indelicarto recently sold 498 shares of the company's stock, valued at over $124,000, reducing his stake by 1.63%. Despite the sale, Indelicarto still owns over 30,000 shares worth approximately $7.5 million. The stock is currently trading around $240.96, with analysts giving it a consensus \"Hold\" rating and an average price target of $298.",
+        "banner_image": "https://www.marketbeat.com/logos/verisign-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.805651"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.918558"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.747163"
+          }
+        ],
+        "overall_sentiment_score": 0.046005,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "VRSN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.190550",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.570989",
+            "ticker_sentiment_score": "0.134694",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.585260",
+            "ticker_sentiment_score": "0.135352",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.558777",
+            "ticker_sentiment_score": "0.130470",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.556736",
+            "ticker_sentiment_score": "0.114071",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Earnings call transcript: NETGEAR beats Q4 2025 forecasts with robust growth",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-netgear-beats-q4-2025-forecasts-with-robust-growth-93CH-4486316",
+        "time_published": "20260204T232909",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "NETGEAR (NTGR) reported robust Q4 2025 earnings, significantly exceeding EPS and revenue forecasts, primarily driven by strong enterprise segment growth. Despite these positive results and achieving its first non-GAAP operating profit since 2021, the company's stock dipped in after-hours trading. NETGEAR provided Q1 2026 guidance, forecasting net revenues between $145 million and $160 million, and acknowledged potential challenges from escalating memory supply constraints, especially impacting its consumer business in the second half of 2026.",
+        "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.929512"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.837981"
+          }
+        ],
+        "overall_sentiment_score": 0.088737,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "NTGR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.293239",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MU",
+            "relevance_score": "0.673358",
+            "ticker_sentiment_score": "-0.331421",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.638000",
+            "ticker_sentiment_score": "0.122370",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.631100",
+            "ticker_sentiment_score": "0.111945",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.545216",
+            "ticker_sentiment_score": "0.161151",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Alphabet Results: Record Revenues and Investments Showcase the Company’s Dominance!",
+        "url": "https://www.xtb.com/int/market-analysis/news-and-research/alphabet-results-record-revenues-and-investments-showcase-the-company-s-dominance",
+        "time_published": "20260204T224927",
+        "authors": [],
+        "summary": "Alphabet reported strong Q4 2025 results with record revenues of $113.8 billion, a 14% year-over-year increase, and EPS of $2.82, exceeding market expectations. The company demonstrated significant growth in Google Services and Google Cloud, which saw a 48% increase in revenue. Alphabet also plans substantial capital expenditures for 2026, primarily focused on AI infrastructure and data centers, positioning itself for continued leadership in the digital economy.",
+        "banner_image": "https://xtb.scdn5.secure.raxcdn.com/postTopImage/0104/19/a46deec8-c74a-4adc-a8d2-cfe01060d01f/postTopImage_front/anders-jilden-sc5rkxlbjgg.jpg",
+        "source": "XTB.com",
+        "category_within_source": "General",
+        "source_domain": "XTB.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.909928"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.824701"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.610657"
+          }
+        ],
+        "overall_sentiment_score": 0.842083,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.871111",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.933396",
+            "ticker_sentiment_score": "0.839352",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Alphabet Inc. Reports Strong Q4 Financial Results",
+        "url": "https://www.nasdaq.com/articles/alphabet-inc-reports-strong-q4-financial-results",
+        "time_published": "20260204T224535",
+        "authors": [
+          "RTTNews.com"
+        ],
+        "summary": "Alphabet Inc. (GOOG) announced strong financial results for the fourth quarter and full year ended December 31, 2025. The company reported significant increases in total revenues and net income for both periods, with Q4 2025 revenues reaching $113.8 billion and full-year revenues growing to $402.8 billion. Despite increased operating expenses, net income for 2025 rose to $132.2 billion, resulting in an earnings per share of $10.81.",
+        "banner_image": null,
+        "source": "Nasdaq",
+        "category_within_source": "General",
+        "source_domain": "Nasdaq",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.921664"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.842102"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.735560"
+          }
+        ],
+        "overall_sentiment_score": 0.717404,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.962703",
+            "ticker_sentiment_score": "0.746253",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.922479",
+            "ticker_sentiment_score": "0.710991",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Amcor Files Quarterly Form 10-Q for December 2025 Period",
+        "url": "https://www.tipranks.com/news/company-announcements/amcor-files-quarterly-form-10-q-for-december-2025-period",
+        "time_published": "20260204T223409",
+        "authors": [
+          "TipRanks Australian Auto-Generated Newsdesk"
+        ],
+        "summary": "Amcor plc has filed its Form 10-Q with the US SEC for the quarter ended December 31, 2025, providing an update on its financial and operational performance. This filing ensures regulatory compliance and transparency for global investors, given Amcor's dual listings on the NYSE and ASX. An analyst from TipRanks currently rates Amcor (AU:AMC) stock as a Buy with a A$75.00 price target.",
+        "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Consumer-Cylical-6-750x406.jpg",
+        "source": "TipRanks",
+        "category_within_source": "General",
+        "source_domain": "TipRanks",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.922883"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.835174"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.642965"
+          }
+        ],
+        "overall_sentiment_score": 0.344956,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMCR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.316011",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.635898",
+            "ticker_sentiment_score": "0.328298",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NFLX",
+            "relevance_score": "0.625159",
+            "ticker_sentiment_score": "0.303495",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.602710",
+            "ticker_sentiment_score": "0.310045",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.628039",
+            "ticker_sentiment_score": "0.308443",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Assessing Summit Therapeutics (SMMT) Valuation After FDA Acceptance Of Ivonescimab BLA",
+        "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-smmt/summit-therapeutics/news/assessing-summit-therapeutics-smmt-valuation-after-fda-accep",
+        "time_published": "20260204T222949",
+        "authors": [
+          "Simply Wall St"
+        ],
+        "summary": "Summit Therapeutics (SMMT) recently had its Biologics License Application for ivonescimab accepted by the FDA, with a PDUFA action date set for November 14, 2026. Despite a high Price-to-Book ratio of 58.5x, suggesting overvaluation compared to industry peers, Simply Wall St's Discounted Cash Flow model indicates a significant undervaluation at $14.59 per share against an estimated future cash flow value of $213.88. Investors face a mixed signal from the market, with recent share price declines contrasting with long-term returns and a projected large discount based on future cash flow.",
+        "banner_image": null,
+        "source": "Simply Wall Street",
+        "category_within_source": "General",
+        "source_domain": "Simply Wall Street",
+        "topics": [
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.938012"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.816992"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.742396"
+          }
+        ],
+        "overall_sentiment_score": -0.0791,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "SMMT",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.102961",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.593434",
+            "ticker_sentiment_score": "-0.070043",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.587456",
+            "ticker_sentiment_score": "-0.060914",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.559401",
+            "ticker_sentiment_score": "-0.071078",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "PYPL",
+            "relevance_score": "0.552575",
+            "ticker_sentiment_score": "-0.054637",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Madison Asset Initiates MSA Safety Position",
+        "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/31204/madison-asset-initiates-msa-safety-position/",
+        "time_published": "20260204T222841",
+        "authors": [
+          "Motley Fool"
+        ],
+        "summary": "Madison Asset Management, LLC acquired 568,244 shares of MSA Safety (NYSE:MSA) during the fourth quarter, establishing a new position valued at approximately $91 million. This investment accounts for 1% of the firm's assets under management. MSA Safety is a provider of advanced safety solutions for high-risk industries, and investors are awaiting its fourth-quarter results and 2026 outlook on February 11.",
+        "banner_image": null,
+        "source": "The Globe and Mail",
+        "category_within_source": "General",
+        "source_domain": "The Globe and Mail",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.915342"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.712599"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.620871"
+          }
+        ],
+        "overall_sentiment_score": 0.111098,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "MSA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.175619",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "ACGL",
+            "relevance_score": "0.631648",
+            "ticker_sentiment_score": "0.058616",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "ROST",
+            "relevance_score": "0.630217",
+            "ticker_sentiment_score": "0.050952",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "PCAR",
+            "relevance_score": "0.602119",
+            "ticker_sentiment_score": "0.053994",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.634811",
+            "ticker_sentiment_score": "0.080968",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Centerpoint Energy stock hits 52-week high at 40.56 USD By Investing.com",
+        "url": "https://ca.investing.com/news/company-news/centerpoint-energy-stock-hits-52week-high-at-4056-usd-93CH-4438138",
+        "time_published": "20260204T222743",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Centerpoint Energy (CNP) stock recently hit a 52-week high of $40.56, demonstrating strong performance with a 28.02% total return over the past year. The utility company has a market capitalization of $26.34 billion and a history of 56 consecutive years of dividend payments, currently yielding 2.29%. Recent analyst upgrades from BMO Capital and KeyBanc reflect confidence in the company's fundamentals and future earnings potential, positioning it as a stable investment.",
+        "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+        "source": "Investing.com Canada",
+        "category_within_source": "General",
+        "source_domain": "Investing.com Canada",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.918332"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.807536"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.741194"
+          }
+        ],
+        "overall_sentiment_score": 0.200168,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "CNP",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.458037",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.602036",
+            "ticker_sentiment_score": "0.115794",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "UBER",
+            "relevance_score": "0.643032",
+            "ticker_sentiment_score": "0.129839",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "LLY",
+            "relevance_score": "0.628304",
+            "ticker_sentiment_score": "0.104563",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.621062",
+            "ticker_sentiment_score": "0.103760",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Q4 earnings call: Remarks from our CEO",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q4-2025/",
+        "time_published": "20260204T222729",
+        "authors": [
+          "Sundar Pichai"
+        ],
+        "summary": "Sundar Pichai, CEO of Google and Alphabet, delivered remarks on the company's Q4 2025 earnings call, highlighting a \"tremendous quarter\" with Alphabet's annual revenues exceeding $400 billion for the first time. He emphasized the significant impact of Gemini 3, driving momentum and business results across Search, Cloud, YouTube, and Waymo, and detailed the company's full-stack AI approach and future CapEx investments. Pichai also noted strong growth in Cloud, YouTube subscriptions, and increased engagement with AI-powered features across Google products.",
+        "banner_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarPichai_2x.max-208x156.format-webp.webp",
+        "source": "blog.google",
+        "category_within_source": "General",
+        "source_domain": "blog.google",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.935022"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.830696"
+          }
+        ],
+        "overall_sentiment_score": 0.021757,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.317297",
+            "ticker_sentiment_score": "0.018757",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Earnings call transcript: Alphabet Q4 2025 highlights strong earnings beat",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-alphabet-q4-2025-highlights-strong-earnings-beat-93CH-4486264",
+        "time_published": "20260204T222728",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Alphabet Inc. (GOOG) delivered strong financial results for Q4 2025, beating analyst expectations with an EPS of $2.82 and revenue of $113.8 billion. The company saw an 18% increase in revenue year-over-year, surpassed $400 billion in annual revenue for the first time, and plans significant AI investments with anticipated 2026 CapEx between $175 billion-$185 billion. Key growth drivers included advancements in AI, increased demand for enterprise AI solutions, strong performance in Search, YouTube subscriptions, and Google Cloud, with the stock rising 0.97% in after-hours trading.",
+        "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.901099"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.816745"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.738210"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.603034"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.646191"
+          }
+        ],
+        "overall_sentiment_score": 0.364931,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOG",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.509046",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.802867",
+            "ticker_sentiment_score": "0.476625",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.631257",
+            "ticker_sentiment_score": "0.306412",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.610451",
+            "ticker_sentiment_score": "0.266990",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMGN",
+            "relevance_score": "0.549357",
+            "ticker_sentiment_score": "0.190748",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Allegion raises quarterly dividend by 8% to $0.55 per share",
+        "url": "https://www.investing.com/news/company-news/allegion-raises-quarterly-dividend-by-8-to-055-per-share-93CH-4486161",
+        "time_published": "20260204T221309",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Allegion plc announced an 8% increase in its quarterly dividend to $0.55 per ordinary share, marking its 12th consecutive annual dividend hike. The dividend is payable on March 31, 2026, to shareholders of record on March 13, 2026. This financial update follows an earlier dividend announcement of $0.51 for late 2025 and coincides with product line advancements, including enhancements to the LCN Senior Swing automatic door operator series with new AdaptivIQ technology.",
+        "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.945711"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.701508"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.620270"
+          }
+        ],
+        "overall_sentiment_score": -0.027428,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "ALLE",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.738138",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.597879",
+            "ticker_sentiment_score": "-0.386680",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.574641",
+            "ticker_sentiment_score": "0.312240",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.597355",
+            "ticker_sentiment_score": "-0.384156",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.602429",
+            "ticker_sentiment_score": "-0.268104",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Enact Holdings Inc stock hits all-time high at 42.15 USD",
+        "url": "https://www.investing.com/news/company-news/enact-holdings-inc-stock-hits-alltime-high-at-4215-usd-93CH-4485177",
+        "time_published": "20260204T215932",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Enact Holdings Inc (ACT) stock reached an all-time high of $42.15, reflecting a 22.72% increase over the past year. The company boasts a market capitalization of $5.82 billion, a P/E ratio of 9.22, and strong financial health, with diluted EPS of $4.36, positioning it as potentially undervalued. Despite a recent revenue miss, the mortgage insurance provider surpassed EPS forecasts for Q4 2025, signaling mixed but generally positive performance.",
+        "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.805862"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.925849"
+          }
+        ],
+        "overall_sentiment_score": 0.069041,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "ACT",
+            "relevance_score": "0.995818",
+            "ticker_sentiment_score": "0.423953",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NFLX",
+            "relevance_score": "0.594622",
+            "ticker_sentiment_score": "0.060982",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.595452",
+            "ticker_sentiment_score": "0.111204",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.588359",
+            "ticker_sentiment_score": "-0.141243",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.591169",
+            "ticker_sentiment_score": "-0.161333",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "IAC Inc (IAC) Q4 2025 Earnings Call Highlights: Strong Digital Revenue Growth Amid AI Disruptions By GuruFocus",
+        "url": "https://ca.investing.com/news/company-news/iac-inc-iac-q4-2025-earnings-call-highlights-strong-digital-revenue-growth-amid-ai-disruptions-4438874",
+        "time_published": "20260204T215827",
+        "authors": [
+          "GuruFocus"
+        ],
+        "summary": "IAC Inc. (NASDAQ:IAC) reported strong Q4 2025 results with a 14% growth in digital revenue, driven by advertising, performance marketing, and licensing, despite facing challenges from AI disruptions and declining print revenue. The company is diversifying its reach beyond Google search and is actively investing in new products, buying back shares, and increasing its stake in MGM. Key discussions during the earnings call highlighted strategic shifts towards direct audience engagement, M&A interests, and ongoing litigation with Google, with a decision to stop providing quarterly guidance to focus on long-term value creation.",
+        "banner_image": "https://i-invdn-com.investing.com/news/google_2_800x533_L_1411373488.jpg",
+        "source": "Investing.com Canada",
+        "category_within_source": "General",
+        "source_domain": "Investing.com Canada",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.939358"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.849202"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.741135"
+          },
+          {
+            "topic": "mergers_and_acquisitions",
+            "relevance_score": "0.630107"
+          }
+        ],
+        "overall_sentiment_score": 0.015974,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "IACVV",
+            "relevance_score": "0.338559",
+            "ticker_sentiment_score": "0.021947",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MGM",
+            "relevance_score": "0.700974",
+            "ticker_sentiment_score": "0.327531",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.617426",
+            "ticker_sentiment_score": "-0.329015",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "CME Group Inc (CME) Q4 2025 Earnings Call Highlights: Record Revenues and Strategic Expansions ... By GuruFocus",
+        "url": "https://ca.investing.com/news/company-news/cme-group-inc-cme-q4-2025-earnings-call-highlights-record-revenues-and-strategic-expansions--4438863",
+        "time_published": "20260204T212741",
+        "authors": [
+          "GuruFocus"
+        ],
+        "summary": "CME Group Inc reported record revenues of $6.5 billion for 2025, a 6% increase from the previous year, achieving its fifth consecutive year of record volume with a 6% rise in average daily volume. The company saw significant growth in cryptocurrency trading, expanded its retail footprint with new event contracts, and received SEC approval for CME Securities Clearing. Despite these achievements, CME Group faces challenges related to market volatility, regulatory uncertainties for prediction markets, pressure to adjust transaction fees, and complexities associated with tokenized collateral and SEC approval for cross-margining for client accounts.",
+        "banner_image": "https://i-invdn-com.investing.com/news/oil_2_800x533_L_1412692774.jpg",
+        "source": "Investing.com Canada",
+        "category_within_source": "General",
+        "source_domain": "Investing.com Canada",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.934243"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.839643"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.749209"
+          },
+          {
+            "topic": "blockchain",
+            "relevance_score": "0.632260"
+          }
+        ],
+        "overall_sentiment_score": 0.202042,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "CME",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.417958",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.640143",
+            "ticker_sentiment_score": "0.116009",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.639135",
+            "ticker_sentiment_score": "0.127811",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GE",
+            "relevance_score": "0.573862",
+            "ticker_sentiment_score": "0.123339",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "12 Communication Services Stocks Moving In Wednesday's After-Market Session",
+        "url": "https://www.benzinga.com/insights/movers/26/02/50393620/12-communication-services-stocks-moving-in-wednesdays-after-market-session",
+        "time_published": "20260204T205853",
+        "authors": [
+          "Benzinga Insights",
+          "Benzinga Staff Writer"
+        ],
+        "summary": "This article lists 12 Communication Services stocks that experienced significant movement during Wednesday's after-market session. It highlights several gainers, including Cheer Holding (NASDAQ: CHR) and Thryv Holdings (NASDAQ: THRY), and losers such as Alphabet (NASDAQ: GOOGL) and GCL Global Holdings (NASDAQ: GCL). The price changes and market caps for each mentioned company are provided.",
+        "banner_image": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_1.jpg?quality=85&auto=webp&width=850",
+        "source": "Benzinga",
+        "category_within_source": "General",
+        "source_domain": "Benzinga",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.905857"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.827310"
+          }
+        ],
+        "overall_sentiment_score": 0.047806,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "CHR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.486368",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.905380",
+            "ticker_sentiment_score": "-0.445148",
+            "ticker_sentiment_label": "Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Alphabet Live: Complete Coverage Of GOOG’s Q4 Earnings",
+        "url": "https://247wallst.com/investing/2026/02/04/alphabet-live-complete-coverage-of-googs-q4-earnings/",
+        "time_published": "20260204T205720",
+        "authors": [
+          "Eric Bleeker"
+        ],
+        "summary": "Alphabet (GOOG) reported its Q4 earnings, beating on both top and bottom lines, but shares initially dropped due to significantly higher-than-expected CapEx guidance of $180 billion for 2026, compared to analyst expectations of $116 billion. Despite strong growth in Google Cloud and early monetization signals from AI initiatives like Gemini, investors are scrutinizing the justification and ROI timelines for these massive infrastructure investments. The company's Q4 revenues were $113.83 billion and EPS was $2.82, with Google Cloud showing accelerated growth of 48%.",
+        "banner_image": "https://247wallst.com/wp-content/uploads/2026/02/goog-featured-1770236845793.webp",
+        "source": "24/7 Wall St.",
+        "category_within_source": "General",
+        "source_domain": "24/7 Wall St.",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.925192"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.732810"
+          }
+        ],
+        "overall_sentiment_score": 0.197403,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.250522",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.957005",
+            "ticker_sentiment_score": "0.252274",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "META",
+            "relevance_score": "0.629367",
+            "ticker_sentiment_score": "0.149500",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "CRM",
+            "relevance_score": "0.581778",
+            "ticker_sentiment_score": "0.208414",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "The Truth About EPAM Systems Inc: Silent Tech Beast Or Overhyped Stock Trap?",
+        "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/the-truth-about-epam-systems-inc-silent-tech-beast-or-overhyped-stock/68552193",
+        "time_published": "20260204T205042",
+        "authors": [],
+        "summary": "This article discusses EPAM Systems Inc., an IT outsourcer, evaluating whether it's a solid investment or an overhyped stock trap. It highlights EPAM's quiet growth in building AI and cloud solutions for enterprise clients and its recovery arc after a slowdown in global IT spending. The piece urges potential investors to consider EPAM's fundamentals and long-term potential rather than chasing viral spikes.",
+        "banner_image": null,
+        "source": "AD HOC NEWS",
+        "category_within_source": "General",
+        "source_domain": "AD HOC NEWS",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.933059"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.910150"
+          }
+        ],
+        "overall_sentiment_score": 0.239618,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "EPAM",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.463380",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.555477",
+            "ticker_sentiment_score": "0.117935",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.568809",
+            "ticker_sentiment_score": "0.122338",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      }
+    ]
+  },
+  "request": {
+    "function": "NEWS_SENTIMENT",
+    "apikey": "1W86SMG399FCFAIM",
+    "tickers": "GOOGL"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&apikey=1W86SMG399FCFAIM&tickers=GOOGL"
+  }
+}

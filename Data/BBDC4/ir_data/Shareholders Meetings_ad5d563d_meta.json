@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:74af4f2794dfdedb460f5e8b4fc56c674ce92eadc38826d1bc81cbc67141c658
-size 330
+{
+  "label": "Shareholders Meetings",
+  "original_url": "https://www.bradescori.com.br/en/bradesco/corporate-governance/shareholders-meetings/",
+  "final_url": "https://www.bradescori.com.br/en/bradesco/corporate-governance/shareholders-meetings/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

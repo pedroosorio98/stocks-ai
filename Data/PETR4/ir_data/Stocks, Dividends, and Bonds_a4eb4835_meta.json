@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ba10e8bb4bfd22492bc7bb7b76b6ef36ed585d440f6cbbf92b1f4f4285d5c5d
-size 333
+{
+  "label": "Stocks, Dividends, and Bonds",
+  "original_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/results-center/",
+  "final_url": "https://www.investidorpetrobras.com.br/en/results-and-announcements/results-center/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

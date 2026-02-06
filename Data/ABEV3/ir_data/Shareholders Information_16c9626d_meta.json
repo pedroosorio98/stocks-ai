@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08a88d0d3ff5e7c37ae47330a9437f385ad5836cee8d251b6aad0902278c9ffd
-size 291
+{
+  "label": "Shareholders Information",
+  "original_url": "https://ri.ambev.com.br/en/reports-publications/sec-cvm-filings/",
+  "final_url": "https://ri.ambev.com.br/en/reports-publications/sec-cvm-filings/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

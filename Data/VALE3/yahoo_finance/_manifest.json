@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1da345cbe935d24bb1f10d7ae578560613b4539f71dd9b8328a31e1a663f0d73
-size 242
+{
+  "input_ticker": "VALE3",
+  "yahoo_ticker_used": "VALE3.SA",
+  "folder": "C:\\Users\\Pedro\\stocks-ai\\Data\\VALE3\\yahoo_finance",
+  "notes": "Some modules are not available for all Brazil tickers; see errors/ folder for failures."
+}

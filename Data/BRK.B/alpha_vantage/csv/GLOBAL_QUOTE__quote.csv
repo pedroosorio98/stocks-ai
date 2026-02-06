@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d1178741c90168b149407dd25a83c1103723a970aa813e2b634b27f4715acc84
-size 219
+01. symbol,02. open,03. high,04. low,05. price,06. volume,07. latest trading day,08. previous close,09. change,10. change percent
+BRK.B,495.8000,512.1300,495.6700,503.8300,10591665,2026-02-04,493.7400,10.0900,2.0436%

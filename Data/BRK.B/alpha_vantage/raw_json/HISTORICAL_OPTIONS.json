@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c45ca63a8e315b31735ff78f8142240fd62bf1ee1bfb1ed96c7773877c3f75da
-size 438
+{
+  "response": {
+    "endpoint": "Historical Options",
+    "message": "Invalid/empty symbol",
+    "data": []
+  },
+  "request": {
+    "function": "HISTORICAL_OPTIONS",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "BRK.B"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=HISTORICAL_OPTIONS&apikey=1W86SMG399FCFAIM&symbol=BRK.B"
+  }
+}

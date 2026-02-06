@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:39c96ac4145a3be19ab36cc15d01f2320b575742920ebfa093d549f0c0c7f603
-size 263
+{
+  "label": "Forms 10-Q and 10-K.",
+  "original_url": "https://www.microsoft.com/en-us/Investor/sec-filings",
+  "final_url": "https://www.microsoft.com/en-us/Investor/sec-filings",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

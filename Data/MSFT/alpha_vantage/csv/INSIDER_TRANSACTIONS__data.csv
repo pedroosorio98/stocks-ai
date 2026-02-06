@@ -1,3 +1,1205 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a9e69f848604320b909ab9872b058c9d537fb91f5efd11464dde1ed0d07b636
-size 103070
+transaction_date,ticker,executive,executive_title,security_type,acquisition_or_disposal,shares,share_price
+2026-01-15,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,D,32.587,459.38
+2025-12-15,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,D,335.03,478.53
+2025-12-15,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,617.795,478.53
+2025-12-11,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,48.038,0.0
+2025-12-11,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,43.15,0.0
+2025-12-11,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,3.166,0.0
+2025-12-11,MSFT,"WALMSLEY, EMMA N",Director,Restricted Stock Units,A,1.807,0.0
+2025-12-11,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,8.662,0.0
+2025-12-11,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,25.899,0.0
+2025-12-11,MSFT,"JOHNSTON, HUGH F",Director,Restricted Stock Units,A,3.07,0.0
+2025-12-11,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,30.891,0.0
+2025-12-10,MSFT,"HOGAN, KATHLEEN T","EVP, Strategy",Common Stock,D,150.0,0.0
+2025-12-04,MSFT,"JOHNSTON, HUGH F",Director,Restricted Stock Units,A,218.368,0.0
+2025-12-04,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,2850.0,478.72
+2025-12-04,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,220.967,0.0
+2025-12-04,MSFT,"WALMSLEY, EMMA N",Director,Restricted Stock Units,A,129.981,0.0
+2025-12-04,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,194.971,0.0
+2025-12-04,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,194.971,0.0
+2025-12-04,MSFT,"MASON, MARK",Director,Common Stock,A,130.0,0.0
+2025-12-04,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,239.165,0.0
+2025-12-04,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,207.969,0.0
+2025-12-04,MSFT,"LIST, TERI",Director,Common Stock,A,130.0,0.0
+2025-12-04,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,130.0,0.0
+2025-12-04,MSFT,"STANTON, JOHN W",Director,Common Stock,A,130.0,0.0
+2025-12-02,MSFT,"ALTHOFF, JUDSON",CEO Microsoft Commercial,Common Stock,D,12750.0,491.516
+2025-12-01,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,D,461.693,492.01
+2025-12-01,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,412.945,492.01
+2025-11-20,MSFT,"ALTHOFF, JUDSON","CEO, Microsoft Commercial",Common Stock,D,3463.0,0.0
+2025-11-17,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,D,89.044,510.18
+2025-11-10,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,3977.0,0.0
+2025-11-06,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,10000.0,0.0
+2025-11-03,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,30411.0,518.4907
+2025-11-03,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,8089.0,519.2096
+2025-10-15,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,D,31.944,513.57
+2025-09-15,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,A,4022.0,0.0
+2025-09-15,MSFT,"HOOD, AMY",EVP & Chief Financial Officer,Common Stock,A,26151.0,0.0
+2025-09-15,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,A,11583.0,0.0
+2025-09-15,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,A,26151.0,0.0
+2025-09-15,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,A,26151.0,0.0
+2025-09-15,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,A,4358.0,0.0
+2025-09-15,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,D,77.131,509.9
+2025-09-15,MSFT,"HOGAN, KATHLEEN T","EVP, Strategy",Common Stock,A,6513.0,0.0
+2025-09-11,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,7.245,0.0
+2025-09-11,MSFT,"WALMSLEY, EMMA N",Director,Restricted Stock Units,A,1.372,0.0
+2025-09-11,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,22.413,0.0
+2025-09-11,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,41.816,0.0
+2025-09-11,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,2.46,0.0
+2025-09-11,MSFT,"JOHNSTON, HUGH F",Director,Restricted Stock Units,A,2.336,0.0
+2025-09-11,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,37.916,0.0
+2025-09-11,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,26.821,0.0
+2025-09-10,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,187.361,0.0
+2025-09-10,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,212.343,0.0
+2025-09-10,MSFT,"MASON, MARK",Director,Common Stock,A,125.0,0.0
+2025-09-10,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,199.852,0.0
+2025-09-10,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,229.83,0.0
+2025-09-10,MSFT,"LIST, TERI",Director,Common Stock,A,125.0,0.0
+2025-09-10,MSFT,"JOHNSTON, HUGH F",Director,Restricted Stock Units,A,209.845,0.0
+2025-09-10,MSFT,"WALMSLEY, EMMA N",Director,Restricted Stock Units,A,124.908,0.0
+2025-09-10,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,187.361,0.0
+2025-09-10,MSFT,"STANTON, JOHN W",Director,Common Stock,A,125.0,0.0
+2025-09-10,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,125.0,0.0
+2025-09-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,26494.0,503.9079
+2025-09-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,48267.0,504.9528
+2025-09-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,39071.0,505.8567
+2025-09-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,9037.0,506.6187
+2025-09-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,500.0,507.558
+2025-09-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,25836.0,503.0039
+2025-09-02,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,27989.367,506.69
+2025-09-02,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,A,47877.0,0.0
+2025-09-02,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,24992.231,506.69
+2025-09-02,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,A,17223.0,0.0
+2025-09-02,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,9285.647,506.69
+2025-09-02,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,514.557,506.69
+2025-09-02,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,A,54053.0,0.0
+2025-09-02,MSFT,"HOGAN, KATHLEEN T","EVP, Strategy",Common Stock,A,20386.0,0.0
+2025-09-02,MSFT,"HOGAN, KATHLEEN T","EVP, Strategy",Common Stock,D,10405.23,506.69
+2025-09-02,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,D,474.598,506.69
+2025-09-02,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,A,45220.0,0.0
+2025-09-02,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,23819.354,506.69
+2025-09-02,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,A,308870.0,0.0
+2025-09-02,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,122362.866,506.69
+2025-09-02,MSFT,"STANTON, JOHN W",Director,Common Stock,D,3621.0,0.0
+2025-08-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,A,3813.0,0.0
+2025-08-15,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,D,88.645,522.48
+2025-08-12,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,2000.0,525.555
+2025-08-12,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,2850.0,528.56
+2025-08-11,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,20000.0,0.0
+2025-07-15,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,D,32.344,503.02
+2025-06-16,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,D,77.066,474.96
+2025-06-12,MSFT,"JOHNSTON, HUGH F",Director,Restricted Stock Units,A,2.076,0.0
+2025-06-12,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,39.601,0.0
+2025-06-12,MSFT,"WALMSLEY, EMMA N",Director,Restricted Stock Units,A,1.217,0.0
+2025-06-12,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,43.276,0.0
+2025-06-12,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,27.689,0.0
+2025-06-12,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,23.063,0.0
+2025-06-12,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,2.245,0.0
+2025-06-12,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,7.2,0.0
+2025-06-10,MSFT,"LIST, TERI",Director,Common Stock,A,132.0,0.0
+2025-06-10,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,225.622,0.0
+2025-06-10,MSFT,"JOHNSTON, HUGH F",Director,Restricted Stock Units,A,222.968,0.0
+2025-06-10,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,199.078,0.0
+2025-06-10,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,199.078,0.0
+2025-06-10,MSFT,"WALMSLEY, EMMA N",Director,Restricted Stock Units,A,132.719,0.0
+2025-06-10,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,132.0,0.0
+2025-06-10,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,212.35,0.0
+2025-06-10,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,244.203,0.0
+2025-06-10,MSFT,"STANTON, JOHN W",Director,Common Stock,A,132.0,0.0
+2025-06-10,MSFT,"MASON, MARK",Director,Common Stock,A,132.0,0.0
+2025-06-03,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,3000.0,463.0
+2025-06-02,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,158.723,460.36
+2025-06-02,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,431.209,460.36
+2025-06-02,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,D,453.934,460.36
+2025-05-30,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,1000.0,460.008
+2025-05-21,MSFT,"HOGAN, KATHLEEN T","EVP, Strategy",Common Stock,D,21500.0,453.7745
+2025-05-19,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,6702.0,458.462
+2025-05-19,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,9298.0,457.97
+2025-05-15,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,D,77.894,452.94
+2025-05-15,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,D,13242.774,452.0115
+2025-05-05,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,3812.0,438.8197
+2025-05-05,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,6000.0,433.17
+2025-05-02,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,18212.0,435.3053
+2025-05-02,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,56788.0,436.2919
+2025-04-30,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,30.0,390.5729
+2025-04-23,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,A,3842.0,377.465
+2025-04-15,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,D,27.944,387.81
+2025-04-15,MSFT,"COLEMAN, AMY","EVP, Chief Human Resources Off",Common Stock,A,10370.0,0.0
+2025-03-13,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,49.957,0.0
+2025-03-13,MSFT,"WALMSLEY, EMMA N",Director,Restricted Stock Units,A,1.245,0.0
+2025-03-13,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,34.493,0.0
+2025-03-13,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,8.59,0.0
+2025-03-13,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,28.629,0.0
+2025-03-13,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,54.057,0.0
+2025-03-13,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,2.397,0.0
+2025-03-13,MSFT,"JOHNSTON, HUGH F",Director,Restricted Stock Units,A,2.132,0.0
+2025-02-28,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,3283.854,392.53
+2025-02-28,MSFT,"HOGAN, KATHLEEN T","EVP, Chief Human Resources Off",Common Stock,D,1744.787,392.53
+2025-02-28,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,4390.842,392.53
+2025-02-28,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,444.056,392.53
+2025-02-28,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,1294.178,392.53
+2025-02-28,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,3722.385,392.53
+2025-01-31,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,225.871,0.0
+2025-01-31,MSFT,"JOHNSTON, HUGH F",Director,Restricted Stock Units,A,252.975,0.0
+2025-01-31,MSFT,"LIST, TERI",Director,Common Stock,A,151.0,0.0
+2025-01-31,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,225.871,0.0
+2025-01-31,MSFT,"MASON, MARK",Director,Common Stock,A,151.0,0.0
+2025-01-31,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,277.068,0.0
+2025-01-31,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,240.929,0.0
+2025-01-31,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,255.987,0.0
+2025-01-31,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,151.0,0.0
+2025-01-31,MSFT,"STANTON, JOHN W",Director,Common Stock,A,151.0,0.0
+2025-01-31,MSFT,"WALMSLEY, EMMA N",Director,Restricted Stock Units,A,150.581,0.0
+2024-12-16,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,617.402,447.27
+2024-12-12,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,42.013,0.0
+2024-12-12,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,28.593,0.0
+2024-12-12,MSFT,"JOHNSTON, HUGH F",Director,Restricted Stock Units,A,1.327,0.0
+2024-12-12,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,1.599,0.0
+2024-12-12,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,44.951,0.0
+2024-12-12,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,23.634,0.0
+2024-12-12,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,6.752,0.0
+2024-12-12,MSFT,"WALMSLEY, EMMA N",Director,Restricted Stock Units,A,0.77,0.0
+2024-12-09,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,2500.0,447.412
+2024-12-09,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,201.785,0.0
+2024-12-09,MSFT,"LIST, TERI",Director,Common Stock,A,132.0,0.0
+2024-12-09,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,238.218,0.0
+2024-12-09,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,215.797,0.0
+2024-12-09,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,229.81,0.0
+2024-12-09,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,132.0,0.0
+2024-12-09,MSFT,"STANTON, JOHN W",Director,Common Stock,A,132.0,0.0
+2024-12-09,MSFT,"WALMSLEY, EMMA N",Director,Restricted Stock Units,A,131.721,0.0
+2024-12-09,MSFT,"JOHNSTON, HUGH F",Director,Restricted Stock Units,A,227.008,0.0
+2024-12-09,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,201.785,0.0
+2024-12-09,MSFT,"MASON, MARK",Director,Common Stock,A,132.0,0.0
+2024-12-04,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,2000.0,437.317
+2024-12-02,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,430.839,423.46
+2024-12-02,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,2500.0,430.873
+2024-12-02,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,158.74,423.46
+2024-11-27,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,1000.0,423.48
+2024-11-22,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,25000.0,417.0
+2024-11-22,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,1000.0,414.72
+2024-11-13,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,4719.0,0.0
+2024-11-12,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,D,7200.0,423.6584
+2024-11-11,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,D,10531.811,422.54
+2024-09-16,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,A,23374.0,0.0
+2024-09-16,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,A,8990.0,0.0
+2024-09-16,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,A,8511.0,0.0
+2024-09-16,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,A,23374.0,0.0
+2024-09-16,MSFT,"HOOD, AMY",EVP & Chief Financial Officer,Common Stock,A,23374.0,0.0
+2024-09-16,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,A,7912.0,0.0
+2024-09-12,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,6.009,0.0
+2024-09-12,MSFT,"WALMSLEY, EMMA N",Director,Restricted Stock Units,A,0.501,0.0
+2024-09-12,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,26.8,0.0
+2024-09-12,MSFT,"JOHNSTON, HUGH F",Director,Restricted Stock Units,A,0.862,0.0
+2024-09-12,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,39.899,0.0
+2024-09-12,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,1.165,0.0
+2024-09-12,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,42.272,0.0
+2024-09-12,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,22.066,0.0
+2024-09-10,MSFT,"HOGAN, KATHLEEN T","EVP, Chief Human Resources Off",Common Stock,D,17377.576,411.8464
+2024-09-10,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,2500.0,411.043
+2024-09-10,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,12500.0,0.0
+2024-09-09,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,30.0,403.3
+2024-09-09,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,39970.0,402.5883
+2024-09-06,MSFT,"JOHNSTON, HUGH F",Director,Restricted Stock Units,A,252.054,0.0
+2024-09-06,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,255.166,0.0
+2024-09-06,MSFT,"STANTON, JOHN W",Director,Common Stock,A,146.0,0.0
+2024-09-06,MSFT,"WALMSLEY, EMMA N",Director,Restricted Stock Units,A,146.253,0.0
+2024-09-06,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,146.0,0.0
+2024-09-06,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,239.607,0.0
+2024-09-06,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,264.501,0.0
+2024-09-06,MSFT,"MASON, MARK",Director,Common Stock,A,146.0,0.0
+2024-09-06,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,224.048,0.0
+2024-09-06,MSFT,"LIST, TERI",Director,Common Stock,A,146.0,0.0
+2024-09-06,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,224.048,0.0
+2024-09-05,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,38000.0,410.5472
+2024-09-04,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,2800.0,404.985
+2024-09-04,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,2450.0,0.0
+2024-09-04,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,14120.0,410.1035
+2024-09-04,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,1500.0,410.816
+2024-09-04,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,36955.0,409.1226
+2024-09-04,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,9648.0,407.0234
+2024-09-04,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,5939.0,406.1717
+2024-09-04,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,7391.0,408.3398
+2024-09-03,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,A,19573.0,0.0
+2024-09-03,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,18909.765,417.14
+2024-09-03,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,A,32881.0,0.0
+2024-09-03,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,9516.737,417.14
+2024-09-03,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,A,17224.0,0.0
+2024-09-03,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,25299.444,417.14
+2024-09-03,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,A,45668.0,0.0
+2024-09-03,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,498.242,417.14
+2024-09-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,105201.441,417.14
+2024-09-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,A,260949.0,0.0
+2024-09-03,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,8320.847,417.14
+2024-09-03,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,A,14552.0,0.0
+2024-09-03,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,22413.212,417.14
+2024-09-03,MSFT,"SMITH, BRADFORD L",President,Common Stock,A,40448.0,0.0
+2024-09-03,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,D,14162.023,417.14
+2024-08-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,A,4411.0,0.0
+2024-08-30,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,209.913,413.12
+2024-08-30,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,60.68,413.12
+2024-08-23,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,7199.0,417.412
+2024-07-15,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,177.469,453.55
+2024-06-13,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,25.492,0.0
+2024-06-13,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,5.369,0.0
+2024-06-13,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,20.894,0.0
+2024-06-13,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,40.358,0.0
+2024-06-13,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,0.746,0.0
+2024-06-13,MSFT,"JOHNSTON, HUGH F",Director,Restricted Stock Units,A,0.404,0.0
+2024-06-13,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,38.516,0.0
+2024-06-07,MSFT,"WALMSLEY, EMMA N",Director,Restricted Stock Units,A,138.61,0.0
+2024-06-07,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,138.0,0.0
+2024-06-07,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,241.831,0.0
+2024-06-07,MSFT,"JOHNSTON, HUGH F",Director,Restricted Stock Units,A,238.882,0.0
+2024-06-07,MSFT,"LIST, TERI",Director,Common Stock,A,138.0,0.0
+2024-06-07,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,212.339,0.0
+2024-06-07,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,212.339,0.0
+2024-06-07,MSFT,"MASON, MARK",Director,Common Stock,A,138.0,0.0
+2024-06-07,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,250.678,0.0
+2024-06-07,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,227.085,0.0
+2024-06-07,MSFT,"WALMSLEY, EMMA N",Director,Restricted Stock Units,A,0.234,0.0
+2024-06-07,MSFT,"STANTON, JOHN W",Director,Common Stock,A,138.0,0.0
+2024-06-05,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,A,7199.0,0.0
+2024-06-05,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,16996.0,0.0
+2024-06-03,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,244.0,415.53
+2024-05-31,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,322.0,416.6
+2024-05-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,391.942,414.67
+2024-05-31,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,158.762,414.67
+2024-05-30,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,209.529,429.17
+2024-05-30,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,60.31,429.17
+2024-05-23,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,25000.0,425.678
+2024-04-15,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,177.469,421.9
+2024-03-14,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,0.399,0.0
+2024-03-14,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,5.14,0.0
+2024-03-14,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,21.261,0.0
+2024-03-14,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,39.927,0.0
+2024-03-14,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,26.051,0.0
+2024-03-14,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,41.396,0.0
+2024-03-11,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,10000.0,403.649
+2024-03-11,MSFT,"HOGAN, KATHLEEN T","EVP, Chief Human Resources Off",Common Stock,D,21955.333,403.96
+2024-03-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,1276.0,410.94
+2024-02-29,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,4663.939,407.72
+2024-02-29,MSFT,"HOGAN, KATHLEEN T","EVP, Chief Human Resources Off",Common Stock,D,1921.687,407.72
+2024-02-29,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,3037.567,407.72
+2024-02-29,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,452.62,407.72
+2024-02-29,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,1551.168,407.72
+2024-02-29,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,1376.792,407.72
+2024-02-29,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,4076.627,407.72
+2024-02-29,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,D,2806.561,407.72
+2024-02-22,MSFT,"MICROSOFT, CORP",10% Owner,Class A Common Stock,D,1000000.0,1.95
+2024-02-05,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,300.0,406.8433
+2024-02-05,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,200.0,408.1
+2024-02-05,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,1425.0,405.7466
+2024-02-05,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,1078.0,404.8921
+2024-02-05,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,300.0,410.2233
+2024-02-02,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,45000.0,411.7784
+2024-01-31,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,148.0,0.0
+2024-01-31,MSFT,"STANTON, JOHN W",Director,Common Stock,A,148.0,0.0
+2024-01-31,MSFT,"LIST, TERI",Director,Common Stock,A,148.0,0.0
+2024-01-31,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,148.0,0.0
+2024-01-31,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,226.37,0.0
+2024-01-31,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,148.0,0.0
+2024-01-31,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,44.4,397.58
+2024-01-31,MSFT,"MACGREGOR, CATHERINE",Director,Restricted Stock Units,A,226.37,0.0
+2024-01-31,MSFT,"MASON, MARK",Director,Common Stock,A,147.0,0.0
+2024-01-31,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,267.242,0.0
+2024-01-31,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,242.09,0.0
+2024-01-31,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,257.81,0.0
+2024-01-16,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,197.512,388.47
+2023-12-26,MSFT,"HOGAN, KATHLEEN T","EVP, Chief Human Resources Off",Common Stock,D,120.0,0.0
+2023-12-15,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,264.433,365.93
+2023-12-14,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,54.666,0.0
+2023-12-14,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,24.16,0.0
+2023-12-14,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,5.431,0.0
+2023-12-14,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,47.458,0.0
+2023-12-14,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,87.636,0.0
+2023-12-14,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,29.747,0.0
+2023-12-14,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,46.302,0.0
+2023-12-14,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,8.58,0.0
+2023-12-14,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,0.277,0.0
+2023-12-08,MSFT,"HOGAN, KATHLEEN T","EVP, Chief Human Resources Off",Common Stock,D,24680.983,369.0
+2023-12-06,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,159.0,0.0
+2023-12-06,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,159.3,0.0
+2023-12-06,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,42.367,0.0
+2023-12-06,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,159.0,0.0
+2023-12-06,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,47.7,368.8
+2023-12-06,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,159.0,0.0
+2023-12-06,MSFT,"STANTON, JOHN W",Director,Common Stock,A,159.0,0.0
+2023-12-06,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,159.0,0.0
+2023-12-06,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,277.928,0.0
+2023-12-06,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,260.982,0.0
+2023-12-06,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,288.097,0.0
+2023-12-06,MSFT,"LIST, TERI",Director,Common Stock,A,159.0,0.0
+2023-12-06,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,244.035,0.0
+2023-12-01,MSFT,"SMITH, BRADFORD L",President and Vice Chair,Common Stock,D,10000.0,0.0
+2023-11-30,MSFT,"NUMOTO, TAKESHI","EVP, Chief Marketing Officer",Common Stock,D,368.341,378.85
+2023-11-30,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,451.859,378.85
+2023-11-13,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,11500.0,367.377
+2023-11-13,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,D,10302.724,369.67
+2023-11-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,1162.0,0.0
+2023-10-16,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,177.075,327.73
+2023-09-18,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,A,10069.0,0.0
+2023-09-18,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,A,11442.0,0.0
+2023-09-18,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,A,25385.0,0.0
+2023-09-18,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,A,23646.0,0.0
+2023-09-18,MSFT,"HOOD, AMY",EVP & Chief Financial Officer,Common Stock,A,26697.0,0.0
+2023-09-14,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,28.593,0.0
+2023-09-14,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,45.265,0.0
+2023-09-14,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,0.187,0.0
+2023-09-14,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,8.388,0.0
+2023-09-14,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,4.754,0.0
+2023-09-14,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,23.096,0.0
+2023-09-14,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,45.817,0.0
+2023-09-14,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,85.352,0.0
+2023-09-14,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,53.443,0.0
+2023-09-13,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,305.005,0.0
+2023-09-13,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,286.407,0.0
+2023-09-13,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,175.0,0.0
+2023-09-13,MSFT,"LIST, TERI",Director,Common Stock,A,175.0,0.0
+2023-09-13,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,316.164,0.0
+2023-09-13,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,46.495,0.0
+2023-09-13,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,175.0,0.0
+2023-09-13,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,52.5,336.06
+2023-09-13,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,174.82,0.0
+2023-09-13,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,175.0,0.0
+2023-09-13,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,175.0,0.0
+2023-09-13,MSFT,"STANTON, JOHN W",Director,Common Stock,A,175.0,0.0
+2023-09-13,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,267.809,0.0
+2023-09-01,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,26814.601,327.372
+2023-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,19241.0,328.2869
+2023-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,1325.0,330.2249
+2023-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,10104.0,327.5625
+2023-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,1300.0,331.2377
+2023-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,6264.0,329.3014
+2023-08-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,A,5614.0,0.0
+2023-08-31,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,A,113227.0,0.0
+2023-08-31,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,46467.136,328.79
+2023-08-31,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,16298.804,328.79
+2023-08-31,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,8042.895,328.79
+2023-08-31,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,A,25271.0,0.0
+2023-08-31,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,D,16150.191,328.79
+2023-08-31,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,A,18602.0,0.0
+2023-08-31,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,A,29116.0,0.0
+2023-08-31,MSFT,"SMITH, BRADFORD L",President,Common Stock,A,40763.0,0.0
+2023-08-31,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,21805.166,328.79
+2023-08-31,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,A,15045.0,0.0
+2023-08-31,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,9756.395,328.79
+2023-08-31,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,24805.994,328.79
+2023-08-31,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,A,46909.0,0.0
+2023-08-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,618.798,328.79
+2023-08-30,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,1563.466,328.41
+2023-08-30,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,2000.758,328.41
+2023-08-30,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,4220.646,328.41
+2023-08-30,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,760.622,328.41
+2023-08-30,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,831.482,328.41
+2023-08-30,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,1172.447,328.41
+2023-08-30,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,84.732,328.41
+2023-08-04,MSFT,"LIST, TERI",Director,Common Stock,D,91.0,0.0
+2023-08-01,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,28962.0,336.8867
+2023-08-01,MSFT,"SMITH, BRADFORD L",Vice Chair and President,Common Stock,D,21038.0,337.6363
+2023-07-17,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,177.469,345.24
+2023-06-13,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,269.227,0.0
+2023-06-13,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,46.741,0.0
+2023-06-13,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,175.0,0.0
+2023-06-13,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,52.501,334.29
+2023-06-13,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,191.096,0.0
+2023-06-13,MSFT,"STANTON, JOHN W",Director,Common Stock,A,175.0,0.0
+2023-06-13,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,175.0,0.0
+2023-06-13,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,298.354,0.0
+2023-06-13,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,287.924,0.0
+2023-06-13,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,310.753,0.0
+2023-06-13,MSFT,"LIST, TERI",Director,Common Stock,A,175.0,0.0
+2023-06-13,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,175.0,0.0
+2023-06-13,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,175.0,0.0
+2023-06-08,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,22.803,0.0
+2023-06-08,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,3.682,0.0
+2023-06-08,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,87.932,0.0
+2023-06-08,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,55.534,0.0
+2023-06-08,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,8.716,0.0
+2023-06-08,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,28.592,0.0
+2023-06-08,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,47.037,0.0
+2023-06-08,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,46.303,0.0
+2023-06-07,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,7610.0,0.0
+2023-06-05,MSFT,"LIST, TERI",Director,Common Stock,D,30.0,0.0
+2023-06-02,MSFT,"LIST, TERI",Director,Common Stock,D,1250.0,334.7701
+2023-05-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,331.395,331.21
+2023-05-30,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,83.992,332.89
+2023-05-18,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,5000.0,316.8707
+2023-05-16,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,1620.0,0.0
+2023-05-16,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,5081.0,312.5416
+2023-05-10,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,4177.0,312.905
+2023-05-09,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,5000.0,308.705
+2023-05-05,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,5000.0,310.05
+2023-05-01,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,30000.0,306.09
+2023-04-17,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,177.469,286.14
+2023-03-09,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,36.757,0.0
+2023-03-09,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,4.732,0.0
+2023-03-09,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,113.047,0.0
+2023-03-09,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,71.396,0.0
+2023-03-09,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,11.206,0.0
+2023-03-09,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,60.47,0.0
+2023-03-09,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,59.527,0.0
+2023-03-09,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,29.313,0.0
+2023-02-28,MSFT,"SMITH, BRADFORD L",President and Vice Chair,Common Stock,D,3951.672,250.16
+2023-02-28,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,D,1845.705,250.16
+2023-02-28,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,5760.811,250.16
+2023-02-28,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,4767.0,248.88
+2023-02-28,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,414.96,250.16
+2023-02-28,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,5008.692,250.16
+2023-02-28,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,2068.509,250.16
+2023-02-28,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,1229.084,250.16
+2023-02-28,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,2590.669,250.16
+2023-02-13,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,1000.0,272.3233
+2023-02-09,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,1000.0,269.38
+2023-01-31,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,237.0,0.0
+2023-01-31,MSFT,"LIST, TERI",Director,Common Stock,A,237.0,0.0
+2023-01-31,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,398.491,0.0
+2023-01-31,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,388.402,0.0
+2023-01-31,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,378.314,0.0
+2023-01-31,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,237.0,0.0
+2023-01-31,MSFT,"STANTON, JOHN W",Director,Common Stock,A,237.0,0.0
+2023-01-31,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,302.651,0.0
+2023-01-31,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,71.1,247.81
+2023-01-31,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,237.0,0.0
+2023-01-31,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,237.0,0.0
+2023-01-31,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,363.181,0.0
+2023-01-31,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,63.052,0.0
+2023-01-17,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,200.926,239.23
+2022-12-15,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,264.433,257.22
+2022-12-12,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,297.018,0.0
+2022-12-12,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,381.173,0.0
+2022-12-12,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,391.074,0.0
+2022-12-12,MSFT,"LIST, TERI",Director,Common Stock,A,233.0,0.0
+2022-12-12,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,233.0,0.0
+2022-12-12,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,356.422,0.0
+2022-12-12,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,371.272,0.0
+2022-12-12,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,233.0,0.0
+2022-12-12,MSFT,"STANTON, JOHN W",Director,Common Stock,A,233.0,0.0
+2022-12-12,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,66.901,252.51
+2022-12-12,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,61.879,0.0
+2022-12-12,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,233.0,0.0
+2022-12-12,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,69.901,252.51
+2022-12-12,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,233.0,0.0
+2022-12-09,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,4081.0,0.0
+2022-12-08,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,113.335,0.0
+2022-12-08,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,11.055,0.0
+2022-12-08,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,35.413,0.0
+2022-12-08,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,27.706,0.0
+2022-12-08,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,58.38,0.0
+2022-12-08,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,61.505,0.0
+2022-12-08,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,72.615,0.0
+2022-12-08,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,2.76,0.0
+2022-12-01,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,8186.0,255.5211
+2022-12-01,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,6802.0,254.4833
+2022-12-01,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,400.0,256.0463
+2022-12-01,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,4541.0,253.4161
+2022-12-01,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,2815.0,252.5761
+2022-12-01,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,1400.0,251.6071
+2022-11-30,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,414.647,240.33
+2022-11-11,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,D,10303.22,242.98
+2022-10-17,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,177.469,228.56
+2022-09-19,MSFT,"SMITH, BRADFORD L",President/Chief Legal Officer,Common Stock,A,29641.0,0.0
+2022-09-19,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,A,14342.0,0.0
+2022-09-19,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,A,11302.0,0.0
+2022-09-19,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,A,27996.0,0.0
+2022-09-19,MSFT,"HOOD, AMY",EVP & Chief Financial Officer,Common Stock,A,33465.0,0.0
+2022-09-19,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,A,12621.0,0.0
+2022-09-12,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,5000.0,266.2501
+2022-09-08,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,98.653,0.0
+2022-09-08,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,2.401,0.0
+2022-09-08,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,24.117,0.0
+2022-09-08,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,53.537,0.0
+2022-09-08,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,50.819,0.0
+2022-09-08,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,30.825,0.0
+2022-09-08,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,63.209,0.0
+2022-09-08,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,9.622,0.0
+2022-09-02,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,75351.395,259.4655
+2022-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,14370.0,258.9257
+2022-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,3295.0,260.0665
+2022-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,99.0,260.74
+2022-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,15471.0,256.1627
+2022-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,14398.0,258.1669
+2022-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,9366.0,256.8175
+2022-08-31,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,A,42334.0,0.0
+2022-08-31,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,20815.533,262.97
+2022-08-31,MSFT,"SMITH, BRADFORD L",President,Common Stock,A,59462.0,0.0
+2022-08-31,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,29416.585,262.97
+2022-08-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,505.901,262.97
+2022-08-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,A,4162.0,0.0
+2022-08-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,A,1798.0,0.0
+2022-08-31,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,A,161578.0,0.0
+2022-08-31,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,D,2612.866,262.97
+2022-08-31,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,A,30054.0,0.0
+2022-08-31,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,70448.592,262.97
+2022-08-31,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,A,72387.0,0.0
+2022-08-31,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,35400.332,262.97
+2022-08-31,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,A,29085.0,0.0
+2022-08-31,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,14096.52,262.97
+2022-08-31,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,14314.745,262.97
+2022-08-30,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,375.518,0.0
+2022-08-30,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,223.0,0.0
+2022-08-30,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,342.244,0.0
+2022-08-30,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,285.204,0.0
+2022-08-30,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,66.9,262.97
+2022-08-30,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,223.0,0.0
+2022-08-30,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,59.417,0.0
+2022-08-30,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,223.0,0.0
+2022-08-30,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,829.498,265.23
+2022-08-30,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,4205.209,265.23
+2022-08-30,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,84.361,265.23
+2022-08-30,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,757.758,265.23
+2022-08-30,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,1999.328,265.23
+2022-08-30,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,356.505,0.0
+2022-08-30,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,366.011,0.0
+2022-08-30,MSFT,"LIST, TERI",Director,Common Stock,A,223.0,0.0
+2022-08-30,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,1170.991,265.23
+2022-08-30,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,1557.923,265.23
+2022-08-30,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,223.0,0.0
+2022-08-30,MSFT,"STANTON, JOHN W",Director,Common Stock,A,223.0,0.0
+2022-08-12,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,52.0,0.0
+2022-08-11,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,40366.0,0.0
+2022-08-11,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,261.0,0.0
+2022-07-15,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,177.469,254.08
+2022-06-14,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,A,116.0,0.0
+2022-06-09,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,22.635,0.0
+2022-06-09,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,9.235,0.0
+2022-06-09,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,61.569,0.0
+2022-06-09,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,48.623,0.0
+2022-06-09,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,95.425,0.0
+2022-06-09,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,1.506,0.0
+2022-06-09,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,52.147,0.0
+2022-06-09,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,29.226,0.0
+2022-05-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,389.949,273.24
+2022-05-31,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,64.5,273.24
+2022-05-31,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,274.484,0.0
+2022-05-31,MSFT,"STANTON, JOHN W",Director,Common Stock,A,215.0,0.0
+2022-05-31,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,215.0,0.0
+2022-05-31,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,343.105,0.0
+2022-05-31,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,352.254,0.0
+2022-05-31,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,329.381,0.0
+2022-05-31,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,215.0,0.0
+2022-05-31,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,215.0,0.0
+2022-05-31,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,215.0,0.0
+2022-05-31,MSFT,"LIST, TERI",Director,Common Stock,A,215.0,0.0
+2022-05-31,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,57.184,0.0
+2022-04-18,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,177.076,279.83
+2022-04-12,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,20.0,0.0
+2022-04-05,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,2500.0,0.0
+2022-03-28,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,11012.337,303.68
+2022-03-10,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,48.245,0.0
+2022-03-10,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,26.325,0.0
+2022-03-10,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,8.419,0.0
+2022-03-10,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,56.961,0.0
+2022-03-10,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,87.689,0.0
+2022-03-10,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,0.649,0.0
+2022-03-10,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,20.179,0.0
+2022-03-10,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,44.2,0.0
+2022-03-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,7931.0,296.5245
+2022-02-28,MSFT,"SMITH, BRADFORD L",President and Vice Chair,Common Stock,D,4763.145,297.31
+2022-02-28,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,D,1072.836,297.31
+2022-02-28,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,13214.753,297.31
+2022-02-28,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,577.053,297.31
+2022-02-28,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,6030.945,297.31
+2022-02-28,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,2498.804,297.31
+2022-02-28,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,1852.222,297.31
+2022-02-28,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,2725.998,297.31
+2022-02-15,MSFT,"SMITH, BRADFORD L",President and Vice Chair,Common Stock,D,33966.0,0.0
+2022-02-08,MSFT,"SMITH, BRADFORD L",President and Vice Chair,Common Stock,D,27860.0,304.6364
+2022-01-31,MSFT,"RODRIGUEZ, CARLOS A",Director,Restricted Stock Units,A,299.935,0.0
+2022-01-31,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,189.0,0.0
+2022-01-31,MSFT,"STANTON, JOHN W",Director,Common Stock,A,189.0,0.0
+2022-01-31,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,241.173,0.0
+2022-01-31,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,189.0,0.0
+2022-01-31,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,50.244,0.0
+2022-01-31,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,1600.0,311.5281
+2022-01-31,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,189.0,0.0
+2022-01-31,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,361.404,0.0
+2022-01-31,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,309.505,0.0
+2022-01-31,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,289.408,0.0
+2022-01-31,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,189.0,0.0
+2022-01-31,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,301.466,0.0
+2022-01-31,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,56.701,310.98
+2022-01-31,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,317.545,0.0
+2022-01-28,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,1700.0,295.4803
+2022-01-18,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,199.723,310.2
+2021-12-15,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,A,4483.0,0.0
+2021-12-09,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,74.0,0.0
+2021-12-09,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,7.0,0.0
+2021-12-09,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,37.0,0.0
+2021-12-09,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,16.0,0.0
+2021-12-09,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,48.0,0.0
+2021-12-09,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,21.0,0.0
+2021-12-09,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,40.0,0.0
+2021-12-08,MSFT,"SMITH, BRADFORD L",President and Vice Chair,Common Stock,D,4500.0,0.0
+2021-12-07,MSFT,"LIST, TERI",Director,Common Stock,D,1650.0,334.8955
+2021-11-30,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,416.0,336.63
+2021-11-29,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,252.0,0.0
+2021-11-29,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,148.0,0.0
+2021-11-29,MSFT,"STANTON, JOHN W",Director,Common Stock,A,148.0,0.0
+2021-11-29,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,222.0,0.0
+2021-11-29,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,45.0,336.63
+2021-11-29,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,148.0,0.0
+2021-11-29,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,46.0,0.0
+2021-11-29,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,148.0,0.0
+2021-11-29,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,241.0,0.0
+2021-11-29,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,252.0,0.0
+2021-11-29,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,252.0,0.0
+2021-11-29,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,148.0,0.0
+2021-11-23,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,107917.0,336.1191
+2021-11-23,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,90075.0,337.1503
+2021-11-23,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,19569.0,338.041
+2021-11-23,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,135450.0,335.1057
+2021-11-23,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,7700.0,338.9869
+2021-11-23,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,58581.0,334.3696
+2021-11-22,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,41691.0,348.328
+2021-11-22,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,53924.0,347.3461
+2021-11-22,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,10847.0,344.3051
+2021-11-22,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,110677.0,343.3285
+2021-11-22,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,17160.0,349.2243
+2021-11-22,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,27178.0,346.4781
+2021-11-22,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,43387.0,345.3587
+2021-11-22,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,13558.0,341.4757
+2021-11-22,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,22483.0,340.1752
+2021-11-22,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,78387.0,342.3622
+2021-11-11,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,D,10303.0,330.8
+2021-11-02,MSFT,"LIST, TERI",Director,Common Stock,D,94.0,0.0
+2021-11-02,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,54757.0,332.2833
+2021-11-01,MSFT,"SMITH, BRADFORD L",President and Vice Chair,Common Stock,D,55000.0,328.6009
+2021-10-15,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,178.0,302.75
+2021-09-13,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,A,12423.0,0.0
+2021-09-13,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,A,9789.0,0.0
+2021-09-13,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,A,20870.0,0.0
+2021-09-13,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,A,10932.0,0.0
+2021-09-13,MSFT,"HOOD, AMY",EVP & Chief Financial Officer,Common Stock,A,28986.0,0.0
+2021-09-13,MSFT,"SMITH, BRADFORD L",President/Chief Legal Officer,Common Stock,A,25673.0,0.0
+2021-09-10,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,10000.0,298.8176
+2021-09-10,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,20000.0,298.677
+2021-09-09,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,37.0,0.0
+2021-09-09,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,40.0,0.0
+2021-09-09,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,21.0,0.0
+2021-09-09,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,74.0,0.0
+2021-09-09,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,7.0,0.0
+2021-09-09,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,49.0,0.0
+2021-09-09,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,16.0,0.0
+2021-09-02,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,50.0,301.15
+2021-09-02,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,166.0,0.0
+2021-09-02,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,51.0,0.0
+2021-09-02,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,166.0,0.0
+2021-09-02,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,269.0,0.0
+2021-09-02,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,166.0,0.0
+2021-09-02,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,282.0,0.0
+2021-09-02,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,282.0,0.0
+2021-09-02,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,282.0,0.0
+2021-09-02,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,166.0,0.0
+2021-09-02,MSFT,"STANTON, JOHN W",Director,Common Stock,A,166.0,0.0
+2021-09-02,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,264.0,0.0
+2021-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,37181.0,303.0176
+2021-09-01,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,60000.0,303.083
+2021-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,3800.0,304.7397
+2021-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,24715.0,303.9974
+2021-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,9877.0,301.9371
+2021-08-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,A,1856.0,0.0
+2021-08-31,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,D,2147.0,303.59
+2021-08-31,MSFT,"SMITH, BRADFORD L",President,Common Stock,A,76636.0,0.0
+2021-08-31,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,37369.0,303.59
+2021-08-31,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,A,208250.0,0.0
+2021-08-31,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,95652.0,303.59
+2021-08-31,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,A,38735.0,0.0
+2021-08-31,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,A,40818.0,0.0
+2021-08-31,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,21110.0,303.59
+2021-08-31,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,18806.0,303.59
+2021-08-31,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,18250.0,303.59
+2021-08-31,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,A,37487.0,0.0
+2021-08-31,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,45389.0,303.59
+2021-08-31,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,A,93297.0,0.0
+2021-08-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,A,1326.0,0.0
+2021-08-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,678.0,303.59
+2021-08-30,MSFT,"ALTHOFF, JUDSON","EVP, Chief Commercial Officer",Common Stock,D,1169.0,299.72
+2021-08-30,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,92.0,299.72
+2021-08-30,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,4462.0,299.72
+2021-08-30,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,1546.0,299.72
+2021-08-30,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,756.0,299.72
+2021-08-30,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,830.0,299.72
+2021-08-30,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,1999.0,299.72
+2021-07-15,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,178.0,282.51
+2021-06-10,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,46.0,0.0
+2021-06-10,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,8.0,0.0
+2021-06-10,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,56.0,0.0
+2021-06-10,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,85.0,0.0
+2021-06-10,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,18.0,0.0
+2021-06-10,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,42.0,0.0
+2021-06-10,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,24.0,0.0
+2021-06-02,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,343.0,0.0
+2021-06-02,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,343.0,0.0
+2021-06-02,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,202.0,0.0
+2021-06-02,MSFT,"STANTON, JOHN W",Director,Common Stock,A,202.0,0.0
+2021-06-02,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,363.0,0.0
+2021-06-02,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,202.0,0.0
+2021-06-02,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,202.0,0.0
+2021-06-02,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,343.0,0.0
+2021-06-02,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,202.0,0.0
+2021-06-02,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,328.0,0.0
+2021-06-02,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,63.0,0.0
+2021-06-02,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,61.0,247.3
+2021-06-01,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,423.0,249.68
+2021-05-13,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,2414.0,244.8846
+2021-05-12,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,1500.0,240.0
+2021-05-10,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,8000.0,250.2701
+2021-05-07,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,6086.0,252.6636
+2021-05-07,MSFT,"THOMPSON, JOHN WENDELL",Director,Common Stock,A,9174.0,0.0
+2021-05-07,MSFT,"THOMPSON, JOHN WENDELL",Director,Common Stock,D,4585.0,0.0
+2021-05-07,MSFT,"THOMPSON, JOHN WENDELL",Director,Common Stock,D,4589.0,0.0
+2021-05-07,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,48323.0,0.0
+2021-05-05,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,3000.0,0.0
+2021-05-04,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,8049.0,0.0
+2021-04-15,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,178.0,255.59
+2021-03-11,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,61.0,0.0
+2021-03-11,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,8.0,0.0
+2021-03-11,MSFT,"LIST, TERI",Director,Restricted Stock Units,A,49.0,0.0
+2021-03-11,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,92.0,0.0
+2021-03-11,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,18.0,0.0
+2021-03-11,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,44.0,0.0
+2021-03-11,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,25.0,0.0
+2021-03-10,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,4300.0,236.8
+2021-03-09,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,2155.0,0.0
+2021-03-02,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,800.0,236.6967
+2021-03-02,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,105328.0,234.1172
+2021-03-02,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,133758.0,235.0381
+2021-03-02,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,38808.0,235.863
+2021-03-01,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,D,6006.0,232.38
+2021-03-01,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,5917.0,232.38
+2021-03-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,14868.0,232.38
+2021-03-01,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,2736.0,232.38
+2021-03-01,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,592.0,232.38
+2021-03-01,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,7508.0,232.38
+2021-03-01,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,3671.0,232.38
+2021-02-10,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,354150.0,243.77
+2021-02-10,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,A,900000.0,0.0
+2021-01-29,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,216.0,0.0
+2021-01-29,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,350.0,0.0
+2021-01-29,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,216.0,0.0
+2021-01-29,MSFT,"LIST-STOLL, TERI",Director,Restricted Stock Units,A,366.0,0.0
+2021-01-29,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,366.0,0.0
+2021-01-29,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,366.0,0.0
+2021-01-29,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,216.0,0.0
+2021-01-29,MSFT,"SORENSON, ARNE M",Director,Common Stock,A,216.0,0.0
+2021-01-29,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,387.0,0.0
+2021-01-29,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,65.0,231.96
+2021-01-29,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,67.0,0.0
+2021-01-29,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,216.0,0.0
+2021-01-29,MSFT,"STANTON, JOHN W",Director,Common Stock,A,216.0,0.0
+2021-01-28,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,D,18358.0,239.5969
+2021-01-15,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,202.0,213.02
+2020-12-18,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,3549.0,0.0
+2020-12-10,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,20.0,0.0
+2020-12-10,MSFT,"LIST-STOLL, TERI",Director,Restricted Stock Units,A,54.0,0.0
+2020-12-10,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,9.0,0.0
+2020-12-10,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,69.0,0.0
+2020-12-10,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,27.0,0.0
+2020-12-10,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,102.0,0.0
+2020-12-10,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,49.0,0.0
+2020-12-09,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,30000.0,212.4267
+2020-12-01,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,231.0,0.0
+2020-12-01,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,416.0,0.0
+2020-12-01,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,375.0,0.0
+2020-12-01,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,231.0,0.0
+2020-12-01,MSFT,"STANTON, JOHN W",Director,Common Stock,A,231.0,0.0
+2020-12-01,MSFT,"SORENSON, ARNE M",Director,Common Stock,A,231.0,0.0
+2020-12-01,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,72.0,0.0
+2020-12-01,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,231.0,0.0
+2020-12-01,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,70.0,216.21
+2020-12-01,MSFT,"LIST-STOLL, TERI",Director,Restricted Stock Units,A,393.0,0.0
+2020-12-01,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,393.0,0.0
+2020-12-01,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,393.0,0.0
+2020-12-01,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,231.0,0.0
+2020-11-30,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,423.0,215.23
+2020-11-11,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,A,83122.0,0.0
+2020-11-11,MSFT,"YOUNG, CHRISTOPHER DAVID","EVP, Business Development",Common Stock,A,17318.0,0.0
+2020-11-05,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,135043.0,222.3478
+2020-11-05,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,52250.0,222.5199
+2020-11-05,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,64957.0,223.0546
+2020-11-03,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,5000.0,0.0
+2020-10-15,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,178.0,220.86
+2020-09-18,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,878.0,202.91
+2020-09-15,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,A,33255.0,0.0
+2020-09-14,MSFT,"HOOD, AMY",EVP & Chief Financial Officer,Common Stock,A,32147.0,0.0
+2020-09-14,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,A,12748.0,0.0
+2020-09-14,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,A,10310.0,0.0
+2020-09-14,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,A,22170.0,0.0
+2020-09-14,MSFT,"SMITH, BRADFORD L",President/Chief Legal Officer,Common Stock,A,27935.0,0.0
+2020-09-11,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,17.0,0.0
+2020-09-10,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,4500.0,205.92
+2020-09-10,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,25.0,0.0
+2020-09-10,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,45.0,0.0
+2020-09-10,MSFT,"LIST-STOLL, TERI",Director,Restricted Stock Units,A,49.0,0.0
+2020-09-10,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,2500.0,208.555
+2020-09-10,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,8.0,0.0
+2020-09-10,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,64.0,0.0
+2020-09-10,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,94.0,0.0
+2020-09-09,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,6000.0,207.55
+2020-09-09,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,5000.0,213.0
+2020-09-09,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,8000.0,211.96
+2020-09-09,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,4000.0,210.01
+2020-09-08,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,42.0,206.51
+2020-09-04,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,233.0,0.0
+2020-09-04,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,420.0,0.0
+2020-09-04,MSFT,"STANTON, JOHN W",Director,Common Stock,A,233.0,0.0
+2020-09-04,MSFT,"SORENSON, ARNE M",Director,Common Stock,A,233.0,0.0
+2020-09-04,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,233.0,0.0
+2020-09-04,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,72.0,0.0
+2020-09-04,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,233.0,0.0
+2020-09-04,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,396.0,0.0
+2020-09-04,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,379.0,0.0
+2020-09-04,MSFT,"LIST-STOLL, TERI",Director,Restricted Stock Units,A,396.0,0.0
+2020-09-04,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,396.0,0.0
+2020-09-04,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,70.0,214.25
+2020-09-03,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,80000.0,218.14
+2020-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,13281.0,225.262
+2020-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,83572.0,2261327.0
+2020-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,13445.0,226.7959
+2020-09-01,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,56846.0,226.1792
+2020-08-31,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,A,66894.0,0.0
+2020-08-31,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,32372.0,228.91
+2020-08-31,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,A,133786.0,0.0
+2020-08-31,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,A,215783.0,0.0
+2020-08-31,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,A,60421.0,0.0
+2020-08-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,D,932.0,228.91
+2020-08-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,A,1774.0,0.0
+2020-08-31,MSFT,"JOLLA, ALICE L.",Chief Accounting Officer,Common Stock,A,2934.0,0.0
+2020-08-31,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,57435.0,228.91
+2020-08-31,MSFT,"SMITH, BRADFORD L",President,Common Stock,A,117962.0,0.0
+2020-08-31,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,110661.0,228.91
+2020-08-31,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,66135.0,228.91
+2020-08-31,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,D,63273.0,228.91
+2020-08-31,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,29548.0,228.91
+2020-08-31,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,A,107892.0,0.0
+2020-08-25,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,D,15014.0,213.5854
+2020-08-17,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,30871.0,209.8981
+2020-08-17,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,12500.0,0.0
+2020-08-06,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,D,15140.0,215.0
+2020-06-30,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,4000.0,0.0
+2020-06-11,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,26.0,0.0
+2020-06-11,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,102.0,0.0
+2020-06-11,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,18.0,0.0
+2020-06-11,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,48.0,0.0
+2020-06-11,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,9.0,0.0
+2020-06-11,MSFT,"LIST-STOLL, TERI",Director,Restricted Stock Units,A,53.0,0.0
+2020-06-11,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,70.0,0.0
+2020-06-08,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,49.0,186.0513
+2020-06-04,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,464.0,0.0
+2020-06-04,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,464.0,0.0
+2020-06-04,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,273.0,0.0
+2020-06-04,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,82.0,182.92
+2020-06-04,MSFT,"STANTON, JOHN W",Director,Common Stock,A,273.0,0.0
+2020-06-04,MSFT,"SORENSON, ARNE M",Director,Common Stock,A,273.0,0.0
+2020-06-04,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,273.0,0.0
+2020-06-04,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,492.0,0.0
+2020-06-04,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,233.0,0.0
+2020-06-04,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,273.0,0.0
+2020-06-04,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,85.0,0.0
+2020-06-04,MSFT,"LIST-STOLL, TERI",Director,Restricted Stock Units,A,464.0,0.0
+2020-06-04,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,273.0,0.0
+2020-06-04,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,444.0,0.0
+2020-06-01,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,1232.0,183.25
+2020-05-05,MSFT,"THOMPSON, JOHN WENDELL",Director,Common Stock,D,27200.0,0.0
+2020-05-05,MSFT,"THOMPSON, JOHN WENDELL",Director,Common Stock,A,13600.0,0.0
+2020-05-04,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,11337.0,0.0
+2020-05-01,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,3000.0,176.937
+2020-05-01,MSFT,"JOHNSON, MARGARET L","EVP, Business Development",Common Stock,D,35000.0,176.08
+2020-03-18,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,878.0,146.57
+2020-03-12,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,135.0,0.0
+2020-03-12,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,94.0,0.0
+2020-03-12,MSFT,"LIST-STOLL, TERI",Director,Restricted Stock Units,A,69.0,0.0
+2020-03-12,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,33.0,0.0
+2020-03-12,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,23.0,0.0
+2020-03-12,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,12.0,0.0
+2020-03-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,2400.0,173.8363
+2020-03-03,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,54.0,164.5763
+2020-03-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,200.0,174.715
+2020-03-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,32941.0,164.9689
+2020-03-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,21519.0,165.949
+2020-03-03,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,5000.0,173.8
+2020-03-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,11158.0,166.9494
+2020-03-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,6311.0,163.0593
+2020-03-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,24888.0,164.04
+2020-03-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,26428.0,168.0723
+2020-03-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,36465.0,168.8946
+2020-03-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,38389.0,170.047
+2020-03-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,38655.0,171.0338
+2020-03-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,29264.0,171.9607
+2020-03-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,11556.0,172.8083
+2020-03-02,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,9492.0,162.01
+2020-03-02,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,3553.0,162.01
+2020-03-02,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,3466.0,162.01
+2020-03-02,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,4168.0,162.01
+2020-03-02,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,D,6872.0,162.01
+2020-03-02,MSFT,"JOHNSON, MARGARET L","EVP, Business Development",Common Stock,D,3957.0,162.01
+2020-03-02,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,7524.0,162.01
+2020-03-02,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,16829.0,162.01
+2020-02-29,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,104500.0,0.0
+2020-02-29,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,A,52250.0,0.0
+2020-02-06,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,354150.0,179.9
+2020-02-06,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,A,900000.0,0.0
+2020-02-06,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,3100.0,0.0
+2020-02-04,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,D,18000.0,179.545
+2020-01-31,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,293.0,0.0
+2020-01-31,MSFT,"SORENSON, ARNE M",Director,Common Stock,A,293.0,0.0
+2020-01-31,MSFT,"STANTON, JOHN W",Director,Common Stock,A,293.0,0.0
+2020-01-31,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,528.0,0.0
+2020-01-31,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,D,88.0,170.23
+2020-01-31,MSFT,"WALMSLEY, EMMA N",Director,Common Stock,A,293.0,0.0
+2020-01-31,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,499.0,0.0
+2020-01-31,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,293.0,0.0
+2020-01-31,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,91.0,0.0
+2020-01-31,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,477.0,0.0
+2020-01-31,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,293.0,0.0
+2020-01-31,MSFT,"LIST-STOLL, TERI",Director,Restricted Stock Units,A,499.0,0.0
+2020-01-31,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,499.0,0.0
+2019-12-18,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,260.0,0.0
+2019-12-12,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,10.0,0.0
+2019-12-12,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,29.0,0.0
+2019-12-12,MSFT,"LIST-STOLL, TERI",Director,Restricted Stock Units,A,61.0,0.0
+2019-12-12,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,55.0,0.0
+2019-12-12,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,19.0,0.0
+2019-12-12,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,120.0,0.0
+2019-12-12,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,85.0,0.0
+2019-12-12,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,62.0,0.0
+2019-12-05,MSFT,"JOHNSON, MARGARET L","EVP, Business Development",Common Stock,D,35000.0,150.0132
+2019-12-04,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,14000.0,0.0
+2019-12-03,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,104.0,0.0
+2019-12-03,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,602.0,0.0
+2019-12-03,MSFT,"STANTON, JOHN W",Director,Common Stock,A,335.0,0.0
+2019-12-03,MSFT,"SORENSON, ARNE M",Director,Common Stock,A,335.0,0.0
+2019-12-03,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,335.0,0.0
+2019-12-03,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,544.0,0.0
+2019-12-03,MSFT,"PANKE, HELMUT",Director,Common Stock,A,335.0,0.0
+2019-12-03,MSFT,"PANKE, HELMUT",Director,Common Stock,D,101.0,149.31
+2019-12-03,MSFT,"NOSKI, CHARLES H",Director,Restricted Stock Units,A,334.0,0.0
+2019-12-03,MSFT,"LIST-STOLL, TERI",Director,Restricted Stock Units,A,569.0,0.0
+2019-12-03,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,335.0,0.0
+2019-12-03,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,544.0,0.0
+2019-12-03,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,544.0,0.0
+2019-12-03,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,335.0,0.0
+2019-12-02,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,1591.0,151.38
+2019-11-26,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,6613.0,0.0
+2019-11-07,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,7500.0,144.765
+2019-11-06,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,2500.0,144.0133
+2019-11-05,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,2500.0,144.75
+2019-11-04,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,2500.0,144.42
+2019-10-30,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,2500.0,144.6567
+2019-10-30,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,5000.0,143.6873
+2019-10-29,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,2500.0,142.8851
+2019-10-28,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,D,11345.0,145.0575
+2019-10-25,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,D,13074.0,141.0031
+2019-09-19,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,1142.0,138.52
+2019-09-18,MSFT,"JOHNSON, MARGARET L","EVP, Bus Dev",Common Stock,A,18135.0,0.0
+2019-09-18,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,A,90672.0,0.0
+2019-09-18,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,A,9318.0,0.0
+2019-09-18,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,A,6656.0,0.0
+2019-09-18,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,878.0,137.39
+2019-09-18,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,A,16865.0,0.0
+2019-09-18,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,A,27202.0,0.0
+2019-09-18,MSFT,"SMITH, BRADFORD L",President/Chief Legal Officer,Common Stock,A,33368.0,0.0
+2019-09-18,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,A,16321.0,0.0
+2019-09-18,MSFT,"HOOD, AMY",EVP & Chief Financial Officer,Common Stock,A,40621.0,0.0
+2019-09-12,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,10.0,0.0
+2019-09-12,MSFT,"NOSKI, CHARLES H",Director,Restricted Stock Units,A,326.0,0.0
+2019-09-12,MSFT,"LIST-STOLL, TERI",Director,Restricted Stock Units,A,59.0,0.0
+2019-09-12,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,27.0,0.0
+2019-09-12,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,53.0,0.0
+2019-09-12,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,85.0,0.0
+2019-09-12,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,118.0,0.0
+2019-09-12,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,17.0,0.0
+2019-09-10,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,9000.0,135.5797
+2019-09-10,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,40000.0,135.2493
+2019-09-06,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,6000.0,140.1
+2019-09-05,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,12500.0,139.8413
+2019-09-05,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,D,11779.0,140.0
+2019-09-05,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,12500.0,139.355
+2019-09-04,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,4000.0,137.17
+2019-09-04,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,123769.0,137.261
+2019-09-04,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,10253.0,137.5399
+2019-09-04,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,89584.0,137.1576
+2019-09-03,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,A,71828.0,0.0
+2019-09-03,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,5357.0,137.86
+2019-09-03,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,36776.0,137.86
+2019-09-03,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,A,73538.0,0.0
+2019-09-03,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,D,3922.0,137.86
+2019-09-03,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,A,128262.0,0.0
+2019-09-03,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,D,80306.0,137.86
+2019-09-03,MSFT,"HOOD, AMY","EVP, Chief Financial Officer",Common Stock,A,159044.0,0.0
+2019-09-03,MSFT,"JOHNSON, MARGARET L","EVP, Business Development",Common Stock,A,85509.0,0.0
+2019-09-03,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,36135.0,137.86
+2019-09-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,132198.0,137.86
+2019-09-03,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,A,256523.0,0.0
+2019-09-03,MSFT,"SMITH, BRADFORD L",President,Common Stock,D,69193.0,137.86
+2019-09-03,MSFT,"SMITH, BRADFORD L",President,Common Stock,A,140233.0,0.0
+2019-09-03,MSFT,"JOHNSON, MARGARET L","EVP, Business Development",Common Stock,D,42449.0,137.86
+2019-08-29,MSFT,"LIST-STOLL, TERI",Director,Restricted Stock Units,A,627.0,0.0
+2019-08-29,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,599.0,0.0
+2019-08-29,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,369.0,0.0
+2019-08-29,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,599.0,0.0
+2019-08-29,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,599.0,0.0
+2019-08-29,MSFT,"PANKE, HELMUT",Director,Common Stock,A,369.0,0.0
+2019-08-29,MSFT,"NOSKI, CHARLES H",Director,Restricted Stock Units,A,368.0,0.0
+2019-08-29,MSFT,"JOHNSTON, HUGH F",Director,Common Stock,A,369.0,0.0
+2019-08-29,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,489.0,135.56
+2019-08-29,MSFT,"PANKE, HELMUT",Director,Common Stock,D,111.0,135.56
+2019-08-29,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,416.0,135.56
+2019-08-29,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,369.0,0.0
+2019-08-29,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,115.0,0.0
+2019-08-29,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,663.0,0.0
+2019-08-29,MSFT,"STANTON, JOHN W",Director,Common Stock,A,369.0,0.0
+2019-08-29,MSFT,"SORENSON, ARNE M",Director,Common Stock,A,369.0,0.0
+2019-08-13,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,7000.0,138.15
+2019-08-08,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,3500.0,138.0018
+2019-08-01,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,3372.0,138.0612
+2019-07-31,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,5311.0,0.0
+2019-07-29,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,4000.0,141.054
+2019-07-26,MSFT,"COURTOIS, JEAN PHILIPPE",Executive Vice President,Common Stock,D,4493.0,140.19
+2019-06-13,MSFT,"HOFFMAN, REID",Director,Restricted Stock Units,A,26.0,0.0
+2019-06-13,MSFT,"LIST-STOLL, TERI",Director,Restricted Stock Units,A,59.0,0.0
+2019-06-13,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,10.0,0.0
+2019-06-13,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,88.0,0.0
+2019-06-13,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,120.0,0.0
+2019-06-13,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,16.0,0.0
+2019-06-13,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,53.0,0.0
+2019-06-13,MSFT,"NOSKI, CHARLES H",Director,Restricted Stock Units,A,336.0,0.0
+2019-06-10,MSFT,"HOGAN, KATHLEEN T","EVP, Human Resources",Common Stock,D,15947.0,133.1695
+2019-05-31,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,873.0,125.73
+2019-05-28,MSFT,"WARRIOR, PADMASREE",Director,Common Stock,A,396.0,0.0
+2019-05-28,MSFT,"SORENSON, ARNE M",Director,Common Stock,A,396.0,0.0
+2019-05-28,MSFT,"PRITZKER, PENNY S",Director,Restricted Stock Units,A,644.0,0.0
+2019-05-28,MSFT,"PANKE, HELMUT",Director,Common Stock,A,396.0,0.0
+2019-05-28,MSFT,"PANKE, HELMUT",Director,Common Stock,D,119.0,126.16
+2019-05-28,MSFT,"PETERSON, SANDRA E",Director,Restricted Stock Units,A,644.0,0.0
+2019-05-28,MSFT,"SCHARF, CHARLES W",Director,Common Stock,A,396.0,0.0
+2019-05-28,MSFT,"STANTON, JOHN W",Director,Common Stock,A,396.0,0.0
+2019-05-28,MSFT,"WARRIOR, PADMASREE",Director,Restricted Stock Units,A,123.0,0.0
+2014-09-28,MSFT,"BRUMMEL, LISA E",Senior Vice President,Common Stock,D,25000.0,44.2626
+2014-09-11,MSFT,"DUBLON, DINA",Director,Restricted Stock Units,A,32.0,0.0
+2014-09-11,MSFT,"DUBLON, DINA",Director,Restricted Stock Units,A,101.0,0.0
+2014-09-04,MSFT,"BRUMMEL, LISA E",Senior Vice President,Common Stock,D,57618.0,45.0517
+2014-09-03,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,A,29717.0,0.0
+2014-09-03,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,A,13208.0,0.0
+2014-09-02,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,15803.0,45.43
+2014-09-02,MSFT,"TURNER, BRIAN KEVIN",Chief Operating Officer,Common Stock,D,166163.0,45.1549
+2014-09-02,MSFT,"SMITH, BRADFORD L",Executive Vice President,Common Stock,D,50875.0,45.43
+2014-09-02,MSFT,"NADELLA, SATYA","President, Server and Tools",Common Stock,D,58978.0,45.43
+2014-09-02,MSFT,"HOOD, AMY",Chief Financial Officer,Common Stock,D,8677.0,45.43
+2014-09-02,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,37613.0,45.43
+2014-09-02,MSFT,"BRUMMEL, LISA E",Senior Vice President,Common Stock,D,32014.0,45.43
+2014-09-02,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,58978.0,45.43
+2014-09-02,MSFT,"TURNER, BRIAN KEVIN",Chief Operating Officer,Common Stock,D,90250.0,45.43
+2014-08-29,MSFT,"TURNER, BRIAN KEVIN",Chief Operating Officer,Common Stock,D,29830.0,44.88
+2014-08-29,MSFT,"CAPOSSELA, CHRISTOPHER C","EVP, Chief Marketing Officer",Common Stock,D,2297.0,44.88
+2014-08-29,MSFT,"HOOD, AMY",Chief Financial Officer,Common Stock,D,11932.0,44.88
+2014-08-29,MSFT,"SMITH, BRADFORD L",Executive Vice President,Common Stock,D,12447.0,44.88
+2014-08-29,MSFT,"BRUMMEL, LISA E",Senior Vice President,Common Stock,D,6814.0,44.88
+2014-08-29,MSFT,"NADELLA, SATYA","President, Server and Tools",Common Stock,D,20297.0,44.88
+2014-08-29,MSFT,"NADELLA, SATYA","Director, Chief Executive Officer",Common Stock,D,20297.0,44.88
+2014-08-19,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,3171.0,0.0
+2014-08-19,MSFT,"STANTON, JOHN W",Director,Common Stock,A,188.0,0.0
+2014-08-19,MSFT,"MORFIT, G MASON","Director, See Remarks",Common Stock,A,827.0,0.0
+2014-08-19,MSFT,"GATES, WILLIAM H III",Director,Common Stock,A,827.0,0.0
+2014-08-19,MSFT,"PANKE, HELMUT",Director,Common Stock,A,827.0,0.0
+2014-08-19,MSFT,"PANKE, HELMUT",Director,Common Stock,D,249.0,45.33
+2014-08-19,MSFT,"NOSKI, CHARLES H",Director,Restricted Stock Units,A,827.0,0.0
+2014-08-19,MSFT,"MARQUARDT, DAVID F",Director,Common Stock,A,827.0,0.0
+2014-08-19,MSFT,"KLAWE, MARIA",Director,Common Stock,A,827.0,0.0
+2014-08-19,MSFT,"DUBLON, DINA",Director,Common Stock,A,827.0,0.0
+2014-08-19,MSFT,"BALLMER, STEVEN A",Director,Common Stock,A,827.0,0.0
+2014-08-05,MSFT,"THOMPSON, JOHN WENDELL",Director,Common Stock,A,23194.0,43.1164
+2014-07-30,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,4999057.0,43.4464
+2014-07-29,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,2590107.0,43.9559
+2014-07-28,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,3360000.0,44.1665
+2014-07-28,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,1500.0,44.035
+2014-07-25,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,4905836.0,44.5011
+2014-07-25,MSFT,"TURNER, BRIAN KEVIN",Chief Operating Officer,Common Stock,D,64323.0,44.5138
+2014-07-24,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,4145000.0,44.5366
+2014-06-30,MSFT,"TURNER, BRIAN KEVIN",Chief Operating Officer,Common Stock,D,40532.0,42.25
+2014-06-25,MSFT,"HOOD, AMY",Chief Financial Officer,Common Stock,A,118963.0,0.0
+2014-06-17,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,635.0,41.5
+2014-06-12,MSFT,"NOSKI, CHARLES H",Director,Restricted Stock Units,A,504.0,0.0
+2014-06-12,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,90.0,0.0
+2014-06-12,MSFT,"DUBLON, DINA",Director,Restricted Stock Units,A,117.0,0.0
+2014-06-12,MSFT,"DUBLON, DINA",Director,Restricted Stock Units,A,37.0,0.0
+2014-06-05,MSFT,"MORFIT, G MASON","Director, See Remarks",Common Stock,D,611.0,0.0
+2014-05-19,MSFT,"KLAWE, MARIA",Director,Common Stock,A,943.0,0.0
+2014-05-19,MSFT,"MORFIT, G MASON","Director, See Remarks",Common Stock,A,611.0,0.0
+2014-05-19,MSFT,"PANKE, HELMUT",Director,Common Stock,A,943.0,0.0
+2014-05-19,MSFT,"PANKE, HELMUT",Director,Common Stock,D,283.0,39.75
+2014-05-19,MSFT,"MARQUARDT, DAVID F",Director,Common Stock,A,943.0,0.0
+2014-05-19,MSFT,"DUBLON, DINA",Director,Common Stock,A,943.0,0.0
+2014-05-19,MSFT,"NOSKI, CHARLES H",Director,Restricted Stock Units,A,943.0,0.0
+2014-05-19,MSFT,"GATES, WILLIAM H III",Director,Common Stock,A,943.0,0.0
+2014-05-19,MSFT,"BALLMER, STEVEN A",Director,Common Stock,A,917.0,0.0
+2014-05-15,MSFT,"HOOD, AMY",Chief Financial Officer,Common Stock,D,13725.0,40.24
+2014-05-09,MSFT,"MORFIT, G MASON","Director, See Remarks",Common Stock,A,800000.0,39.56
+2014-05-09,MSFT,"MORFIT, G MASON","Director, See Remarks",Common Stock,A,500000.0,39.59
+2014-05-09,MSFT,"MORFIT, G MASON","Director, See Remarks",Common Stock,A,463000.0,39.54
+2014-05-09,MSFT,"MORFIT, G MASON","Director, See Remarks",Common Stock,A,600000.0,39.58
+2014-05-08,MSFT,"MORFIT, G MASON","Director, See Remarks",Common Stock,A,300000.0,39.49
+2014-05-08,MSFT,"MORFIT, G MASON","Director, See Remarks",Common Stock,A,287501.0,39.5
+2014-05-06,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,1000000.0,39.2194
+2014-05-05,MSFT,"SHUM, HEUNG-YEUNG","EVP, Technology and Research",Common Stock,D,50000.0,39.4418
+2014-05-05,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,3650000.0,39.4458
+2014-05-02,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,4030000.0,39.8616
+2013-09-12,MSFT,"THOMPSON, JOHN WENDELL",Director,Restricted Stock Units,A,51.0,0.0
+2009-08-10,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,2000000.0,23.4021
+2009-08-07,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,2000000.0,23.6878
+2009-08-06,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,1000000.0,23.6961
+2009-08-05,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,1000000.0,24.009
+2009-08-04,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,1000000.0,23.6433
+2009-08-04,MSFT,"LIDDELL, CHRISTOPHER P",Chief Financial Officer,Common Stock,D,20000.0,23.6194
+2009-08-03,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,2000000.0,23.742
+2009-07-31,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,1000000.0,23.781
+2009-07-30,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,2000000.0,24.1749
+2009-06-18,MSFT,"DUBLON, DINA",Director,Restricted Stock Units,A,8.0,0.0
+2009-06-18,MSFT,"GILMARTIN, RAYMOND V",Director,Restricted Stock Units,A,24.0,0.0
+2009-06-18,MSFT,"DUBLON, DINA",Director,Restricted Stock Units,A,82.0,0.0
+2009-06-18,MSFT,"HASTINGS, REED",Director,Restricted Stock Units,A,101.0,0.0
+2009-06-18,MSFT,"CASH, JAMES I",Director,Restricted Stock Units,A,90.0,0.0
+2009-06-18,MSFT,"NOSKI, CHARLES H",Director,Restricted Stock Units,A,166.0,0.0
+2009-06-01,MSFT,"LIDDELL, CHRISTOPHER P",Chief Financial Officer,Common Stock,D,20000.0,21.29
+2009-05-22,MSFT,"MARQUARDT, DAVID F",Director,Common Stock,D,22500.0,20.0
+2009-05-21,MSFT,"MARQUARDT, DAVID F",Director,Common Stock,D,7500.0,20.01
+2009-05-20,MSFT,"MARQUARDT, DAVID F",Director,Common Stock,D,10000.0,20.36
+2009-05-20,MSFT,"MARQUARDT, DAVID F",Director,Common Stock,D,10000.0,20.57
+2009-05-19,MSFT,"MARQUARDT, DAVID F",Director,Common Stock,D,30000.0,20.38
+2009-05-19,MSFT,"MARQUARDT, DAVID F",Director,Common Stock,D,20000.0,20.42
+2009-05-18,MSFT,"CASH, JAMES I",Director,Restricted Stock Units,A,1456.0,0.0
+2009-05-18,MSFT,"HASTINGS, REED",Director,Restricted Stock Units,A,2427.0,0.0
+2009-05-18,MSFT,"GILMARTIN, RAYMOND V",Director,Common Stock,A,1456.0,0.0
+2009-05-18,MSFT,"DUBLON, DINA",Director,Restricted Stock Units,A,1456.0,0.0
+2009-05-18,MSFT,"GATES, WILLIAM H III",Director,Common Stock,A,1456.0,0.0
+2009-05-18,MSFT,"PANKE, HELMUT",Director,Common Stock,A,1456.0,0.0
+2009-05-18,MSFT,"NOSKI, CHARLES H",Director,Restricted Stock Units,A,2669.0,0.0
+2009-05-18,MSFT,"MARQUARDT, DAVID F",Director,Common Stock,A,1456.0,0.0
+2009-05-18,MSFT,"KLAWE, MARIA",Director,Common Stock,A,1161.0,0.0
+2009-05-12,MSFT,"MARQUARDT, DAVID F",Director,Common Stock,D,100000.0,20.0
+2009-05-12,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,3000000.0,19.7871
+2009-05-11,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,3000000.0,19.4437
+2009-05-08,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,3000000.0,19.4291
+2009-05-07,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,1000000.0,19.5482
+2009-05-06,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,2000000.0,19.8467
+2009-05-05,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,1000000.0,19.8881
+2009-05-04,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,2000000.0,20.1559
+2009-05-01,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,1852.0,20.24
+2009-05-01,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,3000000.0,19.9989
+2009-04-30,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,1000000.0,20.7794
+2009-04-29,MSFT,"GATES, WILLIAM H III",Director,Common Stock,D,1000000.0,20.4601
+2009-04-29,MSFT,"LIDDELL, CHRISTOPHER P",Chief Financial Officer,Common Stock,D,6600.0,20.67
+2009-04-29,MSFT,"LIDDELL, CHRISTOPHER P",Chief Financial Officer,Common Stock,D,12200.0,20.68
+2009-04-29,MSFT,"LIDDELL, CHRISTOPHER P",Chief Financial Officer,Common Stock,D,1200.0,20.69
+2009-04-27,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,20000.0,20.7
+2009-04-27,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,16371.0,20.62
+2009-04-27,MSFT,"BROD, FRANK H",Chief Accounting Officer,Common Stock,D,3629.0,20.63
+2009-03-12,MSFT,"CASH, JAMES I",Director,Restricted Stock Units,A,113.0,0.0
+2009-03-12,MSFT,"NOSKI, CHARLES H",Director,Restricted Stock Units,A,207.0,0.0
+2009-03-12,MSFT,"HASTINGS, REED",Director,Restricted Stock Units,A,120.0,0.0
+2009-03-12,MSFT,"GILMARTIN, RAYMOND V",Director,Restricted Stock Units,A,34.0,0.0
+2009-03-12,MSFT,"DUBLON, DINA",Director,Restricted Stock Units,A,113.0,0.0
+2009-02-18,MSFT,"GATES, WILLIAM H III",Director,Common Stock,A,1655.0,0.0
+2009-02-18,MSFT,"NOSKI, CHARLES H",Director,Restricted Stock Units,A,3035.0,0.0
+2009-02-18,MSFT,"PANKE, HELMUT",Director,Common Stock,A,1655.0,0.0

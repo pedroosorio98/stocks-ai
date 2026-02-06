@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7c7d7f16df92b617a7e336d3f91321f31fd3869e9f9105e3ea387a5ffaa82264
-size 245
+{
+  "input_ticker": "SANB11",
+  "yahoo_ticker_used": "SANB11.SA",
+  "folder": "C:\\Users\\Pedro\\stocks-ai\\Data\\SANB11\\yahoo_finance",
+  "notes": "Some modules are not available for all Brazil tickers; see errors/ folder for failures."
+}

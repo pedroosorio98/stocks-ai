@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:73867d7312df163dd2484040523ff53d8eefc90ac2bbb10ce61227dc06e714ff
-size 174
+{
+  "ticker": "AVGO",
+  "cik": 1730168,
+  "form": "8-K",
+  "filing_date": "2020-05-05",
+  "accession": "0001193125-20-133159",
+  "primary_document": "d925377d8k.htm"
+}

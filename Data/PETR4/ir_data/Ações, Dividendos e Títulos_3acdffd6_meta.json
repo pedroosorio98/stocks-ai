@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd03477a090efd0dd9f0445aee3d0e9600e0cf26064fd763ea7b89ae9764de8f
-size 317
+{
+  "label": "A\u00e7\u00f5es, Dividendos e T\u00edtulos",
+  "original_url": "https://www.investidorpetrobras.com.br/resultados-e-comunicados/sec/",
+  "final_url": "https://www.investidorpetrobras.com.br/resultados-e-comunicados/sec/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

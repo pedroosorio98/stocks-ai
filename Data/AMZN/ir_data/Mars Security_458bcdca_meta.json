@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:35cc67d8bea2129657e577cc46b0b263663133b6f745144886be1a2a81949334
-size 190
+{
+  "label": "Mars Security",
+  "original_url": "https://marssec.ai/",
+  "final_url": "https://marssec.ai/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

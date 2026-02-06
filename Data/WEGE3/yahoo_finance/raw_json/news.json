@@ -1,3 +1,124 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e775942a04062a2f669d65af496e30f07b5ad91fecec5ba3e48d548ef2a0b12d
-size 4564
+[
+  {
+    "id": "8ffcc0fd-a2ef-3241-8bf3-7728e1543a01",
+    "content": {
+      "id": "8ffcc0fd-a2ef-3241-8bf3-7728e1543a01",
+      "contentType": "STORY",
+      "title": "Petrobras and Its Partners Launch the Largest Onshore Wind Turbine",
+      "description": "",
+      "summary": "PBR partners with WEG and Statkraft to launch Brazil's most powerful wind turbine, boosting renewable energy capacity and driving low-carbon development goals.",
+      "pubDate": "2025-09-22T12:25:00Z",
+      "displayTime": "2025-09-22T12:25:00Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/aa8b77c41803bdda75499923dc7cfeb4",
+        "originalWidth": 620,
+        "originalHeight": 412,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/NP36E4mSD1eNzJTaHUxOqQ--~B/aD00MTI7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/aa8b77c41803bdda75499923dc7cfeb4",
+            "width": 620,
+            "height": 412,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/SZnX39G.OwAdmkPemNRcOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/aa8b77c41803bdda75499923dc7cfeb4",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/petrobras-partners-launch-largest-onshore-122500948.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/petrobras-partners-launch-largest-onshore-122500948.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "25c214f2-8775-3618-aae2-7eb48379c075",
+    "content": {
+      "id": "25c214f2-8775-3618-aae2-7eb48379c075",
+      "contentType": "STORY",
+      "title": "Weg SA (WEGZY) Q1 2025 Earnings Call Highlights: Strong Revenue Growth Amid Margin Pressures",
+      "description": "",
+      "summary": "Weg SA (WEGZY) reports a 25.5% revenue increase and strategic investments, despite challenges in solar margins and European demand.",
+      "pubDate": "2025-05-01T07:12:42Z",
+      "displayTime": "2025-05-01T07:12:42Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/us.finance.gurufocus/8b5b6977bb227ede3145fefa0f0cbe51",
+        "originalWidth": 300,
+        "originalHeight": 300,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/GLPda0IfQOlBC8ZBexwn5Q--~B/aD0zMDA7dz0zMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/8b5b6977bb227ede3145fefa0f0cbe51",
+            "width": 300,
+            "height": 300,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/PfS2p9K63zXFRu1D_pm._g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/8b5b6977bb227ede3145fefa0f0cbe51",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "GuruFocus.com",
+        "url": "http://www.gurufocus.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/weg-sa-wegzy-q1-2025-071242578.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/weg-sa-wegzy-q1-2025-071242578.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  }
+]

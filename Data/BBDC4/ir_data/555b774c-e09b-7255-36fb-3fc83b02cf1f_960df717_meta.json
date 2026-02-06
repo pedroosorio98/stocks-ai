@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af16b1b4cb33c9c7d0ca4db6b21a95b69cd1d0a21da5bbb6c6333364f61c1484
-size 358
+{
+  "label": "555b774c-e09b-7255-36fb-3fc83b02cf1f",
+  "original_url": "https://api.mziq.com/mzfilemanager/v2/d/80f2e993-0a30-421a-9470-a4d5c8ad5e9f/555b774c-e09b-7255-36fb-3fc83b02cf1f?origin=2",
+  "final_url": "https://www.youtube.com/embed/DhrOJddVqEc?si=CEhKfCG_DOjRW3zX",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9549a762194d85d667eff2fa3ce6fe21c63a62e3573a25f29487dc77c8bbc9eb
-size 291
+{
+  "label": "Cash Flows",
+  "original_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/cash-flows",
+  "final_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/cash-flows",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:29183bc06ef33c79fb21764b34faba27ba37ed0b758c05413baa92427579f079
-size 198
+{
+  "label": "Evoke Security",
+  "original_url": "https://www.evokesecurity.com/",
+  "final_url": "https://www.evokesecurity.com/",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

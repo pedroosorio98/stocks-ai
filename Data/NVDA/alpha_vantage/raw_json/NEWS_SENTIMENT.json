@@ -1,3 +1,2671 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:85b36ffc24bbdfa81e4f73c2d468e6d10129947ecc23cc13197af67e69884e59
-size 119408
+{
+  "response": {
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+      {
+        "title": "2 Fidelity ETFs To Buy In February",
+        "url": "https://247wallst.com/investing/2026/02/05/2-fidelity-etfs-to-buy-in-february/",
+        "time_published": "20260205T144844",
+        "authors": [
+          "Vandita Jadeja"
+        ],
+        "summary": "This article recommends two Fidelity ETFs, the Fidelity Blue Chip Growth ETF (FBCG) and the Fidelity Disruptive Technology ETF (FDTX), as strong buys for February. FBCG focuses on large-cap growth stocks, particularly in the tech sector, with strong returns over the past three years. FDTX invests in disruptive technology companies, showing significant growth since its 2020 launch and concentrating on the semiconductor and software industries.",
+        "banner_image": "https://247wallst.com/wp-content/uploads/2015/12/fidelityinvestmentslogo-e1451507178449.jpg",
+        "source": "24/7 Wall St.",
+        "category_within_source": "General",
+        "source_domain": "24/7 Wall St.",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.927295"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.839513"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.745458"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.647517"
+          }
+        ],
+        "overall_sentiment_score": 0.371684,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "FDTX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.354342",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.720562",
+            "ticker_sentiment_score": "0.433369",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.674808",
+            "ticker_sentiment_score": "0.447341",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.611199",
+            "ticker_sentiment_score": "0.339243",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "5 Insightful Analyst Questions From MarineMax's Q4 Earnings Call",
+        "url": "https://finviz.com/news/300790/5-insightful-analyst-questions-from-marinemaxs-q4-earnings-call",
+        "time_published": "20260205T135831",
+        "authors": [
+          "Adam Hejl"
+        ],
+        "summary": "MarineMax's Q4 CY2025 results showed better-than-expected sales but missed adjusted EPS and EBITDA estimates, leading to a negative market reaction. Management cited elevated promotional activity and cautious retail behavior impacting margins despite premium product demand. Analysts raised questions regarding discounting assumptions, the disconnect between higher average selling prices and gross margins, demand trends across income groups, boat margin recovery, and factors contributing to margin decline.",
+        "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/marinemax-cover-image-a31166d3bb77_2023-08-16-111046_msqz.jpeg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.906162"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.716917"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.643879"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.648775"
+          }
+        ],
+        "overall_sentiment_score": 0.050816,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "HZO",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.293949",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.638149",
+            "ticker_sentiment_score": "0.344067",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Nvidia, Prologis, EPRI, InfraPartners target prefab data centers at substation sites",
+        "url": "https://www.datacenterdynamics.com/en/news/nvidia-prologis-epri-infrapartners-target-prefab-data-centers-at-substation-sites/",
+        "time_published": "20260205T135030",
+        "authors": [
+          "Dan Swinhoe"
+        ],
+        "summary": "Nvidia, Prologis, EPRI, and InfraPartners are collaborating to deploy containerized data centers, ranging from 5-20MW, at utility substation sites. This initiative aims to address the growing energy demands of AI by utilizing existing grid capacity for distributed inference, with plans for at least five pilot projects in the US by the end of 2026. The partnership seeks to provide smart, flexible infrastructure close to where computing is needed without overburdening the grid.",
+        "banner_image": "https://media.datacenterdynamics.com/media/images/GettyImages-953027006.width-358.jpg",
+        "source": "Data Center Dynamics",
+        "category_within_source": "General",
+        "source_domain": "Data Center Dynamics",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.948638"
+          },
+          {
+            "topic": "real_estate",
+            "relevance_score": "0.832496"
+          }
+        ],
+        "overall_sentiment_score": 0.355238,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "PLD",
+            "relevance_score": "0.992271",
+            "ticker_sentiment_score": "0.307396",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.945035",
+            "ticker_sentiment_score": "0.379618",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Apple Becomes Apple Again",
+        "url": "https://247wallst.com/apps-software/2026/02/05/apple-becomes-apple-again/",
+        "time_published": "20260205T134540",
+        "authors": [
+          "Douglas A. McIntyre"
+        ],
+        "summary": "Apple's stock has surged by 36% in the last six months, significantly outperforming the S&P 500, despite concerns about its lack of a proprietary AI product. This resurgence comes as other major AI companies like Amazon, Meta, and Microsoft face investor skepticism due to high investments and slow integration of AI into paid products. Apple's decision to integrate Google's Gemini AI into \"Apple Intelligence\" through a reported $1 billion annual deal is seen as a remarkably favorable move for the company.",
+        "banner_image": "https://247wallst.com/wp-content/uploads/2024/05/imageForEntry28-5sq.jpg",
+        "source": "24/7 Wall St.",
+        "category_within_source": "General",
+        "source_domain": "24/7 Wall St.",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.923034"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.846336"
+          }
+        ],
+        "overall_sentiment_score": -0.082244,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "AAPL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.432718",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.712486",
+            "ticker_sentiment_score": "-0.203414",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.624635",
+            "ticker_sentiment_score": "-0.236692",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "ORCL",
+            "relevance_score": "0.647642",
+            "ticker_sentiment_score": "-0.308548",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.608316",
+            "ticker_sentiment_score": "-0.130622",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Altrius Capital Management Inc Lowers Holdings in Caterpillar Inc. $CAT",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-altrius-capital-management-inc-lowers-holdings-in-caterpillar-inc-cat-2026-02-05/",
+        "time_published": "20260205T132736",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Altrius Capital Management Inc. reduced its stake in Caterpillar Inc. by 20% in the third quarter of 2025, selling 2,765 shares and retaining 11,045 shares valued at $5.27 million. Despite institutional ownership and strong fundamentals, recent insider selling totaling over 104,000 shares worth $67 million could create short-term selling pressure. Caterpillar reported strong Q4 results, beating EPS and revenue estimates, and has a significant backlog, positive guidance, and plans for increased capital expenditure.",
+        "banner_image": "https://www.marketbeat.com/logos/Caterpillar-logo-web-1200x675.jpg",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.930237"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.940162"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.832105"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.624833"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.629518"
+          }
+        ],
+        "overall_sentiment_score": 0.197668,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "CAT",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.340600",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.623080",
+            "ticker_sentiment_score": "0.125991",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.642322",
+            "ticker_sentiment_score": "0.125413",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Tapestry (NYSE:TPR) Delivers Impressive Q4 CY2025",
+        "url": "https://finviz.com/news/301082/tapestry-nyse-tpr-delivers-impressive-q4-cy2025",
+        "time_published": "20260205T125725",
+        "authors": [
+          "Kayode Omotosho"
+        ],
+        "summary": "Tapestry (NYSE:TPR) reported impressive Q4 CY2025 results, exceeding revenue and EPS expectations with sales up 14% year-on-year to $2.50 billion. The luxury fashion conglomerate also raised its full-year guidance for both revenue and EPS, indicating strong performance driven by increased efficiency and robust demand. The stock reacted positively, trading up 5% immediately following the announcement.",
+        "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/tapestry-cover-image-c87755024ce9_2024-01-25-192143_dlqe",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.911196"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.738824"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.737552"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.632161"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.623350"
+          }
+        ],
+        "overall_sentiment_score": 0.252296,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "TPR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.440287",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.627947",
+            "ticker_sentiment_score": "0.113846",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Coca-Cola Europacific Partners $CCEP Shares Sold by Cullen Capital Management LLC",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-coca-cola-europacific-partners-ccep-shares-sold-by-cullen-capital-management-llc-2026-02-05/",
+        "time_published": "20260205T121419",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Cullen Capital Management LLC reduced its stake in Coca-Cola Europacific Partners (CCEP) by 9.8% in the third quarter, selling 56,417 shares and retaining 520,359 shares valued at $47.0 million. Despite the sale, analyst sentiment remains largely positive with a \"Moderate Buy\" consensus rating and an average price target of $100.80. The company's stock recently opened at $94.85, with a 12-month trading range of $78.00–$100.67.",
+        "banner_image": "https://www.marketbeat.com/logos/coca-cola-europacific-partners-plc-logo-1200x675.jpg?v=20231226131737",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.902018"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.825783"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.633348"
+          }
+        ],
+        "overall_sentiment_score": 0.064225,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "KO",
+            "relevance_score": "0.709894",
+            "ticker_sentiment_score": "0.293671",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.607771",
+            "ticker_sentiment_score": "0.238232",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.604943",
+            "ticker_sentiment_score": "-0.128032",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NFLX",
+            "relevance_score": "0.568651",
+            "ticker_sentiment_score": "-0.079071",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.553340",
+            "ticker_sentiment_score": "-0.085930",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "New Buy Rating for Advanced Micro Devices (AMD), the Technology Giant",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/AMD/pressreleases/41966/new-buy-rating-for-advanced-micro-devices-amd-the-technology-giant/",
+        "time_published": "20260205T121340",
+        "authors": [
+          "Tipranks"
+        ],
+        "summary": "Stifel Nicolaus analyst Ruben Roy upgraded Advanced Micro Devices (AMD) to a Buy rating with a price target of $280.00, citing the company's strong financial performance with quarterly revenue of $9.25 billion and a net profit of $1.24 billion. KeyBanc also issued a Buy rating, contrasting with Citi's Hold rating on the same day. Despite positive analyst sentiment, corporate insider activity shows an increase in share selling, with an EVP selling 10,000 shares in December 2025.",
+        "banner_image": null,
+        "source": "The Globe and Mail",
+        "category_within_source": "General",
+        "source_domain": "The Globe and Mail",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.929187"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.838163"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.731023"
+          }
+        ],
+        "overall_sentiment_score": 0.214763,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMD",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.309609",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.628971",
+            "ticker_sentiment_score": "0.132446",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "New Buy Rating for Advanced Micro Devices (AMD), the Technology Giant",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/AMD-Q/pressreleases/41217/new-buy-rating-for-advanced-micro-devices-amd-the-technology-giant/",
+        "time_published": "20260205T120556",
+        "authors": [
+          "Tipranks"
+        ],
+        "summary": "Bank of America Securities reiterated a Buy rating on Advanced Micro Devices (AMD) with a $280.00 price target, while Barclays also maintained a Buy rating with a $300.00 price target. This comes as AMD reported strong quarterly revenue of $9.25 billion and a net profit of $1.24 billion. Despite positive analyst sentiment, corporate insider activity shows a negative trend with increased selling of shares over the past quarter.",
+        "banner_image": null,
+        "source": "The Globe and Mail",
+        "category_within_source": "General",
+        "source_domain": "The Globe and Mail",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.936048"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.831786"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.816222"
+          }
+        ],
+        "overall_sentiment_score": 0.567899,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMD",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.608509",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AVGO",
+            "relevance_score": "0.623652",
+            "ticker_sentiment_score": "0.622474",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.603913",
+            "ticker_sentiment_score": "0.546976",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "PTC Q4 Deep Dive: AI Integration and Deferred Revenue Shape Guidance",
+        "url": "https://finviz.com/news/300871/ptc-q4-deep-dive-ai-integration-and-deferred-revenue-shape-guidance",
+        "time_published": "20260205T115830",
+        "authors": [
+          "Adam Hejl"
+        ],
+        "summary": "PTC (NASDAQ:PTC) reported Q4 CY2025 results that exceeded revenue expectations, with sales up 21.4% year-on-year, and provided strong next-quarter revenue guidance. The company's performance was driven by robust customer demand for intelligent product lifecycle solutions, momentum in large deals, and strategic AI integration across its product portfolio. Future growth is expected to be fueled by deferred annual recurring revenue (ARR) from multi-year contracts and continued adoption of AI-enhanced product releases and SaaS offerings.",
+        "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/ptc-inc-cover-image-daa5a53548a6_2023-03-22-074903_uhhz.jpeg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.916856"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.812294"
+          }
+        ],
+        "overall_sentiment_score": 0.352708,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "PTC",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.441000",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.618228",
+            "ticker_sentiment_score": "0.319094",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "After Earnings, Is Tesla Stock a Buy, a Sell, or Fairly Valued?",
+        "url": "https://www.morningstar.com/stocks/after-earnings-is-tesla-stock-buy-sell-or-fairly-valued-11",
+        "time_published": "20260205T110642",
+        "authors": [
+          "Seth Goldstein",
+          "CFA"
+        ],
+        "summary": "Morningstar maintains a narrow economic moat rating and a \"Very High\" uncertainty rating for Tesla. Following its Q4 earnings, Morningstar raised its fair value estimate for Tesla to $400 per share from $300, driven by robotaxi valuation, autonomous driving software adoption, and the humanoid robot business. Despite this, Tesla shares are currently considered fairly valued, trading about 10% above the fair value estimate, placing them in 3-star territory due to expected volatility as new products progress.",
+        "banner_image": "https://cloudfront-us-east-1.images.arcpublishing.com/morningstar/ECL2DOEB4ZHYZJZBQBIMCKZ2HM.jpg",
+        "source": "Morningstar",
+        "category_within_source": "General",
+        "source_domain": "Morningstar",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.922731"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.819175"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.717494"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.622485"
+          }
+        ],
+        "overall_sentiment_score": 0.047672,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "TSLA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.050081",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.633748",
+            "ticker_sentiment_score": "-0.103971",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.568030",
+            "ticker_sentiment_score": "0.084958",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GM",
+            "relevance_score": "0.583843",
+            "ticker_sentiment_score": "0.062601",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.575326",
+            "ticker_sentiment_score": "0.090634",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Pinning Down Himax Technologies, Inc.'s (NASDAQ:HIMX) P/E Is Difficult Right Now",
+        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-himx/himax-technologies/news/pinning-down-himax-technologies-incs-nasdaqhimx-pe-is-diffic",
+        "time_published": "20260205T110212",
+        "authors": [
+          "Simply Wall St"
+        ],
+        "summary": "Himax Technologies, Inc.'s P/E ratio of 21.2x is similar to the US market median, which is puzzling because its earnings have decreased by 21% in the last year and 82% over three years. Analysts forecast a modest 6.7% EPS growth for the coming year, significantly lower than the broader market's 16% expectation. This disparity suggests investors might be overlooking the company's inferior earnings outlook, potentially leaving them vulnerable to future disappointment if the P/E ratio adjusts to align with growth expectations.",
+        "banner_image": "https://images.simplywall.st/asset/chart/20344586-pe-multiple-vs-industry-1-dark-2/1770287704668",
+        "source": "Simply Wall Street",
+        "category_within_source": "General",
+        "source_domain": "Simply Wall Street",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.941604"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.846808"
+          }
+        ],
+        "overall_sentiment_score": -0.126071,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "HIMX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.349272",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.642200",
+            "ticker_sentiment_score": "0.013411",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.615911",
+            "ticker_sentiment_score": "0.018322",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Portside Wealth Group LLC Purchases New Position in Synopsys, Inc. $SNPS",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-portside-wealth-group-llc-purchases-new-position-in-synopsys-inc-snps-2026-02-05/",
+        "time_published": "20260205T105833",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Portside Wealth Group LLC has established a new position in Synopsys, Inc. (SNPS), acquiring 4,692 shares valued at approximately $2.315 million during the third quarter. Institutional investors now collectively own about 85.47% of the semiconductor company. Synopsys recently surpassed Q3 earnings estimates, reporting $2.90 EPS against a $2.79 consensus, with revenues increasing 37.8% year-over-year to $2.25 billion, and has issued optimistic FY2026 guidance.",
+        "banner_image": "https://www.marketbeat.com/logos/synopsys-inc-logo-1200x675.jpg?v=20231212201345",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.908555"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.811504"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.703261"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.617110"
+          }
+        ],
+        "overall_sentiment_score": 0.209692,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "SNPS",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.280685",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.607795",
+            "ticker_sentiment_score": "0.108108",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Alphabet Inc. $GOOGL Shares Sold by First Business Financial Services Inc.",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-alphabet-inc-googl-shares-sold-by-first-business-financial-services-inc-2026-02-05/",
+        "time_published": "20260205T105746",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "First Business Financial Services Inc. reduced its stake in Alphabet Inc. (NASDAQ:GOOGL) by 5.8% in Q3, selling 2,372 shares to hold 38,376 shares valued at $9.3 million. Other institutional investors also adjusted their positions, with hedge funds and institutional investors collectively owning 40.03% of the company's stock. Analysts maintain a \"Moderate Buy\" rating for Alphabet, with a consensus target price of $336.60, despite recent insider selling and concerns about high capital expenditure projections for 2026.",
+        "banner_image": "https://www.marketbeat.com/logos/google-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.911651"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.834791"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.824622"
+          }
+        ],
+        "overall_sentiment_score": 0.166744,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "FBIZ",
+            "relevance_score": "0.314263",
+            "ticker_sentiment_score": "0.028968",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.915245",
+            "ticker_sentiment_score": "0.335040",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AVGO",
+            "relevance_score": "0.641397",
+            "ticker_sentiment_score": "0.110038",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.618611",
+            "ticker_sentiment_score": "0.137513",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.603582",
+            "ticker_sentiment_score": "0.240451",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "TSMC to make advanced AI semiconductors in Japan in boost for its chipmaking ambitions",
+        "url": "https://www.seattlepi.com/news/world/tsmc-to-make-advanced-ai-semiconductors-in-japan-a21335103",
+        "time_published": "20260205T105141",
+        "authors": [
+          "CHAN HO-HIM",
+          "MARI YAMAGUCHI"
+        ],
+        "summary": "TSMC announced its plan to manufacture advanced 3-nanometer semiconductors for AI applications at its second factory in Japan's Kumamoto Prefecture, a significant move for Japan's chipmaking ambitions. This decision was revealed during a meeting between TSMC's Chairman C.C. Wei and Prime Minister Sanae Takaichi, who emphasized the economic security and strategic importance of the project. TSMC CEO Wei expressed confidence in the growing AI demand, leading to increased capital spending plans for 2026.",
+        "banner_image": "https://cdn-channels-pixel.ex.co/events/0012000001fxZm9AAE?integrationType=DEFAULT&template=design%2Farticle%2Fplatypus_two_column.tpl",
+        "source": "Seattle Post-Intelligencer",
+        "category_within_source": "General",
+        "source_domain": "Seattle Post-Intelligencer",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.925396"
+          },
+          {
+            "topic": "economy_fiscal",
+            "relevance_score": "0.824343"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.629032"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.609194"
+          }
+        ],
+        "overall_sentiment_score": 0.372581,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "TSM",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.445381",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.638397",
+            "ticker_sentiment_score": "0.332226",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.638320",
+            "ticker_sentiment_score": "0.333265",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "The Top 5 Analyst Questions From ResMed's Q4 Earnings Call",
+        "url": "https://finviz.com/news/300795/the-top-5-analyst-questions-from-resmeds-q4-earnings-call",
+        "time_published": "20260205T103314",
+        "authors": [
+          "Petr Huřťák"
+        ],
+        "summary": "ResMed's Q4 performance exceeded expectations due to strong demand for masks and devices, growth in digital health software, and operational efficiencies. CEO Michael Farrell highlighted double-digit growth in the U.S. mask segment and increased patient engagement, including those using GLP-1 medications. This article details the top five analyst questions from the earnings call, covering topics like the contribution of VirtuOx, the impact of GLP-1 drugs, SG&A expenses, patient funnel improvements, and competitive dynamics.",
+        "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/resmed-cover-image-0881b22e7110_2025-01-31-203120_cflt.jpeg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.941474"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.806927"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.600890"
+          }
+        ],
+        "overall_sentiment_score": 0.296259,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "RMD",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.477356",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "BSX",
+            "relevance_score": "0.592318",
+            "ticker_sentiment_score": "0.137749",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.616586",
+            "ticker_sentiment_score": "0.347582",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Amdocs agentic aOS system boosts Gen AI support for telecom operators",
+        "url": "https://capacityglobal.com/news/amdocs-generative-ai-launch-strategy-telecommunications/",
+        "time_published": "20260205T102913",
+        "authors": [
+          "Amber Jackson"
+        ],
+        "summary": "Amdocs has launched aOS, an agentic operating system designed for telecommunications to accelerate Generative AI strategies. This system aims to embed intelligence into telecom operations, improving customer and employee experiences and unlocking new growth opportunities and operational efficiencies for Communication Services Providers (CSPs). Amdocs highlights that aOS will help CSPs move from AI experimentation to real impact by creating a cognitive ecosystem for AI agents, built on modular architecture and strategic partnerships with tech leaders like Nvidia, Microsoft, Google, and AWS.",
+        "banner_image": "https://capacityglobal.com/wp-content/uploads/2026/02/Amdocs-aOS.jpg",
+        "source": "Global Telecoms Business",
+        "category_within_source": "General",
+        "source_domain": "Global Telecoms Business",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "0.901128"
+          }
+        ],
+        "overall_sentiment_score": 0.34154,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "DOX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.462669",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.616961",
+            "ticker_sentiment_score": "0.338353",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.589595",
+            "ticker_sentiment_score": "0.283457",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.574011",
+            "ticker_sentiment_score": "0.294717",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Allianz Asset Management GmbH Lowers Position in Comfort Systems USA, Inc. $FIX",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-allianz-asset-management-gmbh-lowers-position-in-comfort-systems-usa-inc-fix-2026-02-05/",
+        "time_published": "20260205T102758",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Allianz Asset Management GmbH has lowered its stake in Comfort Systems USA, Inc. by 17.3% in the third quarter, reducing its holdings to 77,673 shares. Despite this, other institutional investors like WCM Investment Management LLC and Peterson Wealth Services increased their positions significantly. Insiders also sold over $11 million in company stock during the last ninety days, while analysts largely maintain a \"Buy\" rating, with an average price target of $1,064.50.",
+        "banner_image": "https://www.marketbeat.com/logos/comfort-systems-usa-inc-logo-1200x675.png?v=20240424085012",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.809545"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.935982"
+          },
+          {
+            "topic": "real_estate",
+            "relevance_score": "0.616189"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.737829"
+          }
+        ],
+        "overall_sentiment_score": 0.050684,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "FIX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.238570",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.604780",
+            "ticker_sentiment_score": "0.142583",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AVGO",
+            "relevance_score": "0.628135",
+            "ticker_sentiment_score": "0.107385",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.617893",
+            "ticker_sentiment_score": "0.144109",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "KeyBanc Keeps Their Buy Rating on Advanced Micro Devices (AMD)",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/AMD/pressreleases/38419/keybanc-keeps-their-buy-rating-on-advanced-micro-devices-amd/",
+        "time_published": "20260205T093625",
+        "authors": [
+          "Tipranks"
+        ],
+        "summary": "KeyBanc analyst John Vinh has reiterated a Buy rating on Advanced Micro Devices (AMD) with a $300 price target, citing the company's strong financial performance. This positive outlook follows AMD's latest earnings report, which showed significant revenue and profit growth year-over-year. Despite a negative sentiment from corporate insider activity, with some insiders selling shares recently, Barclays also issued a Buy rating on AMD, though RBC Capital maintains a Hold rating.",
+        "banner_image": null,
+        "source": "The Globe and Mail",
+        "category_within_source": "General",
+        "source_domain": "The Globe and Mail",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.912154"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.847141"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.725477"
+          }
+        ],
+        "overall_sentiment_score": 0.279173,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMD",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.313646",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.610357",
+            "ticker_sentiment_score": "0.242897",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Amkor Technology, Inc. $AMKR Shares Sold by Mirae Asset Global Investments Co. Ltd.",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-amkor-technology-inc-amkr-shares-sold-by-mirae-asset-global-investments-co-ltd-2026-02-05/",
+        "time_published": "20260205T093104",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Mirae Asset Global Investments Co. Ltd. significantly reduced its stake in Amkor Technology (NASDAQ:AMKR) by 92.7% in the third quarter, selling 365,957 shares and retaining 28,733 shares valued at approximately $816,000. Analyst ratings for Amkor are mixed, with Needham and Zacks upgrading their views, while the consensus remains a \"Hold\" with an average target price of $39.14. Insiders also sold approximately 96,000 shares worth $4.09 million in the last quarter, with insiders now owning 26.9% of the company's stock.",
+        "banner_image": "https://www.marketbeat.com/logos/amkor-technology-inc-logo-1200x675.jpg",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.924971"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.843566"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.714805"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.602618"
+          }
+        ],
+        "overall_sentiment_score": -0.066686,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMKR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.059933",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.570734",
+            "ticker_sentiment_score": "-0.077555",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.558021",
+            "ticker_sentiment_score": "-0.079843",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.586790",
+            "ticker_sentiment_score": "-0.051954",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "NVIDIA Corporation $NVDA is Fulcrum Capital LLC's 5th Largest Position",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-is-fulcrum-capital-llcs-5th-largest-position-2026-02-05/",
+        "time_published": "20260205T084056",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Fulcrum Capital LLC reduced its stake in NVIDIA (NVDA) by 8.7% in Q3, making it the firm's fifth-largest holding. Despite the trimmed position, NVIDIA reported strong quarterly earnings, beating analyst estimates with significant revenue growth. However, the company also saw considerable insider selling and faces market sentiment fluctuations due to factors like China sales uncertainty and broader industry selloffs, alongside positive drivers such as Google's AI capital expenditures and an Nvidia-backed AI ecosystem.",
+        "banner_image": "https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.912503"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.832065"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.710391"
+          }
+        ],
+        "overall_sentiment_score": -0.086545,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "NVDA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.065453",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Taiwan's ASE sees its advanced packaging business doubling to $3.2 billion in 2026",
+        "url": "https://www.reuters.com/world/china/taiwans-ase-sees-its-advanced-packaging-business-doubling-32-billion-2026-2026-02-05/",
+        "time_published": "20260205T073500",
+        "authors": [
+          "Wen-Yee Lee"
+        ],
+        "summary": "ASE Technology Holding expects its advanced packaging business to double to $3.2 billion in 2026. This projection follows a strong fourth-quarter revenue report and significant planned capital expenditures for machinery and facilities to support growth in the sector, particularly as its subsidiary SPIL is a key supplier for Nvidia's AI chips.",
+        "banner_image": "https://www.reuters.com/resizer/v2/22PKJMNN7JN37E7TFARGQS5KIU.jpg?auth=5ec0b5b16cff3dc1208e6af1f554d7d646a6dfad8bfda597d2a64ed6884620c1&width=1920&quality=80",
+        "source": "Reuters",
+        "category_within_source": "General",
+        "source_domain": "Reuters",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.926915"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.811485"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.721372"
+          }
+        ],
+        "overall_sentiment_score": 0.262325,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "ASX",
+            "relevance_score": "0.311592",
+            "ticker_sentiment_score": "0.035434",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.604701",
+            "ticker_sentiment_score": "0.536201",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Jefferies reiterates Buy rating on Broadcom stock amid AI growth",
+        "url": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-buy-rating-on-broadcom-stock-amid-ai-growth-93CH-4486550",
+        "time_published": "20260205T072928",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Jefferies has reiterated its Buy rating and $500.00 price target for Broadcom (NASDAQ: AVGO), citing the company's strong position in the artificial intelligence and networking markets. The firm highlighted Broadcom's \"well ahead\" status in custom on-package (COT) business and expected growth in its networking segment, further supported by Google's increased AI spending guidance and positive InvestingPro data suggesting undervaluation. Other analysts from Wolfe Research and Wells Fargo have also recently upgraded Broadcom's stock, underscoring the semiconductor giant's strategic advancements and potential for future growth.",
+        "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.824242"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.947914"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "1.000000"
+          }
+        ],
+        "overall_sentiment_score": 0.247896,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AVGO",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.504119",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.780161",
+            "ticker_sentiment_score": "0.345081",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.654871",
+            "ticker_sentiment_score": "-0.394305",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "ORCL",
+            "relevance_score": "0.531528",
+            "ticker_sentiment_score": "0.343867",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.525062",
+            "ticker_sentiment_score": "0.335749",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Carlisle Companies (CSL) Margin Compression Challenges Bullish Earnings Narratives",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nyse-csl/carlisle-companies/news/carlisle-companies-csl-margin-compression-challenges-bullish",
+        "time_published": "20260205T072755",
+        "authors": [
+          "Simply Wall St"
+        ],
+        "summary": "Carlisle Companies (CSL) reported Q4 2025 revenue of US$1,127.7 million and basic EPS of US$3.21, with trailing net profit margins falling from 17.3% to 14.8%. While the company has a strong five-year EPS growth of 15.9%, recent results show slower growth forecasts (5.7% annual earnings growth, 3.1% revenue growth) compared to the broader US market. The article highlights mixed valuation signals, with the stock trading above its DCF fair value despite the margin compression and slower projected growth.",
+        "banner_image": "https://images.simplywall.st/company/5ea29b5d-9865-48b9-97a9-7d0ecec121fe/chart/earnings-and-revenue-history",
+        "source": "Simply Wall Street",
+        "category_within_source": "General",
+        "source_domain": "Simply Wall Street",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.935995"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.731183"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.642195"
+          }
+        ],
+        "overall_sentiment_score": -0.058709,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "CSL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.294752",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "MAS",
+            "relevance_score": "0.557679",
+            "ticker_sentiment_score": "-0.242481",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "BLDR",
+            "relevance_score": "0.567611",
+            "ticker_sentiment_score": "-0.229001",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.639880",
+            "ticker_sentiment_score": "0.301211",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.610766",
+            "ticker_sentiment_score": "0.319429",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "KeyBanc downgrades TransDigm stock rating to Sector Weight on aftermarket growth concerns",
+        "url": "https://www.investing.com/news/analyst-ratings/keybanc-downgrades-transdigm-stock-rating-to-sector-weight-on-aftermarket-growth-concerns-93CH-4486549",
+        "time_published": "20260205T065657",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "KeyBanc Capital Markets downgraded TransDigm Group (NYSE: TDG) from Overweight to Sector Weight, citing concerns about slowing aftermarket growth and margin pressure from acquisitions. The stock has already seen an 11% drop, trading 7% above its 52-week low. This downgrade follows TransDigm's fiscal first-quarter 2026 earnings report; however, the company still surpassed EPS and revenue expectations for the quarter, and other analysts have varying outlooks, including both raised and lowered price targets.",
+        "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.938588"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.837763"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.615245"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.627239"
+          }
+        ],
+        "overall_sentiment_score": -0.211634,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "TDG",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.426095",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.619561",
+            "ticker_sentiment_score": "-0.322808",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.586009",
+            "ticker_sentiment_score": "-0.306803",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.589514",
+            "ticker_sentiment_score": "0.281432",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.572171",
+            "ticker_sentiment_score": "-0.226356",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Stifel downgrades Microsoft stock to Hold on Azure concerns",
+        "url": "https://www.investing.com/news/analyst-ratings/stifel-downgrades-microsoft-stock-to-hold-on-azure-concerns-93CH-4486518",
+        "time_published": "20260205T061840",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Stifel downgraded Microsoft stock from Buy to Hold and significantly cut its price target due to concerns over Azure's supply constraints and increased AI competition. The firm believes Wall Street's 2027 revenue and earnings expectations are too optimistic, citing strong performance from Google Cloud Platform and Anthropic. Stifel also raised its capital expenditure estimate for Microsoft and lowered its gross margin forecast, indicating a new spending phase for AI development.",
+        "banner_image": "https://i-invdn-com.investing.com/news/Microsoft_2_800x533_L_1412175603.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.949265"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.820966"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.716641"
+          }
+        ],
+        "overall_sentiment_score": 0.060176,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "MSFT",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.434210",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.715880",
+            "ticker_sentiment_score": "0.285716",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.621841",
+            "ticker_sentiment_score": "0.129082",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.600432",
+            "ticker_sentiment_score": "0.109798",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Alphabet CEO Sundar Pichai Says AI Capacity Is What 'Keeps Us Up At Night' As Power, Land And Supply Chain Limits Test Growth",
+        "url": "https://www.benzinga.com/markets/tech/26/02/50401232/alphabet-ceo-sundar-pichai-says-ai-capacity-is-what-keeps-us-up-at-night-as-power-land-and-supply-chain-limits-test-growth",
+        "time_published": "20260205T055839",
+        "authors": [
+          "Ananya Gairola"
+        ],
+        "summary": "Alphabet CEO Sundar Pichai highlights AI capacity as the company's most significant near-term challenge, citing constraints in power, land, and supply chains. Despite years of \"AI-first\" strategy and investments in custom chips, meeting the surging demand for AI is becoming difficult. Alphabet reported strong Q4 revenues of $113.83 billion, exceeding estimates, and plans to allocate $175-185 billion in 2026 capital expenditures primarily towards expanding AI computing capacity.",
+        "banner_image": "https://cdn.benzinga.com/files/images/story/2026/02/05/Nyc--Ny-usa--July-16-2020--Googles-Ny-Of.jpeg?quality=85&auto=webp&width=850",
+        "source": "Benzinga",
+        "category_within_source": "General",
+        "source_domain": "Benzinga",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.901192"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.918104"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.605935"
+          }
+        ],
+        "overall_sentiment_score": 0.15096,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.118902",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.992741",
+            "ticker_sentiment_score": "0.100302",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.645065",
+            "ticker_sentiment_score": "0.246219",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMAT",
+            "relevance_score": "0.584484",
+            "ticker_sentiment_score": "0.204413",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "The Top 5 Analyst Questions From ResMed’s Q4 Earnings Call",
+        "url": "https://www.tradingview.com/news/stockstory:ce145114e094b:0-the-top-5-analyst-questions-from-resmed-s-q4-earnings-call/",
+        "time_published": "20260205T053023",
+        "authors": [],
+        "summary": "ResMed (RMD) reported a strong Q4 CY2025, outperforming analyst estimates in revenue, EPS, and EBITDA, driven by high demand for masks and devices and growth in digital health software. The company's CEO, Michael Farrell, attributed success to product launches, operational efficiencies, and increased patient engagement, including those using GLP-1 medications. Key analyst questions focused on the impact of VirtuOx, GLP-1 medications, SG&A expenses, patient funnel improvements, and the competitive landscape with a potential Philips reentry.",
+        "banner_image": "https://s3.tradingview.com/news/image/stockstory:ce145114e094b-f0a7c7170a2138eadddc0bd971521e8f-resized.webp",
+        "source": "TradingView",
+        "category_within_source": "General",
+        "source_domain": "TradingView",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.935721"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.739567"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.604688"
+          }
+        ],
+        "overall_sentiment_score": 0.383377,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "RMD",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.476264",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.630631",
+            "ticker_sentiment_score": "0.337138",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Taiwan's TSMC tells Japan PM of plan to produce advanced chips in Kumamoto",
+        "url": "https://english.kyodonews.net/articles/-/69897",
+        "time_published": "20260205T045941",
+        "authors": [
+          "KYODO NEWS"
+        ],
+        "summary": "Taiwan Semiconductor Manufacturing Co. (TSMC) has informed Japanese Prime Minister Sanae Takaichi of its plan to mass-produce 3-nanometer semiconductors in Kumamoto Prefecture, Japan. This is an upgrade from their initial plan of 6-nanometer technology and marks Japan's first production of such advanced chips. The move is welcomed by the Japanese government, which views domestic chip output as crucial for economic security and has offered significant subsidies for the project.",
+        "banner_image": "https://english.kyodonews.net/mwimgs/7/2/-/img_727acdf405521b5840c6a46ca2e266d649734.png",
+        "source": "Japan Wire by KYODO NEWS",
+        "category_within_source": "General",
+        "source_domain": "Japan Wire by KYODO NEWS",
+        "topics": [
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.919975"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.847365"
+          },
+          {
+            "topic": "economy_fiscal",
+            "relevance_score": "0.705155"
+          }
+        ],
+        "overall_sentiment_score": 0.432851,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "TSM",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.618284",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.708997",
+            "ticker_sentiment_score": "0.440357",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "QCOM",
+            "relevance_score": "0.740978",
+            "ticker_sentiment_score": "0.437690",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.743853",
+            "ticker_sentiment_score": "0.416051",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.625457",
+            "ticker_sentiment_score": "0.326060",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Intel CEO says the company is committed to GPUs as it hires a new Chief GPU Architect",
+        "url": "https://www.tweaktown.com/news/110032/intel-ceo-says-the-company-is-committed-to-gpus-as-it-hires-a-new-chief-gpu-architect/index.html",
+        "time_published": "20260205T042956",
+        "authors": [
+          "Kosta Andreadis"
+        ],
+        "summary": "Intel's CEO Lip-Bu Tan has reaffirmed the company's commitment to the GPU market, despite rumors of the Arc B770 gaming card being shelved. The company has hired former Qualcomm executive Eric Demmers as its new Chief GPU Architect, signaling a continued focus on GPUs, particularly for AI and data centers. While the primary focus may shift towards professional and AI applications, Intel intends to keep developing gaming GPUs, with ongoing memory supply issues potentially influencing recent product decisions.",
+        "banner_image": "https://static.tweaktown.com/news/1/1/110032_1_intel-ceo-says-the-company-is-committed-to-making-gpus-as-it-hires-new-chief-gpu-architect.jpg",
+        "source": "TweakTown",
+        "category_within_source": "General",
+        "source_domain": "TweakTown",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "0.900651"
+          }
+        ],
+        "overall_sentiment_score": 0.133186,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "INTC",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.313620",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "QCOM",
+            "relevance_score": "0.644099",
+            "ticker_sentiment_score": "0.135043",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.707155",
+            "ticker_sentiment_score": "0.119403",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.647164",
+            "ticker_sentiment_score": "-0.129283",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "MACOM Faces China AI Export Reviews As Valuation Looks Stretched",
+        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-mtsi/macom-technology-solutions-holdings/news/macom-faces-china-ai-export-reviews-as-valuation-looks-stret",
+        "time_published": "20260205T042843",
+        "authors": [
+          "Simply Wall St",
+          "Bailey Pemberton"
+        ],
+        "summary": "MACOM Technology Solutions is facing significant uncertainty due to US government reviews of export licenses for high-end AI chip shipments to China, which are currently affecting Chinese customer orders. This situation introduces geopolitical risk and could impact MACOM's sales channels and customer planning cycles, especially given its stock currently trades above analyst targets and its estimated fair value. Investors are advised to monitor disclosures regarding China revenue exposure and management comments on export approvals.",
+        "banner_image": "https://images.ctfassets.net/n07nr2koi959/6YVpCWgrk0c9DenG6UgW8m/d79e37d527c71a95e08b9ce1071ba986/Image_from_iOS.jpg?fit=thumb&w=64&h=64",
+        "source": "Simply Wall Street",
+        "category_within_source": "General",
+        "source_domain": "Simply Wall Street",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "0.908613"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.840492"
+          },
+          {
+            "topic": "economy_fiscal",
+            "relevance_score": "0.727320"
+          }
+        ],
+        "overall_sentiment_score": -0.129434,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "MTSI",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.410193",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.610299",
+            "ticker_sentiment_score": "0.044375",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AVGO",
+            "relevance_score": "0.599890",
+            "ticker_sentiment_score": "0.040375",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "American Superconductor (NASDAQ:AMSC) Delivers Impressive Q4 CY2025, Stock Jumps 19.7%",
+        "url": "https://finviz.com/news/300391/american-superconductor-nasdaq-amsc-delivers-impressive-q4-cy2025-stock-jumps-197",
+        "time_published": "20260205T033128",
+        "authors": [
+          "Radek Strnad"
+        ],
+        "summary": "American Superconductor (NASDAQ:AMSC) reported strong Q4 CY2025 results, with revenue topping analyst estimates by 8% and non-GAAP EPS significantly exceeding expectations. Despite slightly lower-than-anticipated Q1 CY2026 guidance for both revenue and EPS, the company's stock jumped 19.7% immediately after the report. AMSC has shown impressive long-term revenue growth and improving operating margins, signaling an inflection point towards profitability.",
+        "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/american-superconductor-cover-image-b2eea9389c46_2024-08-02-165358_hfnq.jpeg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.943508"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.820048"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.606603"
+          }
+        ],
+        "overall_sentiment_score": 0.31097,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AMSC",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.485383",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.641219",
+            "ticker_sentiment_score": "0.114297",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Alibaba Group Holding Limited (BABA): A Bull Case Theory",
+        "url": "https://finviz.com/news/300643/alibaba-group-holding-limited-baba-a-bull-case-theory",
+        "time_published": "20260205T032942",
+        "authors": [
+          "Ricardo Pillai"
+        ],
+        "summary": "This article summarizes a bullish thesis on Alibaba Group Holding Limited (BABA), highlighting its stronger-than-expected Q2 earnings with revenue reaching 247.8 billion yuan and a 34% year-over-year growth in cloud revenue driven by AI-related investments. The reacceleration of its cloud division is seen as a key growth driver and a stabilizing force for the company amidst a challenging environment for Chinese tech. This performance reinforces the belief that Alibaba's cloud segment could lead to an investor re-rating.",
+        "banner_image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2020/11/13130706/ecommerce-3530785_1280-750x476.jpg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.920146"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.846316"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.615683"
+          }
+        ],
+        "overall_sentiment_score": 0.323678,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "BABA",
+            "relevance_score": "0.998693",
+            "ticker_sentiment_score": "0.471025",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.647161",
+            "ticker_sentiment_score": "0.319441",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.588947",
+            "ticker_sentiment_score": "0.207527",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Corsair Vengeance RAM: The DDR5 Upgrade PC Gamers Can’t Stop Talking About",
+        "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/corsair-vengeance-ram-the-ddr5-upgrade-pc-gamers-can-t-stop-talking/68552889",
+        "time_published": "20260205T032810",
+        "authors": [],
+        "summary": "The article highlights Corsair Vengeance DDR5 RAM as a highly recommended upgrade for PC gamers and creators in 2026. It emphasizes the RAM's ability to provide effortless performance, faster load times, smoother frames, and stability without complex tuning, thanks to its high speeds, low-profile design, and easy XMP/EXPO setup. While acknowledging alternatives, the article concludes that Vengeance DDR5 offers an optimal balance of performance, reliability, and ease of use for most users.",
+        "banner_image": null,
+        "source": "AD HOC NEWS",
+        "category_within_source": "General",
+        "source_domain": "AD HOC NEWS",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "0.918637"
+          }
+        ],
+        "overall_sentiment_score": 0.238806,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "CRSR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.470991",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.729772",
+            "ticker_sentiment_score": "0.230575",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "INTC",
+            "relevance_score": "0.644969",
+            "ticker_sentiment_score": "0.101050",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.587335",
+            "ticker_sentiment_score": "0.132713",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.572183",
+            "ticker_sentiment_score": "0.130529",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "NVIDIA Corporation (NVDA): A Bull Case Theory",
+        "url": "https://sg.finance.yahoo.com/news/nvidia-corporation-nvda-bull-case-031246751.html",
+        "time_published": "20260205T031518",
+        "authors": [
+          "Ricardo Pillai"
+        ],
+        "summary": "This article summarizes a bullish thesis on NVIDIA Corporation (NVDA), highlighting its sustained growth due to AI scaling laws and its significant projected revenue from new platforms. Despite substantial capital expenditures, NVIDIA's free cash flow per share continues to rise, positioning it as a strong long-term investment. The company's leadership in AI and its parallel to historical infrastructure growth reinforce its potential for durable value creation.",
+        "banner_image": "https://s.yimg.com/ny/api/res/1.2/uWiu4nfjE8nYW_eDJZ_A5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/insidermonkey.com/db28cb45a3bc4c1e8fbd43617dde2226",
+        "source": "Yahoo Finance Singapore",
+        "category_within_source": "General",
+        "source_domain": "Yahoo Finance Singapore",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.913010"
+          }
+        ],
+        "overall_sentiment_score": 0.448351,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "NVDA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.871158",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.638572",
+            "ticker_sentiment_score": "0.348371",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "PLTR",
+            "relevance_score": "0.630370",
+            "ticker_sentiment_score": "0.345235",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "META",
+            "relevance_score": "0.568941",
+            "ticker_sentiment_score": "0.306441",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Alibaba, Kuaishou, SMIC drop in Hong Kong tech sell-off on AI fears",
+        "url": "https://www.scmp.com/business/china-business/article/3342440/alibaba-kuaishou-smic-drop-hong-kong-tech-stock-sell-ai-fears-grip",
+        "time_published": "20260205T022942",
+        "authors": [
+          "Yulu Ao"
+        ],
+        "summary": "Hong Kong stocks closed slightly higher on Thursday, despite a sell-off in technology shares driven by valuation and AI concerns, as robust buying from mainland investors via Stock Connect provided late-session support. The Hang Seng Index reversed earlier losses to end up 0.1%, while the Hang Seng Tech Index gained 0.7%. Baidu rose after announcing a share buy-back and dividend policy, while other tech giants like Alibaba, Kuaishou, and SMIC saw declines.",
+        "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2026/02/05/635644d6-4bdf-446f-9c3b-69e53d773191_51b3ecd5.jpg?itok=Qkcbg6Lx&v=1770257593",
+        "source": "South China Morning Post",
+        "category_within_source": "General",
+        "source_domain": "South China Morning Post",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.903720"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.849224"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.721553"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.611532"
+          }
+        ],
+        "overall_sentiment_score": -0.210291,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "BABA",
+            "relevance_score": "0.338050",
+            "ticker_sentiment_score": "0.040110",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.616364",
+            "ticker_sentiment_score": "-0.330070",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.629104",
+            "ticker_sentiment_score": "-0.323021",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "News | Brandywine to kick off $300 million sales strategy alongside improving office market",
+        "url": "https://www.costar.com/article/385218428/brandywine-to-kick-off-300-million-sales-strategy-alongside-improving-office-market",
+        "time_published": "20260205T020013",
+        "authors": [
+          "Katie Burke"
+        ],
+        "summary": "Brandywine Realty Trust plans to sell off up to $300 million of its portfolio this year, focusing on its best-performing properties as the office market improves. The Philadelphia-based REIT anticipates an occupancy boost due to increasing demand for top-tier office spaces and improving lease economics. CEO Jerry Sweeney noted increased tour levels and conversion rates in core markets, projecting positive net absorption for the first time in years.",
+        "banner_image": "https://www.costar.com/_next/image?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fdims4%2Fdefault%2F39ac572%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F2100x1400%2B0%2B0%2Fresize%2F2100x1400!%2Fquality%2F100%2F%3Furl%3Dhttp%253A%252F%252Fcostar-brightspot.s3.us-east-1.amazonaws.com%252Fd4%252Fa7%252F79599bd0406f8a5d83e1aa29f637%252Faerial-83.jpg&w=3840&q=75",
+        "source": "CoStar",
+        "category_within_source": "General",
+        "source_domain": "CoStar",
+        "topics": [
+          {
+            "topic": "real_estate",
+            "relevance_score": "0.937138"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.827403"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.619980"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.632028"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.606488"
+          }
+        ],
+        "overall_sentiment_score": 0.184357,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "BDN",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.307229",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.638313",
+            "ticker_sentiment_score": "0.131794",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "CSGP",
+            "relevance_score": "0.619735",
+            "ticker_sentiment_score": "0.125700",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Insider Selling: Cadence Design Systems (NASDAQ:CDNS) VP Sells 1,000 Shares of Stock",
+        "url": "https://www.marketbeat.com/instant-alerts/insider-selling-cadence-design-systems-nasdaqcdns-vp-sells-1000-shares-of-stock-2026-02-04/",
+        "time_published": "20260205T010240",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Cadence Design Systems (NASDAQ:CDNS) VP Paul Cunningham sold 1,000 shares of the company's stock on February 2nd at an average price of $295.09, totaling $295,090. This sale decreased his stake by 1.04% to 95,137 shares. Cunningham has a pattern of similar incremental sales in recent months.",
+        "banner_image": "https://www.marketbeat.com/logos/cadence-design-syste-logo-1200x675.jpg",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.934553"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.818719"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.715074"
+          }
+        ],
+        "overall_sentiment_score": 0.03163,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "CDNS",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.274720",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "TSN",
+            "relevance_score": "0.592227",
+            "ticker_sentiment_score": "-0.125360",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NOW",
+            "relevance_score": "0.556570",
+            "ticker_sentiment_score": "0.234876",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.550531",
+            "ticker_sentiment_score": "0.121152",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "ORCL",
+            "relevance_score": "0.568754",
+            "ticker_sentiment_score": "0.112877",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Franklin Resources Inc. Expands Stake in Benitec Biopharma Inc.",
+        "url": "https://www.gurufocus.com/news/8583375/franklin-resources-inc-expands-stake-in-benitec-biopharma-inc",
+        "time_published": "20260205T010011",
+        "authors": [
+          "GuruFocus News"
+        ],
+        "summary": "Franklin Resources Inc. has increased its investment in Benitec Biopharma Inc. by acquiring an additional 1,162,076 shares at $13.47 per share, raising its total holdings to 3,751,709 shares. This strategic move highlights Franklin Resources Inc.'s interest in the biotechnology sector, despite Benitec Biopharma Inc.'s current overvaluation and financial challenges. Benitec Biopharma, a clinical-stage company developing genetic medicines, faces poor profitability and growth ranks, yet Franklin Resources Inc. sees potential for long-term growth.",
+        "banner_image": "https://s3.amazonaws.com/gurufocus_userupload/2019209694681407488.png",
+        "source": "GuruFocus",
+        "category_within_source": "General",
+        "source_domain": "GuruFocus",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.913345"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.837098"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.703386"
+          }
+        ],
+        "overall_sentiment_score": 0.115776,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "BNTC",
+            "relevance_score": "0.953916",
+            "ticker_sentiment_score": "-0.283307",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "BEN",
+            "relevance_score": "0.853985",
+            "ticker_sentiment_score": "0.147352",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AVGO",
+            "relevance_score": "0.665164",
+            "ticker_sentiment_score": "0.241862",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.576693",
+            "ticker_sentiment_score": "0.246517",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.582543",
+            "ticker_sentiment_score": "0.154994",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Eagle Point sells acres commercial realty (ACR) stock worth $118,216",
+        "url": "https://www.investing.com/news/insider-trading-news/eagle-point-sells-acres-commercial-realty-acr-stock-worth-118216-93CH-4486349",
+        "time_published": "20260205T001128",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Eagle Point Credit Management LLC, a significant owner in ACRES Commercial Realty Corp (NASDAQ:ACR), has sold preferred stock totaling $118,216 across different transactions between February 2nd and February 4th, 2026. The sales involved both Series D and Series C preferred stocks at varying prices. Despite these sales, Eagle Point still retains substantial holdings in both preferred and common stock of ACRES Commercial Realty Corp.",
+        "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.923743"
+          },
+          {
+            "topic": "real_estate",
+            "relevance_score": "0.800484"
+          }
+        ],
+        "overall_sentiment_score": -0.225949,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "ACR-P-D",
+            "relevance_score": "0.302699",
+            "ticker_sentiment_score": "0.005395",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.528075",
+            "ticker_sentiment_score": "-0.324073",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.521421",
+            "ticker_sentiment_score": "-0.332185",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.527331",
+            "ticker_sentiment_score": "-0.309562",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.557990",
+            "ticker_sentiment_score": "-0.118229",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Sitime Corp earnings beat by $0.32, revenue topped estimates",
+        "url": "https://www.investing.com/news/earnings/sitime-corp-earnings-beat-by-032-revenue-topped-estimates-4486121",
+        "time_published": "20260204T223012",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Sitime Corp (NASDAQ: SITM) reported strong financial results for its fourth quarter, surpassing analyst expectations. The company announced an EPS of $1.53, exceeding estimates by $0.32, and generated revenue of $113.3 million, which topped the consensus estimate. Sitime's stock has shown significant growth, increasing by 6.43% in the last three months and 56.04% over the past year.",
+        "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.947524"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.716677"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.610826"
+          }
+        ],
+        "overall_sentiment_score": 0.074137,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "SITM",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.742535",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.589519",
+            "ticker_sentiment_score": "-0.390392",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.540938",
+            "ticker_sentiment_score": "-0.438905",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.555098",
+            "ticker_sentiment_score": "0.249794",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Assessing Summit Therapeutics (SMMT) Valuation After FDA Acceptance Of Ivonescimab BLA",
+        "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-smmt/summit-therapeutics/news/assessing-summit-therapeutics-smmt-valuation-after-fda-accep",
+        "time_published": "20260204T222949",
+        "authors": [
+          "Simply Wall St"
+        ],
+        "summary": "Summit Therapeutics (SMMT) recently had its Biologics License Application for ivonescimab accepted by the FDA, with a PDUFA action date set for November 14, 2026. Despite a high Price-to-Book ratio of 58.5x, suggesting overvaluation compared to industry peers, Simply Wall St's Discounted Cash Flow model indicates a significant undervaluation at $14.59 per share against an estimated future cash flow value of $213.88. Investors face a mixed signal from the market, with recent share price declines contrasting with long-term returns and a projected large discount based on future cash flow.",
+        "banner_image": null,
+        "source": "Simply Wall Street",
+        "category_within_source": "General",
+        "source_domain": "Simply Wall Street",
+        "topics": [
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.946026"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.849743"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.702022"
+          }
+        ],
+        "overall_sentiment_score": -0.066858,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "SMMT",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.108733",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.584871",
+            "ticker_sentiment_score": "-0.061776",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.590534",
+            "ticker_sentiment_score": "-0.087626",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.558001",
+            "ticker_sentiment_score": "-0.072419",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "PYPL",
+            "relevance_score": "0.556478",
+            "ticker_sentiment_score": "-0.096342",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Did AI Edge Optimism and Meyka’s Score Just Shift Synaptics' (SYNA) Investment Narrative?",
+        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-syna/synaptics/news/did-ai-edge-optimism-and-meykas-score-just-shift-synaptics-s",
+        "time_published": "20260204T222927",
+        "authors": [
+          "Simply Wall St"
+        ],
+        "summary": "Investors are closely watching Synaptics (SYNA) as its earnings release approaches, with increasing attention on its role in AI edge processing and connectivity. Despite concerns over profitability, a strong Meyka AI score and growing optimism about its product roadmap suggest a shift in its investment narrative. The upcoming earnings report on February 5, 2026, will be a key catalyst for validating its AI positioning and progress against revenue and GAAP loss expectations.",
+        "banner_image": null,
+        "source": "Simply Wall Street",
+        "category_within_source": "General",
+        "source_domain": "Simply Wall Street",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.800050"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.917414"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.718952"
+          }
+        ],
+        "overall_sentiment_score": 0.188296,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "SYNA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.284948",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.635062",
+            "ticker_sentiment_score": "0.329651",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AVGO",
+            "relevance_score": "0.579190",
+            "ticker_sentiment_score": "0.107408",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.579242",
+            "ticker_sentiment_score": "-0.072805",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Earnings call transcript: Alphabet Q4 2025 highlights strong earnings beat",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-alphabet-q4-2025-highlights-strong-earnings-beat-93CH-4486264",
+        "time_published": "20260204T222728",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Alphabet Inc. (GOOG) delivered strong financial results for Q4 2025, beating analyst expectations with an EPS of $2.82 and revenue of $113.8 billion. The company saw an 18% increase in revenue year-over-year, surpassed $400 billion in annual revenue for the first time, and plans significant AI investments with anticipated 2026 CapEx between $175 billion-$185 billion. Key growth drivers included advancements in AI, increased demand for enterprise AI solutions, strong performance in Search, YouTube subscriptions, and Google Cloud, with the stock rising 0.97% in after-hours trading.",
+        "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.915247"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.828339"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.743507"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.611943"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.606525"
+          }
+        ],
+        "overall_sentiment_score": 0.345298,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOG",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.509254",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.793058",
+            "ticker_sentiment_score": "0.462856",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.654820",
+            "ticker_sentiment_score": "0.322370",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.611625",
+            "ticker_sentiment_score": "0.247288",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMGN",
+            "relevance_score": "0.540847",
+            "ticker_sentiment_score": "0.201936",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Palantir and Woodward Jumped on Earnings Beats—Here Are 3 More Setups to Watch",
+        "url": "https://www.marketbeat.com/stock-ideas/palantir-and-woodward-jumped-on-earnings-beat-shere-are-3-more-setups-to-watch/",
+        "time_published": "20260204T221835",
+        "authors": [
+          "Bridget Bennett",
+          "Jessica Mitacek"
+        ],
+        "summary": "Palantir Technologies (PLTR) and Woodward (WWD) recently saw significant stock rallies after beating earnings expectations and providing strong forward guidance, illustrating a market trend that rewards companies with raised outlooks. Investment expert Louis Navellier identified this pattern, emphasizing that guidance is a crucial catalyst. He highlights Vertiv (VRT), EMCOR Group (EME), and NVIDIA (NVDA) as three companies that exhibit similar strong setups going into their upcoming earnings reports, where positive guidance is expected to drive similar stock performance.",
+        "banner_image": "https://www.marketbeat.com/logos/articles/med_20260204160828_palantir-and-woodward-jumped-on-earnings-beatshere.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.931080"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.832045"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.612932"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.803447"
+          }
+        ],
+        "overall_sentiment_score": 0.411321,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "WWD",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.431656",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "PLTR",
+            "relevance_score": "0.913604",
+            "ticker_sentiment_score": "0.306449",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.832031",
+            "ticker_sentiment_score": "0.422842",
+            "ticker_sentiment_label": "Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Allegion raises quarterly dividend by 8% to $0.55 per share",
+        "url": "https://www.investing.com/news/company-news/allegion-raises-quarterly-dividend-by-8-to-055-per-share-93CH-4486161",
+        "time_published": "20260204T221309",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Allegion plc announced an 8% increase in its quarterly dividend to $0.55 per ordinary share, marking its 12th consecutive annual dividend hike. The dividend is payable on March 31, 2026, to shareholders of record on March 13, 2026. This financial update follows an earlier dividend announcement of $0.51 for late 2025 and coincides with product line advancements, including enhancements to the LCN Senior Swing automatic door operator series with new AdaptivIQ technology.",
+        "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.904844"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.733086"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.635644"
+          }
+        ],
+        "overall_sentiment_score": -0.021976,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "ALLE",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.729128",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.561523",
+            "ticker_sentiment_score": "-0.408116",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.603827",
+            "ticker_sentiment_score": "0.320280",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.608633",
+            "ticker_sentiment_score": "-0.388711",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.587216",
+            "ticker_sentiment_score": "-0.273076",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Exclusive: Nvidia's AI chip sale to ByteDance hinges on conditions set by Trump administration",
+        "url": "https://www.reuters.com/world/china/nvidias-ai-chip-sale-bytedance-hinges-conditions-set-by-trump-administration-2026-02-04/",
+        "time_published": "20260204T221100",
+        "authors": [
+          "Karen Freifeld"
+        ],
+        "summary": "Nvidia's potential sale of H200 AI chips to ByteDance is facing hurdles due to conditions set by the Trump administration, primarily a \"Know-Your-Customer\" (KYC) requirement aimed at preventing China's military from accessing the chips. While the U.S. has approved the license, Nvidia has not agreed to the proposed KYC terms, arguing they need to be commercially practical. This situation highlights the ongoing U.S.-China tech conflict, with China hawks expressing concern over national security implications.",
+        "banner_image": "https://www.reuters.com/resizer/v2/VDLLDPVQJ5OL7DQGAK773VBBGM.jpg?auth=3ea24f54b3b30ba824e4946fa78f7308e65319843cd163102576e04e1b5e945b&width=1080&quality=80",
+        "source": "Reuters",
+        "category_within_source": "General",
+        "source_domain": "Reuters",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "economy_fiscal",
+            "relevance_score": "0.900998"
+          }
+        ],
+        "overall_sentiment_score": -0.174871,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "NVDA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.218177",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.634088",
+            "ticker_sentiment_score": "-0.149309",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "INTC",
+            "relevance_score": "0.636065",
+            "ticker_sentiment_score": "-0.149420",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Crown Holdings beats Q4 estimates, shares down slightly",
+        "url": "https://www.investing.com/news/earnings/crown-holdings-beats-q4-estimates-shares-down-slightly-93CH-4486102",
+        "time_published": "20260204T214455",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Crown Holdings, Inc. (NYSE: CCK) surpassed analyst expectations for its fourth-quarter adjusted earnings and revenue in 2025, although its shares experienced a slight dip of 1.9%. The packaging manufacturer reported adjusted EPS of $1.74 and revenue of $3.13 billion, attributing its strong performance to global demand for sustainable packaging and capacity expansions. The company also provided optimistic guidance for fiscal year 2026, forecasting adjusted EPS between $7.90 and $8.30.",
+        "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.917465"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.724131"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.608594"
+          }
+        ],
+        "overall_sentiment_score": 0.036647,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "CCK",
+            "relevance_score": "0.982182",
+            "ticker_sentiment_score": "0.337798",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.634883",
+            "ticker_sentiment_score": "-0.321564",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.589554",
+            "ticker_sentiment_score": "-0.237642",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.570395",
+            "ticker_sentiment_score": "0.288938",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Sam Altman Pushes Back On Report Claiming OpenAI Unhappy With Jensen Huang-Led Company's AI Chips Alternatives: 'Love' Working With Nvidia",
+        "url": "https://finance.yahoo.com/news/sam-altman-pushes-back-report-213000823.html",
+        "time_published": "20260204T213000",
+        "authors": [
+          "Ananya Gairola"
+        ],
+        "summary": "OpenAI CEO Sam Altman strongly denied reports suggesting the company was unhappy with Nvidia's AI chips and seeking alternatives, reaffirming their close partnership. Altman stated OpenAI \"loves working with Nvidia\" and considers them the \"best AI chips in the world,\" expecting to remain a \"gigantic customer.\" While acknowledging OpenAI's expanding partnerships with other chipmakers to meet growing compute needs, a senior OpenAI executive confirmed Nvidia remains their most important partner and the core of their compute infrastructure.",
+        "banner_image": null,
+        "source": "Yahoo Finance",
+        "category_within_source": "General",
+        "source_domain": "Yahoo Finance",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "0.925543"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.707194"
+          }
+        ],
+        "overall_sentiment_score": 0.185552,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "NVDA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.492087",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.714089",
+            "ticker_sentiment_score": "0.104023",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AVGO",
+            "relevance_score": "0.638748",
+            "ticker_sentiment_score": "0.114986",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.573759",
+            "ticker_sentiment_score": "0.074798",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.587290",
+            "ticker_sentiment_score": "0.074744",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "TELUS opens Canada's first fully sovereign AI Factory to startups and small businesses through L-SPARK collaboration",
+        "url": "https://ca.finance.yahoo.com/news/telus-opens-canadas-first-fully-210400571.html",
+        "time_published": "20260204T212950",
+        "authors": [],
+        "summary": "TELUS has partnered with L-SPARK to launch Canada's first fully sovereign AI Factory, providing startups and small businesses with access to a high-performance supercomputer. This initiative aims to democratize access to advanced AI compute resources, enabling Canadian companies to develop AI solutions domestically and compete globally while maintaining data residency and intellectual property within Canada. The collaboration supports innovation in critical sectors like public services, healthcare, and finance.",
+        "banner_image": "https://s.yimg.com/ny/api/res/1.2/5Ec2ftYP5lpihwD61b4F_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTIyOQ--/https://media.zenfs.com/en/cnw.ca/5a327af2666435a166edb8fcf67b5750",
+        "source": "Yahoo! Finance Canada",
+        "category_within_source": "General",
+        "source_domain": "Yahoo! Finance Canada",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "0.929148"
+          }
+        ],
+        "overall_sentiment_score": 0.371374,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "TU",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.446955",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.609872",
+            "ticker_sentiment_score": "0.323869",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      }
+    ]
+  },
+  "request": {
+    "function": "NEWS_SENTIMENT",
+    "apikey": "1W86SMG399FCFAIM",
+    "tickers": "NVDA"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&apikey=1W86SMG399FCFAIM&tickers=NVDA"
+  }
+}

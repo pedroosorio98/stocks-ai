@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e680eec7886f55334e4cbcd2b950a4fdc67b07348c5c60e38e5582495a79dea6
-size 292
+{
+  "label": "View all Apple events",
+  "original_url": "https://podcasts.apple.com/us/channel/apple-events/id6442627105?hasPaidContent=false",
+  "final_url": "https://podcasts.apple.com/us/channel/apple-events/id6442627105",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

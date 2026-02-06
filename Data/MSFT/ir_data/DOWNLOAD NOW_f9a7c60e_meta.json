@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4cd28b789fec4195b62c9aaa818743b1ea013b439964da704d483fb6d8e39c5a
-size 256
+{
+  "label": "DOWNLOAD NOW",
+  "original_url": "https://www.microsoft.com/investor/reports/ar98/download.htm",
+  "final_url": "https://www.microsoft.com/investor/reports/ar98/download.htm",
+  "content_type": "text/html",
+  "blocked_detected": false
+}

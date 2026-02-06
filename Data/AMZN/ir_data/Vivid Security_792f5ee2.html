@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a57dc86424d30f2b394c688fa716d551175c07f4c1043a763103ea9c459bda65
-size 6267
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="preload" as="image" href="/background-glow.svg"/><link rel="preload" as="image" href="/vivid-logo.svg"/><title>Vivid Security</title><link rel="modulepreload" href="/assets/main-D7mJDy4M.js"/><link rel="modulepreload" href="/assets/index-DCe_smsk.js"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"/><link rel="icon" href="/favicon.svg"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600&amp;display=swap"/><link rel="stylesheet" href="/assets/styles-CIRdOawq.css"/></head><body class="m-0 p-0"><!--$--><div class="min-h-screen flex flex-col items-center justify-start pt-[10vh] px-6 relative overflow-hidden" style="background:linear-gradient(125deg, #faf8f7 0%, #f4f2f1 100%)"><img src="/background-glow.svg" alt="" class="absolute opacity-85 pointer-events-none" style="width:1600px;height:1600px;top:50%;left:50%;transform:translate(-50%, -50%)"/><div class="relative z-10 flex items-center gap-3 mb-16 md:mb-32"><img src="/vivid-logo.svg" alt="Vivid" class="w-10 h-10"/><span class="text-3xl font-semibold text-gray-800 tracking-wide">VIVID</span></div><div class="relative z-10 flex flex-col items-center w-full max-w-3xl px-4 md:px-20"><div class="relative mb-6 mt-12 sm:mb-12 animate-unblur"><div class="absolute inset-0 blur-2xl opacity-40" style="background:radial-gradient(ellipse at center, color-mix(in srgb, #ff8000ff 80%, transparent) 0%, transparent 70%)"></div><h1 class="relative text-3xl sm:text-4xl md:text-5xl tracking-wide text-center pb-2" style="background:linear-gradient(135deg, color-mix(in srgb, #ff8000ff, #000 20%) 0%, #ff8000ff 40%, color-mix(in srgb, #ff8000ff, #000 20%) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;text-shadow:0 4px 30px color-mix(in srgb, #ff8000ff 25%, transparent)">Coming Soon</h1></div><form class="flex flex-col sm:flex-row gap-3 sm:gap-0 animate-unblur-delay"><input type="email" placeholder="Your Email Address" class="flex-1 w-full sm:min-w-[500px] px-5 py-4 bg-white/80 border border-gray-200 rounded-lg sm:rounded-l-lg sm:rounded-r-none text-gray-800 placeholder:text-gray-400 focus:outline-none focus:border-gray-300 transition-colors text-base disabled:opacity-50" value=""/><button type="submit" disabled="" class="group relative px-8 py-4 text-white font-medium rounded-lg sm:rounded-r-lg sm:rounded-l-none transition-all duration-300 text-base whitespace-nowrap hover:scale-[1.02] active:scale-[0.98] disabled:opacity-70 disabled:hover:scale-100" style="background:linear-gradient(135deg, #f5945a 0%, #e8734a 50%, #d4623d 100%);box-shadow:0 4px 20px rgba(232, 115, 74, 0.4), inset 0 1px 0 rgba(255,255,255,0.2)"><div class="absolute -inset-1 rounded-lg sm:rounded-r-lg sm:rounded-l-none blur-xl opacity-40 -z-10" style="background:linear-gradient(135deg, #f5945a 0%, #e8734a 100%)"></div><div class="absolute -inset-2 rounded-lg sm:rounded-r-lg sm:rounded-l-none blur-2xl opacity-25 -z-20" style="background-color:#e8734a"></div>Get Notified</button></form></div></div><script></script><script>(function restoreScroll({
+  storageKey: storageKey2,
+  key,
+  behavior,
+  shouldScrollRestoration,
+  scrollToTopSelectors,
+  location
+}) {
+  let byKey;
+  try {
+    byKey = JSON.parse(sessionStorage.getItem(storageKey2) || "{}");
+  } catch (error) {
+    console.error(error);
+    return;
+  }
+  const resolvedKey = key || window.history.state?.__TSR_key;
+  const elementEntries = byKey[resolvedKey];
+  ignoreScroll = true;
+  scroll: {
+    if (shouldScrollRestoration && elementEntries && Object.keys(elementEntries).length > 0) {
+      for (const elementSelector in elementEntries) {
+        const entry = elementEntries[elementSelector];
+        if (elementSelector === "window") {
+          window.scrollTo({
+            top: entry.scrollY,
+            left: entry.scrollX,
+            behavior
+          });
+        } else if (elementSelector) {
+          const element = document.querySelector(elementSelector);
+          if (element) {
+            element.scrollLeft = entry.scrollX;
+            element.scrollTop = entry.scrollY;
+          }
+        }
+      }
+      break scroll;
+    }
+    const hash = (location ?? window.location).hash.split("#", 2)[1];
+    if (hash) {
+      const hashScrollIntoViewOptions = window.history.state?.__hashScrollIntoViewOptions ?? true;
+      if (hashScrollIntoViewOptions) {
+        const el = document.getElementById(hash);
+        if (el) {
+          el.scrollIntoView(hashScrollIntoViewOptions);
+        }
+      }
+      break scroll;
+    }
+    const scrollOptions = { top: 0, left: 0, behavior };
+    window.scrollTo(scrollOptions);
+    if (scrollToTopSelectors) {
+      for (const selector of scrollToTopSelectors) {
+        if (selector === "window") continue;
+        const element = typeof selector === "function" ? selector() : document.querySelector(selector);
+        if (element) element.scrollTo(scrollOptions);
+      }
+    }
+  }
+  ignoreScroll = false;
+})({"storageKey":"tsr-scroll-restoration-v1_3","shouldScrollRestoration":true});document.currentScript.remove()</script><!--/$--><script class="$tsr" id="$tsr-stream-barrier">(self.$R=self.$R||{})["tsr"]=[];self.$_TSR={h(){this.hydrated=!0,this.c()},e(){this.streamEnded=!0,this.c()},c(){this.hydrated&&this.streamEnded&&(delete self.$_TSR,delete self.$R.tsr)},p(e){this.initialized?e():this.buffer.push(e)},buffer:[]};
+;$_TSR.router=($R=>$R[0]={manifest:$R[1]={routes:$R[2]={__root__:$R[3]={preloads:$R[4]=["/assets/main-D7mJDy4M.js"],assets:$R[5]=[$R[6]={tag:"script",attrs:$R[7]={type:"module",async:!0},children:"import('/assets/main-D7mJDy4M.js')"}]},"/":$R[8]={preloads:$R[9]=["/assets/index-DCe_smsk.js"]}}},matches:$R[10]=[$R[11]={i:"__root__/",u:1769692258280,s:"success",ssr:!0},$R[12]={i:"//",u:1769692258282,s:"success",ssr:!0}],lastMatchId:"//"})($R["tsr"]);$_TSR.e();document.currentScript.remove()</script><script type="module" async="">import('/assets/main-D7mJDy4M.js')</script></body></html>

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:392eff712004826a1a3599cc38394f57324b35dc35b350a0038ab4895f202f31
-size 217
+01. symbol,02. open,03. high,04. low,05. price,06. volume,07. latest trading day,08. previous close,09. change,10. change percent
+AAPL,272.2850,278.9500,272.2850,276.4900,90545710,2026-02-04,269.4800,7.0100,2.6013%

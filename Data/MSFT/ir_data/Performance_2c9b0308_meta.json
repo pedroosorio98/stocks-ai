@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c5a18b24e685750ee2fcfe0d31922e32f5f8c3ef3a6d26c73c62604e30bf8f8
-size 294
+{
+  "label": "Performance",
+  "original_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/performance",
+  "final_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/performance",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

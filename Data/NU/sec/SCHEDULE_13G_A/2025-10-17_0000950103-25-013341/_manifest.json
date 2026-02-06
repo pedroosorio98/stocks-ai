@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ff4985958c0c630ed305072d86155681e56a6c2ca7232ac7f575fde3efa7cf7
-size 204
+{
+  "ticker": "NU",
+  "cik": 1691493,
+  "form": "SCHEDULE 13G/A",
+  "filing_date": "2025-10-17",
+  "accession": "0000950103-25-013341",
+  "primary_document": "xslSCHEDULE_13G_X01/primary_doc.xml"
+}

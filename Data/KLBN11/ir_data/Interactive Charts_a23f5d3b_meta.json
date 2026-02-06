@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cbf5b77ee2f9a8d1e7991498bd058c114da5265575a585c31b37921d1f328a2a
-size 295
+{
+  "label": "Interactive Charts",
+  "original_url": "https://ri.klabin.com.br/en/financial-information/interactive-charts/",
+  "final_url": "https://ri.klabin.com.br/en/financial-information/interactive-charts/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

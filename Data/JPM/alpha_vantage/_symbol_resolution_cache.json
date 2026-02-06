@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:051175a1b774ae9a28203729acb70f20a5feaabf518a6caf2ff7f1ae171cdcfd
-size 922
+{
+  "cache": {
+    "TIME_SERIES_INTRADAY::JPM": "JPM",
+    "TIME_SERIES_DAILY::JPM": "JPM",
+    "TIME_SERIES_DAILY_ADJUSTED::JPM": "JPM",
+    "TIME_SERIES_WEEKLY::JPM": "JPM",
+    "TIME_SERIES_WEEKLY_ADJUSTED::JPM": "JPM",
+    "TIME_SERIES_MONTHLY::JPM": "JPM",
+    "TIME_SERIES_MONTHLY_ADJUSTED::JPM": "JPM",
+    "GLOBAL_QUOTE::JPM": "JPM",
+    "OVERVIEW::JPM": "JPM",
+    "INCOME_STATEMENT::JPM": "JPM",
+    "BALANCE_SHEET::JPM": "JPM",
+    "CASH_FLOW::JPM": "JPM",
+    "EARNINGS::JPM": "JPM",
+    "EARNINGS_ESTIMATES::JPM": "JPM",
+    "SHARES_OUTSTANDING::JPM": "JPM",
+    "DIVIDENDS::JPM": "JPM",
+    "SPLITS::JPM": "JPM",
+    "INSIDER_TRANSACTIONS::JPM": "JPM",
+    "NEWS_SENTIMENT:tickers::JPM": "JPM",
+    "EARNINGS_CALL_TRANSCRIPT::JPM": "JPM",
+    "REALTIME_OPTIONS::JPM": "JPM",
+    "HISTORICAL_OPTIONS::JPM": "JPM"
+  },
+  "note": "Chosen symbol variant per endpoint for this ticker."
+}

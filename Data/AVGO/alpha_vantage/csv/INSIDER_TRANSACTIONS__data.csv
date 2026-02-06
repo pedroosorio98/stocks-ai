@@ -1,3 +1,1381 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:761d6dbb2e9d8f87042b675663371c1d796b6a45dfeef178f21deec6ad20f718
-size 148109
+transaction_date,ticker,executive,executive_title,security_type,acquisition_or_disposal,shares,share_price
+2026-01-06,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,5887.0,347.66
+2026-01-06,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,33078.0,347.453
+2026-01-06,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,9723.0,348.28
+2026-01-06,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,24113.0,346.992
+2026-01-06,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,27199.0,346.752
+2025-12-31,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,23.0,346.637
+2025-12-31,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,29977.0,347.821
+2025-12-26,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,25921.0,352.072
+2025-12-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5329.0,347.39
+2025-12-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,20288.0,348.38
+2025-12-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,24521.0,349.177
+2025-12-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4257.0,339.107
+2025-12-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,856.0,349.848
+2025-12-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4820.0,340.256
+2025-12-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,11005.0,341.169
+2025-12-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,10612.0,341.998
+2025-12-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2255.0,343.222
+2025-12-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6016.0,344.175
+2025-12-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5426.0,345.236
+2025-12-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4615.0,346.427
+2025-12-18,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,130000.0,326.02
+2025-12-18,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",A,1000.0,325.129
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,195.0,333.12
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,270.0,322.333
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,324.0,323.828
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,356.0,324.586
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,120.0,325.631
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,170.0,327.107
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,131.0,328.105
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,40.0,330.79
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,28.0,341.79
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,30.0,343.04
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,20.0,345.04
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,548.0,322.578
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,775.0,323.689
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,470.0,324.565
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,224.0,325.489
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,309.0,326.837
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,240.0,327.77
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,76.0,329.166
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,112.0,331.583
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,170.0,332.698
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,266.0,333.894
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,80.0,337.475
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,72.0,340.26
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,76.0,342.883
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,36.0,345.04
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,4.0,346.49
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,180.0,334.754
+2025-12-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,76.0,335.592
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,813.0,337.406
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,120.0,345.013
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,160.0,343.778
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,400.0,343.143
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,280.0,341.813
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,480.0,340.61
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,240.0,339.892
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,79.0,338.565
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,235.0,336.28
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,1074.0,335.35
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,2472.0,334.19
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,2442.0,333.382
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,1285.0,332.419
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,569.0,331.292
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,257.0,330.225
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,473.0,329.055
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,1620.0,328.096
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,3274.0,327.161
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,1646.0,326.124
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,3640.0,325.056
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,8354.0,324.112
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,5473.0,323.08
+2025-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,2895.0,322.288
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,142.0,334.251
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,40.0,335.63
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,32.0,337.09
+2025-12-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,30.0,340.1
+2025-12-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,538.0,339.65
+2025-12-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,80.0,347.14
+2025-12-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,192.0,340.411
+2025-12-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,244.0,339.465
+2025-12-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,124.0,338.476
+2025-12-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,90.0,337.083
+2025-12-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,700.0,337.208
+2025-12-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,2578.0,338.131
+2025-12-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,4331.0,339.102
+2025-12-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,4357.0,340.166
+2025-12-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,4272.0,341.061
+2025-12-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,3049.0,342.182
+2025-12-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,2596.0,343.215
+2025-12-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,1448.0,344.034
+2025-12-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,676.0,345.299
+2025-12-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,440.0,346.209
+2025-12-16,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,400.0,0.0
+2025-12-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,56.0,344.929
+2025-12-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,175.0,343.786
+2025-12-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,154.0,342.719
+2025-12-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,190.0,341.573
+2025-12-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,117.0,337.31
+2025-12-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,364.0,338.614
+2025-12-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,10.0,345.99
+2025-12-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,443.0,340.698
+2025-12-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,272.0,341.926
+2025-12-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,260.0,342.765
+2025-12-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,273.0,343.624
+2025-12-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,112.0,345.799
+2025-12-15,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,800.0,361.89
+2025-12-08,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,68933.0,0.0
+2025-12-08,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,424.0,407.01
+2025-12-08,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,929.0,406.38
+2025-12-08,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,3854.0,405.01
+2025-12-08,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,2016.0,404.01
+2025-12-08,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,9590.0,402.94
+2025-12-08,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,67610.0,399.07
+2025-12-08,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,21712.0,398.14
+2025-12-08,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,33746.0,402.09
+2025-12-08,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,131375.0,401.02
+2025-12-08,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,49060.0,400.11
+2025-11-14,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,800.0,331.14
+2025-10-14,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,800.0,350.15
+2025-09-24,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,49859.0,336.56
+2025-09-24,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,15532.0,334.59
+2025-09-24,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,75678.0,0.0
+2025-09-24,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,124102.0,339.38
+2025-09-24,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,72258.0,338.5
+2025-09-24,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,73344.0,337.57
+2025-09-24,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,33702.0,335.5
+2025-09-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,34984.0,340.264
+2025-09-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,65016.0,339.218
+2025-09-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,69.0,358.69
+2025-09-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,419.0,343.926
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,210.0,357.506
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,140.0,355.567
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,100.0,354.05
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,654.0,353.422
+2025-09-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,675.0,350.084
+2025-09-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,164.0,351.886
+2025-09-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,337.0,353.237
+2025-09-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,160.0,354.162
+2025-09-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,108.0,357.376
+2025-09-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,134.0,358.38
+2025-09-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,695.0,348.964
+2025-09-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,1161.0,348.019
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,390.0,352.183
+2025-09-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,418.0,343.679
+2025-09-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,1306.0,344.585
+2025-09-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,626.0,346.798
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,990.0,350.055
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,1796.0,349.088
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,2275.0,348.041
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,40.0,359.58
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,291.0,358.485
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,370.0,351.529
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,1460.0,344.132
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,600.0,343.133
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,1077.0,347.223
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,2833.0,346.083
+2025-09-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,3332.0,345.194
+2025-09-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,609.0,347.498
+2025-09-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,505.0,346.494
+2025-09-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,997.0,345.292
+2025-09-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,1682.0,345.762
+2025-09-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,32.0,359.58
+2025-09-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,480.0,349.043
+2025-09-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,345.0,350.177
+2025-09-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,145.0,352.071
+2025-09-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,72.0,354.977
+2025-09-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,177.0,353.382
+2025-09-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,75.0,357.64
+2025-09-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,1860.0,358.922
+2025-09-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,834.0,359.249
+2025-09-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,36.0,365.325
+2025-09-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,54.0,364.25
+2025-09-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,189.0,362.874
+2025-09-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,315.0,361.653
+2025-09-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,849.0,360.519
+2025-09-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,588.0,359.735
+2025-09-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,369.0,358.565
+2025-09-16,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,104.0,357.412
+2025-09-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,100.0,365.15
+2025-09-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,180.0,364.113
+2025-09-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,500.0,363.149
+2025-09-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,1422.0,362.163
+2025-09-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,1590.0,360.756
+2025-09-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,4354.0,360.058
+2025-09-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,634.0,358.35
+2025-09-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,2003.0,360.283
+2025-09-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,650.0,361.41
+2025-09-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,604.0,362.78
+2025-09-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,640.0,358.02
+2025-09-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,96.0,363.63
+2025-09-15,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,800.0,360.0
+2025-09-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,148514.0,336.67
+2025-09-10,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",A,500.0,363.375
+2025-09-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,148154.0,336.67
+2025-09-09,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",A,1000.0,339.385
+2025-09-08,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",A,2050.0,344.7794
+2025-08-14,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,800.0,307.46
+2025-07-14,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,800.0,274.3
+2025-07-09,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,49670.0,0.0
+2025-06-26,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,40000.0,268.293
+2025-06-26,AVGO,"DELLY, GAYLA J",Director,"Common Stock, $0.001 par value",D,3000.0,265.13
+2025-06-25,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,9450.0,0.0
+2025-06-25,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,97244.0,0.0
+2025-06-25,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,2863.0,269.62
+2025-06-25,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,9615.0,268.88
+2025-06-25,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,43879.0,267.83
+2025-06-25,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,58671.0,266.92
+2025-06-25,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,42141.0,265.92
+2025-06-25,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,162917.0,264.74
+2025-06-25,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,153812.0,264.16
+2025-06-25,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,94780.0,0.0
+2025-06-24,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,36350.0,261.269
+2025-06-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,40000.0,262.173
+2025-06-24,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,50000.0,262.101
+2025-06-23,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,50000.0,253.285
+2025-06-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,190000.0,0.0
+2025-06-18,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,56310.0,251.749
+2025-06-16,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,800.0,250.35
+2025-06-12,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,117758.0,252.91
+2025-06-11,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,10000.0,252.881
+2025-05-14,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,800.0,230.19
+2025-04-21,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",D,152.0,166.21
+2025-04-21,AVGO,"HAO, KENNETH",Director,"Common Stock, $0.001 par value",A,1602.0,0.0
+2025-04-21,AVGO,"BRYANT, DIANE M",Director,"Common Stock, $0.001 par value",A,1602.0,0.0
+2025-04-21,AVGO,"DELLY, GAYLA J",Director,"Common Stock, $0.001 par value",A,1602.0,0.0
+2025-04-21,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",A,1602.0,0.0
+2025-04-21,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",A,1602.0,0.0
+2025-04-21,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",A,1602.0,0.0
+2025-04-21,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",A,1602.0,0.0
+2025-04-21,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",A,1602.0,0.0
+2025-04-14,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,800.0,185.0
+2025-04-11,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,25000.0,180.0
+2025-03-26,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,19761.0,186.06
+2025-03-26,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,35888.0,183.88
+2025-03-26,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,55809.0,185.06
+2025-03-26,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,136248.0,0.0
+2025-03-26,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,14129.0,187.79
+2025-03-26,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,44331.0,187.15
+2025-03-26,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,32899.0,178.36
+2025-03-26,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,272050.0,179.18
+2025-03-26,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,56756.0,180.03
+2025-03-26,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,19599.0,181.02
+2025-03-26,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,8713.0,181.98
+2025-03-26,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,104041.0,183.18
+2025-03-24,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,30000.0,194.65
+2025-03-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,98396.0,195.54
+2025-03-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,123204.0,195.54
+2025-03-17,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,86024.0,195.54
+2025-03-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",A,60000.0,0.0
+2025-03-15,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",A,60000.0,0.0
+2025-03-04,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",A,150000.0,0.0
+2025-03-04,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",A,262500.0,0.0
+2025-03-04,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",A,118760.0,0.0
+2025-01-08,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,4000.0,229.637
+2025-01-06,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",D,48000.0,235.35
+2025-01-02,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,40000.0,231.98
+2024-12-24,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,20168.0,238.791
+2024-12-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,45000.0,239.96
+2024-12-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,130000.0,0.0
+2024-12-23,AVGO,"BRYANT, DIANE M",Director,"Common Stock, $0.001 par value",D,15000.0,226.68
+2024-12-20,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,12570.0,229.62
+2024-12-17,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",D,6540.0,240.004
+2024-12-17,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,1000.0,0.0
+2024-12-16,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,96682.0,224.8
+2024-12-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,19832.0,224.8
+2024-12-16,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,137795.0,0.0
+2024-11-06,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,1477110.0,0.0
+2024-11-06,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,696804.0,179.55
+2024-10-11,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,18900.0,181.45
+2024-10-11,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,15950.0,181.445
+2024-10-09,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,18900.0,182.875
+2024-10-07,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,20280.0,177.098
+2024-10-04,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,20000.0,174.874
+2024-10-03,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,20000.0,172.325
+2024-10-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,10000.0,167.141
+2024-09-25,AVGO,"DELLY, GAYLA J",Director,"Common Stock, $0.001 par value",D,750.0,174.53
+2024-09-25,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,142988.0,0.0
+2024-09-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,150000.0,172.94
+2024-09-19,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,25200.0,168.274
+2024-09-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,50000.0,163.371
+2024-07-11,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7502.0,1705.95
+2024-07-05,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,8200.0,0.0
+2024-06-26,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,15815.0,0.0
+2024-06-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3450.0,0.0
+2024-06-21,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,30.0,0.0
+2024-06-20,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,254.0,1750.26
+2024-06-17,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,312.0,1800.0
+2024-06-17,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,2520.0,1830.951
+2024-04-22,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",A,189.0,0.0
+2024-04-22,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",A,189.0,0.0
+2024-04-22,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",A,189.0,0.0
+2024-04-22,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",A,189.0,0.0
+2024-04-22,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",A,189.0,0.0
+2024-04-22,AVGO,"DELLY, GAYLA J",Director,"Common Stock, $0.001 par value",A,189.0,0.0
+2024-04-22,AVGO,"HAO, KENNETH",Director,"Common Stock, $0.001 par value",A,189.0,0.0
+2024-04-22,AVGO,"BRYANT, DIANE M",Director,"Common Stock, $0.001 par value",A,189.0,0.0
+2024-04-15,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,18601.0,0.0
+2024-04-10,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,2500.0,1316.46
+2024-04-10,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,110.0,1323.0
+2024-04-05,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,3000.0,1343.145
+2024-04-03,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,2500.0,1367.52
+2024-04-03,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",D,35.0,1363.21
+2024-04-02,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2000.0,1312.25
+2024-03-28,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7700.0,0.0
+2024-03-28,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,2500.0,1318.975
+2024-03-25,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,5000.0,1344.0
+2024-03-25,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,2500.0,1352.35
+2024-03-21,AVGO,"HAO, KENNETH",Director,"Common Stock, $0.001 par value",D,1607.0,1387.67
+2024-03-21,AVGO,"HAO, KENNETH",Director,"Common Stock, $0.001 par value",D,1605.0,1386.76
+2024-03-21,AVGO,"HAO, KENNETH",Director,"Common Stock, $0.001 par value",D,5462.0,1388.58
+2024-03-21,AVGO,"HAO, KENNETH",Director,"Common Stock, $0.001 par value",D,486.0,1389.2
+2024-03-15,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,8872.0,1235.5
+2024-03-15,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,12277.0,1235.5
+2024-03-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",A,10000.0,0.0
+2024-03-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,10419.0,1235.5
+2024-03-12,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,1161.0,1289.864
+2024-03-12,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,1989.0,1290.624
+2024-03-05,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",A,16375.0,0.0
+2024-03-05,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",A,28438.0,0.0
+2024-03-05,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",A,17500.0,0.0
+2024-02-05,AVGO,"HAO, KENNETH",Director,"Common Stock, $0.001 par value",A,45.0,0.0
+2024-01-05,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,2500.0,1043.144
+2024-01-04,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,32000.0,0.0
+2023-12-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1200.0,1122.199
+2023-12-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,847.0,1115.834
+2023-12-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,400.0,1116.631
+2023-12-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1300.0,1118.099
+2023-12-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2155.0,1118.884
+2023-12-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2124.0,1120.137
+2023-12-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2797.0,1121.118
+2023-12-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,800.0,1123.274
+2023-12-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1852.0,1124.422
+2023-12-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2071.0,1125.646
+2023-12-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3931.0,1126.751
+2023-12-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,523.0,1127.206
+2023-12-20,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,850.0,0.0
+2023-12-20,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,800.0,1140.299
+2023-12-18,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,2016.0,1123.454
+2023-12-18,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,1800.0,0.0
+2023-12-18,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,2500.0,1140.87
+2023-12-18,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,2016.0,1130.039
+2023-12-15,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,3224.0,1129.74
+2023-12-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,1984.0,1129.74
+2023-12-15,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,14385.0,0.0
+2023-12-15,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,2965.0,1129.74
+2023-12-14,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,14549.0,0.0
+2023-12-14,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,20000.0,1089.69
+2023-12-14,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,143.0,1094.0
+2023-12-14,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,2000.0,1116.0
+2023-12-13,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,14823.0,0.0
+2023-11-03,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,84561.0,882.68
+2023-11-03,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,15757.0,0.0
+2023-11-03,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",A,35880.0,0.0
+2023-11-03,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,17790.0,882.68
+2023-11-03,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,179400.0,0.0
+2023-10-04,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,3520.0,0.0
+2023-09-26,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,12476.0,0.0
+2023-09-22,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,14125.0,0.0
+2023-09-15,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",A,1000.0,858.9582
+2023-09-12,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,900.0,856.353
+2023-09-12,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,600.0,854.672
+2023-09-06,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",A,11000.0,872.0256
+2023-06-28,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5800.0,0.0
+2023-06-27,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,38000.0,0.0
+2023-06-08,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,1645.0,801.33
+2023-06-08,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,2000.0,792.61
+2023-06-08,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,4000.0,800.429
+2023-04-03,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",A,397.0,0.0
+2023-04-03,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",D,29.0,642.47
+2023-04-03,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,397.0,0.0
+2023-04-03,AVGO,"DELLY, GAYLA J",Director,"Common Stock, $0.001 par value",A,397.0,0.0
+2023-04-03,AVGO,"BRYANT, DIANE M",Director,"Common Stock, $0.001 par value",A,397.0,0.0
+2023-04-03,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",A,397.0,0.0
+2023-04-03,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",A,397.0,0.0
+2023-04-03,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",A,397.0,0.0
+2023-03-28,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,7000.0,619.72
+2023-03-27,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",D,740.0,639.0
+2023-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,30000.0,626.04
+2023-03-15,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",A,10000.0,0.0
+2023-03-15,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,14691.0,626.04
+2023-03-15,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,9099.0,626.04
+2023-03-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,10962.0,626.04
+2023-03-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",A,10000.0,0.0
+2023-03-14,AVGO,"DELLY, GAYLA J",Director,"Common Stock, $0.001 par value",D,300.0,626.91
+2023-03-14,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,1470.0,624.368
+2023-03-14,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,1000.0,625.17
+2023-03-14,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,705.0,626.143
+2023-03-08,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",A,15817.0,0.0
+2023-03-08,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",A,20106.0,0.0
+2023-03-08,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",A,17080.0,0.0
+2022-12-29,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,51135.0,0.0
+2022-12-28,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,57551.0,0.0
+2022-12-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,16000.0,0.0
+2022-12-15,AVGO,"SPEARS, KIRSTEN M.",CFO & Chief Accounting Officer,"Common Stock, $0.001 par value",D,3224.0,558.0
+2022-12-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,1984.0,558.0
+2022-12-15,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp","Common Stock, $0.001 par value",D,2965.0,558.0
+2022-12-14,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",D,1170.0,575.0
+2022-12-13,AVGO,"DELLY, GAYLA J",Director,"Common Stock, $0.001 par value",D,200.0,579.56
+2022-12-13,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",D,170.0,574.86
+2022-11-14,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,9100.0,518.09
+2022-11-11,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,18937.0,0.0
+2022-10-31,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Price Performance Stock Unit,A,1000000.0,0.0
+2022-10-31,AVGO,"KAWWAS, CHARLIE B","President, Semi Solutions Grp",Stock Price Performance Stock Unit,A,300000.0,0.0
+2022-04-05,AVGO,"BRYANT, DIANE M",Director,"Common Stock, $0.001 par value",D,476.0,629.55
+2022-04-04,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",D,18.0,634.85
+2022-04-04,AVGO,"BRYANT, DIANE M",Director,"Common Stock, $0.001 par value",A,413.0,0.0
+2022-04-04,AVGO,"DELLY, GAYLA J",Director,"Common Stock, $0.001 par value",A,413.0,0.0
+2022-04-04,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,413.0,0.0
+2022-04-04,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",A,413.0,0.0
+2022-04-04,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",A,413.0,0.0
+2022-04-04,AVGO,"PAGE, JUSTINE",Director,"Common Stock, $0.001 par value",A,413.0,0.0
+2022-04-04,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",A,413.0,0.0
+2022-03-29,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",D,2000.0,636.23
+2022-03-28,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",D,3000.0,625.855
+2022-03-25,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,16000.0,0.0
+2022-03-25,AVGO,"DELLY, GAYLA J",Director,"Common Stock, $0.001 par value",D,200.0,624.671
+2022-03-25,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,269207.0,0.0
+2022-03-25,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",A,269207.0,0.0
+2022-03-24,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,11214.0,610.0
+2022-03-24,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",D,2520.0,619.886
+2022-03-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,20000.0,0.0
+2022-03-16,AVGO,"KRAUSE, THOMAS H.",President of Broadcom SW Group,"Common Stock, $0.001 par value",D,13798.0,585.29
+2022-03-16,AVGO,"KRAUSE, THOMAS H.",President of Broadcom SW Group,"Common Stock, $0.001 par value",D,65.0,586.11
+2022-03-15,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",D,8121.0,592.76
+2022-03-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,10164.0,592.76
+2022-03-15,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",D,12765.0,592.76
+2022-03-15,AVGO,"KRAUSE, THOMAS H.",President of Broadcom SW Group,"Common Stock, $0.001 par value",D,13137.0,592.76
+2022-03-10,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,34.0,580.0
+2022-03-10,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,34.0,585.0
+2022-03-09,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,66.0,588.79
+2022-03-08,AVGO,"BRYANT, DIANE M",Director,"Common Stock, $0.001 par value",D,800.0,572.17
+2022-03-08,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,34.0,579.534
+2022-03-02,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",A,1562.0,0.0
+2022-03-02,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",A,2000.0,0.0
+2022-03-02,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",A,9375.0,0.0
+2022-03-02,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",A,3250.0,0.0
+2022-03-02,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",A,2500.0,0.0
+2022-03-02,AVGO,"KRAUSE, THOMAS H.",President of Broadcom SW Group,"Common Stock, $0.001 par value",A,10000.0,0.0
+2022-03-02,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",A,8125.0,0.0
+2022-03-02,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",A,1875.0,0.0
+2022-03-02,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",A,6250.0,0.0
+2022-03-02,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",A,2500.0,0.0
+2022-03-02,AVGO,"KRAUSE, THOMAS H.",President of Broadcom SW Group,"Common Stock, $0.001 par value",A,2500.0,0.0
+2022-01-19,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",D,220.0,0.0
+2022-01-04,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,655.0,0.0
+2022-01-04,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,48000.0,0.0
+2022-01-04,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,19859.0,0.0
+2022-01-03,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,22466.0,0.0
+2021-12-30,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,39237.0,0.0
+2021-12-29,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,43850.0,0.0
+2021-12-28,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,40970.0,0.0
+2021-12-27,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,44249.0,0.0
+2021-12-23,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,44245.0,0.0
+2021-12-22,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",D,2000.0,645.533
+2021-12-21,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",D,2000.0,648.1
+2021-12-16,AVGO,"KRAUSE, THOMAS H.",President of Broadcom SW Group,"Common Stock, $0.001 par value",D,3645.0,632.84
+2021-12-16,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,80.0,625.0
+2021-12-16,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,79.0,629.0
+2021-12-15,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",D,276.0,621.525
+2021-12-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",D,372.0,639.86
+2021-12-15,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",D,3585.0,639.86
+2021-12-15,AVGO,"KRAUSE, THOMAS H.",President of Broadcom SW Group,"Common Stock, $0.001 par value",D,3585.0,639.86
+2021-12-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal & Corp Affairs Ofc,"Common Stock, $0.001 par value",A,8000.0,0.0
+2021-12-15,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",D,3596.0,639.86
+2021-12-15,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,81.0,615.0
+2021-12-14,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,81.0,612.61
+2021-09-29,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,152.0,489.535
+2021-09-27,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,3150.0,504.092
+2021-09-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,3217.0,504.61
+2021-09-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,1300.0,505.672
+2021-09-21,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,151.0,493.49
+2021-09-15,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",D,149.0,500.815
+2021-09-13,AVGO,"LIEN, JUSTINE",Director,"Common Stock, $0.001 par value",D,340.0,502.0
+2021-09-10,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",D,1000.0,503.591
+2021-09-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,805.0,499.075
+2021-09-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,2400.0,500.314
+2021-09-10,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,9453.0,502.38
+2021-09-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,1111.0,496.962
+2021-09-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,495.0,498.27
+2021-09-10,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",D,2000.0,499.45
+2021-09-08,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",D,1000.0,495.1
+2021-06-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,180151.0,471.17
+2021-06-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,363996.0,0.0
+2021-06-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,60.0,462.585
+2021-06-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,30.0,465.89
+2021-06-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,136.0,465.108
+2021-06-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,304.0,464.437
+2021-06-08,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,90.0,467.023
+2021-06-08,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,281.0,464.3
+2021-06-08,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,61.0,470.693
+2021-06-08,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,98.0,465.583
+2021-05-19,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,35.0,441.14
+2021-05-19,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,60.0,428.53
+2021-05-19,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,60.0,429.83
+2021-05-19,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,30.0,432.65
+2021-05-19,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,46.0,434.212
+2021-05-19,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,61.0,435.673
+2021-05-19,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,56.0,437.21
+2021-05-19,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,84.0,439.716
+2021-05-19,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,98.0,438.343
+2021-05-18,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,128.0,439.638
+2021-05-18,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,68.0,438.433
+2021-05-18,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,68.0,437.123
+2021-05-18,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,42.0,436.07
+2021-05-18,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,30.0,441.62
+2021-05-18,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,46.0,434.329
+2021-05-18,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,28.0,442.96
+2021-05-18,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,120.0,440.85
+2021-05-05,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,30.0,451.08
+2021-05-05,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,90.0,447.643
+2021-05-05,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,60.0,446.07
+2021-05-05,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,133.0,444.218
+2021-05-05,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,90.0,450.117
+2021-05-05,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,127.0,448.403
+2021-05-04,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,108.0,440.601
+2021-05-04,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,60.0,439.75
+2021-05-04,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,177.0,443.691
+2021-05-04,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,30.0,445.32
+2021-05-04,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,155.0,442.336
+2021-04-21,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,32.0,458.578
+2021-04-21,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,124.0,454.702
+2021-04-21,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,211.0,456.466
+2021-04-21,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,65.0,453.965
+2021-04-21,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,77.0,457.343
+2021-04-21,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,21.0,459.363
+2021-04-20,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,91.0,460.775
+2021-04-20,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,139.0,456.782
+2021-04-20,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,134.0,455.627
+2021-04-20,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,43.0,457.45
+2021-04-20,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,123.0,458.796
+2021-04-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,9297.0,480.0
+2021-04-07,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,34.0,481.379
+2021-04-07,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,73.0,483.078
+2021-04-07,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,154.0,482.077
+2021-04-07,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,107.0,479.028
+2021-04-07,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,162.0,479.98
+2021-04-06,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,132.0,483.228
+2021-04-06,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,76.0,487.451
+2021-04-06,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,91.0,486.159
+2021-04-06,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,130.0,484.467
+2021-04-06,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,101.0,482.054
+2021-04-05,AVGO,"LIEN, JUSTINE",Director,"Common Stock, $0.001 par value",A,476.0,0.0
+2021-04-05,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",A,476.0,0.0
+2021-04-05,AVGO,"BRYANT, DIANE M",Director,"Common Stock, $0.001 par value",A,476.0,0.0
+2021-04-05,AVGO,"DELLY, GAYLA J",Director,"Common Stock, $0.001 par value",A,476.0,0.0
+2021-04-05,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,476.0,0.0
+2021-04-05,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",A,476.0,0.0
+2021-04-05,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",A,17940.0,0.0
+2021-04-05,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",A,17940.0,0.0
+2021-04-05,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",A,476.0,0.0
+2021-03-29,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",D,100.0,474.232
+2021-03-26,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",D,4000.0,470.0
+2021-03-26,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",D,1890.0,469.285
+2021-03-24,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,69.0,461.715
+2021-03-24,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,70.0,460.275
+2021-03-24,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,15.0,459.303
+2021-03-24,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,34.0,457.863
+2021-03-24,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",D,6000.0,464.829
+2021-03-24,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,92.0,467.272
+2021-03-24,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,128.0,465.157
+2021-03-24,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,90.0,463.677
+2021-03-24,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,32.0,463.145
+2021-03-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,91.0,470.228
+2021-03-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,63.0,468.445
+2021-03-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,38.0,463.781
+2021-03-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,100.0,464.333
+2021-03-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,84.0,473.242
+2021-03-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,154.0,472.237
+2021-03-23,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,7037.0,473.78
+2021-03-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,654.0,471.199
+2021-03-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,1600.0,480.7
+2021-03-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,2170.0,479.964
+2021-03-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,1711.0,478.658
+2021-03-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,1354.0,477.73
+2021-03-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,1226.0,476.802
+2021-03-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,646.0,474.348
+2021-03-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,776.0,473.058
+2021-03-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,902.0,472.036
+2021-03-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,400.0,468.234
+2021-03-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,30.0,469.35
+2021-03-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,3026.0,481.85
+2021-03-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,2132.0,482.574
+2021-03-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,200.0,483.67
+2021-03-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,5018.0,470.77
+2021-03-15,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,15923.0,470.77
+2021-03-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",A,15625.0,0.0
+2021-03-15,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",D,15799.0,470.77
+2021-03-15,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",A,15625.0,0.0
+2021-03-15,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",A,15625.0,0.0
+2021-03-15,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",A,3625.0,0.0
+2021-03-15,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",A,9375.0,0.0
+2021-03-15,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",D,9607.0,470.77
+2021-03-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,60.0,437.26
+2021-03-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,31.0,448.17
+2021-03-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,32.0,449.83
+2021-03-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,31.0,453.5
+2021-03-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,61.0,436.201
+2021-03-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,75.0,438.635
+2021-03-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,40.0,439.785
+2021-03-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,30.0,442.38
+2021-03-10,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,91.0,436.844
+2021-03-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,93.0,444.259
+2021-03-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,30.0,445.54
+2021-03-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,47.0,447.231
+2021-03-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,154.0,436.173
+2021-03-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,71.0,444.66
+2021-03-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,55.0,442.637
+2021-03-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,33.0,431.36
+2021-03-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,1.0,446.66
+2021-03-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,73.0,446.144
+2021-03-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,30.0,441.25
+2021-03-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,52.0,439.029
+2021-03-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,61.0,438.092
+2021-03-02,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",A,2000.0,0.0
+2021-03-02,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",A,1562.0,0.0
+2021-03-02,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",A,3250.0,0.0
+2021-03-02,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",A,2500.0,0.0
+2021-03-02,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",A,1875.0,0.0
+2021-03-02,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",A,1625.0,0.0
+2021-03-02,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",A,1250.0,0.0
+2021-03-02,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",A,2500.0,0.0
+2021-03-02,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",A,500.0,0.0
+2021-03-02,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",A,1875.0,0.0
+2021-02-24,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,301.0,467.334
+2021-02-24,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,229.0,465.959
+2021-02-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,32.0,458.81
+2021-02-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,76.0,472.261
+2021-02-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,8.0,474.251
+2021-02-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,44.0,473.283
+2021-02-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,65.0,468.988
+2021-02-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,182.0,465.669
+2021-02-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,62.0,464.257
+2021-02-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,31.0,462.471
+2021-02-23,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,30.0,461.27
+2021-02-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,282.0,469.389
+2021-02-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,31.0,475.13
+2021-02-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,67.0,474.252
+2021-02-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,65.0,471.568
+2021-02-10,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,85.0,470.298
+2021-02-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,30.0,469.88
+2021-02-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,91.0,474.665
+2021-02-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,223.0,473.863
+2021-02-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,63.0,472.803
+2021-02-09,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,123.0,471.662
+2021-01-27,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,38.0,445.914
+2021-01-27,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,76.0,445.224
+2021-01-27,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,72.0,448.741
+2021-01-27,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,62.0,449.841
+2021-01-27,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,31.0,450.92
+2021-01-27,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,61.0,452.347
+2021-01-27,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,96.0,454.299
+2021-01-27,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,27.0,442.985
+2021-01-27,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,60.0,447.365
+2021-01-27,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,7.0,444.079
+2021-01-26,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,142.0,463.324
+2021-01-26,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,159.0,465.591
+2021-01-26,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,165.0,464.216
+2021-01-26,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,64.0,466.155
+2021-01-13,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,284.0,450.839
+2021-01-13,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,112.0,451.714
+2021-01-13,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,30.0,452.46
+2021-01-13,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,104.0,449.38
+2021-01-12,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,98.0,447.723
+2021-01-12,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,30.0,452.67
+2021-01-12,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,96.0,450.974
+2021-01-12,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,222.0,449.922
+2021-01-12,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,84.0,449.008
+2021-01-04,AVGO,"SAMUELI, HENRY",Director,"Common Stock, par value $0.001k",D,183600.0,0.0
+2020-12-30,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,530.0,431.67
+2020-12-29,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,56.0,430.011
+2020-12-29,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,530.0,435.83
+2020-12-29,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,105.0,428.996
+2020-12-29,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,300.0,427.643
+2020-12-23,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",D,100.0,427.57
+2020-12-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,11281.0,429.906
+2020-12-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,24091.0,431.994
+2020-12-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,15318.0,432.682
+2020-12-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,100.0,433.45
+2020-12-22,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",D,1260.0,428.7
+2020-12-22,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,78125.0,0.0
+2020-12-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,78125.0,52.65
+2020-12-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,8542.0,429.122
+2020-12-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,18793.0,430.975
+2020-12-18,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",D,972.0,429.189
+2020-12-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,14025.0,424.9
+2020-12-16,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,1260.0,418.225
+2020-12-16,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,530.0,418.0
+2020-12-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,745.0,418.06
+2020-12-15,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,120.0,416.8
+2020-12-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,372.0,418.06
+2020-12-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,4000.0,415.46
+2020-12-15,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",D,744.0,418.06
+2020-12-15,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,2550.0,415.46
+2020-12-15,AVGO,"KAWWAS, CHARLIE B",Chief Operating Officer,"Common Stock, $0.001 par value",D,1240.0,418.06
+2020-12-15,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",D,530.0,415.46
+2020-12-15,AVGO,"KRAUSE, THOMAS H.","President,Infrastructure SW Gp","Common Stock, $0.001 par value",D,1240.0,418.06
+2020-12-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3800.0,419.887
+2020-12-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,16795.0,421.044
+2020-12-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,16121.0,422.235
+2020-12-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,100.0,426.59
+2020-12-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4174.0,425.959
+2020-12-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,11152.0,425.157
+2020-12-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,8001.0,423.915
+2020-12-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,10662.0,422.873
+2020-12-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7320.0,418.896
+2020-12-08,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,78125.0,0.0
+2020-12-08,AVGO,"SPEARS, KIRSTEN M.",VP CFO & Chief Accounting Ofcr,"Common Stock, $0.001 par value",A,13000.0,0.0
+2020-12-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,78125.0,52.65
+2020-11-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,78125.0,52.65
+2020-11-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3987.0,387.173
+2020-11-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,11082.0,388.165
+2020-11-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,8488.0,389.256
+2020-11-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,20974.0,390.257
+2020-11-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,24828.0,391.188
+2020-11-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,8766.0,392.102
+2020-11-24,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,78125.0,0.0
+2020-11-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",A,2500.0,0.0
+2020-11-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,Performance Based Restricted Stock Units,D,2500.0,0.0
+2020-11-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,2480.0,373.5
+2020-11-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,8408.0,368.319
+2020-11-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1543.0,369.189
+2020-11-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2793.0,370.313
+2020-11-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2100.0,371.159
+2020-11-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7486.0,364.186
+2020-11-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,15723.0,363.114
+2020-11-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,15397.0,362.303
+2020-11-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2900.0,361.359
+2020-11-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,78125.0,52.65
+2020-11-10,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,78125.0,0.0
+2020-11-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5416.0,365.125
+2020-11-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2813.0,372.285
+2020-11-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7306.0,366.344
+2020-11-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6240.0,367.124
+2020-10-27,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,20866.0,360.758
+2020-10-27,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,25172.0,361.737
+2020-10-27,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,12477.0,362.66
+2020-10-27,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2402.0,363.755
+2020-10-27,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,500.0,364.679
+2020-10-27,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,78125.0,0.0
+2020-10-27,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,78125.0,52.65
+2020-10-27,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,16708.0,359.97
+2020-10-13,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2429.0,379.294
+2020-10-13,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5534.0,384.283
+2020-10-13,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,500.0,385.27
+2020-10-13,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,11032.0,380.493
+2020-10-13,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,20304.0,382.457
+2020-10-13,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1641.0,386.767
+2020-10-13,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,78125.0,0.0
+2020-10-13,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,78125.0,52.65
+2020-10-13,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,14227.0,381.423
+2020-10-13,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,22458.0,383.258
+2020-10-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,14500.0,376.94
+2020-10-05,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",D,5000.0,364.055
+2020-09-30,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,2636.0,370.01
+2020-09-29,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6165.0,364.556
+2020-09-29,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,78125.0,52.65
+2020-09-29,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,20475.0,365.572
+2020-09-29,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,22733.0,366.505
+2020-09-29,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,16170.0,367.48
+2020-09-29,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3356.0,368.665
+2020-09-29,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3626.0,369.4
+2020-09-29,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5600.0,370.329
+2020-09-29,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,78125.0,0.0
+2020-09-28,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,2642.0,360.02
+2020-09-28,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,3500.0,365.23
+2020-09-18,AVGO,"SAMUELI, HENRY",Director,Common Stock. $0.001 par value,A,131062.0,0.0
+2020-09-18,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",A,101740.0,361.45
+2020-09-18,AVGO,"SAMUELI, HENRY",Director,"Common Stock, par value $0.001k",A,38850.0,0.0
+2020-09-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,2000.0,367.54
+2020-09-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,15998.0,367.895
+2020-09-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,12851.0,366.898
+2020-09-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6342.0,365.915
+2020-09-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,78125.0,52.65
+2020-09-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,11732.0,368.925
+2020-09-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,78125.0,0.0
+2020-09-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5328.0,370.622
+2020-09-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,25874.0,369.982
+2020-09-10,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,83.0,363.0
+2020-09-10,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,4778.0,364.219
+2020-09-09,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,4586.0,354.01
+2020-09-09,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,84.0,358.105
+2020-09-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6177.0,354.787
+2020-09-08,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,57172.0,0.0
+2020-09-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,8285.0,355.917
+2020-09-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5909.0,353.942
+2020-09-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2617.0,352.783
+2020-09-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3070.0,351.83
+2020-09-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3082.0,350.849
+2020-09-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,57172.0,38.99
+2020-09-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6820.0,357.165
+2020-09-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7119.0,358.959
+2020-09-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,9893.0,357.887
+2020-09-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,900.0,359.954
+2020-09-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2100.0,361.008
+2020-09-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1200.0,361.961
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,907.0,352.391
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,57172.0,0.0
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1705.0,361.797
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,10875.0,360.195
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,12249.0,358.929
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6118.0,358.102
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2038.0,356.604
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3100.0,355.916
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2900.0,354.897
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,631.0,353.253
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1600.0,351.362
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1920.0,350.137
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1616.0,349.176
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,900.0,348.27
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,57172.0,38.99
+2020-09-01,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,10613.0,360.933
+2020-08-25,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,57172.0,38.99
+2020-08-25,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,15304.0,334.561
+2020-08-25,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,10308.0,333.618
+2020-08-25,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,24322.0,335.588
+2020-08-25,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7138.0,336.289
+2020-08-25,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,100.0,337.0
+2020-08-25,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,57172.0,0.0
+2020-08-18,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,57172.0,0.0
+2020-08-18,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3356.0,332.811
+2020-08-18,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3188.0,331.879
+2020-08-18,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,57172.0,38.99
+2020-08-18,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1000.0,330.445
+2020-08-18,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,32439.0,328.726
+2020-08-18,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,17189.0,329.526
+2020-08-11,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,57172.0,0.0
+2020-08-11,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,15496.0,328.174
+2020-08-11,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,13368.0,328.997
+2020-08-11,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4771.0,330.022
+2020-08-11,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4256.0,332.412
+2020-08-11,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1543.0,330.954
+2020-08-11,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3092.0,332.976
+2020-08-11,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3900.0,327.058
+2020-08-11,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2400.0,325.485
+2020-08-11,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3429.0,324.152
+2020-08-11,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4917.0,323.387
+2020-08-11,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,57172.0,38.99
+2020-08-04,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,57171.0,38.99
+2020-08-04,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,57171.0,0.0
+2020-08-04,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2766.0,328.206
+2020-08-04,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5068.0,327.211
+2020-08-04,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,16107.0,326.402
+2020-08-04,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,8765.0,325.559
+2020-08-04,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5502.0,324.646
+2020-08-04,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1499.0,322.996
+2020-08-04,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7081.0,321.879
+2020-08-04,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,10383.0,321.052
+2020-07-28,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,57171.0,0.0
+2020-07-28,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6618.0,307.008
+2020-07-28,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,22098.0,307.676
+2020-07-28,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,10399.0,308.958
+2020-07-28,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,57171.0,38.99
+2020-07-28,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,16670.0,309.7
+2020-07-28,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1386.0,310.476
+2020-07-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,57171.0,38.99
+2020-07-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,17555.0,316.099
+2020-07-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5484.0,313.298
+2020-07-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,12576.0,314.289
+2020-07-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,19956.0,315.209
+2020-07-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,600.0,317.55
+2020-07-21,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1000.0,318.39
+2020-07-21,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,57171.0,0.0
+2020-07-14,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,57171.0,38.99
+2020-07-14,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,57171.0,0.0
+2020-07-14,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,200.0,316.195
+2020-07-14,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4916.0,315.478
+2020-07-14,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6926.0,314.224
+2020-07-14,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,8764.0,313.255
+2020-07-14,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,9878.0,312.288
+2020-07-14,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4977.0,311.289
+2020-07-14,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6415.0,310.121
+2020-07-14,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6801.0,308.97
+2020-07-14,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2500.0,308.212
+2020-07-14,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3440.0,307.064
+2020-07-14,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2354.0,306.265
+2020-07-09,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,5000.0,322.511
+2020-07-07,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,57171.0,38.99
+2020-07-07,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6266.0,313.376
+2020-07-07,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,14070.0,314.667
+2020-07-07,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,11367.0,315.54
+2020-07-07,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,9734.0,316.706
+2020-07-07,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,15734.0,317.628
+2020-07-07,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,57171.0,0.0
+2020-06-30,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,10947.0,314.94
+2020-06-30,AVGO,"LIEN, JUSTINE",Director,"Common Stock, $0.001 par value",D,260.0,309.95
+2020-06-30,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,57171.0,38.99
+2020-06-30,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,835.0,316.77
+2020-06-30,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6370.0,315.956
+2020-06-30,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,57171.0,0.0
+2020-06-30,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1300.0,308.742
+2020-06-30,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1400.0,309.757
+2020-06-30,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4489.0,310.962
+2020-06-30,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1252.0,311.734
+2020-06-30,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,12439.0,313.154
+2020-06-30,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,18139.0,314.197
+2020-06-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,9194.0,312.027
+2020-06-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,500.0,317.0
+2020-06-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5047.0,315.931
+2020-06-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,11497.0,314.792
+2020-06-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,14026.0,313.883
+2020-06-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,16907.0,312.943
+2020-06-23,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,57171.0,0.0
+2020-06-23,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,57171.0,38.99
+2020-06-22,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,5000.0,309.198
+2020-06-18,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,75778.0,313.44
+2020-06-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,152838.0,0.0
+2020-06-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,600.0,306.918
+2020-06-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,57171.0,38.99
+2020-06-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,100.0,305.32
+2020-06-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1995.0,308.091
+2020-06-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,11570.0,309.011
+2020-06-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,13504.0,309.888
+2020-06-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,12165.0,310.915
+2020-06-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,9048.0,311.872
+2020-06-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5659.0,313.244
+2020-06-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2530.0,313.939
+2020-06-16,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,57171.0,0.0
+2020-06-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,3000.0,310.62
+2020-06-11,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,222668.0,0.0
+2020-06-11,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,152140.0,0.0
+2020-06-10,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",D,19407.0,316.1
+2020-06-10,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",D,1343.0,316.821
+2020-06-10,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,Stock Option (Right to Buy),D,15000.0,0.0
+2020-06-10,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,6000.0,317.319
+2020-06-10,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",A,15000.0,71.86
+2020-06-10,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,Stock Option (Right to Buy),D,750.0,0.0
+2020-06-10,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",A,750.0,62.63
+2020-06-09,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,16243.0,316.01
+2020-06-09,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,31500.0,0.0
+2020-06-09,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,85200.0,0.0
+2020-06-09,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",D,1860.0,0.0
+2020-06-09,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,600.0,312.256
+2020-06-09,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,1100.0,312.923
+2020-06-09,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,400.0,313.958
+2020-06-09,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,3531.0,315.274
+2020-06-09,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,12266.0,317.107
+2020-06-09,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,5860.0,317.836
+2020-06-09,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",D,98.0,315.46
+2020-06-09,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,20000.0,71.86
+2020-06-09,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,20000.0,312.0
+2020-06-09,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,7192.0,318.283
+2020-06-09,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,Stock Option (Right to Buy),D,20000.0,0.0
+2020-04-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,3100.0,257.44
+2020-04-07,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,1348.0,264.389
+2020-04-07,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,2000.0,257.253
+2020-03-30,AVGO,"BRYANT, DIANE M",Director,"Common Stock, $0.001 par value",A,949.0,0.0
+2020-03-30,AVGO,"DELLY, GAYLA J",Director,"Common Stock, $0.001 par value",A,949.0,0.0
+2020-03-30,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,949.0,0.0
+2020-03-30,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",A,949.0,0.0
+2020-03-30,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",A,949.0,0.0
+2020-03-30,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",A,949.0,0.0
+2020-03-30,AVGO,"LIEN, JUSTINE",Director,"Common Stock, $0.001 par value",A,949.0,0.0
+2020-03-30,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",D,59.0,240.11
+2020-03-30,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",D,5000.0,235.502
+2020-03-17,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,1553.0,234.22
+2020-03-17,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,1557.0,234.22
+2020-03-17,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",D,943.0,234.22
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1200.0,188.051
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,400.0,185.068
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7057.0,196.454
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2000.0,197.788
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1300.0,198.896
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1323.0,199.879
+2020-03-16,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,8925.0,234.22
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,100.0,183.63
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1400.0,181.638
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,73646.0,38.99
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1100.0,209.269
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5564.0,206.097
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5104.0,205.192
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5047.0,204.122
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3097.0,203.329
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2246.0,202.14
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2100.0,200.977
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2102.0,208.157
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,200.0,209.945
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,100.0,211.915
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,400.0,213.418
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,700.0,217.981
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,73646.0,0.0
+2020-03-16,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",D,5047.0,234.22
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2047.0,192.255
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2700.0,193.387
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2965.0,194.506
+2020-03-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,2802.0,234.22
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1975.0,195.849
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6823.0,191.251
+2020-03-16,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,7813.0,234.22
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1062.0,187.245
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5656.0,190.283
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4051.0,189.343
+2020-03-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3827.0,207.155
+2020-03-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,Performance Based Restricted Stock Units,D,2500.0,0.0
+2020-03-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",A,3125.0,0.0
+2020-03-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",A,2500.0,0.0
+2020-03-15,AVGO,"SAMUELI, HENRY",Director,Performance Based Restricted Stock Units,D,2897.0,0.0
+2020-03-15,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,Performance Based Restricted Stock Units,D,2000.0,0.0
+2020-03-15,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",A,1875.0,0.0
+2020-03-15,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",A,2000.0,0.0
+2020-03-15,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",A,2897.0,0.0
+2020-03-15,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,Performance Based Restricted Stock Units,D,3750.0,0.0
+2020-03-15,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,3125.0,0.0
+2020-03-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",A,3125.0,0.0
+2020-03-15,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,3750.0,0.0
+2020-03-15,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",A,725.0,0.0
+2020-03-10,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",A,1795.0,0.0
+2020-03-10,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",A,2394.0,0.0
+2020-03-10,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",A,500.0,0.0
+2020-03-10,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",A,1250.0,0.0
+2020-03-10,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,1875.0,0.0
+2020-03-10,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,2394.0,0.0
+2020-03-10,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",A,1495.0,0.0
+2020-03-10,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",A,1625.0,0.0
+2020-03-10,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",A,2000.0,0.0
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6900.0,256.512
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,75000.0,0.0
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,100.0,260.0
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3208.0,259.437
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4580.0,254.28
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4720.0,253.423
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3141.0,252.211
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6429.0,251.351
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6837.0,250.309
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4265.0,247.381
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2578.0,246.006
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1150.0,245.014
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,75000.0,38.99
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3796.0,258.459
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,9381.0,257.456
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4704.0,255.456
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5924.0,249.178
+2020-03-09,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7287.0,248.126
+2020-02-24,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,62500.0,0.0
+2020-02-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2004.0,295.79
+2020-02-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,62500.0,52.65
+2020-02-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,8796.0,290.783
+2020-02-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,14604.0,291.76
+2020-02-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,14244.0,292.622
+2020-02-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,15007.0,293.714
+2020-02-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6245.0,294.69
+2020-02-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,500.0,296.43
+2020-02-24,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1100.0,298.084
+2020-02-18,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1400.0,308.837
+2020-02-18,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,36105.0,310.09
+2020-02-18,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,31447.0,310.79
+2020-02-18,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4694.0,311.603
+2020-02-18,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,73646.0,0.0
+2020-02-18,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,73646.0,38.99
+2020-02-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,36270.0,312.69
+2020-02-10,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,75000.0,0.0
+2020-02-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2969.0,314.344
+2020-02-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,16589.0,313.852
+2020-02-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,19172.0,311.963
+2020-02-10,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,75000.0,38.99
+2020-01-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,15023.0,313.018
+2020-01-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,62500.0,52.65
+2020-01-22,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,62500.0,0.0
+2020-01-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,9563.0,315.224
+2020-01-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,100.0,317.79
+2020-01-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2091.0,317.077
+2020-01-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5178.0,316.356
+2020-01-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2500.0,310.972
+2020-01-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,17857.0,314.126
+2020-01-22,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,10188.0,312.4
+2020-01-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,9314.0,304.025
+2020-01-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3895.0,306.202
+2020-01-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3478.0,307.235
+2020-01-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,73646.0,0.0
+2020-01-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,14884.0,303.342
+2020-01-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7871.0,301.486
+2020-01-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,73646.0,38.99
+2020-01-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,26960.0,302.234
+2020-01-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7244.0,305.423
+2020-01-10,AVGO,"FERNANDEZ, RAUL J",Director,"Common Stock, $0.001 par value",A,115.0,0.0
+2020-01-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,11828.0,310.883
+2020-01-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,23061.0,310.088
+2020-01-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,8973.0,309.116
+2020-01-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,75000.0,38.99
+2020-01-08,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,75000.0,0.0
+2020-01-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,9643.0,312.909
+2020-01-08,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,21495.0,312.046
+2019-12-27,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,38000.0,0.0
+2019-12-26,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,18065.0,0.0
+2019-12-16,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",D,744.0,315.42
+2019-12-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,745.0,315.42
+2019-12-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,38.99
+2019-12-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3732.0,318.498
+2019-12-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7736.0,319.364
+2019-12-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5532.0,320.328
+2019-12-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2300.0,321.34
+2019-12-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,700.0,322.818
+2019-12-16,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2019-12-16,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,1240.0,315.42
+2019-12-16,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,1612.0,315.42
+2019-12-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,372.0,315.42
+2019-11-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,2480.0,312.91
+2019-11-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",A,2500.0,0.0
+2019-11-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2019-11-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3744.0,312.206
+2019-11-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,Performance Based Restricted Stock Units,D,2500.0,0.0
+2019-11-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,38.99
+2019-11-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,16256.0,310.878
+2019-10-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,38.99
+2019-10-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,38.99
+2019-10-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6345.0,289.788
+2019-10-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2900.0,288.905
+2019-10-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5330.0,287.621
+2019-10-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2200.0,286.933
+2019-10-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,800.0,285.483
+2019-10-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1368.0,284.382
+2019-10-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1057.0,283.087
+2019-10-11,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,2000.0,280.0
+2019-09-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,38.99
+2019-09-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1700.0,286.871
+2019-09-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7130.0,288.774
+2019-09-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5017.0,287.874
+2019-09-16,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2019-09-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6153.0,289.821
+2019-08-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3400.0,268.787
+2019-08-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6596.0,270.066
+2019-08-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6404.0,270.879
+2019-08-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3600.0,272.038
+2019-08-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2019-08-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,38.99
+2019-07-16,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,11250.0,0.0
+2019-07-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,12750.0,292.572
+2019-07-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6600.0,291.272
+2019-07-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,8750.0,38.99
+2019-07-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,8750.0,0.0
+2019-07-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,650.0,293.218
+2019-07-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,11250.0,35.45
+2019-06-26,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,11922.0,278.58
+2019-06-20,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,115804.0,265.93
+2019-06-19,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,13466.0,278.78
+2019-06-19,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,233568.0,0.0
+2019-06-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,35.45
+2019-06-17,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2019-06-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1300.0,267.183
+2019-06-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1669.0,266.422
+2019-06-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2131.0,265.293
+2019-06-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1100.0,264.172
+2019-06-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,11400.0,263.406
+2019-06-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2400.0,262.156
+2019-06-11,AVGO,"LIEN, JUSTINE",Director,"Common Stock, $0.001 par value",A,673.0,0.0
+2019-05-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2329.0,302.758
+2019-05-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,900.0,301.488
+2019-05-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,500.0,300.628
+2019-05-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,35.45
+2019-05-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2019-05-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2958.0,306.555
+2019-05-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5475.0,305.676
+2019-05-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3638.0,303.646
+2019-05-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4200.0,304.482
+2019-04-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,3073.0,316.4
+2019-04-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1880.0,316.524
+2019-04-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2019-04-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,35.45
+2019-04-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4304.0,314.013
+2019-04-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,8798.0,314.892
+2019-04-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5018.0,315.727
+2019-04-02,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,Stock Option (Right to Buy),D,10000.0,0.0
+2019-04-02,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,10000.0,304.507
+2019-04-02,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,10000.0,71.86
+2019-04-01,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",A,775.0,0.0
+2019-04-01,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",D,4000.0,306.306
+2019-04-01,AVGO,"MARKS, PETER J",Director,"Common Stock, $0.001 par value",A,775.0,0.0
+2019-04-01,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",A,775.0,0.0
+2019-04-01,AVGO,"LOW, CHECK KIAN",Director,"Common Stock, $0.001 par value",D,54.0,305.79
+2019-04-01,AVGO,"HARTENSTEIN, EDDY W",Director,"Common Stock, $0.001 par value",A,775.0,0.0
+2019-04-01,AVGO,"DELLY, GAYLA J",Director,"Common Stock, $0.001 par value",A,775.0,0.0
+2019-04-01,AVGO,"BRYANT, DIANE M",Director,"Common Stock, $0.001 par value",A,775.0,0.0
+2019-03-21,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,Stock Option (Right to Buy),D,10000.0,0.0
+2019-03-21,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,10000.0,295.045
+2019-03-21,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,10000.0,71.86
+2019-03-20,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,1100.0,296.85
+2019-03-20,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,6157.0,295.0
+2019-03-20,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,2193.0,294.073
+2019-03-20,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,694.0,297.999
+2019-03-20,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,4350.0,296.033
+2019-03-19,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,5662.0,62.63
+2019-03-19,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,9330.0,295.925
+2019-03-19,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,Stock Option (Right to Buy),D,3668.0,0.0
+2019-03-19,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,3668.0,38.92
+2019-03-19,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,Stock Option (Right to Buy),D,5662.0,0.0
+2019-03-18,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,1550.0,290.29
+2019-03-18,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",A,3125.0,0.0
+2019-03-18,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,1550.0,290.29
+2019-03-18,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,3125.0,0.0
+2019-03-18,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,1550.0,290.29
+2019-03-18,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",A,1875.0,0.0
+2019-03-18,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",D,930.0,290.29
+2019-03-18,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",A,725.0,0.0
+2019-03-18,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",A,3125.0,0.0
+2019-03-18,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",A,3125.0,0.0
+2019-03-15,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,1132.0,290.29
+2019-03-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2019-03-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2036.0,295.417
+2019-03-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5580.0,294.564
+2019-03-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,300.0,292.9
+2019-03-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1225.0,291.963
+2019-03-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2345.0,290.863
+2019-03-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1800.0,290.101
+2019-03-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3720.0,288.396
+2019-03-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,400.0,286.208
+2019-03-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,900.0,285.289
+2019-03-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,7986.0,290.29
+2019-03-15,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,11574.0,290.29
+2019-03-15,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",A,2500.0,0.0
+2019-03-15,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",A,6250.0,0.0
+2019-03-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,35.45
+2019-03-15,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",A,1750.0,0.0
+2019-03-15,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,Performance Based Restricted Stock Units,D,3750.0,0.0
+2019-03-15,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,10339.0,290.29
+2019-03-15,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,3750.0,0.0
+2019-03-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,Performance Based Restricted Stock Units,D,2500.0,0.0
+2019-03-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1300.0,284.293
+2019-03-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,394.0,296.343
+2019-03-15,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",A,2000.0,0.0
+2019-03-15,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",D,5385.0,290.29
+2019-03-15,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,Performance Based Restricted Stock Units,D,1750.0,0.0
+2019-03-15,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,Performance Based Restricted Stock Units,D,2000.0,0.0
+2019-03-15,AVGO,"SAMUELI, HENRY",Director,Common Stock,A,2897.0,0.0
+2019-03-15,AVGO,"SAMUELI, HENRY",Director,Performance Based Restricted Stock Units,D,2897.0,0.0
+2019-03-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",A,2500.0,0.0
+2019-03-15,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div",Performance Based Restricted Stock Units,D,2500.0,0.0
+2019-03-15,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div",Performance Based Restricted Stock Units,D,6250.0,0.0
+2019-03-04,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",A,1625.0,0.0
+2019-03-04,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",A,1875.0,0.0
+2019-03-04,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,1875.0,0.0
+2019-03-04,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",A,2000.0,0.0
+2019-03-04,AVGO,"SAMUELI, HENRY",Director,"Common Stock, $0.001 par value",A,500.0,0.0
+2019-03-04,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",A,1250.0,0.0
+2019-02-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,9607.0,282.453
+2019-02-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,35.45
+2019-02-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2019-02-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,193.0,283.162
+2019-02-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,10200.0,281.48
+2019-01-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6000.0,255.055
+2019-01-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3429.0,253.162
+2019-01-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,35.45
+2019-01-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2019-01-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1778.0,256.915
+2019-01-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4800.0,256.132
+2019-01-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3993.0,254.225
+2019-01-11,AVGO,"BRYANT, DIANE M",Director,"Common Stock, $0.001 par value",A,223.0,0.0
+2019-01-08,AVGO,"YOU, HARRY L.",Director,"Common Stock, $0.001 par value",A,223.0,0.0
+2019-01-07,AVGO,"MACLEOD, DONALD",Director,Stock Option (Right to Buy),D,5223.0,0.0
+2019-01-07,AVGO,"MACLEOD, DONALD",Director,"Common Stock, $0.001 par value",D,5223.0,233.65
+2019-01-07,AVGO,"MACLEOD, DONALD",Director,"Common Stock, $0.001 par value",A,5223.0,62.47
+2018-12-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,746.0,254.83
+2018-12-17,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,372.0,254.83
+2018-12-17,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,1736.0,254.83
+2018-12-17,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,1612.0,254.83
+2018-12-17,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,1240.0,254.83
+2018-12-17,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",D,744.0,254.83
+2018-12-17,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2018-12-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2180.0,258.169
+2018-12-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7700.0,257.128
+2018-12-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5500.0,256.5
+2018-12-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2300.0,255.034
+2018-12-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2320.0,254.063
+2018-12-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,38.99
+2018-12-14,AVGO,"EGGEBRECHT, LEWIS C",Director,"Common Stock, $0.001 par value",D,2000.0,260.81
+2018-12-14,AVGO,"EGGEBRECHT, LEWIS C",Director,Stock Option (Right to Buy),D,5121.0,0.0
+2018-12-14,AVGO,"EGGEBRECHT, LEWIS C",Director,"Common Stock, $0.001 par value",A,5121.0,62.47
+2018-12-13,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",A,22500.0,62.02
+2018-12-13,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,Stock Option (Right to Buy),D,10000.0,0.0
+2018-12-13,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,10000.0,259.194
+2018-12-13,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,10000.0,71.86
+2018-12-13,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,Stock Option (Right to Buy),D,22500.0,0.0
+2018-12-13,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,11981.0,257.479
+2018-12-13,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,10519.0,256.628
+2018-12-11,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,744.0,246.84
+2018-12-04,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",A,30000.0,0.0
+2018-12-04,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,40000.0,0.0
+2018-12-04,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",A,40000.0,0.0
+2018-12-04,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",A,25000.0,0.0
+2018-12-04,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",A,30000.0,0.0
+2018-11-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2162.0,227.255
+2018-11-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7800.0,230.424
+2018-11-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,60.0,231.96
+2018-11-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2848.0,229.53
+2018-11-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,38.99
+2018-11-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3280.0,226.46
+2018-11-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,3500.0,228.256
+2018-11-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,350.0,231.216
+2018-11-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2018-11-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",A,2500.0,0.0
+2018-11-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,"Common Stock, $0.001 par value",D,2480.0,236.34
+2018-11-15,AVGO,"KRAUSE, THOMAS H.",Chief Financial Officer,Performance Based Restricted Stock Units,D,2500.0,0.0
+2018-10-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,38.99
+2018-10-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2018-10-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,20000.0,231.03
+2018-09-28,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",D,1194.0,246.518
+2018-09-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,4500.0,237.944
+2018-09-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,38.99
+2018-09-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,15300.0,238.809
+2018-09-17,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2018-09-17,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,200.0,239.66
+2018-09-14,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer","Common Stock, $0.001 par value",D,15564.5,0.0
+2018-08-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,38.99
+2018-08-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2018-08-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1600.0,206.238
+2018-08-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,10440.0,205.604
+2018-08-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,2960.0,204.392
+2018-08-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5000.0,203.318
+2018-07-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6100.0,202.699
+2018-07-16,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2018-07-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,13300.0,201.733
+2018-07-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,38.99
+2018-07-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,600.0,203.362
+2018-07-11,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div",Stock Option (Right to Buy),D,20000.0,0.0
+2018-07-11,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,6500.0,246.335
+2018-07-11,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",A,20000.0,62.02
+2018-07-11,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,3165.0,244.521
+2018-07-11,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,10200.0,245.474
+2018-07-11,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,135.0,247.54
+2018-06-27,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,9714.0,250.329
+2018-06-27,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",A,20000.0,62.02
+2018-06-27,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div",Stock Option (Right to Buy),D,20000.0,0.0
+2018-06-27,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,700.0,254.818
+2018-06-27,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,1600.0,253.689
+2018-06-27,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,1900.0,252.253
+2018-06-27,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,6086.0,251.554
+2018-06-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1100.0,270.958
+2018-06-15,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,10604.0,270.017
+2018-06-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2018-06-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,1.0,271.77
+2018-06-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,38.99
+2018-06-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,600.0,268.021
+2018-06-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7196.0,269.18
+2018-06-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,11103.0,269.976
+2018-06-13,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",A,20000.0,62.02
+2018-06-13,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div",Stock Option (Right to Buy),D,20000.0,0.0
+2018-06-13,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,12100.0,262.191
+2018-06-13,AVGO,"INGRAM, BRYAN","SVP & GM, Wireless Semicon Div","Common Stock, $0.001 par value",D,7900.0,261.314
+2018-06-12,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,4958.0,261.43
+2018-06-12,AVGO,"SPEARS, KIRSTEN M.",Principal Accounting Officer,"Common Stock, $0.001 par value",D,1240.0,261.43
+2018-05-29,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",D,10000.0,250.371
+2018-05-29,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,"Common Stock, $0.001 par value",A,10000.0,71.86
+2018-05-29,AVGO,"KAWWAS, CHARLIE B",SVP & Chief Sales Officer,Stock Option (Right to Buy),D,10000.0,0.0
+2018-05-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7800.0,241.996
+2018-05-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,38.99
+2018-05-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5300.0,244.007
+2018-05-15,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,6900.0,243.046
+2018-05-15,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2018-04-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",A,20000.0,38.99
+2018-04-16,AVGO,"BRAZEAL, MARK DAVID",Chief Legal Officer,"Common Stock, $0.001 par value",D,2492.0,246.94
+2018-04-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7050.0,247.081
+2018-04-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,5050.0,248.045
+2018-04-16,AVGO,"TAN, HOCK E","Director, President and CEO","Common Stock, $0.001 par value",D,7900.0,248.875
+2018-04-16,AVGO,"TAN, HOCK E","Director, President and CEO",Stock Option (Right to Buy),D,20000.0,0.0
+2018-04-13,AVGO,"SILVER, LAKE GROUP, L.L.C.",Director,"Common Stock, $0.001 par value",A,71.0,245.5
+2018-04-13,AVGO,"SILVER, LAKE GROUP, L.L.C.",Director,"Common Stock, $0.001 par value",A,121864.0,248.33
+2018-04-13,AVGO,"SILVER, LAKE GROUP, L.L.C.",Director,"Common Stock, $0.001 par value",A,1424.0,247.5
+2018-04-13,AVGO,"SILVER, LAKE GROUP, L.L.C.",Director,"Common Stock, $0.001 par value",A,99517.0,247.5
+2018-04-13,AVGO,"SILVER, LAKE GROUP, L.L.C.",Director,"Common Stock, $0.001 par value",A,681.0,246.38
+2018-04-13,AVGO,"SILVER, LAKE GROUP, L.L.C.",Director,"Common Stock, $0.001 par value",A,47594.0,246.38
+2018-04-13,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer","Common Stock, $0.001 par value",D,24494.0,248.45
+2018-04-13,AVGO,"SILVER, LAKE GROUP, L.L.C.",Director,"Common Stock, $0.001 par value",A,4976.0,245.5
+2018-04-13,AVGO,"SILVER, LAKE GROUP, L.L.C.",Director,"Common Stock, $0.001 par value",A,943.0,249.17
+2018-04-13,AVGO,"SILVER, LAKE GROUP, L.L.C.",Director,"Common Stock, $0.001 par value",A,65947.0,249.17
+2018-04-13,AVGO,"SILVER, LAKE GROUP, L.L.C.",Director,"Common Stock, $0.001 par value",A,1744.0,248.33
+2018-04-04,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer","Common Stock, $0.001 par value",A,2766772.0,0.0
+2018-04-04,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer","Common Stock, $0.001 par value",A,1860.0,0.0
+2018-04-04,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer","Common Stock, $0.001 par value",A,5752978.0,0.0
+2018-04-04,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer","Common Stock, $0.001 par value",A,40058.0,0.0
+2018-04-04,AVGO,"DILLER, JAMES",Director,"Common Stock, $0.001 par value",A,807.0,0.0
+2018-04-04,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer","Common Stock, $0.001 par value",A,53649.0,0.0
+2018-04-04,AVGO,"HAO, KENNETH",Director,"Common Stock, $0.001 par value",A,807.0,0.0
+2018-04-04,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer",Exchangeable Units,D,1860.0,0.0
+2018-04-04,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer","Common Stock, $0.001 par value",A,399918.0,0.0
+2018-04-04,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer","Common Stock, $0.001 par value",A,459690.0,0.0
+2018-04-04,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer",Exchangeable Units,D,53649.0,0.0
+2018-04-04,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer",Exchangeable Units,D,40058.0,0.0
+2018-04-04,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer",Exchangeable Units,D,5752978.0,0.0
+2018-04-04,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer",Exchangeable Units,D,399918.0,0.0
+2018-04-04,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer",Exchangeable Units,D,459690.0,0.0
+2018-04-04,AVGO,"SAMUELI, HENRY","Director, Chief Technical Officer",Exchangeable Units,D,2766772.0,0.0

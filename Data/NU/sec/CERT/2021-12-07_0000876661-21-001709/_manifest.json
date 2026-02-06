@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34e82622c94e1956e5030c8beeccdb1c7ea48e67f8889567d5ed459f790d6df8
-size 171
+{
+  "ticker": "NU",
+  "cik": 1691493,
+  "form": "CERT",
+  "filing_date": "2021-12-07",
+  "accession": "0000876661-21-001709",
+  "primary_document": "NU120721.pdf"
+}

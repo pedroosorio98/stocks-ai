@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b33bb1394a253e92afce755ed0f50c6e1515e770c6808bef0fd1a83abd698ac
-size 302
+{
+  "label": "View Registered Shareholder List",
+  "original_url": "https://east.virtualshareholdermeeting.com/vsm/web?pvskey=AAPL2026",
+  "final_url": "https://east.virtualshareholdermeeting.com/vsm/web?pvskey=AAPL2026",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}

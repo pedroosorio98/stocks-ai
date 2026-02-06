@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:905a34d64b6fe750239eafb000c712fc43474e832f76e00a1fe7f756424983cf
-size 420
+{
+  "label": "sharer.php",
+  "original_url": "http://www.facebook.com/sharer.php?u=https://www.microsoft.com/en-us/investor/earnings/fy-2024-q4/press-release-webcast",
+  "final_url": "https://web.facebook.com/sharer.php?u=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Finvestor%2Fearnings%2Ffy-2024-q4%2Fpress-release-webcast&_rdc=1&_rdr",
+  "content_type": "text/html; charset=\"utf-8\"",
+  "blocked_detected": false
+}

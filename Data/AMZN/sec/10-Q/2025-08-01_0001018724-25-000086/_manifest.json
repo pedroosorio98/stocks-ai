@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76c6a958490bb0d15a1b7b03ad071a78b9d9e065b1b3612823166db459d1e6e9
-size 178
+{
+  "ticker": "AMZN",
+  "cik": 1018724,
+  "form": "10-Q",
+  "filing_date": "2025-08-01",
+  "accession": "0001018724-25-000086",
+  "primary_document": "amzn-20250630.htm"
+}

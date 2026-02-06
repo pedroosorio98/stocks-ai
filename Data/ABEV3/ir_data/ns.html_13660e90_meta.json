@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9f98826219f867c0ebca70eb05a83d103a72ee5669d151aa32d3bd1deeb145b
-size 256
+{
+  "label": "ns.html",
+  "original_url": "https://www.googletagmanager.com/ns.html?id=GTM-MP8332T",
+  "final_url": "https://www.googletagmanager.com/ns.html?id=GTM-MP8332T",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

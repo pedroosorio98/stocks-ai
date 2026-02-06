@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a55659230bdd740516f65dc0ef90fa823541de05e1065034a17b9557ab0d7d6f
-size 336
+{
+  "label": "VIEW DETAILS >",
+  "original_url": "https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report",
+  "final_url": "https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

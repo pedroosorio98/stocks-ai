@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c26c8e0b25ca1b731d2a0cbf5534c5d11bf928632eb5f6f6cecf1a377e103d0
-size 145
+{
+  "original_symbol": "NVDA",
+  "variants": [
+    "NVDA"
+  ],
+  "note": "This script picks the best variant per endpoint and caches it."
+}

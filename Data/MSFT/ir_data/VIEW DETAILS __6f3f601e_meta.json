@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9da5ac4c54ac1d4e633338ed9020715a9837499eb18d246269c01669471bf12
-size 440
+{
+  "label": "VIEW DETAILS >",
+  "original_url": "https://www.microsoft.com/en-us/corporate-responsibility/sustainability/report?icid=environmental2025_sustainablereport_invrelationherocarousel",
+  "final_url": "https://www.microsoft.com/en-us/corporate-responsibility/sustainability/report/?icid=environmental2025_sustainablereport_invrelationherocarousel",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

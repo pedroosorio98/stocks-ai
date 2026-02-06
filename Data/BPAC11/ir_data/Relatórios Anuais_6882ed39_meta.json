@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:06972304ecd6169609e397a726dcbc2ec9a771294c905e6c43963c235085665d
-size 295
+{
+  "label": "Relat\u00f3rios Anuais",
+  "original_url": "https://ri.btgpactual.com/principais-informacoes/relatorios-anuais/",
+  "final_url": "https://ri.btgpactual.com/principais-informacoes/relatorios-anuais/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

@@ -1,3 +1,593 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac1e493f16ecf77cc41d8d7ae7b7f30a8d3d75d0eb2287d01fcd87449d8f98b1
-size 24520
+[
+  {
+    "id": "218a3e68-2143-3954-880b-6b7dda339aa0",
+    "content": {
+      "id": "218a3e68-2143-3954-880b-6b7dda339aa0",
+      "contentType": "STORY",
+      "title": "Brazil’s PicPay sets sights on $2.5bn valuation for Nasdaq listing",
+      "description": "",
+      "summary": "PicPay plans to list its shares on the Nasdaq Global Select Market under the ticker symbol \"PICS\".",
+      "pubDate": "2026-01-21T12:10:12Z",
+      "displayTime": "2026-01-21T12:10:12Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/retail_banker_international_407/1a5474d8c20397aab6208be20814a2f1",
+        "originalWidth": 1440,
+        "originalHeight": 810,
+        "caption": "The offering consists of around 22.9 million Class A common shares",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/opg0i9FMsEOaX1xHG5RV8Q--~B/aD04MTA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/retail_banker_international_407/1a5474d8c20397aab6208be20814a2f1",
+            "width": 1440,
+            "height": 810,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/xOokWP.aiQuCrKgKtbQ0zA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/retail_banker_international_407/1a5474d8c20397aab6208be20814a2f1",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Retail Banker International",
+        "url": "https://www.globaldata.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://www.retailbankerinternational.com/news/picpay-nasdaq-listing-valuation/",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/brazil-picpay-sets-sights-2-121012405.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "6338e6a7-74ad-37d8-bf77-ca10e65e9598",
+    "content": {
+      "id": "6338e6a7-74ad-37d8-bf77-ca10e65e9598",
+      "contentType": "STORY",
+      "title": "Why The Story Behind Grupo Financiero Banorte (BMV:GFNORTE O) Is Shifting Around MX$200 Valuation",
+      "description": "",
+      "summary": "The fair value estimate for Grupo Financiero Banorte moved only slightly, from MX$199.50 to MX$200.38. This suggests the core story around the stock has not really changed. Behind that small shift, bullish and bearish analysts are essentially debating how much confidence to place in the bank’s revenue outlook, with targets clustering close to MX$200 and a Neutral stance at MX$195. Read on to see how you can keep track of these kinds of target tweaks and what they might mean for the stock’s...",
+      "pubDate": "2026-01-19T11:09:39Z",
+      "displayTime": "2026-01-19T11:09:39Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/064d0b7911046f8efd85160776a9b33b",
+        "originalWidth": 1194,
+        "originalHeight": 432,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/jg8PADlkEXYEw5CXkVJkoA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/064d0b7911046f8efd85160776a9b33b",
+            "width": 1194,
+            "height": 432,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/HkW9eIFzgh_dkCnVyjLHCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/064d0b7911046f8efd85160776a9b33b",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Simply Wall St.",
+        "url": "https://simplywall.st/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/why-story-behind-grupo-financiero-110939928.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/why-story-behind-grupo-financiero-110939928.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "e1f78870-5eee-3d2a-8260-d243ef666798",
+    "content": {
+      "id": "e1f78870-5eee-3d2a-8260-d243ef666798",
+      "contentType": "STORY",
+      "title": "How New Analyst Views Are Reshaping the Story for Grupo Financiero Banorte Stock",
+      "description": "",
+      "summary": "Grupo Financiero Banorte has seen a slight upward revision in its fair value to MX$199.75 and a marginally lower discount rate of 16.17%, reflecting a more balanced but still constructive view from the Street. The updated assumptions blend confidence in the bank's robust capital position and resilient asset quality with a recognition of macro and competitive risks that may limit near term upside. Stay tuned to learn how you can monitor these evolving targets and keep track of the shifting...",
+      "pubDate": "2025-12-06T14:07:16Z",
+      "displayTime": "2025-12-06T14:07:16Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/064d0b7911046f8efd85160776a9b33b",
+        "originalWidth": 1194,
+        "originalHeight": 432,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/jg8PADlkEXYEw5CXkVJkoA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/064d0b7911046f8efd85160776a9b33b",
+            "width": 1194,
+            "height": 432,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/HkW9eIFzgh_dkCnVyjLHCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/064d0b7911046f8efd85160776a9b33b",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Simply Wall St.",
+        "url": "https://simplywall.st/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/analyst-views-reshaping-story-grupo-140716169.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/analyst-views-reshaping-story-grupo-140716169.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "b381bdc5-5822-3fa2-866b-a54d8c0a4be5",
+    "content": {
+      "id": "b381bdc5-5822-3fa2-866b-a54d8c0a4be5",
+      "contentType": "STORY",
+      "title": "Banco BTG Pactual S.A. (BSP:BPAC3) Q3 2025 Earnings Call Highlights: Record Revenues Amidst ...",
+      "description": "",
+      "summary": "Discover how Banco BTG Pactual S.A. navigated a challenging quarter with strong returns and strategic growth initiatives.",
+      "pubDate": "2025-11-12T15:00:28Z",
+      "displayTime": "2025-11-12T15:00:28Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": null,
+      "provider": {
+        "displayName": "GuruFocus.com",
+        "url": "http://www.gurufocus.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/banco-btg-pactual-bsp-bpac3-150028605.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/banco-btg-pactual-bsp-bpac3-150028605.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "445a0eca-b71a-3d7b-9533-ebdefdd14042",
+    "content": {
+      "id": "445a0eca-b71a-3d7b-9533-ebdefdd14042",
+      "contentType": "STORY",
+      "title": "Rubens Ometto, Controlling Shareholder of Cosan S.A. (CSAN), Negotiates $141 Million Loan from Banco Bradesco",
+      "description": "",
+      "summary": "With significant upside potential, Cosan S.A. (NYSE:CSAN) secures a spot on our list of the 7 best oil and gas penny stocks to buy according to analysts. According to a September 24 report by Bloomberg, Rubens Ometto, the controlling shareholder of Cosan S.A. (NYSE:CSAN), was negotiating a $141 million loan from Banco Bradesco to support […]",
+      "pubDate": "2025-10-15T11:16:36Z",
+      "displayTime": "2025-10-15T11:16:36Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/8dc03f3785b922f8f974b7d32112c6bb",
+        "originalWidth": 1456,
+        "originalHeight": 816,
+        "caption": "Rubens Ometto, Controlling Shareholder of Cosan S.A. (CSAN), Negotiates $141 Million Loan from Banco Bradesco",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/3yd4u2hAQJb8RMSWrHzRQA--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/8dc03f3785b922f8f974b7d32112c6bb",
+            "width": 1456,
+            "height": 816,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/9d.fX1ovMeOdRcZ.01Pl2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8dc03f3785b922f8f974b7d32112c6bb",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Insider Monkey",
+        "url": "http://www.insidermonkey.com"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/rubens-ometto-controlling-shareholder-cosan-111636946.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/rubens-ometto-controlling-shareholder-cosan-111636946.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "ae1c2874-5f6d-3504-a13f-910d93abb691",
+    "content": {
+      "id": "ae1c2874-5f6d-3504-a13f-910d93abb691",
+      "contentType": "STORY",
+      "title": "Brazil's Cosan plans up to 2 billion new shares in offerings backed by BTG and Perfin",
+      "description": "",
+      "summary": "SAO PAULO (Reuters) -Brazilian conglomerate Cosan has entered an agreement with its shareholders and anchor investors, including BTG Pactual and Perfin, to structure two primary public share offerings, it said in a securities filing on Sunday.  The first offering will consist of a base distribution of 1.45 billion common shares, with the possibility of a 25% increase.  The second offering will include up to 550 million common shares, excluding those subscribed in the first offering.",
+      "pubDate": "2025-09-21T22:15:13Z",
+      "displayTime": "2025-09-21T22:15:13Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/reuters.com/4e3458dcca84e02d1fef0762990a0884",
+        "originalWidth": 800,
+        "originalHeight": 533,
+        "caption": "The company logo for Cosan is displayed on a screen on the floor of Brazil's B3 Stock Exchange in Sao Paulo",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/azZS0DhcG4rsspRS0_dChQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/4e3458dcca84e02d1fef0762990a0884",
+            "width": 800,
+            "height": 533,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/DtiNo3_YzqCE0iCYoXu6RA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/4e3458dcca84e02d1fef0762990a0884",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://ca.finance.yahoo.com/news/brazils-cosan-plans-2-billion-221513193.html",
+        "site": "finance",
+        "region": "CA",
+        "lang": "en-CA"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/brazils-cosan-plans-2-billion-221513193.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "281e0ba0-f456-34c7-acb9-6957e63b05f7",
+    "content": {
+      "id": "281e0ba0-f456-34c7-acb9-6957e63b05f7",
+      "contentType": "STORY",
+      "title": "Scatec secures 15-year PPA for Colombian solar project",
+      "description": "",
+      "summary": "The PPA represents Scatec's inaugural project in the country.",
+      "pubDate": "2025-09-02T09:47:45Z",
+      "displayTime": "2025-09-02T09:47:45Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/power_technology_866/2290ee1be78d28f808d84804fe4f10ef",
+        "originalWidth": 1440,
+        "originalHeight": 810,
+        "caption": "Construction is set to commence this year. Credit: Scatec.",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/PlxwGtZl76MBP_7sAaF8EQ--~B/aD04MTA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/power_technology_866/2290ee1be78d28f808d84804fe4f10ef",
+            "width": 1440,
+            "height": 810,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/hQI_NccBz9GUbdobbuOaDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/power_technology_866/2290ee1be78d28f808d84804fe4f10ef",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Power Technology",
+        "url": "https://www.globaldata.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://www.power-technology.com/news/scatec-secures-15-year-ppa/",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/scatec-secures-15-ppa-colombian-094745916.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "57e72fbc-5f34-3a7e-b10e-4b8b7e97bd7b",
+    "content": {
+      "id": "57e72fbc-5f34-3a7e-b10e-4b8b7e97bd7b",
+      "contentType": "STORY",
+      "title": "IFC, BTG Pactual to invest up to $1 billion in Latin America sustainability",
+      "description": "",
+      "summary": "Brazilian lender BTG Pactual and the World Bank's private sector arm International Finance Corporation announced on Thursday up to $1 billion in joint investments on sustainability and development initiatives. WHY IT'S IMPORTANT Private sector engagement in sustainability has gained momentum globally, with private institutions promoting climate finance and development-focused investments. Brazil is home to much of the Amazon rainforest and a critical region for biodiversity and climate solutions.",
+      "pubDate": "2025-08-28T18:16:45Z",
+      "displayTime": "2025-08-28T18:16:45Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/reuters.com/99a25e4d7ce76672efbd2032207902e8",
+        "originalWidth": 800,
+        "originalHeight": 533,
+        "caption": "BTG Pactual bank headquarters is pictured in Sao Paulo",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/KWTn7lKwaDX..x2bfSMqVA--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/99a25e4d7ce76672efbd2032207902e8",
+            "width": 800,
+            "height": 533,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/HvrIKwvyl8LwIHkHIM1bjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/99a25e4d7ce76672efbd2032207902e8",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://ca.finance.yahoo.com/news/ifc-btg-pactual-invest-1-181645042.html",
+        "site": "finance",
+        "region": "CA",
+        "lang": "en-CA"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/ifc-btg-pactual-invest-1-181645042.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "706623bd-a0a3-31ac-94ad-8d9b75422b9c",
+    "content": {
+      "id": "706623bd-a0a3-31ac-94ad-8d9b75422b9c",
+      "contentType": "STORY",
+      "title": "What Brazil’s ‘Egg King’ Buying Hillandale Farms Means for US Eggs and Freight",
+      "description": "",
+      "summary": "Brazilian entrepreneur Ricardo Faria's $1.1 billion acquisition of Hillandale Farms continues a troubling pattern of foreign control over critical US food infrastructure. The deal puts one of America's most transportation-intensive agricultural operations, complete with a 250-trailer fleet serving markets from Maine to the Carolinas, under foreign ownership. Unlike previous high-profile foreign food acquisitions, this major deal has received minimal mainstream attention despite significant impli",
+      "pubDate": "2025-08-06T19:14:16Z",
+      "displayTime": "2025-08-06T19:14:16Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/freightwaves_373/f6861515e392adb11c2d886329ad7ba2",
+        "originalWidth": 1280,
+        "originalHeight": 720,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/.peyF9rYATcKOfAyLl_V2Q--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/freightwaves_373/f6861515e392adb11c2d886329ad7ba2",
+            "width": 1280,
+            "height": 720,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/LpTkh03kar91NfTpVrGPuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/freightwaves_373/f6861515e392adb11c2d886329ad7ba2",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "FreightWaves",
+        "url": "https://www.freightwaves.com"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/brazil-egg-king-buying-hillandale-191416743.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/brazil-egg-king-buying-hillandale-191416743.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "901d2a03-5f31-39fb-a596-53959877f051",
+    "content": {
+      "id": "901d2a03-5f31-39fb-a596-53959877f051",
+      "contentType": "STORY",
+      "title": "BTG Pactual to acquire HSBC operations in Uruguay for $175m",
+      "description": "",
+      "summary": "After the acquisition, BTG Pactual plans to offer services in retail banking, corporate and SME lending, investment banking, and wealth management.",
+      "pubDate": "2025-07-29T12:01:23Z",
+      "displayTime": "2025-07-29T12:01:23Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/retail_banker_international_407/45e76b5ba90db60fbf059e86446e521c",
+        "originalWidth": 1440,
+        "originalHeight": 810,
+        "caption": "HSBC had five branches in Uruguay by the end of 2024. Credit: sylv1rob1/Shutterstock.com.",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/BYRqSL8t4n3kTeTFyB.jHg--~B/aD04MTA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/retail_banker_international_407/45e76b5ba90db60fbf059e86446e521c",
+            "width": 1440,
+            "height": 810,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/l0SCoum4drw0MMxAMTFIFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/retail_banker_international_407/45e76b5ba90db60fbf059e86446e521c",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Retail Banker International",
+        "url": "https://www.globaldata.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://www.retailbankerinternational.com/news/btg-pactual-hsbc-operations-uruguay/",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/btg-pactual-acquire-hsbc-operations-120123952.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  }
+]

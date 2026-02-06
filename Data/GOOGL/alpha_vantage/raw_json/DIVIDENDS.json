@@ -1,3 +1,73 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:baefeb67e9695f1d59bed70fa5db1e2f1f03b616453ac980faced0188e3b4ffd
-size 2021
+{
+  "response": {
+    "symbol": "GOOGL",
+    "data": [
+      {
+        "ex_dividend_date": "2025-12-08",
+        "declaration_date": "2025-10-21",
+        "record_date": "2025-12-08",
+        "payment_date": "2025-12-15",
+        "amount": "0.21"
+      },
+      {
+        "ex_dividend_date": "2025-09-08",
+        "declaration_date": "2025-07-21",
+        "record_date": "2025-09-08",
+        "payment_date": "2025-09-15",
+        "amount": "0.21"
+      },
+      {
+        "ex_dividend_date": "2025-06-09",
+        "declaration_date": "2025-04-23",
+        "record_date": "2025-06-09",
+        "payment_date": "2025-06-16",
+        "amount": "0.21"
+      },
+      {
+        "ex_dividend_date": "2025-03-10",
+        "declaration_date": "2025-02-04",
+        "record_date": "2025-03-10",
+        "payment_date": "2025-03-17",
+        "amount": "0.2"
+      },
+      {
+        "ex_dividend_date": "2024-12-09",
+        "declaration_date": "2024-10-28",
+        "record_date": "2024-12-09",
+        "payment_date": "2024-12-16",
+        "amount": "0.2"
+      },
+      {
+        "ex_dividend_date": "2024-09-09",
+        "declaration_date": "2024-07-23",
+        "record_date": "2024-09-09",
+        "payment_date": "2024-09-16",
+        "amount": "0.2"
+      },
+      {
+        "ex_dividend_date": "2024-06-10",
+        "declaration_date": "2024-04-25",
+        "record_date": "2024-06-10",
+        "payment_date": "2024-06-17",
+        "amount": "0.2"
+      },
+      {
+        "ex_dividend_date": "2014-04-03",
+        "declaration_date": "None",
+        "record_date": "None",
+        "payment_date": "None",
+        "amount": "567.971668498"
+      }
+    ]
+  },
+  "request": {
+    "function": "DIVIDENDS",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "GOOGL"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=DIVIDENDS&apikey=1W86SMG399FCFAIM&symbol=GOOGL"
+  }
+}

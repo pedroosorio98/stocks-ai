@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b37ccdec99e5841918e1c1e0071a944d7d273587da3b099c5691214411b6be7a
-size 348
+{
+  "label": "ADR Program for Foreign Investors",
+  "original_url": "https://ri.ambev.com.br/en/informacoes-aos-acionistas/adr-program-for-foreign-investors/",
+  "final_url": "https://ri.ambev.com.br/en/informacoes-aos-acionistas/adr-program-for-foreign-investors/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

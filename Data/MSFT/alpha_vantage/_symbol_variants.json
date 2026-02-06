@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6afcf9bde1b35c96f0b081bf1a17607bcb61d86f8ac91bf785dfb1c23f8a1c31
-size 145
+{
+  "original_symbol": "MSFT",
+  "variants": [
+    "MSFT"
+  ],
+  "note": "This script picks the best variant per endpoint and caches it."
+}

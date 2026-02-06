@@ -1,3 +1,2619 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6de4bdfffcedb7b1902efcb21fffca390e3c4869c37b1355e1473b63dc3b2df
-size 117332
+{
+  "response": {
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+      {
+        "title": "Tesla hit with another wrongful death suit over its electronic door handles",
+        "url": "https://www.theverge.com/transportation/874283/tesla-door-handle-wrongful-death-tremblett",
+        "time_published": "20260205T140225",
+        "authors": [
+          "Andrew J. Hawkins"
+        ],
+        "summary": "Tesla is facing another wrongful death lawsuit concerning its electronic door handles after a 20-year-old man died in a burning Model Y, unable to escape. The lawsuit alleges negligent design and highlights that this is one of at least 15 fatalities since 2016 attributed to occupants being trapped in Teslas due to these door mechanisms. Federal regulators are investigating, and Tesla has stated they are redesigning the combined electronic and manual door release.",
+        "banner_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2245657574.jpg?quality=90&strip=all&crop=0.012500000000003%2C0%2C99.975%2C100&w=2400",
+        "source": "The Verge",
+        "category_within_source": "General",
+        "source_domain": "The Verge",
+        "topics": [
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.908653"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.813256"
+          }
+        ],
+        "overall_sentiment_score": -0.704078,
+        "overall_sentiment_label": "Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "TSLA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.737931",
+            "ticker_sentiment_label": "Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Cummins (NYSE:CMI) Posts Better-Than-Expected Sales In Q4 CY2025",
+        "url": "https://finviz.com/news/301181/cummins-nyse-cmi-posts-better-than-expected-sales-in-q4-cy2025",
+        "time_published": "20260205T134650",
+        "authors": [
+          "Kayode Omotosho"
+        ],
+        "summary": "Cummins (NYSE:CMI) reported better-than-expected revenue in Q4 CY2025, with sales increasing 1.1% year-on-year to $8.54 billion, surpassing analyst estimates. Despite robust sales and record full-year results in its Distribution and Power Systems segments, GAAP EPS missed expectations at $4.27 per share. The company's stock dipped slightly post-announcement, indicating mixed market reaction to the results.",
+        "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/cummins-cover-image-0f6bc7443fea_2024-06-26-071200_vzzb.jpeg",
+        "source": "Finviz",
+        "category_within_source": "General",
+        "source_domain": "Finviz",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.818010"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.713877"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.638688"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.608056"
+          }
+        ],
+        "overall_sentiment_score": 0.079652,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "CMI",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.255700",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.556220",
+            "ticker_sentiment_score": "-0.110342",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.584274",
+            "ticker_sentiment_score": "0.095288",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.579722",
+            "ticker_sentiment_score": "0.076223",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.560691",
+            "ticker_sentiment_score": "0.068922",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Microchip Technology and Hyundai Motor Group Collaborate to Explore 10BASE-T1S Single Pair Ethernet for Future Automotive Connectivity",
+        "url": "https://www.globenewswire.com/news-release/2026/02/05/3232930/0/en/Microchip-Technology-and-Hyundai-Motor-Group-Collaborate-to-Explore-10BASE-T1S-Single-Pair-Ethernet-for-Future-Automotive-Connectivity.html",
+        "time_published": "20260205T132908",
+        "authors": [],
+        "summary": "Microchip Technology and Hyundai Motor Group have announced a collaboration to evaluate and promote the adoption of 10BASE-T1S Single Pair Ethernet (SPE) technology for future automotive connectivity. This initiative aims to develop more efficient, reliable, and scalable vehicle architectures by simplifying wiring, lowering system costs, and streamlining network integration. The partnership will focus on integrating Microchip's 10BASE-T1S solutions into Hyundai's future vehicle platforms, particularly for electric vehicles, autonomous driving, and smart mobility.",
+        "banner_image": "https://ml.globenewswire.com/media/YWQzNWI1YzctMDcxNi00NTgwLWEzYmUtYWJmOGRkMDQ4ZDgyLTEwMTYzNDktMjAyNi0wMi0wNS1lbg==/tiny/Microchip-Technology-Inc-.png",
+        "source": "GlobeNewswire",
+        "category_within_source": "General",
+        "source_domain": "GlobeNewswire",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.841579"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.746397"
+          }
+        ],
+        "overall_sentiment_score": 0.256184,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "MCHPP",
+            "relevance_score": "0.306308",
+            "ticker_sentiment_score": "0.029246",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MCHP",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.630348",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.639598",
+            "ticker_sentiment_score": "0.247750",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GM",
+            "relevance_score": "0.635941",
+            "ticker_sentiment_score": "0.242565",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.627888",
+            "ticker_sentiment_score": "0.214668",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "GM CFO Says Automaker Can Absorb EV Losses: TDS",
+        "url": "https://www.thedrive.com/news/gm-cfo-says-automaker-can-absorb-ev-losses-tds",
+        "time_published": "20260205T123406",
+        "authors": [
+          "Joel Feder"
+        ],
+        "summary": "General Motors CFO Paul Jacobson stated that GM can absorb short-term losses from its electric vehicle division thanks to the profitability of its gas-powered trucks and SUVs. This strategy aims to allow GM to grow its EV market share and achieve long-term profitability within three to five years. The article also touches on other automotive news, including losses for Tata Motors and Volvo, and sales declines for Ford.",
+        "banner_image": "https://www.thedrive.com/wp-content/uploads/2026/02/untitled-0084-e1770294371114.jpg?quality=85&w=2048",
+        "source": "The Drive",
+        "category_within_source": "General",
+        "source_domain": "The Drive",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.906938"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.935200"
+          }
+        ],
+        "overall_sentiment_score": -0.079405,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "GM",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.267802",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.712097",
+            "ticker_sentiment_score": "-0.241566",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.575610",
+            "ticker_sentiment_score": "-0.286127",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Coca-Cola Europacific Partners $CCEP Shares Sold by Cullen Capital Management LLC",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-coca-cola-europacific-partners-ccep-shares-sold-by-cullen-capital-management-llc-2026-02-05/",
+        "time_published": "20260205T121419",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Cullen Capital Management LLC reduced its stake in Coca-Cola Europacific Partners (CCEP) by 9.8% in the third quarter, selling 56,417 shares and retaining 520,359 shares valued at $47.0 million. Despite the sale, analyst sentiment remains largely positive with a \"Moderate Buy\" consensus rating and an average price target of $100.80. The company's stock recently opened at $94.85, with a 12-month trading range of $78.00–$100.67.",
+        "banner_image": "https://www.marketbeat.com/logos/coca-cola-europacific-partners-plc-logo-1200x675.jpg?v=20231226131737",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.949553"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.806502"
+          },
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.610686"
+          }
+        ],
+        "overall_sentiment_score": 0.073267,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "KO",
+            "relevance_score": "0.736633",
+            "ticker_sentiment_score": "0.285056",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.626482",
+            "ticker_sentiment_score": "0.231142",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.647356",
+            "ticker_sentiment_score": "-0.128381",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NFLX",
+            "relevance_score": "0.574080",
+            "ticker_sentiment_score": "-0.076298",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.585358",
+            "ticker_sentiment_score": "-0.070981",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "What's the Best Car of 2026? | Videos",
+        "url": "https://www.cars.com/videos/whats-the-best-car-of-2026-6388773407112/",
+        "time_published": "20260205T113244",
+        "authors": [
+          "Cars.com Editors"
+        ],
+        "summary": "The article highlights the Nissan Leaf as Cars.com's \"Best Car of 2026\" due to its redesign, affordability, impressive range, and innovative features. Reviewers praised its starting price under $32,000, 303-mile range, built-in NACS port for Tesla Supercharger access, and an appealing interior with advanced technology. The car also provides a comfortable driving experience, making it a well-rounded electric vehicle.",
+        "banner_image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1578086878/438589db-f39b-470a-b9ab-40ca64c26029/1d92667c-e0f3-422d-98eb-78994319a4c1/1280x720/match/image.jpg",
+        "source": "Cars.com",
+        "category_within_source": "General",
+        "source_domain": "Cars.com",
+        "topics": [
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.730370"
+          }
+        ],
+        "overall_sentiment_score": 0.196354,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "CARS",
+            "relevance_score": "0.346631",
+            "ticker_sentiment_score": "0.010280",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.724190",
+            "ticker_sentiment_score": "0.342816",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.607160",
+            "ticker_sentiment_score": "0.248733",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GM",
+            "relevance_score": "0.641419",
+            "ticker_sentiment_score": "0.217466",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "After Earnings, Is Tesla Stock a Buy, a Sell, or Fairly Valued?",
+        "url": "https://www.morningstar.com/stocks/after-earnings-is-tesla-stock-buy-sell-or-fairly-valued-11",
+        "time_published": "20260205T110642",
+        "authors": [
+          "Seth Goldstein",
+          "CFA"
+        ],
+        "summary": "Morningstar maintains a narrow economic moat rating and a \"Very High\" uncertainty rating for Tesla. Following its Q4 earnings, Morningstar raised its fair value estimate for Tesla to $400 per share from $300, driven by robotaxi valuation, autonomous driving software adoption, and the humanoid robot business. Despite this, Tesla shares are currently considered fairly valued, trading about 10% above the fair value estimate, placing them in 3-star territory due to expected volatility as new products progress.",
+        "banner_image": "https://cloudfront-us-east-1.images.arcpublishing.com/morningstar/ECL2DOEB4ZHYZJZBQBIMCKZ2HM.jpg",
+        "source": "Morningstar",
+        "category_within_source": "General",
+        "source_domain": "Morningstar",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.943846"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.821758"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.720071"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.628491"
+          }
+        ],
+        "overall_sentiment_score": 0.066155,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "TSLA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.079593",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.629461",
+            "ticker_sentiment_score": "-0.147012",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.575475",
+            "ticker_sentiment_score": "0.099408",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GM",
+            "relevance_score": "0.556225",
+            "ticker_sentiment_score": "0.063477",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.591554",
+            "ticker_sentiment_score": "0.098821",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Tesla Rival Nio Expects Its First Profitable Quarter",
+        "url": "https://www.benzinga.com/markets/guidance/26/02/50404256/tesla-rival-nio-expects-its-first-profitable-quarter",
+        "time_published": "20260205T105755",
+        "authors": [
+          "Anusuya Lahiri"
+        ],
+        "summary": "Nio (NYSE: NIO) stock surged after the company announced an expected adjusted profit from operations for the fourth quarter of 2025, ranging from 0.7 billion to 1.2 billion Chinese yuan, signaling a strong turnaround from the previous year's loss. The company also reported robust January deliveries, with a 96.1% year-over-year increase, and continues to invest in advanced EV technologies and its battery swapping network. Nio shares were up significantly in premarket trading.",
+        "banner_image": "https://cdn.benzinga.com/files/images/story/2026/02/05/Wuhan-china-may-2021-Front-Of-Nio-Electr.jpeg?quality=85&auto=webp&width=850",
+        "source": "Benzinga",
+        "category_within_source": "General",
+        "source_domain": "Benzinga",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.924628"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.811530"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.714830"
+          }
+        ],
+        "overall_sentiment_score": 0.296913,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "NIO",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.427070",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.704799",
+            "ticker_sentiment_score": "0.101260",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Apple Inc. $AAPL Shares Sold by St. Johns Investment Management Company LLC",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-shares-sold-by-st-johns-investment-management-company-llc-2026-02-05/",
+        "time_published": "20260205T082732",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "St. Johns Investment Management Company LLC reduced its stake in Apple Inc. by 4.6% in the third quarter, while several other institutional investors either increased their positions or initiated new ones. Analyst ratings for Apple are largely positive, with an average rating of \"Moderate Buy\" and a price target of $291.70. The company reported strong Q1 earnings, beating consensus estimates, and recently declared a quarterly dividend.",
+        "banner_image": "https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.943534"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.847777"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.702774"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.804625"
+          }
+        ],
+        "overall_sentiment_score": 0.16559,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "AAPL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.344131",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.624963",
+            "ticker_sentiment_score": "0.122670",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "META",
+            "relevance_score": "0.616322",
+            "ticker_sentiment_score": "0.108058",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.629136",
+            "ticker_sentiment_score": "0.101959",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.631880",
+            "ticker_sentiment_score": "0.026126",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "GraniteShares 2x Short TSLA Daily ETF (NASDAQ:TSDD) Stock Price Up 7.4% – Still a Buy?",
+        "url": "https://www.defenseworld.net/2026/02/05/graniteshares-2x-short-tsla-daily-etf-nasdaqtsdd-stock-price-up-7-4-still-a-buy.html",
+        "time_published": "20260205T081820",
+        "authors": [
+          "Defense World Staff"
+        ],
+        "summary": "GraniteShares 2x Short TSLA Daily ETF (NASDAQ:TSDD) saw its stock price increase by 7.4% on Wednesday, with 32,087,790 shares traded. The ETF, which provides 2x inverse leveraged exposure to Tesla stock, recently announced a monthly dividend of $0.651 per share. Several institutional investors, including SBI Securities Co. Ltd. and Optiver Holding B.V., have either increased or initiated stakes in TSDD.",
+        "banner_image": "https://www.marketbeat.com/logos/graniteshares-2x-short-tsla-daily-etf-logo-1200x675.png?v=20251021103258",
+        "source": "Defense World",
+        "category_within_source": "General",
+        "source_domain": "Defense World",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.922447"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.713741"
+          }
+        ],
+        "overall_sentiment_score": -0.146634,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "TSDD",
+            "relevance_score": "0.317131",
+            "ticker_sentiment_score": "0.048469",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.720227",
+            "ticker_sentiment_score": "-0.210207",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Tweedy Browne CO LLC Reduces Alphabet Inc. Stake",
+        "url": "https://www.tipranks.com/news/company-announcements/tweedy-browne-co-llc-reduces-alphabet-inc-stake",
+        "time_published": "20260205T030657",
+        "authors": [],
+        "summary": "Tweedy Browne CO LLC recently reduced its stake in Alphabet Inc. Class C (GOOG) by 6,272 shares. Despite this reduction, Alphabet Inc. Class C has seen a strong uptrend, with Wall Street maintaining a Strong Buy consensus due to the company's accelerating AI strategy and robust Google Cloud and Search outlook. Spark, TipRanks’ AI Analyst, rates GOOG as Outperform, citing strong financial performance and strategic investments in AI and cloud services as key drivers for its positive long-term outlook.",
+        "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Consumer-Cylical-4-750x406.jpg",
+        "source": "TipRanks",
+        "category_within_source": "General",
+        "source_domain": "TipRanks",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.938899"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.815403"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.706874"
+          }
+        ],
+        "overall_sentiment_score": -0.049453,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.959868",
+            "ticker_sentiment_score": "0.300294",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.635460",
+            "ticker_sentiment_score": "-0.346480",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.605229",
+            "ticker_sentiment_score": "-0.374498",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "AMZN",
+            "relevance_score": "0.622789",
+            "ticker_sentiment_score": "0.322676",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Lemonade (NYSE:LMND) CEO Daniel Schreiber Sells 9,108 Shares",
+        "url": "https://www.marketbeat.com/instant-alerts/lemonade-nyselmnd-ceo-daniel-schreiber-sells-9108-shares-2026-02-04/",
+        "time_published": "20260205T022821",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Lemonade (NYSE:LMND) CEO Daniel Schreiber sold 9,108 shares of the company's stock on January 23rd for over $902,000, reducing his position by 0.60%. The sale occurred as the stock traded down to $74.03, below its 50-day moving average but above its 200-day average. Despite beating recent EPS and revenue estimates, Lemonade remains unprofitable, and analysts currently have a \"Hold\" rating on the stock with an average price target of $71.50.",
+        "banner_image": "https://www.marketbeat.com/logos/lemonade-inc-logo-1200x675.png?v=20240515131932",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.937586"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.811564"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.639628"
+          }
+        ],
+        "overall_sentiment_score": 0.014231,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "LMND",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.228212",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.618903",
+            "ticker_sentiment_score": "0.108533",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TXN",
+            "relevance_score": "0.574513",
+            "ticker_sentiment_score": "0.147845",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Cathie Wood’s ARK sells Teradyne stock, buys AMD and Tesla",
+        "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-teradyne-stock-buys-amd-and-tesla-93CH-4486396",
+        "time_published": "20260205T011135",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Cathie Wood's ARK Invest has strategically reallocated its portfolio, selling a significant number of Teradyne Inc. shares while increasing its holdings in Advanced Micro Devices Inc. and Tesla Inc. These moves indicate ARK's continued confidence in the semiconductor and electric vehicle sectors, alongside new investments in AI and biotechnology companies. The transactions reflect a tactical shift within ARK's ETFs, with investors closely watching the implications for its overall investment strategy.",
+        "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.812109"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.717846"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.633460"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.632833"
+          }
+        ],
+        "overall_sentiment_score": 0.001466,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "TER",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.447708",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.943025",
+            "ticker_sentiment_score": "0.430937",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.828102",
+            "ticker_sentiment_score": "0.410916",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "TTD",
+            "relevance_score": "0.604004",
+            "ticker_sentiment_score": "-0.448168",
+            "ticker_sentiment_label": "Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Adient Looks Well Poised to Remain in the Top Two of Automotive Seating",
+        "url": "https://www.morningstar.com/company-reports/1424002-adient-looks-well-poised-to-remain-in-the-top-two-of-automotive-seating",
+        "time_published": "20260205T003046",
+        "authors": [
+          "David Whiston"
+        ],
+        "summary": "Adient, the automotive seating business formerly part of Johnson Controls, maintains its strong position as one of the top two players globally. The article highlights the strategic importance of seating suppliers due to the difficulty of replacing incumbents, the need for consistent, high-quality delivery, and the potential for growth driven by autonomous and electric vehicles. Adient's ability to adapt to new seating configurations and electronics content is seen as a key advantage.",
+        "banner_image": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/-th2RPrJS9VtsDETKiMK-C8aUDA=/2000x2000/author-service-images-prod-us-east-1.publishing.aws.arc.pub/morningstar/222a1c0d-911c-4064-ac93-f9d4516d0a06.jpg",
+        "source": "Morningstar",
+        "category_within_source": "General",
+        "source_domain": "Morningstar",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.824853"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.700753"
+          }
+        ],
+        "overall_sentiment_score": 0.105401,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "ADNT",
+            "relevance_score": "0.313128",
+            "ticker_sentiment_score": "0.016600",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "JCI",
+            "relevance_score": "0.744807",
+            "ticker_sentiment_score": "0.123522",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.630057",
+            "ticker_sentiment_score": "0.104626",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GM",
+            "relevance_score": "0.628304",
+            "ticker_sentiment_score": "0.106947",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.615820",
+            "ticker_sentiment_score": "0.118671",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Eagle Point sells acres commercial realty (ACR) stock worth $118,216",
+        "url": "https://www.investing.com/news/insider-trading-news/eagle-point-sells-acres-commercial-realty-acr-stock-worth-118216-93CH-4486349",
+        "time_published": "20260205T001128",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Eagle Point Credit Management LLC, a significant owner in ACRES Commercial Realty Corp (NASDAQ:ACR), has sold preferred stock totaling $118,216 across different transactions between February 2nd and February 4th, 2026. The sales involved both Series D and Series C preferred stocks at varying prices. Despite these sales, Eagle Point still retains substantial holdings in both preferred and common stock of ACRES Commercial Realty Corp.",
+        "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.915617"
+          },
+          {
+            "topic": "real_estate",
+            "relevance_score": "0.827922"
+          }
+        ],
+        "overall_sentiment_score": -0.216902,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "ACR-P-D",
+            "relevance_score": "0.336631",
+            "ticker_sentiment_score": "0.040811",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.563940",
+            "ticker_sentiment_score": "-0.310190",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.558339",
+            "ticker_sentiment_score": "-0.311076",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.550038",
+            "ticker_sentiment_score": "-0.324591",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.540231",
+            "ticker_sentiment_score": "-0.113422",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "General Motors Stock: Can Detroit’s Old Guard Still Outrun Wall Street’s Doubts?",
+        "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/general-motors-stock-can-detroit-s-old-guard-still-outrun-wall/68552476",
+        "time_published": "20260204T234251",
+        "authors": [],
+        "summary": "General Motors stock is currently trading at a significant discount despite the company's efforts to reinvent itself through EVs, software, and capital returns. While some investors see it as a value play due to rising profits and aggressive buybacks, skeptics point to union costs and the challenges of electrification. The article explores GM's one-year investment performance, recent catalysts like strong earnings and capital allocation, Wall Street's cautious endorsement, and its future strategy focused on profitable ICE vehicles, disciplined EV rollout, and monetizing software and services, acknowledging the inherent risks but also the potential for upside if the market re-rates the stock.",
+        "banner_image": "https://mdb.ad-hoc-news.de/img/logos/logo_264x69.jpg",
+        "source": "AD HOC NEWS",
+        "category_within_source": "General",
+        "source_domain": "AD HOC NEWS",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.932597"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.842528"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.648987"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.907769"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.724447"
+          }
+        ],
+        "overall_sentiment_score": 0.068364,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "GM",
+            "relevance_score": "0.957418",
+            "ticker_sentiment_score": "0.210881",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.570698",
+            "ticker_sentiment_score": "-0.123737",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Uber Earnings: Network Effect Is Strengthening, but Future AV Impact Remains Uncertain",
+        "url": "https://www.morningstar.com/stocks/uber-earnings-network-effect-is-strengthening-future-av-impact-remains-uncertain",
+        "time_published": "20260204T231807",
+        "authors": [
+          "Mark Giarelli"
+        ],
+        "summary": "Morningstar has lowered its fair value estimate for Uber stock to $85 from $93, maintaining a narrow moat rating, despite strong network effects visible in accelerating user growth and food delivery. The reduction reflects persistent uncertainty about the impact of autonomous vehicles, as companies like Waymo and Tesla seem more inclined to control rider relationships directly rather than through partnerships. While Uber's two-sided marketplace remains strong, the long-term question of its asset-light model versus the need for AV investment creates a significant headwind, making shares appear cheap but recommending investment only if they drop to the $60 range.",
+        "banner_image": "https://cloudfront-us-east-1.images.arcpublishing.com/morningstar/HVMUEKV25FHMDLG4QNZBD7AHX4.jpg",
+        "source": "Morningstar",
+        "category_within_source": "General",
+        "source_domain": "Morningstar",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.928236"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.819803"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.720925"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.629022"
+          }
+        ],
+        "overall_sentiment_score": -0.139165,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "UBER",
+            "relevance_score": "0.993129",
+            "ticker_sentiment_score": "-0.250833",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.605131",
+            "ticker_sentiment_score": "0.043901",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "DASH",
+            "relevance_score": "0.575415",
+            "ticker_sentiment_score": "-0.141195",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Tesla Sued Over Crash That Trapped, Killed Massachusetts Driver",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-04/tesla-sued-over-crash-that-trapped-killed-massachusetts-driver",
+        "time_published": "20260204T221553",
+        "authors": [
+          "Dana Hull and Madlin Mekelburg"
+        ],
+        "summary": "Tesla Inc. is being sued over a fatal crash in Massachusetts where the driver, Samuel Tremblett, 20, was trapped and killed after his Model Y SUV caught fire. The lawsuit alleges defects with the company's electrically powered door handles, preventing Tremblett from exiting the vehicle after the initial impact. This incident is among several lawsuits citing issues with Tesla's door mechanisms.",
+        "banner_image": null,
+        "source": "Bloomberg.com",
+        "category_within_source": "General",
+        "source_domain": "Bloomberg.com",
+        "topics": [
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.826857"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.707812"
+          }
+        ],
+        "overall_sentiment_score": -0.714881,
+        "overall_sentiment_label": "Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "TSLA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.703339",
+            "ticker_sentiment_label": "Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Sam Altman Pushes Back On Report Claiming OpenAI Unhappy With Jensen Huang-Led Company's AI Chips Alternatives: 'Love' Working With Nvidia",
+        "url": "https://finance.yahoo.com/news/sam-altman-pushes-back-report-213000823.html",
+        "time_published": "20260204T213000",
+        "authors": [
+          "Ananya Gairola"
+        ],
+        "summary": "OpenAI CEO Sam Altman strongly denied reports suggesting the company was unhappy with Nvidia's AI chips and seeking alternatives, reaffirming their close partnership. Altman stated OpenAI \"loves working with Nvidia\" and considers them the \"best AI chips in the world,\" expecting to remain a \"gigantic customer.\" While acknowledging OpenAI's expanding partnerships with other chipmakers to meet growing compute needs, a senior OpenAI executive confirmed Nvidia remains their most important partner and the core of their compute infrastructure.",
+        "banner_image": null,
+        "source": "Yahoo Finance",
+        "category_within_source": "General",
+        "source_domain": "Yahoo Finance",
+        "topics": [
+          {
+            "topic": "technology",
+            "relevance_score": "0.928961"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.731702"
+          }
+        ],
+        "overall_sentiment_score": 0.168892,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "NVDA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.489626",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.713293",
+            "ticker_sentiment_score": "0.104286",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AVGO",
+            "relevance_score": "0.620856",
+            "ticker_sentiment_score": "0.146720",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.575524",
+            "ticker_sentiment_score": "0.066513",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.582582",
+            "ticker_sentiment_score": "0.097212",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Uber’s mixed fourth quarter report keeps analysts on the sidelines",
+        "url": "https://ca.finance.yahoo.com/news/uber-mixed-fourth-quarter-report-205600799.html",
+        "time_published": "20260204T205923",
+        "authors": [],
+        "summary": "Wedbush analysts have reiterated a 'Neutral' rating on Uber Technologies Inc (NYSE:UBER) following its mixed fourth-quarter results and guidance. While Uber's Q4 gross bookings exceeded expectations, its non-GAAP EPS and Q1 adjusted EBITDA and EPS guidance fell below consensus. Analysts expressed concerns about the long-term competitive risks from autonomous vehicles and their potential impact on Uber's market position and profitability.",
+        "banner_image": "https://s.yimg.com/ny/api/res/1.2/98iwa_.E5734BiB9dKbbag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MQ--/https://media.zenfs.com/en/proactive_us_504/a7dc7718a3c814b4e764dd2baf9e88b2",
+        "source": "Yahoo! Finance Canada",
+        "category_within_source": "General",
+        "source_domain": "Yahoo! Finance Canada",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.923955"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.820567"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.713399"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.642914"
+          }
+        ],
+        "overall_sentiment_score": -0.150867,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "UBER",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.272663",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.648382",
+            "ticker_sentiment_score": "0.009641",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Asset sales lift Matthews International (MATW) to $43.6M quarterly profit",
+        "url": "https://www.stocktitan.net/sec-filings/MATW/10-q-matthews-international-corp-quarterly-earnings-report-893066287417.html",
+        "time_published": "20260204T200003",
+        "authors": [],
+        "summary": "Matthews International (MATW) reported a significant quarterly profit of $43.6 million, a substantial improvement from a $3.5 million loss in the prior year, primarily due to a $113.2 million gain from divestitures. The company's sales decreased to $284.8 million following the contribution of its SGK brand business to a joint venture and the sale of other European operations. These divestitures also helped reduce the company's total debt from $710.8 million to $537.0 million, and allowed for the redemption of $300 million in senior secured notes.",
+        "banner_image": null,
+        "source": "Stock Titan",
+        "category_within_source": "General",
+        "source_domain": "Stock Titan",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.925299"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.815810"
+          },
+          {
+            "topic": "mergers_and_acquisitions",
+            "relevance_score": "0.712379"
+          }
+        ],
+        "overall_sentiment_score": 0.169645,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "MATW",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.421341",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.877462",
+            "ticker_sentiment_score": "-0.156096",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Verizon Communications stock hits 52-week high at 47.38 USD",
+        "url": "https://www.investing.com/news/company-news/verizon-communications-stock-hits-52week-high-at-4738-usd-93CH-4485879",
+        "time_published": "20260204T194235",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Verizon Communications stock reached a 52-week high of $47.38, driven by positive market sentiment, strategic initiatives, and consistent revenue growth of 2.52%. The company has maintained dividend payments for 43 consecutive years, with 21 years of raises, and analysts remain optimistic about its future prospects, supported by a strong Q4 performance and ongoing strategic adjustments. InvestingPro assesses Verizon as undervalued, given its 6.12% dividend yield and P/E ratio of 11.62.",
+        "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.901641"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.937662"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.701597"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.604557"
+          }
+        ],
+        "overall_sentiment_score": 0.039411,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "VZ",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.504437",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.626837",
+            "ticker_sentiment_score": "0.005294",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.575657",
+            "ticker_sentiment_score": "-0.349300",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.552493",
+            "ticker_sentiment_score": "-0.312117",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.595495",
+            "ticker_sentiment_score": "0.265678",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Lemonade’s Tesla Autonomous Insurance Raises New Questions For Investors",
+        "url": "https://simplywall.st/stocks/us/insurance/nyse-lmnd/lemonade/news/lemonades-tesla-autonomous-insurance-raises-new-questions-fo",
+        "time_published": "20260204T192821",
+        "authors": [
+          "Simply Wall St"
+        ],
+        "summary": "Lemonade (NYSE:LMND) has launched a new autonomous car insurance product specifically for Tesla models with full self-driving (FSD) capabilities, developed in collaboration with Tesla. This digital-first, usage-based offering leverages real-time vehicle data, aligning with Lemonade's brand strategy. Investors should consider how this product will influence loss patterns, pricing power, and customer acquisition, as well as monitor its uptake and any expansion to other automakers.",
+        "banner_image": null,
+        "source": "Simply Wall Street",
+        "category_within_source": "General",
+        "source_domain": "Simply Wall Street",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.901898"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.845139"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.737976"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.611108"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.618000"
+          }
+        ],
+        "overall_sentiment_score": 0.154131,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "LMND",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.192399",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.715620",
+            "ticker_sentiment_score": "0.119549",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Nutriband shareholders approve proposals and expand board leadership",
+        "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/27217/nutriband-shareholders-approve-proposals-and-expand-board-leadership/",
+        "time_published": "20260204T185837",
+        "authors": [],
+        "summary": "Nutriband (NTRB) shareholders approved several proposals at their 2026 Annual Meeting, including the election of seven directors, ratification of an independent audit firm, and an increase in authorized preferred shares. The company's Board also appointed two new directors, Alessandro Puddu and Viorica Carlig, adding expertise in finance, corporate advisory, and aviation. Despite a \"Neutral\" rating from TipRanks' AI Analyst due to challenging financial performance, the company's recent corporate actions are seen as a positive for shareholder value.",
+        "banner_image": "https://www.theglobeandmail.com/resizer/v2/7ZA3WCK7VVDZDJUA7NIDGLC24Y.JPG?auth=0996453c4fd8ab889b640d6e32d57a67ac24b07cd75f8dced5ca45ad8fc75d15&width=300&height=200&quality=80&smart=true",
+        "source": "The Globe and Mail",
+        "category_within_source": "General",
+        "source_domain": "The Globe and Mail",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.949879"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.840800"
+          }
+        ],
+        "overall_sentiment_score": 0.048616,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "NTRB",
+            "relevance_score": "0.966627",
+            "ticker_sentiment_score": "0.441482",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "SMCI",
+            "relevance_score": "0.627704",
+            "ticker_sentiment_score": "0.111493",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.563037",
+            "ticker_sentiment_score": "-0.111584",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.556504",
+            "ticker_sentiment_score": "-0.324693",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "China Just Banned a Feature Central to Tesla’s Car Designs",
+        "url": "https://www.inc.com/ava-levinson/china-bans-electronic-car-door-handles/91297401",
+        "time_published": "20260204T182835",
+        "authors": [
+          "AVA LEVINSON"
+        ],
+        "summary": "China has mandated that all car doors must be mechanically openable from both the inside and outside, a regulation set to take effect in 2027. This move effectively bans electronic door handles, like those found in Tesla vehicles, due to safety concerns raised after reports of failures in crashes or malfunctions. The U.S. National Highway Traffic Safety Administration is also investigating similar issues with electronic door handles and manual release mechanisms in several car models, including Teslas.",
+        "banner_image": "https://img-cdn.inc.com/image/upload/f_webp,c_fit,w_1920,q_auto/vip/2026/02/china-bans-electric-handle.jpg",
+        "source": "Inc.com",
+        "category_within_source": "General",
+        "source_domain": "Inc.com",
+        "topics": [
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.934594"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.817245"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.613210"
+          }
+        ],
+        "overall_sentiment_score": -0.160021,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "TSLA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.298069",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.616012",
+            "ticker_sentiment_score": "-0.114536",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GM",
+            "relevance_score": "0.612395",
+            "ticker_sentiment_score": "-0.111941",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Global rounds of funding value jumps 34% in January, led by X.AI",
+        "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/2/global-rounds-of-funding-value-jumps-34-in-january-led-by-x-ai-97820031",
+        "time_published": "20260204T173120",
+        "authors": [
+          "Joyce Guevarra"
+        ],
+        "summary": "Global private-equity and venture-capital funding rounds saw a 34% increase in value in January, totaling $45.54 billion, predominantly driven by a $20 billion funding round for AI firm X.AI LLC. While the total value surged, the number of funding rounds decreased by 26% month-over-month to 947, marking the lowest monthly tally since January 2024. The technology, media, and telecommunications (TMT) sector accounted for the majority of the funding, raising $30.10 billion, or 66.1% of the month's total capital.",
+        "banner_image": "https://www.capitaliq.spglobal.com/Articles/432689053.png",
+        "source": "S&P Global",
+        "category_within_source": "General",
+        "source_domain": "S&P Global",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.912324"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.837203"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.742606"
+          },
+          {
+            "topic": "mergers_and_acquisitions",
+            "relevance_score": "0.613401"
+          }
+        ],
+        "overall_sentiment_score": 0.371664,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "SPGI",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.224181",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "CSCO",
+            "relevance_score": "0.801224",
+            "ticker_sentiment_score": "0.438360",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.743129",
+            "ticker_sentiment_score": "0.425779",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.705265",
+            "ticker_sentiment_score": "0.447384",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "IBM",
+            "relevance_score": "0.627949",
+            "ticker_sentiment_score": "0.344712",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "YieldMax Short TSLA Option Income Strategy ETF declares $0.2517 dividend",
+        "url": "https://www.msn.com/en-us/money/topstocks/yieldmax-short-tsla-option-income-strategy-etf-declares-0-2517-dividend/ar-AA1VFkaz?ocid=finance-verthp-feeds",
+        "time_published": "20260204T172922",
+        "authors": [],
+        "summary": "The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has declared a monthly dividend of $0.2517 per share. This distribution is payable to shareholders of record as of the close of business on February 7, 2026. The ex-dividend date is February 6, 2026, and the payment will be made on February 9, 2026.",
+        "banner_image": null,
+        "source": "MSN",
+        "category_within_source": "General",
+        "source_domain": "MSN",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.921185"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.831028"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.715729"
+          }
+        ],
+        "overall_sentiment_score": 0.08871,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "CRSH",
+            "relevance_score": "0.328288",
+            "ticker_sentiment_score": "0.048642",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.731171",
+            "ticker_sentiment_score": "0.126453",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Tesla, Musk likely can't escape 'Blade Runner 2049' lawsuit, judge says",
+        "url": "https://www.reuters.com/legal/litigation/tesla-musk-likely-cant-escape-blade-runner-2049-lawsuit-judge-says-2026-02-04/",
+        "time_published": "20260204T165806",
+        "authors": [
+          "Blake Brittain"
+        ],
+        "summary": "A U.S. District Judge has indicated that Tesla and Elon Musk will likely not be able to dismiss a copyright infringement lawsuit filed by Alcon Entertainment. The lawsuit alleges that Tesla and Musk misused imagery from the film \"Blade Runner 2049\" to promote Tesla's autonomous cybercab, specifically by using AI-generated images that mimicked the movie's visuals without permission. This marks the second time the judge has declined to dismiss Alcon's copyright claims, though trademark claims were dismissed last year.",
+        "banner_image": "https://www.reuters.com/resizer/v2/VYQ4W22BIRM4VG2CED6RTCHVIY.jpg?auth=1a9791c8960b1d8acea73f4f9090777d591570c3c775fda1e301044938799e87&width=1920&quality=80",
+        "source": "Reuters",
+        "category_within_source": "General",
+        "source_domain": "Reuters",
+        "topics": [
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.724152"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.807451"
+          }
+        ],
+        "overall_sentiment_score": -0.151242,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "TSLA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.217492",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "WBD",
+            "relevance_score": "0.620320",
+            "ticker_sentiment_score": "-0.141794",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Uber Technologies Q4 2025 Earnings Call Transcript",
+        "url": "https://www.benzinga.com/markets/earnings/26/02/50382713/uber-technologies-q4-2025-earnings-call-transcript",
+        "time_published": "20260204T162933",
+        "authors": [
+          "Alex Perry"
+        ],
+        "summary": "Uber Technologies (NYSE: UBER) released its Q4 2025 earnings conference call transcript, where CEO Dara Khosrowshahi and incoming CFO Balaji Krishnamurthy discussed the company's strong financial performance, including a $15 billion annual run rate for trips and $9.8 billion in free cash flow. A significant portion of the call focused on the strategic importance of autonomous vehicles (AVs) for future growth, with Uber partnering with various AV providers and aiming to be in 15 cities by year-end. The company also highlighted continued growth in delivery services, membership programs, and expansion into less dense and international markets, emphasizing that AVs are expected to be a net positive growth driver rather than a replacement for existing services.",
+        "banner_image": "https://cdn.benzinga.com/files/images/story/2026/02/04/Alanya--Turkey---November-7--2023-Apple-.jpeg?quality=85&auto=webp&width=850",
+        "source": "Benzinga",
+        "category_within_source": "General",
+        "source_domain": "Benzinga",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.817686"
+          }
+        ],
+        "overall_sentiment_score": 0.416501,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "UBER",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.479648",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.619159",
+            "ticker_sentiment_score": "0.302644",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "US Stock Market Outlook: Where We See Investing Opportunities in February",
+        "url": "https://www.morningstar.com/markets/us-stock-market-outlook-where-we-see-investing-opportunities-february",
+        "time_published": "20260204T155951",
+        "authors": [
+          "David Sekera",
+          "CFA"
+        ],
+        "summary": "The US equity market is currently trading at a 5% discount to Morningstar's fair value estimates, with growth stocks now discounted following significant fair value increases and small-cap stocks remaining particularly attractive. The greatest fair value increases were seen in commodity-oriented, late-cycle technology stocks. Investors are advised to market-weight equities and consider a barbell-shaped portfolio to navigate expected volatility in 2026, balancing technology and AI stocks with high-quality value stocks.",
+        "banner_image": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/mrI7osC4qZZJ6rnZINgZoZD39i0=/2000x2000/author-service-images-prod-us-east-1.publishing.aws.arc.pub/morningstar/54f9f69f-0232-435e-9557-5edc4b17c660.jpg",
+        "source": "Morningstar",
+        "category_within_source": "General",
+        "source_domain": "Morningstar",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.943194"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.801762"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.732595"
+          }
+        ],
+        "overall_sentiment_score": 0.278097,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "MORN",
+            "relevance_score": "0.806884",
+            "ticker_sentiment_score": "0.226904",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.771412",
+            "ticker_sentiment_score": "0.491239",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.702477",
+            "ticker_sentiment_score": "0.231948",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.694846",
+            "ticker_sentiment_score": "0.120818",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Ford EV Sales Crash 69% in January Amid Policy and Production Changes",
+        "url": "https://eletric-vehicles.com/ford/ford-ev-sales-crash-69-in-january-amid-policy-and-production-changes/",
+        "time_published": "20260204T155854",
+        "authors": [
+          "Matilde Alves"
+        ],
+        "summary": "Ford experienced a significant 69% drop in electric vehicle sales in January 2026 compared to the previous year and month, selling only 1,743 units in the U.S. This decline follows the end of a federal EV tax credit and major restructuring of Ford's EV business, including production halts of the F-150 Lightning and a shift in battery strategy. Despite the EV slump, Ford's overall vehicle sales remained positive for most of 2025, supported by strong hybrid and ICE vehicle performance, though overall sales did dip in January 2026.",
+        "banner_image": "https://i0.wp.com/eletric-vehicles.com/wp-content/uploads/2026/02/cqdam.web_.2400-e1770219250977.webp?resize=1600%2C1053&ssl=1",
+        "source": "Electric Vehicles",
+        "category_within_source": "General",
+        "source_domain": "Electric Vehicles",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.931318"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.804546"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.605098"
+          }
+        ],
+        "overall_sentiment_score": -0.263489,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "F",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.600444",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "GM",
+            "relevance_score": "0.735813",
+            "ticker_sentiment_score": "0.107602",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.639721",
+            "ticker_sentiment_score": "-0.207791",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "McKesson earnings on deck: Can specialty growth offset margin pressure?",
+        "url": "https://www.investing.com/news/earnings/mckesson-earnings-on-deck-can-specialty-growth-offset-margin-pressure-93CH-4485444",
+        "time_published": "20260204T152525",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "McKesson is set to report fiscal third-quarter earnings, with analysts focused on whether its strategic shift to high-margin specialty platforms can counteract margin pressure. While the company is expected to see mid-single-digit sales growth through 2029, driven by an aging population and specialty drugs, EPS estimates have remained flat. Investors will be looking for clarity on the performance of specialty businesses and margin trajectories, especially as the company divests European operations and plans an IPO for its Medical-Surgical Solutions business.",
+        "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.916013"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.841117"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.726726"
+          }
+        ],
+        "overall_sentiment_score": 0.088684,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "MCK",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.259070",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.634599",
+            "ticker_sentiment_score": "0.019398",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.647636",
+            "ticker_sentiment_score": "0.021894",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.633964",
+            "ticker_sentiment_score": "0.033981",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.635800",
+            "ticker_sentiment_score": "0.044258",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Stock Splits Matter: What’s Coming Up This Month?",
+        "url": "https://247wallst.com/investing/2026/02/04/stock-splits-matter-whats-coming-up-this-month/",
+        "time_published": "20260204T145919",
+        "authors": [
+          "Trey Thoelcke"
+        ],
+        "summary": "This article explains the purpose and impact of stock splits, noting that while they don't change a company's fundamental value, they can increase liquidity and investor interest. It discusses past notable splits by companies like Apple and Nvidia, and lists upcoming stock splits for February, including Southern Copper Corp. (NYSE: SCCO) and Stifel Financial Corp. (NYSE: SF).",
+        "banner_image": "https://247wallst.com/wp-content/uploads/2022/03/imageForEntry16-I1S.jpg",
+        "source": "24/7 Wall St.",
+        "category_within_source": "General",
+        "source_domain": "24/7 Wall St.",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.916579"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.737775"
+          }
+        ],
+        "overall_sentiment_score": 0.171683,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "SCCO",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.265919",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.898087",
+            "ticker_sentiment_score": "0.034727",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "CMG",
+            "relevance_score": "0.720422",
+            "ticker_sentiment_score": "0.027478",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.624757",
+            "ticker_sentiment_score": "0.261066",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.648342",
+            "ticker_sentiment_score": "0.291806",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "NIO Inc. (NYSE:NIO) Given Consensus Rating of \"Hold\" by Brokerages",
+        "url": "https://www.marketbeat.com/instant-alerts/nio-inc-nysenio-given-consensus-rating-of-hold-by-brokerages-2026-02-04/",
+        "time_published": "20260204T145755",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "NIO Inc. (NYSE:NIO) has received a consensus \"Hold\" rating from eleven brokerages, with an average 12-month price target of $6.825. Despite a significant 96% year-over-year surge in January deliveries and international expansion into Singapore, shares fell due to concerns over the sustainability of Chinese EV demand, low gross margins, and regional market volatility. Hedge funds have shown increased interest, with several acquiring new stakes or lifting their existing holdings in the company.",
+        "banner_image": "https://www.marketbeat.com/logos/nio-limited-logo-1200x675.jpg",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.816666"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.906492"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.605763"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.849328"
+          }
+        ],
+        "overall_sentiment_score": 0.047711,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "NIO",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.026493",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.582884",
+            "ticker_sentiment_score": "0.031351",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Dover Corporation stock hits 52-week high at $214.00 By Investing.com",
+        "url": "https://ca.investing.com/news/company-news/dover-corporation-stock-hits-52week-high-at-21400-93CH-4438094",
+        "time_published": "20260204T144109",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Dover Corporation's stock has reached a new 52-week high of $214.00, driven by investor confidence and strong financial performance. The company has a notable track record of 55 consecutive years of dividend payments and recently surpassed analyst expectations for its fourth-quarter 2025 earnings. Despite its premium valuation and being slightly overvalued by InvestingPro's assessment, Dover maintains a \"GOOD\" Financial Health score, supported by solid fundamentals.",
+        "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+        "source": "Investing.com Canada",
+        "category_within_source": "General",
+        "source_domain": "Investing.com Canada",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.916544"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.906550"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.715871"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.638710"
+          }
+        ],
+        "overall_sentiment_score": 0.155923,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "DOV",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.487735",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "AVGO",
+            "relevance_score": "0.570801",
+            "ticker_sentiment_score": "-0.206770",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.582219",
+            "ticker_sentiment_score": "0.443104",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.585838",
+            "ticker_sentiment_score": "-0.231569",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          }
+        ]
+      },
+      {
+        "title": "Ingersoll Rand stock hits 52-week high at 94.81 USD By Investing.com",
+        "url": "https://ca.investing.com/news/company-news/ingersoll-rand-stock-hits-52week-high-at-9481-usd-93CH-4438077",
+        "time_published": "20260204T143716",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Ingersoll Rand Inc. (IR) stock reached a new 52-week high of $94.81, showing a 9.94% gain in the past week, though InvestingPro data suggests it might be overvalued at its current price of $94.98. The company, with a market cap of $37.03 billion and a P/E ratio of 68.27, is set to report earnings in 8 days. Recent strategic moves include the acquisition of Scinomix, Inc. to boost its life sciences segment, and the appointment of former Tesla executive Jerome Guillen to its Board of Directors.",
+        "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+        "source": "Investing.com Canada",
+        "category_within_source": "General",
+        "source_domain": "Investing.com Canada",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.938084"
+          },
+          {
+            "topic": "mergers_and_acquisitions",
+            "relevance_score": "0.831164"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.927774"
+          },
+          {
+            "topic": "life_sciences",
+            "relevance_score": "0.719531"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.825020"
+          }
+        ],
+        "overall_sentiment_score": 0.288533,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "IR",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.412050",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.627162",
+            "ticker_sentiment_score": "0.101690",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "$1.67 Trillion SUV Market by Propulsion, Class, Seating",
+        "url": "https://www.globenewswire.com/news-release/2026/02/04/3232175/0/en/1-67-Trillion-SUV-Market-by-Propulsion-Class-Seating-Capacity-EV-Type-and-Region-Global-Forecast-to-2032-with-Toyota-Hyundai-Honda-General-Motors-Ford-and-Stellantis-Dominating.html",
+        "time_published": "20260204T143015",
+        "authors": [],
+        "summary": "The global SUV market is projected to grow from $1.18 trillion in 2025 to $1.67 trillion by 2032, driven by advancements in chassis technology, electrification, and modular platforms across various regions. The report highlights the dominance of 5-seater and Class-D segments, with significant growth in the Americas. Leading market players include Toyota, Hyundai, Honda, General Motors, Ford, and Stellantis, who are focusing on innovation and strategic developments to capture market share.",
+        "banner_image": "https://www.researchandmarkets.com/content-images/2428/2428010/1/suv-market.png",
+        "source": "GlobeNewswire",
+        "category_within_source": "General",
+        "source_domain": "GlobeNewswire",
+        "topics": [
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.900771"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.842361"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.738243"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.633157"
+          }
+        ],
+        "overall_sentiment_score": 0.324814,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "GM",
+            "relevance_score": "0.917528",
+            "ticker_sentiment_score": "0.325859",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.883454",
+            "ticker_sentiment_score": "0.340768",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.698874",
+            "ticker_sentiment_score": "0.298121",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "US lawmakers, Waymo, Tesla urge Congress to take action to speed deployment of self-driving cars",
+        "url": "https://www.reuters.com/business/autos-transportation/us-lawmakers-waymo-tesla-urge-congress-take-action-speed-deployment-self-driving-2026-02-04/",
+        "time_published": "20260204T142752",
+        "authors": [
+          "David Shepardson"
+        ],
+        "summary": "US lawmakers, along with companies Waymo and Tesla, are pressing Congress to pass long-stalled legislation to accelerate the deployment of self-driving vehicles, citing competitive threats from China. A Senate Commerce Committee hearing is addressing these efforts, with participants emphasizing the need to modernize regulations to ensure American leadership in the autonomous vehicle industry. They warn that inaction could push innovation elsewhere, particularly to China.",
+        "banner_image": "https://www.reuters.com/resizer/v2/7ROIXJQMBNKJ7BPCXSDKFHYNUY.jpg?auth=34e61d8b8ecd56787e5ba62f378cc91ba4b885129e4a3277f35aa8dd91340219&width=1920&quality=80",
+        "source": "Reuters",
+        "category_within_source": "General",
+        "source_domain": "Reuters",
+        "topics": [
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.919482"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.810044"
+          },
+          {
+            "topic": "economy_fiscal",
+            "relevance_score": "0.629169"
+          }
+        ],
+        "overall_sentiment_score": 0.305345,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.937925",
+            "ticker_sentiment_score": "0.338920",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOGL",
+            "relevance_score": "0.865342",
+            "ticker_sentiment_score": "0.307875",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GOOG",
+            "relevance_score": "0.827096",
+            "ticker_sentiment_score": "0.346278",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Ford and Geely in talks for manufacturing, technology partnership",
+        "url": "https://www.detroitnews.com/story/business/autos/ford/2026/02/04/ford-and-geely-in-talks-for-manufacturing-technology-partnership/88506310007/",
+        "time_published": "20260204T134233",
+        "authors": [
+          "Reuters"
+        ],
+        "summary": "Ford Motor Co. and China's Geely Auto are reportedly in discussions for a potential manufacturing and technology partnership, aiming to share costs and leverage expertise. The talks include Geely using Ford's European factory space for vehicle production and collaborating on shared vehicle technologies like automated driving. While the European manufacturing aspects are more advanced, a deal involving the U.S. market would likely face significant scrutiny due to existing tariffs and national security concerns regarding Chinese technology.",
+        "banner_image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/01/13/PDTN/88162154007-getty-images-2256102692.jpg?crop=3896,2921,x243,y0?width=320&height=240",
+        "source": "The Detroit News",
+        "category_within_source": "General",
+        "source_domain": "The Detroit News",
+        "topics": [
+          {
+            "topic": "mergers_and_acquisitions",
+            "relevance_score": "0.902161"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.828823"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.740022"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.648272"
+          }
+        ],
+        "overall_sentiment_score": 0.221691,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "F",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.284421",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.617084",
+            "ticker_sentiment_score": "0.136194",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "IMC Chicago LLC Grows Holdings in Direxion Daily TSLA Bull 2X Shares $TSLL",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-imc-chicago-llc-grows-holdings-in-direxion-daily-tsla-bull-2x-shares-tsll-2026-02-04/",
+        "time_published": "20260204T132942",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "IMC Chicago LLC significantly increased its stake in Direxion Daily TSLA Bull 2X Shares (TSLL) by 60.7% in Q3, now owning 429,436 shares valued at approximately $9.07 million. TSLL is a leveraged ETF offering about 1.5x exposure to Tesla's daily price movements, characterized by high volatility. The fund also recently paid a quarterly dividend of $0.1122 per share, resulting in an annualized yield of 2.7%.",
+        "banner_image": "https://www.marketbeat.com/logos/direxion-daily-tsla-bull-15x-shares-logo-1200x675.png?v=20230531075617",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.916150"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.816312"
+          }
+        ],
+        "overall_sentiment_score": 0.23035,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "TSLL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.200082",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.804556",
+            "ticker_sentiment_score": "0.246723",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "JinkoSolar surges after visit from Elon Musk team (JKS:NYSE)",
+        "url": "https://seekingalpha.com/news/4546971-jinkosolar-surges-after-visit-from-elon-musk-team",
+        "time_published": "20260204T125822",
+        "authors": [
+          "Carl Surran"
+        ],
+        "summary": "JinkoSolar's stock surged pre-market following news that a team sent by Elon Musk visited the company. This visit comes shortly after Musk announced plans to build 100 GW of solar cell capacity. The report from state-backed media confirmed JinkoSolar's confirmation of the visit.",
+        "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1200326428/image_1200326428.jpg?io=getty-c-w630",
+        "source": "Seeking Alpha",
+        "category_within_source": "General",
+        "source_domain": "Seeking Alpha",
+        "topics": [
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.904556"
+          }
+        ],
+        "overall_sentiment_score": 0.399206,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "JKS",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.489728",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.744421",
+            "ticker_sentiment_score": "0.302351",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "CarMax Recognized by TIME Magazine as One of America's Most Iconic Companies",
+        "url": "https://www.quiverquant.com/news/CarMax+Recognized+by+TIME+Magazine+as+One+of+America%27s+Most+Iconic+Companies",
+        "time_published": "20260204T125759",
+        "authors": [],
+        "summary": "CarMax has been named one of America's Most Iconic Companies by TIME Magazine, celebrating the nation's 250th anniversary, due to its customer-centric approach, innovative \"no-haggle\" car buying model, and transparent practices. This recognition from a survey of over 10,000 people highlights CarMax's significant cultural influence, brand recognition, and resilience. CarMax operates 255 stores, employs over 28,000 associates, and offers flexible online and in-store shopping experiences with options like home delivery and a 10-day Money Back Guarantee.",
+        "banner_image": "https://quiverquantitative.box.com/shared/static/kokdraex1zz4o7oxnqqtpn3rsok1altk.jpg",
+        "source": "Quiver Quantitative",
+        "category_within_source": "General",
+        "source_domain": "Quiver Quantitative",
+        "topics": [
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.837479"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.720377"
+          },
+          {
+            "topic": "earnings",
+            "relevance_score": "0.638588"
+          }
+        ],
+        "overall_sentiment_score": 0.297911,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "KMX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.450136",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.627604",
+            "ticker_sentiment_score": "0.233569",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GM",
+            "relevance_score": "0.605455",
+            "ticker_sentiment_score": "0.201207",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.645176",
+            "ticker_sentiment_score": "0.230880",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "CarMax Named One of TIME’s America’s Most Iconic Companies",
+        "url": "https://www.manilatimes.net/2026/02/04/tmt-newswire/globenewswire/carmax-named-one-of-times-americas-most-iconic-companies/2271530/amp",
+        "time_published": "20260204T125753",
+        "authors": [
+          "GlobeNewswire"
+        ],
+        "summary": "CarMax, the largest retailer of used cars in the U.S., has been recognized by TIME Magazine as one of \"America’s Most Iconic Companies.\" This recognition, based on a survey and in-depth research, celebrates 250 companies that are enduring symbols of American business, culture, and identity. CarMax was noted for its commitment to transparent, customer-centric experiences and its pioneering \"no-haggle\" car-buying model.",
+        "banner_image": null,
+        "source": "The Manila Times",
+        "category_within_source": "General",
+        "source_domain": "The Manila Times",
+        "topics": [
+          {
+            "topic": "retail_wholesale",
+            "relevance_score": "0.802329"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.616908"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.626887"
+          }
+        ],
+        "overall_sentiment_score": 0.398514,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "KMX",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.891311",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.614683",
+            "ticker_sentiment_score": "0.222568",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "GM",
+            "relevance_score": "0.641752",
+            "ticker_sentiment_score": "0.231881",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.646632",
+            "ticker_sentiment_score": "0.240463",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Polyrizon stock rises after announcing plan to acquire stake in private aviation firm",
+        "url": "https://www.investing.com/news/stock-market-news/polyrizon-stock-rises-after-announcing-plan-to-acquire-stake-in-private-aviation-firm-93CH-4484487",
+        "time_published": "20260204T122852",
+        "authors": [
+          "Investing.com"
+        ],
+        "summary": "Polyrizon Ltd. (NASDAQ:PLRZ) stock rose 2% after the pre-clinical-stage biotechnology company announced plans to acquire a 51% stake in Arrow Aviation Ltd., a global private aviation company. The non-binding Memorandum of Understanding (MOU) outlines Polyrizon ’s intention to invest approximately $5.8 million (NIS 18,000,000) in cash for the controlling interest in Arrow Aviation, marking a strategic expansion beyond its core biotechnology business into the private aviation sector. Polyrizon expects to sign a definitive agreement within 30 days, subject to due diligence and customary closing conditions.",
+        "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_L.jpg",
+        "source": "Investing.com",
+        "category_within_source": "General",
+        "source_domain": "Investing.com",
+        "topics": [
+          {
+            "topic": "mergers_and_acquisitions",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.836076"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.738821"
+          }
+        ],
+        "overall_sentiment_score": -0.15675,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "ticker_sentiment": [
+          {
+            "ticker": "PLRZ",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.227939",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AMD",
+            "relevance_score": "0.528124",
+            "ticker_sentiment_score": "-0.392822",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.520357",
+            "ticker_sentiment_score": "-0.400677",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.525157",
+            "ticker_sentiment_score": "-0.420293",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "0.515913",
+            "ticker_sentiment_score": "0.305549",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "DXP Enterprises Shares Surge to Unprecedented Highs",
+        "url": "https://primaryignition.com/2026/02/04/dxp-enterprises-shares-surge-to-unprecedented-highs/",
+        "time_published": "20260204T115824",
+        "authors": [
+          "Michael Hartmann"
+        ],
+        "summary": "DXP Enterprises (DXP) stock has reached an all-time high of $133.76, driven by strategic acquisitions and financial restructuring, including the purchase of Pump Solutions, Inc. Institutional ownership is high at 74.8%, and market attention is now focused on the upcoming Q4 and full-year 2025 earnings report on March 5th to assess if operational performance justifies its current valuation.",
+        "banner_image": "https://primaryignition.com/wp-content/uploads/ai-imgs/US2333774071-2026-02-04-11-42-05.png",
+        "source": "Primary Ignition",
+        "category_within_source": "General",
+        "source_domain": "Primary Ignition",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.922238"
+          },
+          {
+            "topic": "mergers_and_acquisitions",
+            "relevance_score": "0.818516"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.739740"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.634849"
+          }
+        ],
+        "overall_sentiment_score": 0.16044,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "DXPE",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.611189",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.609333",
+            "ticker_sentiment_score": "-0.406331",
+            "ticker_sentiment_label": "Bearish"
+          },
+          {
+            "ticker": "LMT",
+            "relevance_score": "0.584661",
+            "ticker_sentiment_score": "0.210038",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "XYL",
+            "relevance_score": "0.575524",
+            "ticker_sentiment_score": "0.347868",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MMM",
+            "relevance_score": "0.584266",
+            "ticker_sentiment_score": "0.124899",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Toyota plans 30% boost to 2026 hybrid vehicle output by 2028, Nikkei says",
+        "url": "https://www.msn.com/en-us/money/companies/toyota-plans-30-boost-to-2026-hybrid-vehicle-output-by-2028-nikkei-says/ar-AA1VDxir?ocid=finance-verthp-feeds",
+        "time_published": "20260204T105907",
+        "authors": [],
+        "summary": "Toyota is reportedly planning to increase its hybrid vehicle production by 30% for 2026, reaching 600,000 units by 2028. This move aims to meet growing demand and strengthen its position in the hybrid market. The increased production will be supported by improved supply chains for semiconductors and other components.",
+        "banner_image": null,
+        "source": "MSN",
+        "category_within_source": "General",
+        "source_domain": "MSN",
+        "topics": [
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.936945"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.846702"
+          }
+        ],
+        "overall_sentiment_score": 0.241037,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "TM",
+            "relevance_score": "0.927418",
+            "ticker_sentiment_score": "0.415741",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "GM",
+            "relevance_score": "0.624602",
+            "ticker_sentiment_score": "0.213550",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.637837",
+            "ticker_sentiment_score": "0.229888",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.582441",
+            "ticker_sentiment_score": "0.181624",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Apple Inc. $AAPL Shares Bought by Citizens Financial Group Inc. RI",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-shares-bought-by-citizens-financial-group-inc-ri-2026-02-04/",
+        "time_published": "20260204T095708",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Citizens Financial Group Inc. RI increased its stake in Apple Inc. ($AAPL) by 48.4% in the third quarter, making Apple its second-largest holding. This increased position follows Apple's strong quarterly earnings, which surpassed analyst expectations, though challenges like AI talent departure and TSMC capacity constraints remain. Wall Street maintains a \"Moderate Buy\" consensus rating for Apple, with an average price target of $291.70.",
+        "banner_image": "https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.903007"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.839966"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.724127"
+          }
+        ],
+        "overall_sentiment_score": 0.173053,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "CFG",
+            "relevance_score": "0.902593",
+            "ticker_sentiment_score": "0.336659",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "AAPL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.408601",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.636289",
+            "ticker_sentiment_score": "0.122095",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "META",
+            "relevance_score": "0.622267",
+            "ticker_sentiment_score": "-0.240456",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.640449",
+            "ticker_sentiment_score": "0.167574",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Unveiling the Mystery Behind Elon Musk's Exploration of the Photovoltaic Industry Chain",
+        "url": "https://eu.36kr.com/en/p/3668736939123589",
+        "time_published": "20260204T085822",
+        "authors": [
+          "投行圈子"
+        ],
+        "summary": "Elon Musk's teams (SpaceX and Tesla) have reportedly \"surveyed\" China's photovoltaic industry, showing particular interest in heterojunction and perovskite technologies for both terrestrial AI data centers and ambitious space solar power plans. This move has spurred significant market reaction in China's space photovoltaic sector, with companies like JinkoSolar confirming contact with Musk's inspection teams. The initiative highlights a potential new era for Chinese PV enterprises, moving towards higher technological thresholds required for space applications, and could revolutionize the global energy landscape by leveraging solar power in space.",
+        "banner_image": "https://img.36krcdn.com/hsossms/20260204/v2_0bfc8c07e19548d2a47ff5bcd8038b2f@5888275_oswg789110oswg1080oswg1249_img_000?x-oss-process=image/format,jpg/interlace,1",
+        "source": "36Kr.com",
+        "category_within_source": "General",
+        "source_domain": "36Kr.com",
+        "topics": [
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "0.925260"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.837550"
+          }
+        ],
+        "overall_sentiment_score": 0.338101,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+          {
+            "ticker": "JKS",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.439307",
+            "ticker_sentiment_label": "Bullish"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.710390",
+            "ticker_sentiment_score": "0.327840",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "NVDA",
+            "relevance_score": "0.561395",
+            "ticker_sentiment_score": "0.245882",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          }
+        ]
+      },
+      {
+        "title": "Apple Inc. $AAPL Stock Position Decreased by Godsey & Gibb Inc.",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-stock-position-decreased-by-godsey-gibb-inc-2026-02-04/",
+        "time_published": "20260204T085653",
+        "authors": [
+          "MarketBeat"
+        ],
+        "summary": "Godsey & Gibb Inc. reduced its stake in Apple Inc. by 1.2% in the third quarter of 2026, selling 1,893 shares but still holding 159,201 shares valued at $40.54 million, making it their third-largest position. Despite this reduction, other institutions significantly increased their Apple holdings, and the company reported strong quarterly earnings with an EPS of $2.84 and revenue of $143.76 billion, exceeding expectations. Analysts maintain a \"Moderate Buy\" rating for Apple with a consensus target price of $291.70.",
+        "banner_image": "https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png",
+        "source": "MarketBeat",
+        "category_within_source": "General",
+        "source_domain": "MarketBeat",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.905312"
+          },
+          {
+            "topic": "financial_markets",
+            "relevance_score": "0.844291"
+          },
+          {
+            "topic": "technology",
+            "relevance_score": "0.740205"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.626648"
+          }
+        ],
+        "overall_sentiment_score": 0.135653,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "AAPL",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "0.265477",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+          },
+          {
+            "ticker": "MSFT",
+            "relevance_score": "0.626107",
+            "ticker_sentiment_score": "0.104306",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "META",
+            "relevance_score": "0.633076",
+            "ticker_sentiment_score": "0.034988",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "TSLA",
+            "relevance_score": "0.610464",
+            "ticker_sentiment_score": "0.125563",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      },
+      {
+        "title": "Tesla's China-made EV sales rise 9.3% y/y in January",
+        "url": "https://www.reuters.com/business/autos-transportation/teslas-china-made-ev-sales-rise-93-yy-january-2026-02-04/",
+        "time_published": "20260204T084029",
+        "authors": [
+          "Reuters"
+        ],
+        "summary": "Tesla sold 69,129 China-made electric vehicles in January, marking a 9.3% increase year-over-year and extending gains for a third consecutive month despite battling shrinking market share in China and Europe. Deliveries of its Model 3 and Model Y from the Shanghai plant, including exports, dropped 28.9% from December. The company rolled out a seven-year, low-interest financing plan in China, prompting rivals to offer similar incentives.",
+        "banner_image": "https://www.reuters.com/resizer/v2/KXV5V64H75IZ5OZPJHS6456SPM.jpg?auth=321e11c55bb604f9d294ecce87bb2e40dddf442dfdd45fb814e94f2b7b6c33bf&width=1920&quality=80",
+        "source": "Reuters",
+        "category_within_source": "General",
+        "source_domain": "Reuters",
+        "topics": [
+          {
+            "topic": "earnings",
+            "relevance_score": "0.943721"
+          },
+          {
+            "topic": "economy_macro",
+            "relevance_score": "0.704975"
+          },
+          {
+            "topic": "energy_transportation",
+            "relevance_score": "1.000000"
+          },
+          {
+            "topic": "finance",
+            "relevance_score": "0.633603"
+          },
+          {
+            "topic": "manufacturing",
+            "relevance_score": "0.749019"
+          }
+        ],
+        "overall_sentiment_score": 0.058274,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+          {
+            "ticker": "TSLA",
+            "relevance_score": "1.000000",
+            "ticker_sentiment_score": "-0.136001",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "F",
+            "relevance_score": "0.616800",
+            "ticker_sentiment_score": "0.104633",
+            "ticker_sentiment_label": "Neutral"
+          },
+          {
+            "ticker": "GM",
+            "relevance_score": "0.637822",
+            "ticker_sentiment_score": "0.110889",
+            "ticker_sentiment_label": "Neutral"
+          }
+        ]
+      }
+    ]
+  },
+  "request": {
+    "function": "NEWS_SENTIMENT",
+    "apikey": "1W86SMG399FCFAIM",
+    "tickers": "TSLA"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&apikey=1W86SMG399FCFAIM&tickers=TSLA"
+  }
+}

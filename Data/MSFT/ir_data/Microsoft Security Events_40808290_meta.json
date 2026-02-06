@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0f4ea0d7cc0e613c1a75d34cfae64a29a6fef37c6ed551a6c0c5b95039975b98
-size 352
+{
+  "label": "Microsoft Security Events",
+  "original_url": "https://www.microsoft.com/en-us/events/search-catalog?filters=topic%3Asecurity&scenario=events",
+  "final_url": "https://www.microsoft.com/en-us/events/search-catalog?filters=topic%3Asecurity&scenario=events",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

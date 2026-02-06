@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ea54cda2a168d4e4044316af9da6138b2348d1d117f37fe60dc7c26cefe7925a
-size 5001
+fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+2025-09-30,USD,-970599000,None,None,None,None,25570000,125269000,None,None,None,-125269000,741154000,None,None,None,None,None,None,None,None,None,None,2225000,None,None,None,782678000
+2025-06-30,USD,2554687000,None,None,None,None,23070000,70378000,None,None,None,-71508000,434483000,None,None,None,None,None,None,None,None,None,None,968000,None,None,None,636987000
+2025-03-31,USD,1085345000,None,None,None,None,21322000,82515000,None,None,None,-81385000,-169200000,None,None,None,None,None,None,None,None,None,None,398000,None,None,None,557208000
+2024-12-31,USD,1370097000,None,None,None,None,21061000,73959000,None,None,None,-330627000,321449000,None,None,None,None,None,None,None,None,None,None,5546000,None,None,None,552640000
+2024-09-30,USD,-1068862000,None,None,None,None,19269000,35766000,None,None,None,-42497000,-311638000,None,None,None,None,None,None,None,None,None,None,3848000,None,None,None,553386000
+2024-06-30,USD,2668428000,None,None,None,None,18333000,16828000,None,None,None,-13427000,459710000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,487272000
+2024-03-31,USD,-570619000,None,None,None,None,18465000,26783000,None,-1874794000,None,-26783000,258220000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,378814000
+2023-12-31,USD,5863218000,None,None,None,None,16545000,30867000,None,None,None,None,9894000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,360877000
+2023-09-30,USD,-3234361000,None,None,None,None,19194000,47476000,None,-4244779000,None,-47476000,327238000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,303036000
+2023-06-30,USD,1699767000,None,None,None,None,13977000,52145000,None,-834384000,None,-52145000,68209000,None,None,None,None,None,None,None,None,None,None,7013000,None,None,None,224866000
+2023-03-31,USD,94292000,None,None,None,None,13179000,46515000,None,None,None,-46515000,19874000,None,None,None,None,None,None,None,None,None,None,2019000,None,None,None,141751000
+2022-12-31,USD,228353000,None,None,None,None,9882000,27690000,None,None,None,-127152000,105250000,None,None,None,None,None,None,None,None,None,None,252503000,None,None,None,-297613000
+2022-09-30,USD,-15412000,None,None,None,None,7611000,33580000,None,None,None,-33580000,-1052000,None,None,None,None,None,None,None,None,None,None,251916000,None,None,None,7833000
+2022-06-30,USD,464330000,None,None,None,None,10433000,38294000,None,None,None,-27663000,324195000,None,None,None,None,None,None,None,None,None,None,251302000,None,None,None,-29850000
+2022-03-31,USD,78302000,None,None,None,None,7655000,14742000,None,-1128330000,None,-38219000,225646000,None,None,None,None,None,None,None,None,None,None,2590688000,None,None,None,-45004000
+2021-12-31,USD,-1859127000,None,None,None,None,6443000,13375000,None,-1128330000,None,-30079000,2541150000,None,None,None,None,None,None,None,None,None,None,-158000,None,None,None,-66274000
+2021-09-30,USD,-796183000,None,None,None,None,5654000,9621000,None,-462381000,None,-9621000,61449000,None,None,None,None,None,None,None,None,None,None,803386000,None,None,None,-34357000
+2021-06-30,USD,-50713000,None,None,None,None,2735000,299000,None,-359929000,None,-109292000,342589000,None,None,None,None,None,None,None,None,None,None,2001000,None,None,None,-15220000
+2021-03-31,USD,-222744000,None,None,None,None,2507000,5203000,None,-138465000,None,-5203000,395243000,None,None,None,None,None,None,None,None,None,None,-2001000,None,None,None,-49483000
+2020-12-31,USD,-191645000,None,None,None,None,3645000,2863000,None,-127475000,None,-2864000,-24405000,None,None,None,None,None,None,None,None,None,None,1000,None,None,None,-107057000
+2020-09-30,USD,564755000,None,None,None,None,890000,216000,None,None,None,-10562000,-15558000,None,None,None,None,None,None,None,None,None,None,-1000,None,None,None,-32562000
+2020-06-30,None,660711000,None,None,None,None,2333000,1277000,None,None,None,-2599000,291537000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1561000
+2020-03-31,None,-56655000,None,None,None,None,560000,245000,None,None,None,-245000,-14118000,None,None,None,None,None,None,None,None,None,None,-15000,None,None,None,-33433000

@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:54b2e30a19ea6f2a9df80f910d1a62863ba76ae528c22a98aa50628c4924224b
-size 878
+{
+  "cache": {
+    "TIME_SERIES_INTRADAY::NU": "NU",
+    "TIME_SERIES_DAILY::NU": "NU",
+    "TIME_SERIES_DAILY_ADJUSTED::NU": "NU",
+    "TIME_SERIES_WEEKLY::NU": "NU",
+    "TIME_SERIES_WEEKLY_ADJUSTED::NU": "NU",
+    "TIME_SERIES_MONTHLY::NU": "NU",
+    "TIME_SERIES_MONTHLY_ADJUSTED::NU": "NU",
+    "GLOBAL_QUOTE::NU": "NU",
+    "OVERVIEW::NU": "NU",
+    "INCOME_STATEMENT::NU": "NU",
+    "BALANCE_SHEET::NU": "NU",
+    "CASH_FLOW::NU": "NU",
+    "EARNINGS::NU": "NU",
+    "EARNINGS_ESTIMATES::NU": "NU",
+    "SHARES_OUTSTANDING::NU": "NU",
+    "DIVIDENDS::NU": "NU",
+    "SPLITS::NU": "NU",
+    "INSIDER_TRANSACTIONS::NU": "NU",
+    "NEWS_SENTIMENT:tickers::NU": "NU",
+    "EARNINGS_CALL_TRANSCRIPT::NU": "NU",
+    "REALTIME_OPTIONS::NU": "NU",
+    "HISTORICAL_OPTIONS::NU": "NU"
+  },
+  "note": "Chosen symbol variant per endpoint for this ticker."
+}

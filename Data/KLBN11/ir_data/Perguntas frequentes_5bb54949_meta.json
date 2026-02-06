@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:620f6833f61ee80e8fa0c16f163051bab544058c8806f825341793027647c60c
-size 287
+{
+  "label": "Perguntas frequentes",
+  "original_url": "https://ri.klabin.com.br/para-o-investidor/perguntas-frequentes/",
+  "final_url": "https://ri.klabin.com.br/para-o-investidor/perguntas-frequentes/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

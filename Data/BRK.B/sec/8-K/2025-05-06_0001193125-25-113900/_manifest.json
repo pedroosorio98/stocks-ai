@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1867339221bbeea1ce14d664d4d2a179601e290b53897e0614a0f9d8b389e3a8
-size 175
+{
+  "ticker": "BRK.B",
+  "cik": 1067983,
+  "form": "8-K",
+  "filing_date": "2025-05-06",
+  "accession": "0001193125-25-113900",
+  "primary_document": "d910967d8k.htm"
+}

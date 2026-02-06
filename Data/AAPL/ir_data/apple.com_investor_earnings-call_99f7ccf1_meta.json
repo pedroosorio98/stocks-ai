@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:87508949a617f9d0f417d80dc8f3d504ea5a888eb4c7ea6fd161e0241639614e
-size 257
+{
+  "label": "apple.com/investor/earnings-call",
+  "original_url": "https://apple.com/investor/earnings-call/",
+  "final_url": "https://www.apple.com/investor/earnings-call/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

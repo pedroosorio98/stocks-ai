@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b682b8a7719935416e912ec17af5ead2d631114c37db28d6afa261b665e1daef
-size 220
+01. symbol,02. open,03. high,04. low,05. price,06. volume,07. latest trading day,08. previous close,09. change,10. change percent
+TSLA,420.4600,423.9000,399.1800,406.0100,74606873,2026-02-04,421.9600,-15.9500,-3.7800%

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0df6d1edfec5b393e7dd2715d14ab89956d731179df852186b00ae0c58951f65
-size 251
+{
+  "label": "Meetings",
+  "original_url": "https://ri.weg.net/en/corporate-governance/meetings/",
+  "final_url": "https://ri.weg.net/en/corporate-governance/meetings/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

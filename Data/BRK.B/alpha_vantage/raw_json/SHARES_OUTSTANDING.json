@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cff29f7a07a8d4fda584412c75100a33e227e0507fbd9f0204d1372b9971292f
-size 417
+{
+  "response": {
+    "symbol": "BRK-B",
+    "status": "invalid request",
+    "data": []
+  },
+  "request": {
+    "function": "SHARES_OUTSTANDING",
+    "apikey": "1W86SMG399FCFAIM",
+    "symbol": "BRK-B"
+  },
+  "info": {
+    "status_code": 200,
+    "content_type": "application/json",
+    "url": "https://www.alphavantage.co/query?function=SHARES_OUTSTANDING&apikey=1W86SMG399FCFAIM&symbol=BRK-B"
+  }
+}

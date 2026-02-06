@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6da3fd7b7e7f7d39e20b701a869382e68796f161fbe657a98157f073caead1b9
-size 181
+{
+  "ticker": "NU",
+  "cik": 1691493,
+  "form": "SC 13G/A",
+  "filing_date": "2023-02-14",
+  "accession": "0000919574-23-001501",
+  "primary_document": "d9934309_13g-a.htm"
+}

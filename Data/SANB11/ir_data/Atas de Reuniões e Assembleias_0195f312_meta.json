@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:830f0911ba2bc239f7f104513ed2241c118901ec510108da1dd4c8c2a1c35490
-size 350
+{
+  "label": "Atas de Reuni\u00f5es e Assembleias",
+  "original_url": "https://www.santander.com.br/ri/informacoes-corporativas/atas-de-reunioes-e-assembleias/",
+  "final_url": "https://www.santander.com.br/ri/informacoes-corporativas/atas-de-reunioes-e-assembleias/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

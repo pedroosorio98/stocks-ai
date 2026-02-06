@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f1a18ff61cabc733ca8c9c3bb33783132650d88de7323614d2e27a604db8c5a2
-size 248
+{
+  "label": "Reports",
+  "original_url": "https://www.aboutamazon.com/about-us/amazon-reports",
+  "final_url": "https://www.aboutamazon.com/about-us/amazon-reports",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

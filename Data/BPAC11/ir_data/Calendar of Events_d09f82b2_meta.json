@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a86f6d1b09c94b638d3e4723ba8abcaff814d5e5b8d7198d546798f1b91a3cdb
-size 289
+{
+  "label": "Calendar of Events",
+  "original_url": "https://ri.btgpactual.com/en/investor-services/calendar-of-events/",
+  "final_url": "https://ri.btgpactual.com/en/investor-services/calendar-of-events/",
+  "content_type": "text/html; charset=utf-8",
+  "blocked_detected": false
+}

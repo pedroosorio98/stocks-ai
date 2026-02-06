@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d47c9755a1d469342750e524801eaa2f064813bb3cd6688e8d8a43ff047a408
-size 246
+{
+  "label": "Security & Privacy How your privacy is protected",
+  "original_url": "https://accessibe.com/security",
+  "final_url": "https://accessibe.com/security",
+  "content_type": "text/html;charset=utf-8",
+  "blocked_detected": false
+}
