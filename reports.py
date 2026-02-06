@@ -394,7 +394,7 @@ class CompanyReportGenerator:
         # Target total width: 8.0 inches (maximizes page usage on 8.5" page with margins)
         num_quarters = len(metrics_df.columns)
         
-        target_total_width = 8.0 * inch
+        target_total_width = 6.5 * inch # 8.0
         metric_col_width = 1.6 * inch
         
         # Calculate quarter column width to reach target total width
