@@ -24,6 +24,7 @@ from typing import Dict, List, Any, Optional
 import json
 import re
 from openai import OpenAI
+import plotly
 import datetime
 
 client = OpenAI()
