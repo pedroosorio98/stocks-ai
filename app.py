@@ -14,6 +14,18 @@ import threading
 import uuid
 import traceback
 import json
+import sys
+
+# Add charting_tool folder to path
+sys.path.insert(0, str(Path(__file__).parent / "charting_tool"))
+
+# Import chart agent
+try:
+    from chart_agent import create_chart_from_prompt
+    print("[STARTUP] ✅ Chart agent loaded successfully")
+except ImportError as e:
+    print(f"[STARTUP] ⚠️ Chart agent not available: {e}")
+    create_chart_from_prompt = None
 
 app = Flask(__name__)
 client = OpenAI()
@@ -314,16 +326,59 @@ def download_report(job_id):
 
 @app.route('/api/chart', methods=['POST'])
 def create_chart():
-    """Create chart from data"""
-    chart_data = request.json.get('data')
-    # TODO: Process chart data with AI
-    return jsonify({
-        'data': [{
-            'x': [1, 2, 3],
-            'y': [2, 3, 5],
-            'type': 'scatter'
-        }]
-    })
+    """
+    AI-powered chart generation from natural language prompt
+    
+    Request:
+        {
+            "prompt": "Plot NVDA revenue together with NVDA stock price, stock price on secondary axis"
+        }
+    
+    Response:
+        {
+            "success": true,
+            "data": {...},  // Plotly JSON
+            "code": "...",  // Generated Python code (for debugging)
+            "data_sources": {...}  // Identified data sources
+        }
+    """
+    try:
+        prompt = request.json.get('prompt', '').strip()
+        
+        if not prompt:
+            return jsonify({
+                'success': False,
+                'error': 'Empty prompt. Please enter a chart description (e.g., "Plot NVDA revenue vs stock price")'
+            }), 400
+        
+        # Check if chart agent is available
+        if create_chart_from_prompt is None:
+            return jsonify({
+                'success': False,
+                'error': 'Chart agent not loaded. Make sure chart_agent.py is in the charting_tool folder.'
+            }), 500
+        
+        print(f"\n[CHART API] Received prompt: {prompt}")
+        
+        # Create chart using AI agent
+        result = create_chart_from_prompt(prompt)
+        
+        if result['success']:
+            print(f"[CHART API] ✅ Chart created successfully")
+            return jsonify(result)
+        else:
+            print(f"[CHART API] ❌ Chart creation failed: {result.get('error')}")
+            return jsonify(result), 500
+            
+    except Exception as e:
+        import traceback
+        print(f"[CHART API] ❌ Error: {e}")
+        traceback.print_exc()
+        return jsonify({
+            'success': False,
+            'error': str(e),
+            'traceback': traceback.format_exc()
+        }), 500
 
 
 # WARNING: debug=True causes Flask to reload, which clears report_jobs dict!
