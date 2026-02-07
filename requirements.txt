@@ -12,4 +12,5 @@ typing_extensions==4.15.0
 typing-inspection==0.4.2
 reportlab==4.4.9
 pillow==12.1.0
+plotly==6.5.2
 gunicorn
