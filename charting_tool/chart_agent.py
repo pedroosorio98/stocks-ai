@@ -22,7 +22,9 @@ import pandas as pd
 from pathlib import Path
 from typing import Dict, List, Any, Optional
 import json
+import re
 from openai import OpenAI
+import datetime
 
 client = OpenAI()
 
@@ -237,6 +239,9 @@ Check the "transformations" field in data_sources - if empty, plot raw data!
 Data loading patterns:
 
 CRITICAL: All CSV files are in a /csv/ subfolder!
+
+IMPORTANT (Timezone safety): Yahoo Finance timestamps can contain mixed timezones. Always parse dates using to_utc_naive_datetime(...) (preferred) or pd.to_datetime(..., utc=True), never bare pd.to_datetime(...).
+
 - Alpha Vantage: Data/{TICKER}/alpha_vantage/csv/FILENAME.csv
 - Yahoo Finance: Data/{TICKER}/yahoo_finance/csv/FILENAME.csv
 
@@ -245,7 +250,7 @@ For rows_are_metrics format (Yahoo Finance income/balance):
 # MUST include /csv/ in path!
 df = pd.read_csv('Data/NVDA/yahoo_finance/csv/income_stmt_quarterly.csv', index_col=0)
 revenue = df.loc['Total Revenue']  # Get row
-revenue.index = pd.to_datetime(revenue.index)
+revenue.index = to_utc_naive_datetime(revenue.index)
 revenue = pd.to_numeric(revenue, errors='coerce')
 ```
 
@@ -290,7 +295,7 @@ print(f"DEBUG: Selected price column: '{price_col}' from {df.columns.tolist()}")
 
 # Create clean DataFrame for plotting
 plot_df = pd.DataFrame({
-    'Date': pd.to_datetime(df[date_col]),
+    'Date': to_utc_naive_datetime(df[date_col]),
     'Price': pd.to_numeric(df[price_col], errors='coerce')
 })
 
@@ -390,7 +395,7 @@ price_col = [c for c in df.columns if 'close' in c.lower() and 'adj' not in c.lo
 
 # Create plotting DataFrame
 plot_df = pd.DataFrame({
-    'Date': pd.to_datetime(df[date_col]),
+    'Date': to_utc_naive_datetime(df[date_col]),
     'Price': pd.to_numeric(df[price_col], errors='coerce')
 }).dropna().sort_values('Date')
 
@@ -554,7 +559,43 @@ def execute_chart_code(code: str, user_prompt: str = '') -> Dict[str, Any]:
             if col.lower() in ['date', 'timestamp', 'fiscaldateending']:
                 return col
         return None
-    
+    def to_utc_naive_datetime(x):
+        """
+        Convert a Series/Index/list of date-like values to datetime64[ns] (tz-naive),
+        robust to:
+          - tz-naive inputs (Alpha Vantage often)
+          - tz-aware inputs (Yahoo often)
+          - mixed/invalid strings (coerced to NaT)
+
+        Strategy:
+          1) Parse with pd.to_datetime(errors='coerce') (no forced utc here)
+          2) If tz-aware -> convert to UTC and strip tz
+          3) If tz-naive -> return as-is
+        """
+        from pandas.api.types import is_datetime64tz_dtype
+
+        dt = pd.to_datetime(x, errors="coerce")
+
+        # Series case
+        if isinstance(dt, pd.Series):
+            try:
+                if is_datetime64tz_dtype(dt):
+                    return dt.dt.tz_convert("UTC").dt.tz_localize(None)
+            except Exception:
+                pass
+            # tz-naive Series[datetime64[ns]]
+            return dt
+
+        # DatetimeIndex / Index case
+        try:
+            if is_datetime64tz_dtype(dt):
+                return dt.tz_convert("UTC").tz_localize(None)
+        except Exception:
+            pass
+
+        return dt
+
+
     # Create namespace with allowed functions
     namespace = {
         'pd': pd,
@@ -566,12 +607,48 @@ def execute_chart_code(code: str, user_prompt: str = '') -> Dict[str, Any]:
         'rolling_sum': rolling_sum,
         'moving_average': moving_average,
         'find_date_column': find_date_column,
+        'to_utc_naive_datetime': to_utc_naive_datetime,
         'user_prompt': user_prompt,  # Pass user prompt for conditional styling
     }
     
     try:
-        # Execute code
-        exec(code, namespace)
+        # Preprocess generated code: prevent it from redefining helpers that we provide
+        def _strip_conflicting_helpers(src: str) -> str:
+            # Remove any function definition named to_utc_naive_datetime from generated code
+            # so the executor-provided version is used (avoids tz_convert on tz-naive data).
+            pattern = r"(?m)^def\s+to_utc_naive_datetime\s*\(.*?\):\n(?:^[ \t].*\n)+"
+            return re.sub(pattern, "", src)
+
+        code = _strip_conflicting_helpers(code)
+
+        # Execute code (defensive timezone handling for Yahoo Finance mixed tz data)
+        _orig_to_datetime = pd.to_datetime
+
+        def _make_utc_naive(dt_obj):
+            # Convert tz-aware -> UTC naive; leave naive as-is
+            try:
+                if getattr(dt_obj, "tz", None) is not None:
+                    return dt_obj.tz_convert("UTC").tz_localize(None)
+            except Exception:
+                pass
+            # Series case
+            try:
+                if hasattr(dt_obj, "dt") and getattr(dt_obj.dt, "tz", None) is not None:
+                    return dt_obj.dt.tz_convert("UTC").dt.tz_localize(None)
+            except Exception:
+                pass
+            return dt_obj
+
+        def _safe_to_datetime(*args, **kwargs):
+            kwargs.setdefault("utc", True)
+            kwargs.setdefault("errors", "coerce")
+            return _make_utc_naive(_orig_to_datetime(*args, **kwargs))
+
+        pd.to_datetime = _safe_to_datetime
+        try:
+            exec(code, namespace)
+        finally:
+            pd.to_datetime = _orig_to_datetime
         
         # Get figure
         if 'fig' in namespace:
