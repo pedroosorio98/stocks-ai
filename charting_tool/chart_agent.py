@@ -22,6 +22,7 @@ import pandas as pd
 from pathlib import Path
 from typing import Dict, List, Any, Optional
 import json
+import numpy as np
 import re
 from openai import OpenAI
 import plotly
