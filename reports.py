@@ -604,8 +604,9 @@ class CompanyReportGenerator:
         3. Value Proposition: Explain the company's unique value proposition in 2-3 sentences
         4. Competitors: you must name at least 3 main competitors
         5. Differentiation: Explain how {self.ticker} differentiates itself from these competitors
+        6. Management: Describe {self.ticker} management team, key people inside the company
         
-        Ensure you cover all 5 points above.''',
+        Ensure you cover all 6 points above.''',
             
             "Historical Context and Competitive Positioning": f'''Provide historical and competitive analysis for {self.ticker}:
         
