@@ -1,4 +1,4 @@
-# Stocks-AI — RAG Research Reports + Charting Tool
+# Stocks-AI — RAG Research Reports Agent
 
 Stocks-AI is a Python project that:
 1) Scrapes data for every company from **SEC fillings, Alpha Vantage, Yahoo Finance and companies IR websites**.
