@@ -539,7 +539,7 @@ class CompanyReportGenerator:
         )
         
         # Optionally get web context for recent info
-        web_hits = retrieve_web_exa(f"{self.ticker} {prompt}", k=2)
+        web_hits = retrieve_web_exa(f"{self.ticker} {prompt}", k=4) # k = 2 
         
         # Track sources used
         self._track_sources(internal_hits, web_hits)
