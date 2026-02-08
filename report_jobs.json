@@ -1,0 +1,50 @@
+{
+  "8d5bf295-a167-46ba-a1a8-11af534b1899": {
+    "status": "failed",
+    "company": "Apple",
+    "ticker": "AAPL",
+    "pdf_path": null,
+    "filename": null,
+    "error": "retrieve_internal() got an unexpected keyword argument 'filter_tickers'. Did you mean 'target_tickers'?"
+  },
+  "ea31f354-729e-44d8-9d2d-d250b7290a98": {
+    "status": "failed",
+    "company": "Apple",
+    "ticker": "AAPL",
+    "pdf_path": null,
+    "filename": null,
+    "error": "retrieve_internal() got an unexpected keyword argument 'filter_tickers'. Did you mean 'target_tickers'?"
+  },
+  "5f9ba571-4b81-4091-96e6-f156e38b3405": {
+    "status": "completed",
+    "company": "Apple",
+    "ticker": "AAPL",
+    "pdf_path": "C:\\Users\\Pedro\\stocks-ai\\reports\\AAPL_Report_20260207_232237.pdf",
+    "filename": "AAPL_Report_20260207_232237.pdf",
+    "error": null
+  },
+  "44170f38-42ab-45ff-bce4-b7b4fe1646f0": {
+    "status": "failed",
+    "company": "Alphabet",
+    "ticker": "GOOGL",
+    "pdf_path": null,
+    "filename": null,
+    "error": ""
+  },
+  "4bb41dc1-de0f-4481-ba63-e90c4f3f6432": {
+    "status": "completed",
+    "company": "Apple",
+    "ticker": "AAPL",
+    "pdf_path": "C:\\Users\\Pedro\\stocks-ai\\reports\\AAPL_Report_20260207_233545.pdf",
+    "filename": "AAPL_Report_20260207_233545.pdf",
+    "error": null
+  },
+  "aa43e0e9-0327-40b7-b989-f3bebe70345a": {
+    "status": "completed",
+    "company": "Alphabet",
+    "ticker": "GOOGL",
+    "pdf_path": "C:\\Users\\Pedro\\stocks-ai\\reports\\GOOGL_Report_20260208_000503.pdf",
+    "filename": "GOOGL_Report_20260208_000503.pdf",
+    "error": null
+  }
+}
