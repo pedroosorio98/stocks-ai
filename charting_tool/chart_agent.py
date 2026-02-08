@@ -601,6 +601,7 @@ def execute_chart_code(code: str, user_prompt: str = '') -> Dict[str, Any]:
     # Create namespace with allowed functions
     namespace = {
         'pd': pd,
+        'np': np,
         'go': __import__('plotly.graph_objects', fromlist=['go']),
         'Path': Path,
         'normalize_to_1': normalize_to_1,
