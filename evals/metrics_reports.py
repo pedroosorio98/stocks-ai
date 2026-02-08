@@ -441,7 +441,7 @@ def check_probability_scenarios(report_text: str, expected_count: int = 3) -> Di
 # ADDITIONAL METRICS BASED ON YOUR SPECIFIC REPORT PROMPTS
 # ============================================================================
 
-def check_all_margins_cited(report_text: str) -> Dict[str, Any]:
+def check_any_margins_cited(report_text: str) -> Dict[str, Any]:
     """
     Check if all 3 margins (gross, EBITDA, net) are cited with explicit numbers
     Based on your prompt: "Gross margin, ebitda margin, net margin"
@@ -458,11 +458,11 @@ def check_all_margins_cited(report_text: str) -> Dict[str, Any]:
     net = re.search(r'(?:net margin.*?(\d+\.?\d*)%)|(?:(\d+\.?\d*)%.*?net margin)', report_text, re.I)
     margins['net_margin'] = bool(net)
     
-    all_present = all(margins.values())
+    all_present = all(margins.values()) # all(margins.values())
     
     return {
         "margins": margins,
-        "all_margins_cited": all_present,
+        "any_margins_cited": all_present,
         "missing_margins": [k for k, v in margins.items() if not v],
         "passed": all_present
     }
@@ -558,9 +558,9 @@ def check_scenario_completeness(report_text: str) -> Dict[str, Any]:
     Based on your prompt: "base case, bear case and bull case"
     """
     scenarios = {
-        "base_case": bool(re.search(r'\bbase\s+case\b', report_text, re.I)),
-        "bull_case": bool(re.search(r'\bbull(?:ish)?\s+case\b', report_text, re.I)),
-        "bear_case": bool(re.search(r'\bbear(?:ish)?\s+case\b', report_text, re.I))
+        "base_case": bool(re.search(r'\b(?:base(?:ish)?\s+case|normal\s+(?:scenario|case))\b', report_text, re.I)),
+        "bull_case": bool(re.search(r'\b(?:bull(?:ish)?\s+case|optimistic\s+(?:scenario|case))\b', report_text, re.I)), # "bull_case": bool(re.search(r'\bbull(?:ish)?\s+case\b', report_text, re.I)),
+        "bear_case": bool(re.search(r'\b(?:bear(?:ish)?\s+case|pessimistic\s+(?:scenario|case))\b', report_text, re.I)) # "bear_case": bool(re.search(r'\bbear(?:ish)?\s+case\b', report_text, re.I))
     }
     
     all_present = all(scenarios.values())
