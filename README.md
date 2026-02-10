@@ -27,7 +27,7 @@ Stocks-AI is a Python project that:
   Metric functions used by the eval runner (section completeness, length, terms, scenario checks, etc.).
 
 - `dataset_reports.jsonl`  
-  Your evaluation dataset (one test case per line).
+  The evaluation dataset (one test case per line).
 
 - `reports_results.json`  
   Output produced by running evals (per-test scores, pass/fail, breakdown).
