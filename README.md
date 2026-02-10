@@ -15,7 +15,7 @@ Stocks-AI is a Python project that:
   Core retrieval: OpenAI embeddings + FAISS for internal search, optional Exa and OpenAI for web search, and context building.
 
 - `build_index.py`  
-  Builds your FAISS index (`internal.faiss`) and metadata file (`internal_meta.jsonl`) from the "Data" folder.
+  Builds the FAISS index (`internal.faiss`) and metadata file (`internal_meta.jsonl`) from the "Data" folder.
 
 - `reports.py`  
   The report generator. Produces a full report with multiple sections, sources, and formatting. This is the actual agent that performs the reports according to various instructions.
